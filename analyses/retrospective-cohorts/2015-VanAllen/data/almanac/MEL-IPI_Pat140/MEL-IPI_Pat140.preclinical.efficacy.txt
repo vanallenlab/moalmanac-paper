@@ -1,0 +1,9 @@
+patient_id	feature_display	tested_subfeature	therapy_name	n_mut	n_wt	n_mut_tested	n_wt_tested	mut_ic50_median	mut_ic50_mean	mut_ic50_std	wt_ic50_median	wt_ic50_mean	wt_ic50_std	pvalue_mww	statistic
+MEL-IPI_Pat140	PDGFRA p.E996K (Missense)	PDGFRA	Imatinib	131	1692	31	376	22.608	25.29	24.218	18.171	20.957	15.16	0.586	5484.5
+MEL-IPI_Pat140	PDGFRA p.E996K (Missense)	PDGFRA Somatic Variant	Imatinib	78	1745	22	385	20.697	25.755	26.894	18.187	21.032	15.196	0.841	4127.0
+MEL-IPI_Pat140	PDGFRA p.E996K (Missense)	PDGFRA Somatic Variant Missense	Imatinib	71	1752	18	389	20.697	22.541	14.868	18.187	21.229	16.097	0.741	3339.0
+MEL-IPI_Pat140	PDGFRA p.E996K (Missense)	PDGFRA Somatic Variant Missense p.E996K	Imatinib	1	1822	1	406	24.76	24.76		18.25	21.279	16.049	0.493	122.0
+MEL-IPI_Pat140	NRAS p.Q61K (Missense)	NRAS	Selumetinib	152	1671	76	652	27.454	88.106	141.237	76.712	184.463	366.615	0.0	31515.0
+MEL-IPI_Pat140	NRAS p.Q61K (Missense)	NRAS Somatic Variant	Selumetinib	102	1721	54	674	16.818	64.816	128.408	76.712	183.184	361.712	1.926e-06	25278.0
+MEL-IPI_Pat140	NRAS p.Q61K (Missense)	NRAS Somatic Variant Missense	Selumetinib	100	1723	53	675	16.602	60.604	125.814	76.81	183.34	361.466	7.004e-07	25202.0
+MEL-IPI_Pat140	NRAS p.Q61K (Missense)	NRAS Somatic Variant Missense p.Q61K	Selumetinib	36	1787	17	711	7.864	32.92	58.479	72.077	177.787	354.496	0.0	9232.0

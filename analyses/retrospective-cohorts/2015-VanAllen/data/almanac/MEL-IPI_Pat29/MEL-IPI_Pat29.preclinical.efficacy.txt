@@ -1,0 +1,9 @@
+patient_id	feature_display	tested_subfeature	therapy_name	n_mut	n_wt	n_mut_tested	n_wt_tested	mut_ic50_median	mut_ic50_mean	mut_ic50_std	wt_ic50_median	wt_ic50_mean	wt_ic50_std	pvalue_mww	statistic
+MEL-IPI_Pat29	FLT3 p.G669E (Missense)	FLT3	Sunitinib	190	1633	52	346	15.1	46.352	71.421	10.402	33.152	60.495	0.319	8225.0
+MEL-IPI_Pat29	FLT3 p.G669E (Missense)	FLT3 Somatic Variant	Sunitinib	78	1745	25	373	6.801	41.337	83.169	10.855	34.444	60.541	0.187	5398.0
+MEL-IPI_Pat29	FLT3 p.G669E (Missense)	FLT3 Somatic Variant Missense	Sunitinib	68	1755	20	378	4.73	33.386	83.789	11.104	34.956	60.877	0.031	4864.0
+MEL-IPI_Pat29	FLT3 p.G669E (Missense)	FLT3 Somatic Variant Missense p.G669E	Sunitinib	0	1823	0	398				10.692	34.877	62.092	nan	
+MEL-IPI_Pat29	FLT3 p.E240K (Missense)	FLT3	Sunitinib	190	1633	52	346	15.1	46.352	71.421	10.402	33.152	60.495	0.319	8225.0
+MEL-IPI_Pat29	FLT3 p.E240K (Missense)	FLT3 Somatic Variant	Sunitinib	78	1745	25	373	6.801	41.337	83.169	10.855	34.444	60.541	0.187	5398.0
+MEL-IPI_Pat29	FLT3 p.E240K (Missense)	FLT3 Somatic Variant Missense	Sunitinib	68	1755	20	378	4.73	33.386	83.789	11.104	34.956	60.877	0.031	4864.0
+MEL-IPI_Pat29	FLT3 p.E240K (Missense)	FLT3 Somatic Variant Missense p.E240K	Sunitinib	0	1823	0	398				10.692	34.877	62.092	nan	

@@ -1,0 +1,16 @@
+patient_id	feature_display	tested_subfeature	therapy_name	n_mut	n_wt	n_mut_tested	n_wt_tested	mut_ic50_median	mut_ic50_mean	mut_ic50_std	wt_ic50_median	wt_ic50_mean	wt_ic50_std	pvalue_mww	statistic
+MEL-IPI_Pat139	NRAS p.Q61L (Missense)	NRAS	Selumetinib	152	1671	76	652	27.454	88.106	141.237	76.712	184.463	366.615	0.0	31515.0
+MEL-IPI_Pat139	NRAS p.Q61L (Missense)	NRAS Somatic Variant	Selumetinib	102	1721	54	674	16.818	64.816	128.408	76.712	183.184	361.712	1.926e-06	25278.0
+MEL-IPI_Pat139	NRAS p.Q61L (Missense)	NRAS Somatic Variant Missense	Selumetinib	100	1723	53	675	16.602	60.604	125.814	76.81	183.34	361.466	7.004e-07	25202.0
+MEL-IPI_Pat139	NRAS p.Q61L (Missense)	NRAS Somatic Variant Missense p.Q61L	Selumetinib	15	1808	8	720	9.108	58.588	122.967	71.056	175.691	352.643	0.026	4197.0
+MEL-IPI_Pat139	MDM2 Amplification	MDM2	Nutlin-3a (-)	66	1757	39	734	121.141	239.692	357.29	126.012	287.773	700.91	0.916	14457.0
+MEL-IPI_Pat139	MDM2 Amplification	MDM2 Copy Number	Nutlin-3a (-)	40	1783	20	753	114.054	305.17	461.13	126.066	284.82	692.852	0.705	7157.0
+MEL-IPI_Pat139	MDM2 Amplification	MDM2 Copy Number Amplification	Nutlin-3a (-)	31	1792	16	757	103.238	313.575	509.807	126.066	284.75	691.147	0.975	6084.0
+MEL-IPI_Pat139	PDGFRA p.S461F (Missense)	PDGFRA	Imatinib	131	1692	31	376	22.608	25.29	24.218	18.171	20.957	15.16	0.586	5484.5
+MEL-IPI_Pat139	PDGFRA p.S461F (Missense)	PDGFRA Somatic Variant	Imatinib	78	1745	22	385	20.697	25.755	26.894	18.187	21.032	15.196	0.841	4127.0
+MEL-IPI_Pat139	PDGFRA p.S461F (Missense)	PDGFRA Somatic Variant Missense	Imatinib	71	1752	18	389	20.697	22.541	14.868	18.187	21.229	16.097	0.741	3339.0
+MEL-IPI_Pat139	PDGFRA p.S461F (Missense)	PDGFRA Somatic Variant Missense p.S461F	Imatinib	0	1823	0	407				18.312	21.287	16.03	nan	
+MEL-IPI_Pat139	NRAS p.I55V (Missense)	NRAS	Selumetinib	152	1671	76	652	27.454	88.106	141.237	76.712	184.463	366.615	0.0	31515.0
+MEL-IPI_Pat139	NRAS p.I55V (Missense)	NRAS Somatic Variant	Selumetinib	102	1721	54	674	16.818	64.816	128.408	76.712	183.184	361.712	1.926e-06	25278.0
+MEL-IPI_Pat139	NRAS p.I55V (Missense)	NRAS Somatic Variant Missense	Selumetinib	100	1723	53	675	16.602	60.604	125.814	76.81	183.34	361.466	7.004e-07	25202.0
+MEL-IPI_Pat139	NRAS p.I55V (Missense)	NRAS Somatic Variant Missense p.I55V	Selumetinib	0	1823	0	728				68.722	174.404	351.117	nan	

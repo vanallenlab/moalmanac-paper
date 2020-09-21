@@ -1,0 +1,16 @@
+patient_id	feature_display	tested_subfeature	therapy_name	n_mut	n_wt	n_mut_tested	n_wt_tested	mut_ic50_median	mut_ic50_mean	mut_ic50_std	wt_ic50_median	wt_ic50_mean	wt_ic50_std	pvalue_mww	statistic
+MEL-IPI_Pat54	NRAS p.Q61L (Missense)	NRAS	Selumetinib	152	1671	76	652	27.454	88.106	141.237	76.712	184.463	366.615	0.0	31515.0
+MEL-IPI_Pat54	NRAS p.Q61L (Missense)	NRAS Somatic Variant	Selumetinib	102	1721	54	674	16.818	64.816	128.408	76.712	183.184	361.712	1.926e-06	25278.0
+MEL-IPI_Pat54	NRAS p.Q61L (Missense)	NRAS Somatic Variant Missense	Selumetinib	100	1723	53	675	16.602	60.604	125.814	76.81	183.34	361.466	7.004e-07	25202.0
+MEL-IPI_Pat54	NRAS p.Q61L (Missense)	NRAS Somatic Variant Missense p.Q61L	Selumetinib	15	1808	8	720	9.108	58.588	122.967	71.056	175.691	352.643	0.026	4197.0
+MEL-IPI_Pat54	PDGFRA p.P519S (Missense)	PDGFRA	Imatinib	131	1692	31	376	22.608	25.29	24.218	18.171	20.957	15.16	0.586	5484.5
+MEL-IPI_Pat54	PDGFRA p.P519S (Missense)	PDGFRA Somatic Variant	Imatinib	78	1745	22	385	20.697	25.755	26.894	18.187	21.032	15.196	0.841	4127.0
+MEL-IPI_Pat54	PDGFRA p.P519S (Missense)	PDGFRA Somatic Variant Missense	Imatinib	71	1752	18	389	20.697	22.541	14.868	18.187	21.229	16.097	0.741	3339.0
+MEL-IPI_Pat54	PDGFRA p.P519S (Missense)	PDGFRA Somatic Variant Missense p.P519S	Imatinib	0	1823	0	407				18.312	21.287	16.03	nan	
+MEL-IPI_Pat54	PDGFRA p.R764C (Missense)	PDGFRA	Imatinib	131	1692	31	376	22.608	25.29	24.218	18.171	20.957	15.16	0.586	5484.5
+MEL-IPI_Pat54	PDGFRA p.R764C (Missense)	PDGFRA Somatic Variant	Imatinib	78	1745	22	385	20.697	25.755	26.894	18.187	21.032	15.196	0.841	4127.0
+MEL-IPI_Pat54	PDGFRA p.R764C (Missense)	PDGFRA Somatic Variant Missense	Imatinib	71	1752	18	389	20.697	22.541	14.868	18.187	21.229	16.097	0.741	3339.0
+MEL-IPI_Pat54	PDGFRA p.R764C (Missense)	PDGFRA Somatic Variant Missense p.R764C	Imatinib	0	1823	0	407				18.312	21.287	16.03	nan	
+MEL-IPI_Pat54	CCND1 Amplification	CCND1	Palbociclib	149	1674	85	685	49.442	103.934	113.526	37.669	109.575	267.787	0.032	24961.5
+MEL-IPI_Pat54	CCND1 Amplification	CCND1 Copy Number	Palbociclib	123	1700	71	699	83.568	116.447	117.936	36.387	108.191	265.377	0.002	19414.5
+MEL-IPI_Pat54	CCND1 Amplification	CCND1 Copy Number Amplification	Palbociclib	118	1705	69	701	90.929	119.143	118.535	36.387	107.949	265.037	0.001	18550.5

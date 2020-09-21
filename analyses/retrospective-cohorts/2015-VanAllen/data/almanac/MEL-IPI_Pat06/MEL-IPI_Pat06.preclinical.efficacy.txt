@@ -1,0 +1,11 @@
+patient_id	feature_display	tested_subfeature	therapy_name	n_mut	n_wt	n_mut_tested	n_wt_tested	mut_ic50_median	mut_ic50_mean	mut_ic50_std	wt_ic50_median	wt_ic50_mean	wt_ic50_std	pvalue_mww	statistic
+MEL-IPI_Pat06	COL1A1--TGM2 Fusion	COL1A1	Imatinib	130	1693	37	370	19.015	20.406	11.327	18.171	21.375	16.435	0.835	6702.0
+MEL-IPI_Pat06	COL1A1--TGM2 Fusion	TGM2	Imatinib	135	1688	34	373	19.529	25.747	24.491	18.187	20.881	15.008	0.333	5704.5
+MEL-IPI_Pat06	COL1A1--TGM2 Fusion	COL1A1 Fusions	Imatinib	1	1822	0	407				18.312	21.287	16.03	nan	
+MEL-IPI_Pat06	COL1A1--TGM2 Fusion	TGM2 Fusions	Imatinib	0	1823	0	407				18.312	21.287	16.03	nan	
+MEL-IPI_Pat06	COL1A1--TGM2 Fusion	COL1A1--TGM2	Imatinib	0	1823	0	407				18.312	21.287	16.03	nan	
+MEL-IPI_Pat06	RAF1--NOP16 Fusion	RAF1	Sorafenib	163	1660	87	670	10.511	45.291	104.854	11.71	36.23	107.359	0.795	29644.0
+MEL-IPI_Pat06	RAF1--NOP16 Fusion	NOP16	Sorafenib	59	1764	30	727	11.568	19.064	25.058	11.46	38.023	109.054	0.497	11703.0
+MEL-IPI_Pat06	RAF1--NOP16 Fusion	RAF1 Fusions	Sorafenib	5	1818	4	753	9.54	13.274	12.946	11.509	37.399	107.312	0.529	1781.0
+MEL-IPI_Pat06	RAF1--NOP16 Fusion	NOP16 Fusions	Sorafenib	0	1823	0	757				11.486	37.271	107.045	nan	
+MEL-IPI_Pat06	RAF1--NOP16 Fusion	RAF1--NOP16	Sorafenib	0	1823	0	757				11.486	37.271	107.045	nan	

@@ -1,0 +1,5 @@
+patient_id	feature_display	tested_subfeature	therapy_name	n_mut	n_wt	n_mut_tested	n_wt_tested	mut_ic50_median	mut_ic50_mean	mut_ic50_std	wt_ic50_median	wt_ic50_mean	wt_ic50_std	pvalue_mww	statistic
+MO_1013	ATM p.F1236L (Missense)	ATM	Olaparib	316	1507	175	587	95.832	178.542	282.047	70.533	159.236	333.831	0.026	45658.0
+MO_1013	ATM p.F1236L (Missense)	ATM Somatic Variant	Olaparib	223	1600	116	646	93.804	156.246	195.042	73.428	165.003	340.577	0.202	34682.0
+MO_1013	ATM p.F1236L (Missense)	ATM Somatic Variant Missense	Olaparib	158	1665	85	677	91.776	153.512	181.88	74.761	164.945	336.201	0.33	26907.0
+MO_1013	ATM p.F1236L (Missense)	ATM Somatic Variant Missense p.F1236L	Olaparib	0	1823	0	762				75.933	163.67	322.6	nan	

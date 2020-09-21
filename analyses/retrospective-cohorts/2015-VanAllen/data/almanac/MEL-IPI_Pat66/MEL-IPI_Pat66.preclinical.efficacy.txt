@@ -1,0 +1,5 @@
+patient_id	feature_display	tested_subfeature	therapy_name	n_mut	n_wt	n_mut_tested	n_wt_tested	mut_ic50_median	mut_ic50_mean	mut_ic50_std	wt_ic50_median	wt_ic50_mean	wt_ic50_std	pvalue_mww	statistic
+MEL-IPI_Pat66	MAP2K1 p.F53I (Missense)	MAP2K1	Selumetinib	50	1773	23	705	43.966	78.589	105.353	71.413	177.53	355.885	0.083	9826.5
+MEL-IPI_Pat66	MAP2K1 p.F53I (Missense)	MAP2K1 Somatic Variant	Selumetinib	32	1791	17	711	43.966	63.699	89.302	71.413	177.051	354.619	0.086	7516.5
+MEL-IPI_Pat66	MAP2K1 p.F53I (Missense)	MAP2K1 Somatic Variant Missense	Selumetinib	31	1792	17	711	43.966	63.699	89.302	71.413	177.051	354.619	0.086	7516.5
+MEL-IPI_Pat66	MAP2K1 p.F53I (Missense)	MAP2K1 Somatic Variant Missense p.F53I	Selumetinib	0	1823	0	728				68.722	174.404	351.117	nan	

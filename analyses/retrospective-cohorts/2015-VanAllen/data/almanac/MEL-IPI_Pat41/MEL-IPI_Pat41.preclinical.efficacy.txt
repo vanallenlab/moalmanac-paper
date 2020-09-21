@@ -1,0 +1,9 @@
+patient_id	feature_display	tested_subfeature	therapy_name	n_mut	n_wt	n_mut_tested	n_wt_tested	mut_ic50_median	mut_ic50_mean	mut_ic50_std	wt_ic50_median	wt_ic50_mean	wt_ic50_std	pvalue_mww	statistic
+MEL-IPI_Pat41	PDGFRA p.G430E (Missense)	PDGFRA	Imatinib	131	1692	31	376	22.608	25.29	24.218	18.171	20.957	15.16	0.586	5484.5
+MEL-IPI_Pat41	PDGFRA p.G430E (Missense)	PDGFRA Somatic Variant	Imatinib	78	1745	22	385	20.697	25.755	26.894	18.187	21.032	15.196	0.841	4127.0
+MEL-IPI_Pat41	PDGFRA p.G430E (Missense)	PDGFRA Somatic Variant Missense	Imatinib	71	1752	18	389	20.697	22.541	14.868	18.187	21.229	16.097	0.741	3339.0
+MEL-IPI_Pat41	PDGFRA p.G430E (Missense)	PDGFRA Somatic Variant Missense p.G430E	Imatinib	0	1823	0	407				18.312	21.287	16.03	nan	
+MEL-IPI_Pat41	FLT3 p.E204K (Missense)	FLT3	Sunitinib	190	1633	52	346	15.1	46.352	71.421	10.402	33.152	60.495	0.319	8225.0
+MEL-IPI_Pat41	FLT3 p.E204K (Missense)	FLT3 Somatic Variant	Sunitinib	78	1745	25	373	6.801	41.337	83.169	10.855	34.444	60.541	0.187	5398.0
+MEL-IPI_Pat41	FLT3 p.E204K (Missense)	FLT3 Somatic Variant Missense	Sunitinib	68	1755	20	378	4.73	33.386	83.789	11.104	34.956	60.877	0.031	4864.0
+MEL-IPI_Pat41	FLT3 p.E204K (Missense)	FLT3 Somatic Variant Missense p.E204K	Sunitinib	0	1823	0	398				10.692	34.877	62.092	nan	

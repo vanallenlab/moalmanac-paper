@@ -1,0 +1,6 @@
+patient_id	feature_display	tested_subfeature	therapy_name	n_mut	n_wt	n_mut_tested	n_wt_tested	mut_ic50_median	mut_ic50_mean	mut_ic50_std	wt_ic50_median	wt_ic50_mean	wt_ic50_std	pvalue_mww	statistic
+SC_9058	GOLGA4--RAF1 Fusion	GOLGA4	Sorafenib	181	1642	90	667	11.093	49.531	122.796	11.614	35.617	104.733	0.992	29996.0
+SC_9058	GOLGA4--RAF1 Fusion	RAF1	Sorafenib	163	1660	87	670	10.511	45.291	104.854	11.71	36.23	107.359	0.795	29644.0
+SC_9058	GOLGA4--RAF1 Fusion	GOLGA4 Fusions	Sorafenib	1	1822	1	756	11.421	11.421		11.498	37.305	107.112	0.991	381.0
+SC_9058	GOLGA4--RAF1 Fusion	RAF1 Fusions	Sorafenib	5	1818	4	753	9.54	13.274	12.946	11.509	37.399	107.312	0.529	1781.0
+SC_9058	GOLGA4--RAF1 Fusion	GOLGA4--RAF1	Sorafenib	0	1823	0	757				11.486	37.271	107.045	nan	

@@ -1,0 +1,9 @@
+patient_id	feature_display	tested_subfeature	therapy_name	n_mut	n_wt	n_mut_tested	n_wt_tested	mut_ic50_median	mut_ic50_mean	mut_ic50_std	wt_ic50_median	wt_ic50_mean	wt_ic50_std	pvalue_mww	statistic
+MEL-IPI_Pat44	NRAS p.Q61L (Missense)	NRAS	Selumetinib	152	1671	76	652	27.454	88.106	141.237	76.712	184.463	366.615	0.0	31515.0
+MEL-IPI_Pat44	NRAS p.Q61L (Missense)	NRAS Somatic Variant	Selumetinib	102	1721	54	674	16.818	64.816	128.408	76.712	183.184	361.712	1.926e-06	25278.0
+MEL-IPI_Pat44	NRAS p.Q61L (Missense)	NRAS Somatic Variant Missense	Selumetinib	100	1723	53	675	16.602	60.604	125.814	76.81	183.34	361.466	7.004e-07	25202.0
+MEL-IPI_Pat44	NRAS p.Q61L (Missense)	NRAS Somatic Variant Missense p.Q61L	Selumetinib	15	1808	8	720	9.108	58.588	122.967	71.056	175.691	352.643	0.026	4197.0
+MEL-IPI_Pat44	AKT1 p.Y112H (Missense)	AKT1	MK-2206	118	1705	59	712	24.462	92.919	184.213	18.931	70.13	197.902	0.207	18928.0
+MEL-IPI_Pat44	AKT1 p.Y112H (Missense)	AKT1 Somatic Variant	MK-2206	29	1794	16	755	17.151	55.465	78.958	19.172	72.222	198.62	0.597	6506.0
+MEL-IPI_Pat44	AKT1 p.Y112H (Missense)	AKT1 Somatic Variant Missense	MK-2206	25	1798	15	756	14.618	55.691	81.724	19.222	72.195	198.489	0.453	6312.0
+MEL-IPI_Pat44	AKT1 p.Y112H (Missense)	AKT1 Somatic Variant Missense p.Y112H	MK-2206	0	1823	0	771				19.172	71.874	196.869	nan	

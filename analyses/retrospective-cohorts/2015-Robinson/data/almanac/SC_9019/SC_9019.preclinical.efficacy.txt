@@ -1,0 +1,5 @@
+patient_id	feature_display	tested_subfeature	therapy_name	n_mut	n_wt	n_mut_tested	n_wt_tested	mut_ic50_median	mut_ic50_mean	mut_ic50_std	wt_ic50_median	wt_ic50_mean	wt_ic50_std	pvalue_mww	statistic
+SC_9019	AKT1 p.E17K (Missense)	AKT1	MK-2206	118	1705	59	712	24.462	92.919	184.213	18.931	70.13	197.902	0.207	18928.0
+SC_9019	AKT1 p.E17K (Missense)	AKT1 Somatic Variant	MK-2206	29	1794	16	755	17.151	55.465	78.958	19.172	72.222	198.62	0.597	6506.0
+SC_9019	AKT1 p.E17K (Missense)	AKT1 Somatic Variant Missense	MK-2206	25	1798	15	756	14.618	55.691	81.724	19.222	72.195	198.489	0.453	6312.0
+SC_9019	AKT1 p.E17K (Missense)	AKT1 Somatic Variant Missense p.E17K	MK-2206	2	1821	2	769	21.614	21.614	2.729	19.158	72.005	197.108	0.872	718.0

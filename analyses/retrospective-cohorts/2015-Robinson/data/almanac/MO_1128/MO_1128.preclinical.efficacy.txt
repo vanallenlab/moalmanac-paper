@@ -1,0 +1,4 @@
+patient_id	feature_display	tested_subfeature	therapy_name	n_mut	n_wt	n_mut_tested	n_wt_tested	mut_ic50_median	mut_ic50_mean	mut_ic50_std	wt_ic50_median	wt_ic50_mean	wt_ic50_std	pvalue_mww	statistic
+MO_1128	CCND1 Amplification	CCND1	Palbociclib	149	1674	85	685	49.442	103.934	113.526	37.669	109.575	267.787	0.032	24961.5
+MO_1128	CCND1 Amplification	CCND1 Copy Number	Palbociclib	123	1700	71	699	83.568	116.447	117.936	36.387	108.191	265.377	0.002	19414.5
+MO_1128	CCND1 Amplification	CCND1 Copy Number Amplification	Palbociclib	118	1705	69	701	90.929	119.143	118.535	36.387	107.949	265.037	0.001	18550.5

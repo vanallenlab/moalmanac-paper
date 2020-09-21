@@ -1,0 +1,8 @@
+patient_id	feature_display	tested_subfeature	therapy_name	n_mut	n_wt	n_mut_tested	n_wt_tested	mut_ic50_median	mut_ic50_mean	mut_ic50_std	wt_ic50_median	wt_ic50_mean	wt_ic50_std	pvalue_mww	statistic
+MEL-IPI_Pat159	BRCA1 p.Q262* (Nonsense)	BRCA1	Olaparib	158	1665	94	668	90.45	192.521	281.117	73.428	159.61	328.001	0.22	28944.0
+MEL-IPI_Pat159	BRCA1 p.Q262* (Nonsense)	BRCA1 Somatic Variant	Olaparib	99	1724	57	705	121.094	214.27	319.401	74.675	159.579	322.735	0.083	17323.0
+MEL-IPI_Pat159	BRCA1 p.Q262* (Nonsense)	BRCA1 Somatic Variant Nonsense	Olaparib	7	1816	4	758	94.531	90.943	51.043	75.933	164.053	323.391	0.928	1476.0
+MEL-IPI_Pat159	BRCA1 p.Q262* (Nonsense)	BRCA1 Somatic Variant Nonsense p.Q262*	Olaparib	0	1823	0	762				75.933	163.67	322.6	nan	
+MEL-IPI_Pat159	EGFR Deletion	EGFR	Gefitinib	242	1581	138	614	18.934	31.922	42.565	27.148	45.733	64.802	0.0	50477.5
+MEL-IPI_Pat159	EGFR Deletion	EGFR Copy Number	Gefitinib	139	1684	81	671	20.562	31.526	45.523	26.523	44.607	63.077	0.004	32548.0
+MEL-IPI_Pat159	EGFR Deletion	EGFR Copy Number Deletion	Gefitinib	17	1806	9	743	24.096	28.665	19.808	26.016	43.374	61.854	0.9	3425.0

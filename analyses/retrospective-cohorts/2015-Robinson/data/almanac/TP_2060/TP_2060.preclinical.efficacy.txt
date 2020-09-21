@@ -1,0 +1,6 @@
+patient_id	feature_display	tested_subfeature	therapy_name	n_mut	n_wt	n_mut_tested	n_wt_tested	mut_ic50_median	mut_ic50_mean	mut_ic50_std	wt_ic50_median	wt_ic50_mean	wt_ic50_std	pvalue_mww	statistic
+TP_2060	COL1A1--BCL2L2-PABPN1 Fusion	COL1A1	Imatinib	130	1693	37	370	19.015	20.406	11.327	18.171	21.375	16.435	0.835	6702.0
+TP_2060	COL1A1--BCL2L2-PABPN1 Fusion	BCL2L2-PABPN1	Imatinib	73	1750	13	394	22.44	30.764	30.84	18.171	20.974	15.276	0.138	1942.0
+TP_2060	COL1A1--BCL2L2-PABPN1 Fusion	COL1A1 Fusions	Imatinib	1	1822	0	407				18.312	21.287	16.03	nan	
+TP_2060	COL1A1--BCL2L2-PABPN1 Fusion	BCL2L2-PABPN1 Fusions	Imatinib	0	1823	0	407				18.312	21.287	16.03	nan	
+TP_2060	COL1A1--BCL2L2-PABPN1 Fusion	COL1A1--BCL2L2-PABPN1	Imatinib	0	1823	0	407				18.312	21.287	16.03	nan	

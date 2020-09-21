@@ -1,0 +1,5 @@
+patient_id	feature_display	tested_subfeature	therapy_name	n_mut	n_wt	n_mut_tested	n_wt_tested	mut_ic50_median	mut_ic50_mean	mut_ic50_std	wt_ic50_median	wt_ic50_mean	wt_ic50_std	pvalue_mww	statistic
+MEL-IPI_Pat46	ARAF p.P185H (Missense)	ARAF	Sorafenib	82	1741	46	711	10.952	41.88	85.526	11.509	36.973	108.332	0.593	15585.0
+MEL-IPI_Pat46	ARAF p.P185H (Missense)	ARAF Somatic Variant	Sorafenib	34	1789	21	736	8.67	19.324	22.063	11.518	37.783	108.459	0.544	8328.5
+MEL-IPI_Pat46	ARAF p.P185H (Missense)	ARAF Somatic Variant Missense	Sorafenib	28	1795	17	740	8.67	18.517	21.874	11.518	37.702	108.183	0.466	6940.5
+MEL-IPI_Pat46	ARAF p.P185H (Missense)	ARAF Somatic Variant Missense p.P185H	Sorafenib	0	1823	0	757				11.486	37.271	107.045	nan	

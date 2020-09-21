@@ -1,0 +1,4 @@
+patient_id	feature_display	tested_subfeature	therapy_name	n_mut	n_wt	n_mut_tested	n_wt_tested	mut_ic50_median	mut_ic50_mean	mut_ic50_std	wt_ic50_median	wt_ic50_mean	wt_ic50_std	pvalue_mww	statistic
+SC_9032	BRCA2 Deletion	BRCA2	Olaparib	278	1545	164	598	86.83	180.683	296.561	71.302	159.004	329.462	0.071	44530.0
+SC_9032	BRCA2 Deletion	BRCA2 Copy Number	Olaparib	112	1711	61	701	97.835	233.874	417.435	73.232	157.561	312.629	0.042	18019.0
+SC_9032	BRCA2 Deletion	BRCA2 Copy Number Deletion	Olaparib	90	1733	45	717	89.183	196.404	316.685	74.06	161.615	323.074	0.202	14305.0

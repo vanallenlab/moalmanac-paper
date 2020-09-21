@@ -1,0 +1,5 @@
+patient_id	feature_display	tested_subfeature	therapy_name	n_mut	n_wt	n_mut_tested	n_wt_tested	mut_ic50_median	mut_ic50_mean	mut_ic50_std	wt_ic50_median	wt_ic50_mean	wt_ic50_std	pvalue_mww	statistic
+MEL-IPI_Pat162	AKT3 p.L233L (Splice Site)	AKT3	MK-2206	114	1709	68	703	17.452	41.368	64.105	19.272	74.825	204.989	0.612	24791.0
+MEL-IPI_Pat162	AKT3 p.L233L (Splice Site)	AKT3 Somatic Variant	MK-2206	22	1801	15	756	20.185	63.198	108.152	19.165	72.046	198.264	0.849	5507.0
+MEL-IPI_Pat162	AKT3 p.L233L (Splice Site)	AKT3 Somatic Variant Splice Site	MK-2206	2	1821	1	770	61.669	61.669		19.165	71.888	196.996	0.372	186.0
+MEL-IPI_Pat162	AKT3 p.L233L (Splice Site)	AKT3 Somatic Variant Splice Site p.L233L	MK-2206	0	1823	0	771				19.172	71.874	196.869	nan	

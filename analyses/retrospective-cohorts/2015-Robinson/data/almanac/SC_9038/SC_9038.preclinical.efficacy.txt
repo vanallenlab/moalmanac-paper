@@ -1,0 +1,8 @@
+patient_id	feature_display	tested_subfeature	therapy_name	n_mut	n_wt	n_mut_tested	n_wt_tested	mut_ic50_median	mut_ic50_mean	mut_ic50_std	wt_ic50_median	wt_ic50_mean	wt_ic50_std	pvalue_mww	statistic
+SC_9038	CCND1 Amplification	CCND1	Palbociclib	149	1674	85	685	49.442	103.934	113.526	37.669	109.575	267.787	0.032	24961.5
+SC_9038	CCND1 Amplification	CCND1 Copy Number	Palbociclib	123	1700	71	699	83.568	116.447	117.936	36.387	108.191	265.377	0.002	19414.5
+SC_9038	CCND1 Amplification	CCND1 Copy Number Amplification	Palbociclib	118	1705	69	701	90.929	119.143	118.535	36.387	107.949	265.037	0.001	18550.5
+SC_9038	BRCA2 p.C311fs (Frameshift)	BRCA2	Olaparib	278	1545	164	598	86.83	180.683	296.561	71.302	159.004	329.462	0.071	44530.0
+SC_9038	BRCA2 p.C311fs (Frameshift)	BRCA2 Somatic Variant	Olaparib	180	1643	109	653	84.839	151.369	206.671	73.232	165.723	338.178	0.564	34362.0
+SC_9038	BRCA2 p.C311fs (Frameshift)	BRCA2 Somatic Variant Frameshift	Olaparib	45	1778	30	732	110.875	168.013	273.732	74.718	163.492	324.605	0.489	10162.0
+SC_9038	BRCA2 p.C311fs (Frameshift)	BRCA2 Somatic Variant Frameshift p.C311fs	Olaparib	0	1823	0	762				75.933	163.67	322.6	nan	

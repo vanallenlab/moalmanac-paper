@@ -1,0 +1,6 @@
+patient_id	feature_display	tested_subfeature	therapy_name	n_mut	n_wt	n_mut_tested	n_wt_tested	mut_ic50_median	mut_ic50_mean	mut_ic50_std	wt_ic50_median	wt_ic50_mean	wt_ic50_std	pvalue_mww	statistic
+PROS12319B-SU2C-06115115	TMPRSS2--ETV4 Fusion	TMPRSS2	Rucaparib	95	1728	59	881	24.095	37.155	33.304	35.551	46.817	43.318	0.093	29377.0
+PROS12319B-SU2C-06115115	TMPRSS2--ETV4 Fusion	ETV4	Rucaparib	59	1764	39	901	31.516	52.596	60.542	35.49	45.934	41.897	0.891	17342.0
+PROS12319B-SU2C-06115115	TMPRSS2--ETV4 Fusion	TMPRSS2 Fusions	Rucaparib	2	1821	1	939	64.3	64.3		34.998	46.191	42.827	0.382	232.0
+PROS12319B-SU2C-06115115	TMPRSS2--ETV4 Fusion	ETV4 Fusions	Rucaparib	0	1823	0	940				35.036	46.21	42.808	nan	
+PROS12319B-SU2C-06115115	TMPRSS2--ETV4 Fusion	TMPRSS2--ETV4	Rucaparib	0	1823	0	940				35.036	46.21	42.808	nan	

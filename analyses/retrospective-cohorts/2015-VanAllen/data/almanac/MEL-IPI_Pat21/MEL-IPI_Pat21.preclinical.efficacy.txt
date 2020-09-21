@@ -1,0 +1,9 @@
+patient_id	feature_display	tested_subfeature	therapy_name	n_mut	n_wt	n_mut_tested	n_wt_tested	mut_ic50_median	mut_ic50_mean	mut_ic50_std	wt_ic50_median	wt_ic50_mean	wt_ic50_std	pvalue_mww	statistic
+MEL-IPI_Pat21	PDGFRA p.G990D (Missense)	PDGFRA	Imatinib	131	1692	31	376	22.608	25.29	24.218	18.171	20.957	15.16	0.586	5484.5
+MEL-IPI_Pat21	PDGFRA p.G990D (Missense)	PDGFRA Somatic Variant	Imatinib	78	1745	22	385	20.697	25.755	26.894	18.187	21.032	15.196	0.841	4127.0
+MEL-IPI_Pat21	PDGFRA p.G990D (Missense)	PDGFRA Somatic Variant Missense	Imatinib	71	1752	18	389	20.697	22.541	14.868	18.187	21.229	16.097	0.741	3339.0
+MEL-IPI_Pat21	PDGFRA p.G990D (Missense)	PDGFRA Somatic Variant Missense p.G990D	Imatinib	0	1823	0	407				18.312	21.287	16.03	nan	
+MEL-IPI_Pat21	ATM p.N2326K (Missense)	ATM	Olaparib	316	1507	175	587	95.832	178.542	282.047	70.533	159.236	333.831	0.026	45658.0
+MEL-IPI_Pat21	ATM p.N2326K (Missense)	ATM Somatic Variant	Olaparib	223	1600	116	646	93.804	156.246	195.042	73.428	165.003	340.577	0.202	34682.0
+MEL-IPI_Pat21	ATM p.N2326K (Missense)	ATM Somatic Variant Missense	Olaparib	158	1665	85	677	91.776	153.512	181.88	74.761	164.945	336.201	0.33	26907.0
+MEL-IPI_Pat21	ATM p.N2326K (Missense)	ATM Somatic Variant Missense p.N2326K	Olaparib	0	1823	0	762				75.933	163.67	322.6	nan	

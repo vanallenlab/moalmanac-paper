@@ -1,0 +1,16 @@
+patient_id	feature_display	tested_subfeature	therapy_name	n_mut	n_wt	n_mut_tested	n_wt_tested	mut_ic50_median	mut_ic50_mean	mut_ic50_std	wt_ic50_median	wt_ic50_mean	wt_ic50_std	pvalue_mww	statistic
+MEL-IPI_Pat55	CCND1 Amplification	CCND1	Palbociclib	149	1674	85	685	49.442	103.934	113.526	37.669	109.575	267.787	0.032	24961.5
+MEL-IPI_Pat55	CCND1 Amplification	CCND1 Copy Number	Palbociclib	123	1700	71	699	83.568	116.447	117.936	36.387	108.191	265.377	0.002	19414.5
+MEL-IPI_Pat55	CCND1 Amplification	CCND1 Copy Number Amplification	Palbociclib	118	1705	69	701	90.929	119.143	118.535	36.387	107.949	265.037	0.001	18550.5
+MEL-IPI_Pat55	BRAF p.G466E (Missense)	BRAF	Dabrafenib	264	1559	136	621	34.824	120.732	228.705	121.915	244.298	422.653	2.322e-12	58428.0
+MEL-IPI_Pat55	BRAF p.G466E (Missense)	BRAF Somatic Variant	Dabrafenib	184	1639	98	659	19.092	80.76	176.13	120.697	243.118	416.712	7.627e-17	49130.0
+MEL-IPI_Pat55	BRAF p.G466E (Missense)	BRAF Somatic Variant Missense	Dabrafenib	170	1653	89	668	19.04	82.289	184.013	119.74	240.726	414.446	6.330e-16	45390.0
+MEL-IPI_Pat55	BRAF p.G466E (Missense)	BRAF Somatic Variant Missense p.G466E	Dabrafenib	0	1823	0	757				106.703	222.099	397.61	nan	
+MEL-IPI_Pat55	BRAF p.G466E (Missense)	BRAF	Trametinib	264	1559	137	634	0.516	5.862	27.545	2.112	7.605	32.168	2.344e-09	57546.5
+MEL-IPI_Pat55	BRAF p.G466E (Missense)	BRAF Somatic Variant	Trametinib	184	1639	99	672	0.364	4.887	30.17	2.152	7.65	31.568	9.083e-13	48043.5
+MEL-IPI_Pat55	BRAF p.G466E (Missense)	BRAF Somatic Variant Missense	Trametinib	170	1653	90	681	0.271	5.095	31.639	2.147	7.586	31.365	2.900e-13	45139.0
+MEL-IPI_Pat55	BRAF p.G466E (Missense)	BRAF Somatic Variant Missense p.G466E	Trametinib	0	1823	0	771				1.844	7.295	31.386	nan	
+MEL-IPI_Pat55	FLT3 p.W854* (Nonsense)	FLT3	Sunitinib	190	1633	52	346	15.1	46.352	71.421	10.402	33.152	60.495	0.319	8225.0
+MEL-IPI_Pat55	FLT3 p.W854* (Nonsense)	FLT3 Somatic Variant	Sunitinib	78	1745	25	373	6.801	41.337	83.169	10.855	34.444	60.541	0.187	5398.0
+MEL-IPI_Pat55	FLT3 p.W854* (Nonsense)	FLT3 Somatic Variant Nonsense	Sunitinib	2	1821	1	397	24.224	24.224		10.688	34.904	62.168	0.548	129.0
+MEL-IPI_Pat55	FLT3 p.W854* (Nonsense)	FLT3 Somatic Variant Nonsense p.W854*	Sunitinib	0	1823	0	398				10.692	34.877	62.092	nan	

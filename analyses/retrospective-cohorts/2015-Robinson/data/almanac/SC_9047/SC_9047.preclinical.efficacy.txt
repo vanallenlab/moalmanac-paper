@@ -1,0 +1,13 @@
+patient_id	feature_display	tested_subfeature	therapy_name	n_mut	n_wt	n_mut_tested	n_wt_tested	mut_ic50_median	mut_ic50_mean	mut_ic50_std	wt_ic50_median	wt_ic50_mean	wt_ic50_std	pvalue_mww	statistic
+SC_9047	ARAF p.L569P (Missense)	ARAF	Sorafenib	82	1741	46	711	10.952	41.88	85.526	11.509	36.973	108.332	0.593	15585.0
+SC_9047	ARAF p.L569P (Missense)	ARAF Somatic Variant	Sorafenib	34	1789	21	736	8.67	19.324	22.063	11.518	37.783	108.459	0.544	8328.5
+SC_9047	ARAF p.L569P (Missense)	ARAF Somatic Variant Missense	Sorafenib	28	1795	17	740	8.67	18.517	21.874	11.518	37.702	108.183	0.466	6940.5
+SC_9047	ARAF p.L569P (Missense)	ARAF Somatic Variant Missense p.L569P	Sorafenib	0	1823	0	757				11.486	37.271	107.045	nan	
+SC_9047	MAPK1 p.T206I (Missense)	MAPK1	Erlotinib	111	1712	57	695	13.186	28.021	45.954	13.427	24.126	33.722	0.926	19661.0
+SC_9047	MAPK1 p.T206I (Missense)	MAPK1 Somatic Variant	Erlotinib	13	1810	6	746	11.445	10.538	6.119	13.41	24.533	34.89	0.346	2738.0
+SC_9047	MAPK1 p.T206I (Missense)	MAPK1 Somatic Variant Missense	Erlotinib	12	1811	6	746	11.445	10.538	6.119	13.41	24.533	34.89	0.346	2738.0
+SC_9047	MAPK1 p.T206I (Missense)	MAPK1 Somatic Variant Missense p.T206I	Erlotinib	0	1823	0	752				13.41	24.421	34.777	nan	
+SC_9047	BRCA1 p.H270R (Missense)	BRCA1	Olaparib	158	1665	94	668	90.45	192.521	281.117	73.428	159.61	328.001	0.22	28944.0
+SC_9047	BRCA1 p.H270R (Missense)	BRCA1 Somatic Variant	Olaparib	99	1724	57	705	121.094	214.27	319.401	74.675	159.579	322.735	0.083	17323.0
+SC_9047	BRCA1 p.H270R (Missense)	BRCA1 Somatic Variant Missense	Olaparib	79	1744	50	712	128.869	234.74	335.719	73.842	158.679	321.312	0.027	14463.0
+SC_9047	BRCA1 p.H270R (Missense)	BRCA1 Somatic Variant Missense p.H270R	Olaparib	0	1823	0	762				75.933	163.67	322.6	nan	

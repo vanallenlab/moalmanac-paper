@@ -1,0 +1,9 @@
+patient_id	feature_display	tested_subfeature	therapy_name	n_mut	n_wt	n_mut_tested	n_wt_tested	mut_ic50_median	mut_ic50_mean	mut_ic50_std	wt_ic50_median	wt_ic50_mean	wt_ic50_std	pvalue_mww	statistic
+MEL-IPI_Pat71	NRAS p.Q61R (Missense)	NRAS	Selumetinib	152	1671	76	652	27.454	88.106	141.237	76.712	184.463	366.615	0.0	31515.0
+MEL-IPI_Pat71	NRAS p.Q61R (Missense)	NRAS Somatic Variant	Selumetinib	102	1721	54	674	16.818	64.816	128.408	76.712	183.184	361.712	1.926e-06	25278.0
+MEL-IPI_Pat71	NRAS p.Q61R (Missense)	NRAS Somatic Variant Missense	Selumetinib	100	1723	53	675	16.602	60.604	125.814	76.81	183.34	361.466	7.004e-07	25202.0
+MEL-IPI_Pat71	NRAS p.Q61R (Missense)	NRAS Somatic Variant Missense p.Q61R	Selumetinib	12	1811	8	720	10.416	50.806	116.781	71.056	175.778	352.633	0.011	4376.0
+MEL-IPI_Pat71	ERRFI1 p.E51K (Missense)	ERRFI1	Erlotinib	114	1709	53	699	17.206	39.109	52.781	13.187	23.308	32.804	0.13	16215.5
+MEL-IPI_Pat71	ERRFI1 p.E51K (Missense)	ERRFI1 Somatic Variant	Erlotinib	30	1793	13	739	10.176	16.755	18.386	13.448	24.556	34.988	0.303	5603.5
+MEL-IPI_Pat71	ERRFI1 p.E51K (Missense)	ERRFI1 Somatic Variant Missense	Erlotinib	19	1804	6	746	18.932	25.437	23.433	13.41	24.413	34.864	0.756	2072.5
+MEL-IPI_Pat71	ERRFI1 p.E51K (Missense)	ERRFI1 Somatic Variant Missense p.E51K	Erlotinib	0	1823	0	752				13.41	24.421	34.777	nan	

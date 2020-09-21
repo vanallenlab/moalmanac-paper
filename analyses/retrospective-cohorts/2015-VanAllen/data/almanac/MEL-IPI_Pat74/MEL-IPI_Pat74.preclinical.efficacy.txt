@@ -1,0 +1,8 @@
+patient_id	feature_display	tested_subfeature	therapy_name	n_mut	n_wt	n_mut_tested	n_wt_tested	mut_ic50_median	mut_ic50_mean	mut_ic50_std	wt_ic50_median	wt_ic50_mean	wt_ic50_std	pvalue_mww	statistic
+MEL-IPI_Pat74	NRAS p.Q61R (Missense)	NRAS	Selumetinib	152	1671	76	652	27.454	88.106	141.237	76.712	184.463	366.615	0.0	31515.0
+MEL-IPI_Pat74	NRAS p.Q61R (Missense)	NRAS Somatic Variant	Selumetinib	102	1721	54	674	16.818	64.816	128.408	76.712	183.184	361.712	1.926e-06	25278.0
+MEL-IPI_Pat74	NRAS p.Q61R (Missense)	NRAS Somatic Variant Missense	Selumetinib	100	1723	53	675	16.602	60.604	125.814	76.81	183.34	361.466	7.004e-07	25202.0
+MEL-IPI_Pat74	NRAS p.Q61R (Missense)	NRAS Somatic Variant Missense p.Q61R	Selumetinib	12	1811	8	720	10.416	50.806	116.781	71.056	175.778	352.633	0.011	4376.0
+MEL-IPI_Pat74	CCND1 Amplification	CCND1	Palbociclib	149	1674	85	685	49.442	103.934	113.526	37.669	109.575	267.787	0.032	24961.5
+MEL-IPI_Pat74	CCND1 Amplification	CCND1 Copy Number	Palbociclib	123	1700	71	699	83.568	116.447	117.936	36.387	108.191	265.377	0.002	19414.5
+MEL-IPI_Pat74	CCND1 Amplification	CCND1 Copy Number Amplification	Palbociclib	118	1705	69	701	90.929	119.143	118.535	36.387	107.949	265.037	0.001	18550.5

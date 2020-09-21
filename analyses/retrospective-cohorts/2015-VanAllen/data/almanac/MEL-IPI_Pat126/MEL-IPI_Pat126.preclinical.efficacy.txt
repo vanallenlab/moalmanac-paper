@@ -1,0 +1,9 @@
+patient_id	feature_display	tested_subfeature	therapy_name	n_mut	n_wt	n_mut_tested	n_wt_tested	mut_ic50_median	mut_ic50_mean	mut_ic50_std	wt_ic50_median	wt_ic50_mean	wt_ic50_std	pvalue_mww	statistic
+MEL-IPI_Pat126	NRAS p.Q61K (Missense)	NRAS	Selumetinib	152	1671	76	652	27.454	88.106	141.237	76.712	184.463	366.615	0.0	31515.0
+MEL-IPI_Pat126	NRAS p.Q61K (Missense)	NRAS Somatic Variant	Selumetinib	102	1721	54	674	16.818	64.816	128.408	76.712	183.184	361.712	1.926e-06	25278.0
+MEL-IPI_Pat126	NRAS p.Q61K (Missense)	NRAS Somatic Variant Missense	Selumetinib	100	1723	53	675	16.602	60.604	125.814	76.81	183.34	361.466	7.004e-07	25202.0
+MEL-IPI_Pat126	NRAS p.Q61K (Missense)	NRAS Somatic Variant Missense p.Q61K	Selumetinib	36	1787	17	711	7.864	32.92	58.479	72.077	177.787	354.496	0.0	9232.0
+MEL-IPI_Pat126	ERCC2 p.P123L (Missense)	ERCC2	Cisplatin	104	1719	58	710	23.13	106.007	175.772	24.23	157.568	402.409	0.826	20233.0
+MEL-IPI_Pat126	ERCC2 p.P123L (Missense)	ERCC2 Somatic Variant	Cisplatin	46	1777	28	740	22.081	91.258	172.512	24.724	156.035	395.847	0.749	10728.5
+MEL-IPI_Pat126	ERCC2 p.P123L (Missense)	ERCC2 Somatic Variant Missense	Cisplatin	41	1782	25	743	22.908	75.415	143.127	24.55	156.307	395.5	0.571	9906.5
+MEL-IPI_Pat126	ERCC2 p.P123L (Missense)	ERCC2 Somatic Variant Missense p.P123L	Cisplatin	0	1823	0	768				23.74	153.674	390.089	nan	

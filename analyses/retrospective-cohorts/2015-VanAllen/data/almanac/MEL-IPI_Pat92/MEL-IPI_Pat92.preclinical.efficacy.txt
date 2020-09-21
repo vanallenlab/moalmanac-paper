@@ -1,0 +1,21 @@
+patient_id	feature_display	tested_subfeature	therapy_name	n_mut	n_wt	n_mut_tested	n_wt_tested	mut_ic50_median	mut_ic50_mean	mut_ic50_std	wt_ic50_median	wt_ic50_mean	wt_ic50_std	pvalue_mww	statistic
+MEL-IPI_Pat92	BRAF p.D594Y (Missense)	BRAF	Dabrafenib	264	1559	136	621	34.824	120.732	228.705	121.915	244.298	422.653	2.322e-12	58428.0
+MEL-IPI_Pat92	BRAF p.D594Y (Missense)	BRAF Somatic Variant	Dabrafenib	184	1639	98	659	19.092	80.76	176.13	120.697	243.118	416.712	7.627e-17	49130.0
+MEL-IPI_Pat92	BRAF p.D594Y (Missense)	BRAF Somatic Variant Missense	Dabrafenib	170	1653	89	668	19.04	82.289	184.013	119.74	240.726	414.446	6.330e-16	45390.0
+MEL-IPI_Pat92	BRAF p.D594Y (Missense)	BRAF Somatic Variant Missense p.D594Y	Dabrafenib	0	1823	0	757				106.703	222.099	397.61	nan	
+MEL-IPI_Pat92	BRAF p.D594Y (Missense)	BRAF	Trametinib	264	1559	137	634	0.516	5.862	27.545	2.112	7.605	32.168	2.344e-09	57546.5
+MEL-IPI_Pat92	BRAF p.D594Y (Missense)	BRAF Somatic Variant	Trametinib	184	1639	99	672	0.364	4.887	30.17	2.152	7.65	31.568	9.083e-13	48043.5
+MEL-IPI_Pat92	BRAF p.D594Y (Missense)	BRAF Somatic Variant Missense	Trametinib	170	1653	90	681	0.271	5.095	31.639	2.147	7.586	31.365	2.900e-13	45139.0
+MEL-IPI_Pat92	BRAF p.D594Y (Missense)	BRAF Somatic Variant Missense p.D594Y	Trametinib	0	1823	0	771				1.844	7.295	31.386	nan	
+MEL-IPI_Pat92	NRAS p.Q61K (Missense)	NRAS	Selumetinib	152	1671	76	652	27.454	88.106	141.237	76.712	184.463	366.615	0.0	31515.0
+MEL-IPI_Pat92	NRAS p.Q61K (Missense)	NRAS Somatic Variant	Selumetinib	102	1721	54	674	16.818	64.816	128.408	76.712	183.184	361.712	1.926e-06	25278.0
+MEL-IPI_Pat92	NRAS p.Q61K (Missense)	NRAS Somatic Variant Missense	Selumetinib	100	1723	53	675	16.602	60.604	125.814	76.81	183.34	361.466	7.004e-07	25202.0
+MEL-IPI_Pat92	NRAS p.Q61K (Missense)	NRAS Somatic Variant Missense p.Q61K	Selumetinib	36	1787	17	711	7.864	32.92	58.479	72.077	177.787	354.496	0.0	9232.0
+MEL-IPI_Pat92	BRAF p.E611* (Nonsense)	BRAF	Dabrafenib	264	1559	136	621	34.824	120.732	228.705	121.915	244.298	422.653	2.322e-12	58428.0
+MEL-IPI_Pat92	BRAF p.E611* (Nonsense)	BRAF Somatic Variant	Dabrafenib	184	1639	98	659	19.092	80.76	176.13	120.697	243.118	416.712	7.627e-17	49130.0
+MEL-IPI_Pat92	BRAF p.E611* (Nonsense)	BRAF Somatic Variant Nonsense	Dabrafenib	2	1821	1	756	69.152	69.152		106.814	222.301	397.834	0.702	462.0
+MEL-IPI_Pat92	BRAF p.E611* (Nonsense)	BRAF Somatic Variant Nonsense p.E611*	Dabrafenib	0	1823	0	757				106.703	222.099	397.61	nan	
+MEL-IPI_Pat92	BRAF p.E611* (Nonsense)	BRAF	Trametinib	264	1559	137	634	0.516	5.862	27.545	2.112	7.605	32.168	2.344e-09	57546.5
+MEL-IPI_Pat92	BRAF p.E611* (Nonsense)	BRAF Somatic Variant	Trametinib	184	1639	99	672	0.364	4.887	30.17	2.152	7.65	31.568	9.083e-13	48043.5
+MEL-IPI_Pat92	BRAF p.E611* (Nonsense)	BRAF Somatic Variant Nonsense	Trametinib	2	1821	1	770	0.006	0.006		1.844	7.305	31.406	0.107	744.5
+MEL-IPI_Pat92	BRAF p.E611* (Nonsense)	BRAF Somatic Variant Nonsense p.E611*	Trametinib	0	1823	0	771				1.844	7.295	31.386	nan	

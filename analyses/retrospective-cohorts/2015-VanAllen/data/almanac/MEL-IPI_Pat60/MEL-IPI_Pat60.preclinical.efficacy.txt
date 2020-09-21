@@ -1,0 +1,13 @@
+patient_id	feature_display	tested_subfeature	therapy_name	n_mut	n_wt	n_mut_tested	n_wt_tested	mut_ic50_median	mut_ic50_mean	mut_ic50_std	wt_ic50_median	wt_ic50_mean	wt_ic50_std	pvalue_mww	statistic
+MEL-IPI_Pat60	AKT1 p.Q79K (Missense)	AKT1	MK-2206	118	1705	59	712	24.462	92.919	184.213	18.931	70.13	197.902	0.207	18928.0
+MEL-IPI_Pat60	AKT1 p.Q79K (Missense)	AKT1 Somatic Variant	MK-2206	29	1794	16	755	17.151	55.465	78.958	19.172	72.222	198.62	0.597	6506.0
+MEL-IPI_Pat60	AKT1 p.Q79K (Missense)	AKT1 Somatic Variant Missense	MK-2206	25	1798	15	756	14.618	55.691	81.724	19.222	72.195	198.489	0.453	6312.0
+MEL-IPI_Pat60	AKT1 p.Q79K (Missense)	AKT1 Somatic Variant Missense p.Q79K	MK-2206	0	1823	0	771				19.172	71.874	196.869	nan	
+MEL-IPI_Pat60	BRAF p.600_601VK>E (Deletion)	BRAF	Dabrafenib	264	1559	136	621	34.824	120.732	228.705	121.915	244.298	422.653	2.322e-12	58428.0
+MEL-IPI_Pat60	BRAF p.600_601VK>E (Deletion)	BRAF Somatic Variant	Dabrafenib	184	1639	98	659	19.092	80.76	176.13	120.697	243.118	416.712	7.627e-17	49130.0
+MEL-IPI_Pat60	BRAF p.600_601VK>E (Deletion)	BRAF Somatic Variant Deletion	Dabrafenib	7	1816	5	752	59.15	65.459	65.665	107.004	223.14	398.696	0.163	2560.0
+MEL-IPI_Pat60	BRAF p.600_601VK>E (Deletion)	BRAF Somatic Variant Deletion p.600_601VK>E	Dabrafenib	0	1823	0	757				106.703	222.099	397.61	nan	
+MEL-IPI_Pat60	BRAF p.600_601VK>E (Deletion)	BRAF	Trametinib	264	1559	137	634	0.516	5.862	27.545	2.112	7.605	32.168	2.344e-09	57546.5
+MEL-IPI_Pat60	BRAF p.600_601VK>E (Deletion)	BRAF Somatic Variant	Trametinib	184	1639	99	672	0.364	4.887	30.17	2.152	7.65	31.568	9.083e-13	48043.5
+MEL-IPI_Pat60	BRAF p.600_601VK>E (Deletion)	BRAF Somatic Variant Deletion	Trametinib	7	1816	5	766	0.862	1.809	2.786	1.858	7.331	31.485	0.249	2487.5
+MEL-IPI_Pat60	BRAF p.600_601VK>E (Deletion)	BRAF Somatic Variant Deletion p.600_601VK>E	Trametinib	0	1823	0	771				1.844	7.295	31.386	nan	

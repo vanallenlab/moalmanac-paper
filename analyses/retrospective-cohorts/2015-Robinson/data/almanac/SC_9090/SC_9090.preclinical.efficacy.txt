@@ -1,0 +1,5 @@
+patient_id	feature_display	tested_subfeature	therapy_name	n_mut	n_wt	n_mut_tested	n_wt_tested	mut_ic50_median	mut_ic50_mean	mut_ic50_std	wt_ic50_median	wt_ic50_mean	wt_ic50_std	pvalue_mww	statistic
+SC_9090	BRCA2 p.D1575Y (Missense)	BRCA2	Olaparib	278	1545	164	598	86.83	180.683	296.561	71.302	159.004	329.462	0.071	44530.0
+SC_9090	BRCA2 p.D1575Y (Missense)	BRCA2 Somatic Variant	Olaparib	180	1643	109	653	84.839	151.369	206.671	73.232	165.723	338.178	0.564	34362.0
+SC_9090	BRCA2 p.D1575Y (Missense)	BRCA2 Somatic Variant Missense	Olaparib	133	1690	80	682	84.942	143.715	169.346	73.428	166.01	336.031	0.489	25990.0
+SC_9090	BRCA2 p.D1575Y (Missense)	BRCA2 Somatic Variant Missense p.D1575Y	Olaparib	0	1823	0	762				75.933	163.67	322.6	nan	

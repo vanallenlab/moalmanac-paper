@@ -1,0 +1,5 @@
+patient_id	feature_display	tested_subfeature	therapy_name	n_mut	n_wt	n_mut_tested	n_wt_tested	mut_ic50_median	mut_ic50_mean	mut_ic50_std	wt_ic50_median	wt_ic50_mean	wt_ic50_std	pvalue_mww	statistic
+SC_9089	ERCC2 p.R253C (Missense)	ERCC2	Cisplatin	104	1719	58	710	23.13	106.007	175.772	24.23	157.568	402.409	0.826	20233.0
+SC_9089	ERCC2 p.R253C (Missense)	ERCC2 Somatic Variant	Cisplatin	46	1777	28	740	22.081	91.258	172.512	24.724	156.035	395.847	0.749	10728.5
+SC_9089	ERCC2 p.R253C (Missense)	ERCC2 Somatic Variant Missense	Cisplatin	41	1782	25	743	22.908	75.415	143.127	24.55	156.307	395.5	0.571	9906.5
+SC_9089	ERCC2 p.R253C (Missense)	ERCC2 Somatic Variant Missense p.R253C	Cisplatin	0	1823	0	768				23.74	153.674	390.089	nan	
