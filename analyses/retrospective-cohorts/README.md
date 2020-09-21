@@ -5,6 +5,8 @@ Outputs, without germline, can be downloaded using the `download-from-terra.ipyn
 
 Figure 2 as well as a supplementary figure showing the number of clinically relevant features highlighted by both MOAlmanac and PHIAL&TARGET are generated in `1.illustrate-retrospective-cohorts`. All calculations appearing in the paper's section, "Evaluating expanded molecular profiling and actionability in two retrospective cohorts" are performed in `2.calculations-retrospective-cohorts`. 
 
+Germline data has been redacted from all code and figures herein, so it is not entirely representative of calculations in the paper.
+
 
 ## References
 1. [Van Allen, E. M. et al. Genomic correlates of response to CTLA-4 blockade in metastatic melanoma. Science 350, 207–211 (2015).](http://science.sciencemag.org/content/350/6257/207.long)
