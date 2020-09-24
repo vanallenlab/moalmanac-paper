@@ -1,52 +1,32 @@
 # Directly leveraging cancer cell lines for clinical interpretation
 Molecular Oncology Almanac (MOAlmanac) directly leverages cancer cell lines for two use cases: 
-1. To evaluate preclinical efficacy of available relationships between genomic alterations and clinical actions. 
-2. To perform "matchmaking" between the provided molecular profile and cancer cell lines, to identify genomically similar cell lines. 
+1. To evaluate sensitivity of catalogued relationships between genomic alterations and therapies in cancer cell lines. 
+2. To perform patient-to-cell line matchmaking between the provided molecular profile and cancer cell lines, to identify similar cell lines. This is framed as an information retrieval problem, we aim to sort genomic profiles relative to one another such that those deemed similar also share drug sensitivity. 
 
-For this, we leveraged somatic variants and copy number alterations from the [latest Cancer Cell Line Encyclopedia study (Ghandi et al. 2019, Nature)](https://www.nature.com/articles/s41586-019-1186-3) and fusions and therapeutic sensitivity from the Sanger Institute's [Genomics of Drug Sensivity in Cancer (GDSC, Yang et al. 2012, Nucleic Acids Research)](https://academic.oup.com/nar/article/41/D1/D955/1059448). Data for the CCLE was downloaded from [cbioportal](http://www.cbioportal.org/study/summary?id=ccle_broad_2019), as well as four supplementary tables (41586_2019_1186_MOESM18_ESM.xlsx, 41586_2019_1186_MOESM4_ESM.xlsx, 41586_2019_1186_MOESM6_ESM.xlsx, 41586_2019_1186_MOESM9_ESM.xlsx). Fusions were downloaded from the Sanger Institute's [Cell Model Passports](https://cellmodelpassports.sanger.ac.uk/downloads) and therapeutic screens downloaded from the [GDSC directly](https://www.cancerrxgene.org/downloads/bulk_download); specifically the files GDSC1-dataset, GDSC2-dataset, and IC50 data definitions. Sample information was also downloaded from [DepMap](https://depmap.org/portal/download/) for another list of sample names. All of these files are stored in the `source/` directory in the methodology's repository under the subfolders `ccle-2019`, `gdsc`, and `depmap`, respectively.  
+## Data acquisition
+For this, we leveraged somatic variants and copy number alterations from the [latest Cancer Cell Line Encyclopedia study (Ghandi et al. 2019, Nature)](https://www.nature.com/articles/s41586-019-1186-3) and fusions and therapeutic sensitivity from the Sanger Institute's [Genomics of Drug Sensivity in Cancer (GDSC, Yang et al. 2012, Nucleic Acids Research)](https://academic.oup.com/nar/article/41/D1/D955/1059448). Data for the CCLE was downloaded from [cbioportal](http://www.cbioportal.org/study/summary?id=ccle_broad_2019), as well as four supplementary tables from the paper (41586_2019_1186_MOESM18_ESM.xlsx, 41586_2019_1186_MOESM4_ESM.xlsx, 41586_2019_1186_MOESM6_ESM.xlsx, 41586_2019_1186_MOESM9_ESM.xlsx). Fusions were downloaded from the Sanger Institute's [Cell Model Passports](https://cellmodelpassports.sanger.ac.uk/downloads) and therapeutic screens downloaded from the [GDSC directly](https://www.cancerrxgene.org/downloads/bulk_download); specifically the files GDSC1-dataset, GDSC2-dataset, and IC50 data definitions. Sample information was also downloaded from [DepMap](https://depmap.org/portal/download/) for another list of sample names. All of these files are stored in the `source/` directory in the methodology's repository under the subfolders `ccle-2019`, `gdsc`, and `depmap`, respectively. 
 
-Processing and annotation of the raw molecular features are also located in the methodology's repository under the `moalmanac/datasources/cell-lines/` folder. 
+## Summary of notebooks and scripts present in this directory
+- `00.map-almanac-to-gdsc.ipynb` creates a json map between therapies characterized by GDSC and catalogued in MOAlmanac. It produces the output `almaanc-gdsc-mappings.json`, found in this directory.
+- `01.organize-samples.ipynb` standardizes cell line names across platforms and manual review resolved remaining edge cases, producing the respective outputs of `formatted/cell-line-names.raw.txt` and `formatted/cell-line-names.formatted.txt`.
+- `02.process-cell-line-molecular-features.ipynb` formats somatic variants, copy number alterations, and fusions for annotation by MOAlmanac. It also creates a summary of all cell lines, `cell-lines.summary.txt`, including if they should be included in the analysis or not, lists all reported therapeutic sensitives per cell line in `sanger.gdsc.txt`, and evaluates all pairwise comparisons of cell lines to check for cell lines that are sensitive to at least one common therapy with `sanger.gdsc.pairwise-sensitive.txt`. All outputs are found under `formatted/`. This notebook takes a while to run, on the order of tens of minutes.
+- `03.annotate-molecular-features.sh` will annotate the alterations formatted with `02.process-cell-line-molecular-features.ipynb` with MOAlmanac, the directory to run MOAlmanac and python execution for the MOAlmanac virtual environment must be provided. This script leverages `annotate-copy-numbers.py`, `annotate-variants.py`, and `annotate-fusions.py`, all found in this directory. Results are written to the `annotated/` directory.
+- `04.generate-cell-line-dictionary.ipynb` produces `cell-lines.pkl`, a file which contains most of the described outputs for quick reference by MOAlmanac.
+- `05.evaluate-matchmaking-models.py` tests models for patient-to-cell line matchmaking on cell lines with a hold-one-out approach. Models are written in `models.py` with metrics from `metrics.py` and illustrates results with plots from `plots.py`. Summary outputs are written to `tables/`, some files were over the Github limit so I could not add them to this repository but if you cannot reproduce the output please let me know and I am happy to send it to you. This will also likely take tens of minutes to run.
+- `06.evaluate-monkey-matchmaking.ipynb` shuffles cell line pairs over 100,000 seeds to calculate the [mean average precision](https://github.com/vanallenlab/moalmanac-paper/blob/main/analyses/preclinical/docs/matchmaking-evaluation-metrics.pdf) across all seeds. Outputs are also written to `tables/`.
+- `07.model.significance.ipynb` compares two patient-to-cell line matchmaking models to see if they are in the [noise range of one another](https://github.com/vanallenlab/moalmanac-paper/blob/main/analyses/preclinical/docs/matchmaking-evaluation-metrics.pdf).  
+- `08.create-model-performance-tables.ipynb` performs calculations from the above notebook in a pairwise fashion across all tested models. Results are written to `tables/pairwise-model-comparison.txt`.
+- `09.visualize-models.ipynb` plots results from select models to `img/`. 
+- `10.recurrent-neighbors-retrospective-cohorts.ipynb` explores results from applying patient-to-cell line matchmaking to the retrospective cohorts of patients with metastatic melanoma and metastatic castration-resistant prostate cancer. Some figures are produced, all written to the `figures/` folder in this repository's root directory.
+- `11.nearest-neighbors-prospective-cohort.ipynb` explores results from applying patient-to-cell line matchmaking to the prospective cohort, outputs written to `tables/ipredict/`.
+- `12.sensitivity-in-cell-lines.ipynb` explores sensitivity of catalogued relationships between genomic alterations and therapies in cancer cell lines, outputs written to `tables/sensitivity/`.
 
-## Summary of files present in this directory
-
-
-## Patient - preclinical model matchmaking
-Clinical interpretation is inheritantly a field that is very dependent on retrospective cataloging of literature. We wondered if there was a way to directly leverage other molecular profiles to provide additional clinical hypotheses to case samples. As clinically annotated biopsies from humans are difficult to come by, we turned to cancer cell lines as they are abudent and have been characterized by high throughput drug screens. In a nearest neighbor fashion, could we sort cell lines such that their nearest neighbor shared a therapeutic sensitivity? 
-
-### Sample processing
-Cancer cell lines were processed and filtered in the methodology's source repository, resulting in 452 cancer cell lines for production and 377 cancer cell lines that are sensitive to at least one therapy and share sensitivity with at least one other cell line. 
-
-### Similarity models between molecular profiles
-Molecular features were vectorized, turned into sample x feature maticies, depending on the model chosen to characterize similarity or genomic distance between samples. In general, features sets were designed using the gene sets from the Cancer Gene Census and MOAlmanac. 
-
-Code for all models are found in `models.py` and they can be run and evaluated by running `evaluate-matchmaking-models.py`. Features and distances are found under the `tables/` folder in this repository, as well as a file detailing a description and performance of all models `INSERT FILE NAME HERE.TXT`. To name a few,
-
-- Jaccard of CGC genes: We sort by agreement based measure (jaccard) by considering any alteration in a Cancer Gene Census gene.
-
-- Nonsynonymous variant count: We assign neighbors based on the absolute value of the difference of the number of coding somatic variants. This is a proxy for mutational burden, because we do not have the number of somatic bases considered when calling variants to use a denominator.
-
-- Similarity Network Fusion of CGC genes and FDA approved features: We perform similarity network fusion (SNF, [Wang et al. 2014, Nature Methods](https://www.nature.com/articles/nmeth.2810)) using the [python implementation by Ross Markello](https://github.com/rmarkello/snfpy) to fuse networks that contain (1) CGC genes that contain a somatic variant, (2) CGC genes that contain a copy number alteration, (3) CGC genes that contain a rearrangement, (4) and MOAlmanac features associated with an FDA approval. This was our best performing similarity metric.  
-
-A random model is also generated by shuffling cell lines against one another in the `06.evaluate-monkey-matchmaking.ipynb` jupyter notebook.
-
-### Evaluating models
-We aim to sort cell lines relative to a case sample based on genomic similarity, such that the nearest neighbor will share therapeutic sensitivity. This is not a usual nearest neighbor classification problem, so we instead decided to use evaluation metrics from [information retrieval](https://web.stanford.edu/class/cs276/handouts/EvaluationNew-handout-1-per.pdf): precision at rank, recall at rank, average precision (AP), average precision at rank, and mean average precision (mAP). Pairwise relationships between cell lines are deemed as relevant, as a boolean value, if the two share therapeutic sensitivity to at least one therapy. If we had a set of therapeutic tests that were complete, every cell line tested with every therapy, we could change the relevance from a boolean value to float, based on the number of shared therapies, and implement an evaluation metric such as Discounted Cumulative Gain (DCG) or Normalized DCG (NDCG). Evaluation metrics for models are available in `metrics.py` and they are run automatically on all models when running `evaluate-matchmaking-models.py`. 
-
-Models are compared against one another, to see one is within the noise range of the other, by:
-- Selecting the difference in mAP as the test statistic (delta mAP)
-- Permuting the average precision at rank values between the two models
-- Calculating a new mAP and delta mAP values, recording the new delta mAP
-- A distribution of delta mAP values is created over 10,000 iterations. 
-- The original delta mAP is compared to the distribution to generate a p-value
-
-Models can be compared against one another using the `model.signifigance.ipynb` jupyter notebook. This methodology was discovered from [Avinash Kak's signifigance testing tutorial titled, "Evaluating Information Retrieval Algorithms with Significance Testing Based on Randomization and Student’s Paired t-Test"](https://engineering.purdue.edu/kak/SignificanceTesting.pdf)
-
-## Preclinical efficacy of cataloged relationships
+For a more detailed explanation of methods and results, please refer to the [preprint publication](https://www.biorxiv.org/content/10.1101/2020.09.22.308833v1) or reach out with additional questions!
 
 ## References
-1. [Ghandi, M. et al. Next-generation characterization of the Cancer Cell Line Encyclopedia. Nature 569, 503–508 (2019)](https://www.nature.com/articles/s41586-019-1186-3)
-2. [GDSC](https://academic.oup.com/nar/article/41/D1/D955/1059448)
-3. [CGC]()
-4. [SNF](https://www.nature.com/articles/nmeth.2810)
-5. [Stanford CS276](https://web.stanford.edu/class/cs276/handouts/EvaluationNew-handout-1-per.pdf)
-6. [Purdue](https://engineering.purdue.edu/kak/SignificanceTesting.pdf)
+1. [Ghandi, M. et al. Next-generation characterization of the Cancer Cell Line Encyclopedia. Nature 569, 503–508 (2019).](https://www.nature.com/articles/s41586-019-1186-3)
+2. [Yang, W. et al. Genomics of Drug Sensitivity in Cancer (GDSC): a resource for therapeutic biomarker discovery in cancer cells. Nucleic Acids Res. 41, D955–61 (2013).](https://academic.oup.com/nar/article/41/D1/D955/1059448)
+3. [Sondka, Z. et al. The COSMIC Cancer Gene Census: describing genetic dysfunction across all human cancers. Nat. Rev. Cancer 18, 696–705 (2018).](https://www.nature.com/articles/s41568-018-0060-1)
+4. [Wang, B. et al. Similarity network fusion for aggregating data types on a genomic scale. Nat. Methods 11, 333–337 (2014).](https://www.nature.com/articles/nmeth.2810)
+5. [Stanford CS276, Introduction to Information Retrieval by Chris Manning and Pandu Nayak](https://web.stanford.edu/class/cs276/handouts/EvaluationNew-handout-1-per.pdf)
+6. [Purdue, Significance Testing Tutorial by Avi Kak](https://engineering.purdue.edu/kak/SignificanceTesting.pdf)
