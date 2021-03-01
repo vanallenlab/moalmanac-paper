@@ -1,0 +1,1290 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Putatively Actionable			Putatively Actionable	Copy Number	RB1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		4	1	1	1	1	1	1
+Putatively Actionable	Putatively Actionable			Copy Number	BRCA2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		4	1	0	1	1	1	1
+Putatively Actionable	Investigate Actionability	Putatively Actionable		Copy Number	MIR17HG	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		4	0	0	0	0	0	0
+Biologically Relevant				Copy Number	FLT3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		1	1	0	1	1	1	1
+Biologically Relevant				Copy Number	AKT3	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		1	1	0	1	1	1	1
+Biologically Relevant				Copy Number	EZH2	Amplification		7	148485397	148514726.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		1	1	0	1	0	1	1
+Biologically Relevant				Copy Number	ERRFI1	Deletion		1	7309299	8617834.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		1	1	0	0	0	1	1
+Cancer Hotspot				Copy Number	FOXO1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	1	0	1	1	1	1
+Cancer Hotspot				Copy Number	FH	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	1	0	1	1	1	1
+Cancer Hotspot				Copy Number	CYSLTR2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	1	0	1	0	0	1
+Cancer Hotspot				Copy Number	DIS3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	1	0	0	0	1	1
+Cancer Hotspot				Copy Number	IRS2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	1	0	0	0	1	1
+Cancer Hotspot 3D				Copy Number	STK24	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	2	0	0	1	1
+Cancer Hotspot 3D				Copy Number	FGF9	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	1	0	1	1	1
+Cancer Hotspot 3D				Copy Number	CUL1	Amplification		7	148485397	148514726.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	1	0	1	0	1
+Cancer Hotspot 3D				Somatic Variant	PLG	Missense	p.F516S	6	161152885	161152885.0	T	T	C	0.0183	164.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-MNTF071	Osteosarcoma-MNTF071-Tumor-SM-2RCBC	Osteosarcoma-MNTF071-Normal-SM-2RCCR	0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	CPB2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	F7	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	PTPN1	Amplification		20	49177648	50071477.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	ATP4A	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	FLT1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	CDK8	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	RYR2	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	CFHR3	Deletion		1	196743765	196796387.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	1	0	0	1	1
+Cancer Gene Census				Somatic Variant	PICALM	Missense	p.T425I	11	85701427	85701427.0	G	G	A	0.069	58.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-MNTF071	Osteosarcoma-MNTF071-Tumor-SM-2RCBC	Osteosarcoma-MNTF071-Normal-SM-2RCCR	0	0	0	1	0	1	2
+Cancer Gene Census				Copy Number	ERCC5	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	LSM14A	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	GPC5	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	CDX2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	LCP1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	SOX21	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	RGS7	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	SALL4	Amplification		20	50090265	50782816.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	1	0	0	1
+Cancer Gene Census				Copy Number	NFATC2	Amplification		20	49177648	50071477.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	1	0	0	1
+Cancer Gene Census				Copy Number	NBEA	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	1	0	0	1
+Cancer Gene Census				Copy Number	LHFP	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	1	0	0	1
+Cancer Gene Census				Copy Number	CAMTA1	Deletion		1	7309299	8617834.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	1	0	0	1
+Cancer Pathway				Somatic Variant	ETS1	Missense	p.P9L	11	128391864	128391864.0	G	G	A	0.1194	67.0	0.0	0.0		0								40.0	0.075	0.7195		Osteosarcoma-MNTF071	Osteosarcoma-MNTF071-Tumor-SM-2RCBC	Osteosarcoma-MNTF071-Normal-SM-2RCCR	0	0	0	0	1	1	2
+Cancer Pathway				Copy Number	EXO1	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	COL4A1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	COL4A2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	LILRB3	Amplification		19	54725476	54727100.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	MAG	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	RFC3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	TFDP1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	CCNA1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	ACTN2	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	1	1	1
+Cancer Pathway				Somatic Variant	MAPK3	Missense	p.R67C	16	30133212	30133212.0	G	G	A	0.0405	74.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-MNTF071	Osteosarcoma-MNTF071-Tumor-SM-2RCBC	Osteosarcoma-MNTF071-Normal-SM-2RCCR	0	0	0	0	1	0	2
+Cancer Pathway				Copy Number	GPI	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	1	0	1
+Cancer Pathway				Copy Number	FGF14	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	1	0	1
+Cancer Pathway				Copy Number	CDC16	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	1	0	1
+Cancer Pathway				Copy Number	TNFRSF9	Deletion		1	7309299	8617834.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	1	0	1
+Cancer Module				Somatic Variant	ALKBH4	Missense	p.H260Y	7	102097972	102097972.0	G	G	A	0.1579	57.0	0.0	0.0		0								49.0	0.2449	0.9296		Osteosarcoma-MNTF071	Osteosarcoma-MNTF071-Tumor-SM-2RCBC	Osteosarcoma-MNTF071-Normal-SM-2RCCR	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ATP11A	Missense	p.S169N	13	113470461	113470461.0	G	G	A	0.0526	57.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-MNTF071	Osteosarcoma-MNTF071-Tumor-SM-2RCBC	Osteosarcoma-MNTF071-Normal-SM-2RCCR	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ITGAX	Missense	p.H516Y	16	31374531	31374531.0	C	C	T	0.126	262.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-MNTF071	Osteosarcoma-MNTF071-Tumor-SM-2RCBC	Osteosarcoma-MNTF071-Normal-SM-2RCCR	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SLC12A5	Missense	p.S360I	20	44671804	44671804.0	G	G	T	0.0789	380.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-MNTF071	Osteosarcoma-MNTF071-Tumor-SM-2RCBC	Osteosarcoma-MNTF071-Normal-SM-2RCCR	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	CSE1L	Nonsense	p.E860*	20	47710807	47710807.0	G	G	T	0.1667	90.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-MNTF071	Osteosarcoma-MNTF071-Tumor-SM-2RCBC	Osteosarcoma-MNTF071-Normal-SM-2RCCR	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	KANK1	Insertion	p.253_253T>TNT	9	711522	711523.0	-	-	ACCAAC	0.0449	89.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-MNTF071	Osteosarcoma-MNTF071-Tumor-SM-2RCBC	Osteosarcoma-MNTF071-Normal-SM-2RCCR	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	PYCRL	Missense	p.G250R	8	144687983	144687983.0	C	C	G	0.0267	150.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-MNTF071	Osteosarcoma-MNTF071-Tumor-SM-2RCBC	Osteosarcoma-MNTF071-Normal-SM-2RCCR	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	NAALADL1	Missense	p.G259R	11	64821816	64821816.0	C	C	T	0.2759	87.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-MNTF071	Osteosarcoma-MNTF071-Tumor-SM-2RCBC	Osteosarcoma-MNTF071-Normal-SM-2RCCR	0	0	0	0	0	1	1
+Cancer Module				Copy Number	PARP4	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ATP7B	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LGALS8	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LMO7	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	AHCTF1	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FAM65C	Amplification		20	49177648	50071477.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MYO16	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SETDB2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC10A2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	UGGT2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	USPL1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZMYM5	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ERO1LB	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	MYO9A	Fusion	MYO9A--UBE2Q2	chr15	72410021							0.0	0.0		0	6.0	MYO9A	chr15	72410021.0	UBE2Q2	chr15	76146727.0					Osteosarcoma-MNTF071			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	COL6A2	Fusion	COL1A2--COL6A2	chr7	94035615							0.0	0.0		0	11.0	COL1A2	chr7	94035615.0	COL6A2	chr21	47544565.0					Osteosarcoma-MNTF071			0	0	0	0	0	1	1
+Cancer Module				Copy Number	PDCD2L	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ETV2	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PIBF1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NEK3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NUPL1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	OLFM4	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PCDH8	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MTMR6	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SUCLA2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SGCG	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC25A15	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TBC1D4	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TPTE2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	IFT88	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ING1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KIAA0226L	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GRTP1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CKAP2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CLYBL	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ATP11A	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LSP1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LAMP1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NID1	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MTR	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EDARADD	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	COL1A2	Fusion	COL1A2--COL6A2	chr7	94035615							0.0	0.0		0	11.0	COL1A2	chr7	94035615.0	COL6A2	chr21	47544565.0					Osteosarcoma-MNTF071			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	COL1A2	Fusion	MT-ND6--COL1A2	chrM	14332							0.0	0.0		0	45.0	MT-ND6	chrM	14332.0	COL1A2	chr7	94056994.0					Osteosarcoma-MNTF071			0	0	0	0	0	1	1
+Cancer Module				Copy Number	ADNP	Amplification		20	49177648	50071477.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DPM1	Amplification		20	49177648	50071477.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MOCS3	Amplification		20	49177648	50071477.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	BCAS4	Amplification		20	49177648	50071477.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PARD6B	Amplification		20	49177648	50071477.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GNG11	Amplification		7	93055416	93555780.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TFPI2	Amplification		7	93055416	93555780.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NNAT	Amplification		20	36150508	36407989.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RBFOX1	Amplification		16	7567897	7743621.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ATP9A	Amplification		20	50090265	50782816.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CD22	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HPN	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GAPDHS	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SCN1B	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FXYD7	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FXYD3	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FXYD1	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GRAMD1A	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	COX6B1	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RBM42	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TMEM147	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	UBA2	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RNF219	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	POSTN	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	POU4F1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PROZ	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	N4BP2L1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NAA16	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NUDT15	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	OXGR1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PABPC3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PCCA	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PCDH17	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NALCN	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PCDH9	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RAB20	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RAP2A	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MRP63	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RASA3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MYCBP2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RCBTB2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MRPS31	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ABCC4	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SOHLH2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SOX1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SPG20	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SCEL	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC15A1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLITRK1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLITRK5	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	UCHL3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	UFM1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	UPF3A	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	VPS36	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	WASF3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	WBP4	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	XPO4	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZIC2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	UBL3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	THSD1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TNFSF11	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TPP2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TPT1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TRIM13	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TSC22D1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TUBA3C	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RPL21	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EFNB2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ENOX1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EXOSC8	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	F10	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FBXL3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EDNRB	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DZIP1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CRYL1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CUL4A	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DCLK1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DCT	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DHRS12	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DLEU1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DNAJC3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HMGB1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HSPH1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HTR2A	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	IPO5	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ITGBL1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KATNAL1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KCTD12	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KDELC1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KLF12	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KLF5	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GTF3A	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GAS6	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GJB2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GPR18	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GPR183	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GRK1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GTF2F2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ADPRHL1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CDADC1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CENPJ	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CLDN10	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CLN5	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ALOX5AP	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ARGLU1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ATP12A	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ATP8A2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	BIVM	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MBNL2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LPAR6	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MCF2L	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LIG4	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LECT1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MED4	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NLRP3	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNF124	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ADSS	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GPR137B	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EFCAB2	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KIF26B	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SCCPDH	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CHRM3	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CHML	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KMO	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HNRNPU	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RERE	Deletion		1	7309299	8617834.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SRP54	Deletion		14	35468512	35565877.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNF345	Deletion		19	37398579	37620212.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CSTF3	Deletion		11	33127504	33183123.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CFHR1	Deletion		1	196743765	196796387.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	TPST1	Fusion	TPST1--GS1-124K5.4	chr7	65751696							0.0	0.0		0	6.0	TPST1	chr7	65751696.0	GS1-124K5.4	chr7	65960242.0					Osteosarcoma-MNTF071			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	SRP54	Fusion	SRP54--KIAA0391	chr14	35452421							0.0	0.0		0	5.0	SRP54	chr14	35452421.0	KIAA0391	chr14	35595941.0					Osteosarcoma-MNTF071			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	LINGO1	Fusion	PEAK1--LINGO1	chr15	77712348							0.0	0.0		0	8.0	PEAK1	chr15	77712348.0	LINGO1	chr15	78027395.0					Osteosarcoma-MNTF071			0	0	0	0	0	1	1
+Cancer Module				Copy Number	DLEU2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	0
+Cancer Module				Copy Number	CHAMP1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	1	0
+Cosmic				Somatic Variant	CDC42SE1	Missense	p.W73L	1	151026745	151026745.0	C	C	A	0.0911	428.0	0.0	0.0		0								179.0	0.1844	0.9998		Osteosarcoma-MNTF071	Osteosarcoma-MNTF071-Tumor-SM-2RCBC	Osteosarcoma-MNTF071-Normal-SM-2RCCR	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	CXXC1	Missense	p.D300H	18	47811386	47811386.0	C	C	G	0.165	103.0	0.0	0.0		0								63.0	0.3175	0.9868		Osteosarcoma-MNTF071	Osteosarcoma-MNTF071-Tumor-SM-2RCBC	Osteosarcoma-MNTF071-Normal-SM-2RCCR	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	SPOCD1	Missense	p.P588L	1	32265430	32265430.0	G	G	A	0.09699999999999999	134.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-MNTF071	Osteosarcoma-MNTF071-Tumor-SM-2RCBC	Osteosarcoma-MNTF071-Normal-SM-2RCCR	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	TMEM89	Missense	p.L122V	3	48658391	48658391.0	G	G	C	0.3165	79.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-MNTF071	Osteosarcoma-MNTF071-Tumor-SM-2RCBC	Osteosarcoma-MNTF071-Normal-SM-2RCCR	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	RUSC2	Missense	p.F965L	9	35556355	35556355.0	T	T	C	0.0263	114.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-MNTF071	Osteosarcoma-MNTF071-Tumor-SM-2RCBC	Osteosarcoma-MNTF071-Normal-SM-2RCCR	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ASB9	Missense	p.S114R	X	15270467	15270467.0	G	G	C	0.1842	114.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-MNTF071	Osteosarcoma-MNTF071-Tumor-SM-2RCBC	Osteosarcoma-MNTF071-Normal-SM-2RCCR	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	JAKMIP3	Missense	p.A164T	10	133930935	133930935.0	G	G	A	0.1235	81.0	1.6e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-MNTF071	Osteosarcoma-MNTF071-Tumor-SM-2RCBC	Osteosarcoma-MNTF071-Normal-SM-2RCCR	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	SDCCAG8	Missense	p.E200K	1	243456444	243456444.0	G	G	A	0.0323	93.0	2.5e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-MNTF071	Osteosarcoma-MNTF071-Tumor-SM-2RCBC	Osteosarcoma-MNTF071-Normal-SM-2RCCR	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	C5orf42	Missense	p.Y3026C	5	37120389	37120389.0	T	T	C	0.2623	61.0	1.6e-05	0.0		0								44.0	0.25	0.9940000000000001		Osteosarcoma-MNTF071	Osteosarcoma-MNTF071-Tumor-SM-2RCBC	Osteosarcoma-MNTF071-Normal-SM-2RCCR	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	DNAH2	Missense	p.L3300M	17	7720611	7720611.0	C	C	A	0.0806	62.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-MNTF071	Osteosarcoma-MNTF071-Tumor-SM-2RCBC	Osteosarcoma-MNTF071-Normal-SM-2RCCR	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	SACS	Missense	p.P4435L	13	23904711	23904711.0	G	G	A	0.0395	76.0	1.6e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-MNTF071	Osteosarcoma-MNTF071-Tumor-SM-2RCBC	Osteosarcoma-MNTF071-Normal-SM-2RCCR	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	KIF16B	Missense	p.A742G	20	16360422	16360422.0	G	G	C	0.0299	134.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-MNTF071	Osteosarcoma-MNTF071-Tumor-SM-2RCBC	Osteosarcoma-MNTF071-Normal-SM-2RCCR	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	C1orf112	Missense	p.K824R	1	169822037	169822037.0	A	A	G	0.018000000000000002	167.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-MNTF071	Osteosarcoma-MNTF071-Tumor-SM-2RCBC	Osteosarcoma-MNTF071-Normal-SM-2RCCR	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	MSRB2	Missense	p.T119A	10	23408291	23408291.0	A	A	G	0.0349	86.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-MNTF071	Osteosarcoma-MNTF071-Tumor-SM-2RCBC	Osteosarcoma-MNTF071-Normal-SM-2RCCR	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	JAKMIP3	Missense	p.A164D	10	133930936	133930936.0	C	C	A	0.125	80.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-MNTF071	Osteosarcoma-MNTF071-Tumor-SM-2RCBC	Osteosarcoma-MNTF071-Normal-SM-2RCCR	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	SPIRE1	Missense	p.D268Y	18	12512458	12512458.0	C	C	A	0.2366	93.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-MNTF071	Osteosarcoma-MNTF071-Tumor-SM-2RCBC	Osteosarcoma-MNTF071-Normal-SM-2RCCR	0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2T12	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	HEATR1	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2L8	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2T4	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2T34	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2W3	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DMKN	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF30	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2M7	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR11L1	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2G3	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2T8	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR6F1	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LILRA6	Amplification		19	54725476	54727100.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NLRP8	Amplification		19	56312686	56600713.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LATS2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2G2	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR14I1	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR14C36	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2B11	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	WDR64	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FMN2	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2T33	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2T29	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2T27	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CALCR	Amplification		7	93055416	93555780.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	UPK1A	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF787	Amplification		19	56312686	56600713.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NLRP5	Amplification		19	56312686	56600713.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RNF17	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	N4BP2L2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SPACA7	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SPERT	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SACS	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ELF1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FREM2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	COG3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	COG6	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2M2	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR14A16	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2C3	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF695	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2T5	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PER3	Deletion		1	7309299	8617834.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF585A	Deletion		19	37398579	37620212.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	BBS4	Fusion	NRG4--BBS4	chr15	76301541							0.0	0.0		0	5.0	NRG4	chr15	76301541.0	BBS4	chr15	73020281.0					Osteosarcoma-MNTF071			0	0	0	0	0	0	1
+Cosmic				Copy Number	FXYD5	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FFAR1	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FFAR3	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF792	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NLRP11	Amplification		19	56312686	56600713.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NLRP13	Amplification		19	56312686	56600713.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PSPC1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MZT1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NUFIP1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PCDH20	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MTUS2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MTIF3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RCBTB1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SPRY2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SKA3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC46A3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	UTP14C	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZC3H13	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZIC5	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMTC4	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TNFRSF19	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM124A	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CSNK1A1L	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DAOA	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DIAPH3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	HNRNPA1L2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GJA3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C1QTNF9	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	B3GALTL	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KPNA3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FRY	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRCH1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LNX2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MIPEP	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	METTL21C	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2T1	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2AK2	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2G6	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2L2	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TRIM58	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2T2	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2T6	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CNST	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2T3	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	UTS2	Deletion		1	7309299	8617834.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC45A1	Deletion		1	7309299	8617834.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF568	Deletion		19	37398579	37620212.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TCP11L1	Deletion		11	33127504	33183123.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SATB2	Deletion		2	200136682	200298489.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	ODF2	Fusion	ODF2--ZER1	chr9	131235321							0.0	0.0		0	5.0	ODF2	chr9	131235321.0	ZER1	chr9	131517938.0					Osteosarcoma-MNTF071			0	0	0	0	0	0	1
+Cosmic				Rearrangement	CHSY3	Fusion	CHSY3--HSPA8P4	chr5	129244053							0.0	0.0		0	5.0	CHSY3	chr5	129244053.0	HSPA8P4	chr5	129476585.0					Osteosarcoma-MNTF071			0	0	0	0	0	0	1
+Cosmic				Rearrangement	ANTXR2	Fusion	ANTXR2--RP11-776A13.3	chr4	80898775							0.0	0.0		0	8.0	ANTXR2	chr4	80898775.0	RP11-776A13.3	chr12	30397338.0					Osteosarcoma-MNTF071			0	0	0	0	0	0	1
+Cosmic				Rearrangement	KIAA0391	Fusion	SRP54--KIAA0391	chr14	35452421							0.0	0.0		0	5.0	SRP54	chr14	35452421.0	KIAA0391	chr14	35595941.0					Osteosarcoma-MNTF071			0	0	0	0	0	0	1
+Cosmic				Copy Number	KCNG1	Amplification		20	49177648	50071477.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GNGT1	Amplification		7	93055416	93555780.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	BLCAP	Amplification		20	36150508	36407989.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CTNNBL1	Amplification		20	36150508	36407989.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZFP64	Amplification		20	50090265	50782816.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM187B	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SBSN	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FFAR2	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	HAMP	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTDAP	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LGI4	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GPR42	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KIAA0355	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	HAUS5	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF181	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF599	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF302	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	WTIP	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LSR	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	USF2	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NLRP4	Amplification		19	56312686	56600713.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RNASEH2B	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RNF113B	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RNF6	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NEK5	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	N6AMT2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PDS5B	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PDX1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PHF11	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	POLR1D	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	POMP	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRR20B	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRR20C	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRR20D	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRR20E	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PCID2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PAN3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NDFIP2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NHLRC3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MLNR	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MPHOSPH8	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ABHD13	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RASL11A	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RBM26	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MTRF1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RFXAP	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SPATA13	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SPRYD7	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	STARD13	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	STOML3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SUGT1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SUGT1P3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SERP2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SERPINE3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SHISA2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SIAH3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLAIN1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC25A30	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC7A1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLITRK6	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SMAD9	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SMIM2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TDRD3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	USP12	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	WDFY2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZAR1L	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZDHHC20	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZMYM2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	UBAC2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TUBGCP3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TEX30	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TGDS	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TM9SF2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMCO3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TNFSF13B	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TRPC4	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SAP18	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RXFP2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	EPSTI1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ESD	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM155A	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM194B	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FARP1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	EBPL	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DACH1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DCUN1D2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DGKH	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DLEU7	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DNAJC15	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DOCK9	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FNDC3A	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	HS6ST3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IL17D	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	INTS6	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IRG1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ITM2B	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KBTBD6	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KBTBD7	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KCNRG	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KCTD4	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KL	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KLHL1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GJB6	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GPC6	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GPR12	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GPR180	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GSX1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	COMMD6	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	COL4A2-AS2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	AL445989.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	AKAP11	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ALG11	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ALG5	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C1QTNF9B	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CAB39L	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CARKD	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CARS2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCDC122	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCDC169	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCDC70	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ANKRD10	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ARHGEF7	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ARL11	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ATP4B	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ATP5EP2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C13orf35	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MAB21L1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRRC63	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LINC00544	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LINC00346	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OPN3	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2L3	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2M3	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2T11	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2M5	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SH3BP5L	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2M4	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2T10	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2AJ1	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR1C1	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR14K1	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SMYD3	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR13G1	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR14A2	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C1orf100	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C1orf101	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C1orf229	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2L13	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF496	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF669	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF670	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF672	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF692	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TFB2M	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SDCCAG8	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LYST	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MAP1LC3C	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CEP170	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZP4	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GREM2	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PGBD2	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PLD5	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2T35	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2W5	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	COX20	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	VAMP3	Deletion		1	7309299	8617834.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM177A1	Deletion		14	35468512	35565877.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PPP2R3C	Deletion		14	35468512	35565877.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF829	Deletion		19	37398579	37620212.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF420	Deletion		19	37398579	37620212.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SPDYE3	Deletion		7	99906347	99911231.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	SLC2A10	Fusion	SLC2A10--ZFP64	chr20	45355625							0.0	0.0		0	66.0	SLC2A10	chr20	45355625.0	ZFP64	chr20	50782564.0					Osteosarcoma-MNTF071			0	0	0	0	0	0	1
+Cosmic				Rearrangement	NRG4	Fusion	NRG4--BBS4	chr15	76301541							0.0	0.0		0	5.0	NRG4	chr15	76301541.0	BBS4	chr15	73020281.0					Osteosarcoma-MNTF071			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND6	Fusion	MT-ND6--MT-TE	chrM	14484							0.0	0.0		0	49.0	MT-ND6	chrM	14484.0	MT-TE	chrM	14696.0					Osteosarcoma-MNTF071			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND6	Fusion	MT-ND6--COL1A2	chrM	14332							0.0	0.0		0	45.0	MT-ND6	chrM	14332.0	COL1A2	chr7	94056994.0					Osteosarcoma-MNTF071			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4	Fusion	MT-ND4--MT-ND4L	chrM	10839							0.0	0.0		0	30.0	MT-ND4	chrM	10839.0	MT-ND4L	chrM	10622.0					Osteosarcoma-MNTF071			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CO3	Fusion	MT-CO3--MT-ATP6	chrM	9399							0.0	0.0		0	9.0	MT-CO3	chrM	9399.0	MT-ATP6	chrM	9200.0					Osteosarcoma-MNTF071			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-ATP6--MT-ATP8	chrM	8707							0.0	0.0		0	50.0	MT-ATP6	chrM	8707.0	MT-ATP8	chrM	8415.0					Osteosarcoma-MNTF071			0	0	0	0	0	0	1
+Cosmic				Rearrangement	ST7	Fusion	ST7-OT4--ST7	chr7	116595207							0.0	0.0		0	9.0	ST7-OT4	chr7	116595207.0	ST7	chr7	116739816.0					Osteosarcoma-MNTF071			0	0	0	0	0	0	1
+Cosmic				Rearrangement	ZFP64	Fusion	SLC2A10--ZFP64	chr20	45355625							0.0	0.0		0	66.0	SLC2A10	chr20	45355625.0	ZFP64	chr20	50782564.0					Osteosarcoma-MNTF071			0	0	0	0	0	0	1
+Cosmic				Rearrangement	ZER1	Fusion	ODF2--ZER1	chr9	131235321							0.0	0.0		0	5.0	ODF2	chr9	131235321.0	ZER1	chr9	131517938.0					Osteosarcoma-MNTF071			0	0	0	0	0	0	1
+Cosmic				Rearrangement	UBE2Q2	Fusion	MYO9A--UBE2Q2	chr15	72410021							0.0	0.0		0	6.0	MYO9A	chr15	72410021.0	UBE2Q2	chr15	76146727.0					Osteosarcoma-MNTF071			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4L	Fusion	MT-ND4--MT-ND4L	chrM	10839							0.0	0.0		0	30.0	MT-ND4	chrM	10839.0	MT-ND4L	chrM	10622.0					Osteosarcoma-MNTF071			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-CO3--MT-ATP6	chrM	9399							0.0	0.0		0	9.0	MT-CO3	chrM	9399.0	MT-ATP6	chrM	9200.0					Osteosarcoma-MNTF071			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP8	Fusion	MT-ATP6--MT-ATP8	chrM	8707							0.0	0.0		0	50.0	MT-ATP6	chrM	8707.0	MT-ATP8	chrM	8415.0					Osteosarcoma-MNTF071			0	0	0	0	0	0	1
+VUS				Copy Number	VWA8	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	PROSER1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	SUPT20H	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	URAD	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LACC1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MEDAG	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3194	Amplification		20	49177648	50071477.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL034553.1	Amplification		20	49177648	50071477.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL035457.1	Amplification		20	49177648	50071477.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL079339.1	Amplification		20	49177648	50071477.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL133228.1	Amplification		20	49177648	50071477.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1302-5	Amplification		20	49177648	50071477.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR645	Amplification		20	49177648	50071477.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-530I15.6	Amplification		20	49177648	50071477.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-530I15.9	Amplification		20	49177648	50071477.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-914P20.5	Amplification		20	49177648	50071477.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-955M13.4	Amplification		20	49177648	50071477.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR489	Amplification		7	93055416	93555780.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR653	Amplification		7	93055416	93555780.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4652	Amplification		7	93055416	93555780.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC002076.10	Amplification		7	93055416	93555780.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-83J4.1	Amplification		19	54725476	54727100.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00489	Amplification		20	36150508	36407989.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-640H8.2	Amplification		20	36150508	36407989.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-26O3.1	Amplification		16	7567897	7743621.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL603P	Amplification		20	50090265	50782816.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-347P	Amplification		20	50090265	50782816.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-6P	Amplification		20	50090265	50782816.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1112F19.2	Amplification		20	50090265	50782816.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	HPN-AS1	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	SCGB1B2P	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	SCGB2B2	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL154P	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD111	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00904	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-618P17.4	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL491P	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2588C8.8	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2553L13.4	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2527I21.9	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2527I21.7	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2527I21.4	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2527I21.14	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-523E23.8	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-523E23.5	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-523E23.4	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL765P	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-523E23.15	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-523E23.14	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-523E23.11	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-523E23.1	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-523E23.6	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC002511.3	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC010504.2	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC020907.1	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC020910.1	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AD000090.2	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AD000684.2	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	U62631.5	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC008747.1	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR5196	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC002115.9	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC002115.5	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC002128.5	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC002511.2	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC002511.1	Amplification		19	34710044	36164699.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHG2	Amplification		14	106090563	106204432.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHA1	Amplification		14	106090563	106204432.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL928768.3	Amplification		14	106090563	106204432.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHG4	Amplification		14	106090563	106204432.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL901608.1	Amplification		14	106090563	106204432.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHG1	Amplification		14	106090563	106204432.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-731F5.2	Amplification		14	106090563	106204432.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2621I17.6	Amplification		19	56312686	56600713.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP30	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP31	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP29	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4703	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-77P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP27	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP32	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP33	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP34	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4502	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP35	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP36	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-75P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP37	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4500HG	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP28	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-70P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP26	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP25	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL571P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR5007	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL585P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL597P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR5006	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL60P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL618P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL700P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4705	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL741P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL761P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4704	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL766P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL783P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL80P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL810P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP38	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4500	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4305	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP39	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU5A-4P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-38P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-51P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-53P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-72P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-54P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-56P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-57P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-58P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-59P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-60P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-61P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-62P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-63P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-64P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-65P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-66P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-67P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-71P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-68P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-73P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU4ATAC3P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4499	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU4-9P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4306	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNASEH2B-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-69P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNF219-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3665	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3613	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR320D1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU1-16P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-74P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL515P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU1-24P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU2-6P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU2-7P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU4-10P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL164P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL49P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	PCDH9-AS4	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	PDX1-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	PRR20A	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	PTMAP5	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MYO16-AS2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	PCDH9-AS3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL413P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	NDFIP2-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	PAN3-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	PCCA-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	NALCN-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	PCDH9-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	PCDH9-AS2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MYO16-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR759	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP10	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR623	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR622	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR621	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR5693	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR548X2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR548AS	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP5	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP6	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP7	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP8	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP9	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR548AR	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL166P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL272P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL288P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL289P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL320P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL375P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-78P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MYCBP2-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MTUS2-AS2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MTUS2-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RBM26-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MRPS31P5	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RGCC	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RASA3-IT1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-79P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	SPG20OS	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD27	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD31	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD44	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	SOX21-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	SPATA13-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	STARD13-AS	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	STARD13-IT1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	STK24-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	SUCLA2-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD22	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD116	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD102	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORA9	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	SERTM1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	SLC25A30-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	SMAD9-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	SMIM2-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	SMIM2-IT1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORA16	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	TBC1D4-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	UBAC2-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	USP12-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	USP12-AS2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	WASF3-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	ZDHHC20-IT1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	TEX26	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	TEX26-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	TEX29	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	TMEM255B	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	TPT1-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	TPTE2P1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	TPTE2P2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	TPTE2P5	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	TPTE2P6	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	SCEL-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-80P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-168P13.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY4P9	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY5P8	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-101P17.11	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-120E13.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3170	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-120K24.4	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-120K24.5	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-123H22.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-124N19.3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-141M1.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-141M1.3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-151A6.4	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-16D22.2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	SACS-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-172E9.2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-173B14.4	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-173B14.5	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-175B12.2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-179A7.2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-187A9.3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-189B4.6	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-196P2.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-199F6.4	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-203P2.2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-248G5.8	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-24B19.3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY4P31	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY4P30	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY4P29	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY4P28	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-81P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-82P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-83P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-87P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-88P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY1P1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY1P2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY1P3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY1P4	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY1P5	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY1P6	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY1P7	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY1P8	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY3P10	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY3P2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY3P3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY3P4	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY3P5	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY3P6	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY3P7	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY3P8	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY3P9	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY4P14	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY4P24	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY4P27	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-24B19.4	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-252M21.6	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-255P5.2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-408E5.5	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-452B18.2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-471M2.3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-473M10.3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-478K15.6	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-521J24.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-523H24.3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-52L5.6	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-545P6.2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-556N21.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-573N10.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-61K9.2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-629E24.2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-65D24.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-65D24.2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-65L19.4	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-71C5.2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-75N6.3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-78J21.4	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-811P12.3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-98F14.11	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP13-444H2.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RPS4XP16	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-450H6.3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-408E5.4	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-261P24.2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-397O8.7	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-266E6.3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-271M24.2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-279N8.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-290D2.3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-290D2.6	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-298P3.4	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-29B2.5	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-29G8.3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-29P20.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-307N16.6	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-307O13.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-309I15.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-30L8.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-318G21.4	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-321C24.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-327P2.5	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-332E3.2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-342C20.2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-363G2.4	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-37E23.5	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-37L2.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-383H17.4	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-385E5.5	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-394A14.2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-394A14.4	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-120K24.3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MYCBP2-AS2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3169	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	EEF1DP3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	ENOX1-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	ENOX1-AS2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	ESRRAP2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	F10-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	FAM155A-IT1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	FAM216B	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	FARP1-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	FGF14-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	FGF14-AS2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	FGF14-IT1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	EDNRB-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	DAOA-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	DCUN1D2-AS	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	DIAPH3-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	DIAPH3-AS2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	DLEU7-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	DNAJC3-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	DOCK9-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	DOCK9-AS2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	HNRNPA1P30	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	HTR2A-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	INTS6-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	GUCY1B2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	FREM2-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3168	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	FRY-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	GAS6-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	GAS6-AS2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	GGACT	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	GPALPP1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	GPC5-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	GPC5-AS2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	GPC5-IT1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	GPC6-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	GPC6-AS2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	GRTP1-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	CPB2-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL359538.2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL354720.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL354741.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL354764.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL354775.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL354806.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL354808.2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL354833.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL354833.2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL354833.3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL354896.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL355390.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL356750.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL359538.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL359736.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL390071.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL391384.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL445204.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL450423.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL512505.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL512655.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL583784.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL590007.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL590787.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL591925.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL596092.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL596329.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL162853.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL162711.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL162571.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL161898.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC000403.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL133318.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL136123.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL136160.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL136218.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL136302.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL137002.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL137118.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL138696.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL138706.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL138710.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL138815.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL138815.2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL138963.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL138999.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL139080.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL139318.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL139319.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL139328.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL139377.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL157931.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL159977.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL161421.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL161772.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL161891.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL603632.1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	CCDC168	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	CCDC169-SOHLH2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	CLDN10-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	CLYBL-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	CLYBL-AS2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	COL4A2-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	C1QTNF9B-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	C1QTNF9-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AMER2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AMER2-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	ANKRD10-IT1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	ANKRD20A19P	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	ARHGEF7-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	ARHGEF7-AS2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	ARHGEF7-IT1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	ARL2BPP3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	ATP11A-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	ATXN8OS	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	BIVM-ERCC5	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	BORA	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	C13orf45	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01079	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01069	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00430	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00431	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00433	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00434	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00437	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00440	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00441	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00443	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01076	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01075	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00444	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00445	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00446	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00448	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00562	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01074	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01073	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01072	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00449	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01071	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01070	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01077	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01078	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00428	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00415	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00403	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00404	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00564	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00407	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00410	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00411	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00412	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00421	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00423	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00424	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00426	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00427	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00452	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01068	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00454	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01044	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01043	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01040	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00545	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01039	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01038	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00551	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01034	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00554	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00676	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00555	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00556	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00621	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00563	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00598	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00557	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00572	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00558	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00571	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00567	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00566	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00543	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01046	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01058	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01067	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00561	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00456	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00457	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00458	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01066	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00459	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00460	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01065	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01055	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01047	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01053	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01052	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00560	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00559	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01050	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01049	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01048	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00462	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00539	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00402	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00565	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00401	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR16-1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00354	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR2276	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00355	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00358	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00359	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00400	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00362	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00375	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00363	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00364	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00365	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00366	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00370	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00371	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00353	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00352	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00351	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00284	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00297	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00327	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00330	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00331	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00332	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00333	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00343	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00345	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00347	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00348	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00350	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR2681	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00374	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00368	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00392	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00390	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00376	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00393	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00395	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00396	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MICU2	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	METTL21EP	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00397	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MED4-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00398	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00399	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MCF2L-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00391	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00283	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00385	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00384	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00378	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00379	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00380	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00381	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00382	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIPEPP3	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00383	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LATS2-AS1	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1267	Deletion		13	19747751	115092008.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	OR2L5	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	SMYD3-IT1	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU1-132P	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4428	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3916	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AKT3-IT1	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3123	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC099757.1	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC092782.1	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3124	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	ZBTB18	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	XX-CR54.3	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	XX-CR54.1	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1537	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL672294.1	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL646016.1	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL590483.1	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL445675.1	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL359983.1	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MTRNR2L11	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MT1HL1	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LYPD8	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LYST-AS1	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4677	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-439E19.7	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	GCSAML	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	GCSAML-AS1	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-385F5.4	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-385F5.5	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-407H12.8	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL148P	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-438F14.3	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-439E19.1	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-439E19.10	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-439E19.3	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-439E19.8	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-561I11.3	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-439E19.9	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-467I20.2	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-467I20.6	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-999P	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	DESI2	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-488L18.10	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-488L18.8	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-518L10.5	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-522M21.2	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-522M21.3	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-527D7.1	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-544D21.1	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-371I1.2	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-370K11.1	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-36N20.1	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-156E8.1	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-177F11.1	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-177F15.1	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-193H5.1	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-261C10.1	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-261C10.2	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-261C10.3	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-261C10.4	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-261C10.5	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP12	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-269F20.1	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-278H7.1	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-278H7.3	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-278H7.4	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP195	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-11N7.4	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP55	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-35L17.3	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-544D21.2	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-561I11.4	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-580N22.2	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	OR2T7	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1089P	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-940F7.2	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU5F-8P	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU5E-2P	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1205P	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU2-70P	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	CHRM3-AS2	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	CHRM3-AS1	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-567G24.3	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1139P	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-80B9.1	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-968P	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-947P	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-62I21.1	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-634B7.4	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-634B7.5	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-747P	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	HNRNPU-AS1	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-725P	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-690C23.2	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-80B9.4	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-83A16.1	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-978I15.10	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-691P	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP81	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP82	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	LGALS8-AS1	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1283P	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-136B18.2	Deletion		1	235920329	249212814.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-991P	Deletion		1	7309299	8617834.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL729P	Deletion		1	7309299	8617834.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-431K24.1	Deletion		1	7309299	8617834.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-431K24.4	Deletion		1	7309299	8617834.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-467L1.6	Deletion		1	7309299	8617834.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-453P22.2	Deletion		1	7309299	8617834.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-549F15.1	Deletion		1	7309299	8617834.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU1-7P	Deletion		1	7309299	8617834.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1115A15.1	Deletion		1	7309299	8617834.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	PARK7	Deletion		1	7309299	8617834.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	CAMTA1-IT1	Deletion		1	7309299	8617834.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-431K24.3	Deletion		1	7309299	8617834.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-338N10.3	Deletion		1	7309299	8617834.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-338N10.2	Deletion		1	7309299	8617834.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-338N10.1	Deletion		1	7309299	8617834.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-467L1.4	Deletion		1	7309299	8617834.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2293H3.1	Deletion		19	37398579	37620212.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-454I21.4	Deletion		19	37398579	37620212.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2293H3.2	Deletion		19	37398579	37620212.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	CSTF3-AS1	Deletion		11	33127504	33183123.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-486F17.1	Deletion		2	200136682	200298489.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD115-31	Deletion		15	25473864	25477865.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD115-32	Deletion		15	25473864	25477865.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD115-33	Deletion		15	25473864	25477865.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNHG14	Deletion		15	25473864	25477865.0						0.0	0.0		0												Osteosarcoma-MNTF071	MNTF071_T		0	0	0	0	0	0	0
+VUS				Rearrangement	WI2-1896O14.1	Fusion	WI2-1896O14.1--RP11-353N4.1	chr1	144676874							0.0	0.0		0	6.0	WI2-1896O14.1	chr1	144676874.0	RP11-353N4.1	chr1	149591759.0					Osteosarcoma-MNTF071			0	0	0	0	0	0	0
+VUS				Rearrangement	ST7-OT4	Fusion	ST7-OT4--ST7	chr7	116595207							0.0	0.0		0	9.0	ST7-OT4	chr7	116595207.0	ST7	chr7	116739816.0					Osteosarcoma-MNTF071			0	0	0	0	0	0	0
+VUS				Rearrangement	PEAK1	Fusion	PEAK1--LINGO1	chr15	77712348							0.0	0.0		0	8.0	PEAK1	chr15	77712348.0	LINGO1	chr15	78027395.0					Osteosarcoma-MNTF071			0	0	0	0	0	0	0
+VUS				Rearrangement	AC005235.1	Fusion	AC005235.1--AC109589.1	chr2	199239200							0.0	0.0		0	17.0	AC005235.1	chr2	199239200.0	AC109589.1	chr2	199056243.0					Osteosarcoma-MNTF071			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-353N4.1	Fusion	WI2-1896O14.1--RP11-353N4.1	chr1	144676874							0.0	0.0		0	6.0	WI2-1896O14.1	chr1	144676874.0	RP11-353N4.1	chr1	149591759.0					Osteosarcoma-MNTF071			0	0	0	0	0	0	0
+VUS				Rearrangement	GS1-124K5.4	Fusion	TPST1--GS1-124K5.4	chr7	65751696							0.0	0.0		0	6.0	TPST1	chr7	65751696.0	GS1-124K5.4	chr7	65960242.0					Osteosarcoma-MNTF071			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TE	Fusion	MT-ND6--MT-TE	chrM	14484							0.0	0.0		0	49.0	MT-ND6	chrM	14484.0	MT-TE	chrM	14696.0					Osteosarcoma-MNTF071			0	0	0	0	0	0	0
+VUS				Rearrangement	HSPA8P4	Fusion	CHSY3--HSPA8P4	chr5	129244053							0.0	0.0		0	5.0	CHSY3	chr5	129244053.0	HSPA8P4	chr5	129476585.0					Osteosarcoma-MNTF071			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-776A13.3	Fusion	ANTXR2--RP11-776A13.3	chr4	80898775							0.0	0.0		0	8.0	ANTXR2	chr4	80898775.0	RP11-776A13.3	chr12	30397338.0					Osteosarcoma-MNTF071			0	0	0	0	0	0	0
+VUS				Rearrangement	AC109589.1	Fusion	AC005235.1--AC109589.1	chr2	199239200							0.0	0.0		0	17.0	AC005235.1	chr2	199239200.0	AC109589.1	chr2	199056243.0					Osteosarcoma-MNTF071			0	0	0	0	0	0	0

@@ -1,0 +1,97 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Biologically Relevant				Somatic Variant	MTOR	Missense	p.S2215Y	1	11184573	11184573.0	G	G	T	0.3333	60.0	0.0	0.0		0								19.0	0.1579	0.8991		KIRP-A4-7828	KIRP-A4-7828-TP	KIRP-A4-7828-NB	1	2	1	1	1	0	2
+Cancer Hotspot				Somatic Variant	PTPRT	Missense	p.P372Q	20	41306544	41306544.0	G	G	T	0.2761	134.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-7828	KIRP-A4-7828-TP	KIRP-A4-7828-NB	0	1	0	1	0	1	2
+Cancer Gene Census				Somatic Variant	TRIM33	Missense	p.H869Y	1	114948195	114948195.0	G	G	A	0.2837	208.0	0.0	0.0		0								14.0	0.2143	0.5948		KIRP-A4-7828	KIRP-A4-7828-TP	KIRP-A4-7828-NB	0	0	0	1	0	1	2
+Cancer Pathway				Rearrangement	IGLV1-40	Fusion	IGLV1-40--IGLL5	chr22	22764613							0.0	0.0		0	47.0	IGLV1-40	chr22	22764613.0	IGLL5	chr22	23235963.0					KIRP-A4-7828			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGLV1-40	Fusion	IGLV1-40--IGLJ3	chr22	22764613							0.0	0.0		0	19.0	IGLV1-40	chr22	22764613.0	IGLJ3	chr22	23247173.0					KIRP-A4-7828			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGLV1-40	Fusion	IGLV1-40--IGLJ1	chr22	22764613							0.0	0.0		0	15.0	IGLV1-40	chr22	22764613.0	IGLJ1	chr22	23235963.0					KIRP-A4-7828			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGKV4-1	Fusion	IGKV4-1--IGKJ2	chr2	89185668							0.0	0.0		0	64.0	IGKV4-1	chr2	89185668.0	IGKJ2	chr2	89161074.0					KIRP-A4-7828			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGKV4-1	Fusion	IGKV4-1--AC096579.13	chr2	89185668							0.0	0.0		0	66.0	IGKV4-1	chr2	89185668.0	AC096579.13	chr2	89161074.0					KIRP-A4-7828			0	0	0	0	1	0	0
+Cancer Module				Somatic Variant	PKD1L1	Missense	p.N514Y	7	47944905	47944905.0	T	T	A	0.2409	137.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-7828	KIRP-A4-7828-TP	KIRP-A4-7828-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	DHRS9	Missense	p.D29N	2	169938176	169938176.0	G	G	A	0.0614	114.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-7828	KIRP-A4-7828-TP	KIRP-A4-7828-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ZKSCAN5	Missense	p.S628N	7	99129235	99129235.0	G	G	A	0.0533	75.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-7828	KIRP-A4-7828-TP	KIRP-A4-7828-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	VGF	Missense	p.E477V	7	100806695	100806695.0	T	T	A	0.2619	42.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-7828	KIRP-A4-7828-TP	KIRP-A4-7828-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	CPA6	Missense	p.P221S	8	68397000	68397000.0	G	G	A	0.2714	70.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-7828	KIRP-A4-7828-TP	KIRP-A4-7828-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	EPB41L3	Missense	p.N610Y	18	5416056	5416056.0	T	T	A	0.2764	123.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-7828	KIRP-A4-7828-TP	KIRP-A4-7828-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	MBNL3	Missense	p.Q110L	X	131540269	131540269.0	T	T	A	0.3226	155.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-7828	KIRP-A4-7828-TP	KIRP-A4-7828-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SLC6A8	Nonsense	p.Q596*	X	152960547	152960547.0	C	C	T	0.1667	18.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-7828	KIRP-A4-7828-TP	KIRP-A4-7828-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ATP6AP1	Missense	p.H64N	X	153657422	153657422.0	C	C	A	0.2544	114.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-7828	KIRP-A4-7828-TP	KIRP-A4-7828-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	C10orf137	Missense	p.N1148S	10	127442312	127442312.0	A	A	G	0.3458	107.0	1.6e-05	0.0		0								9.0	0.5556	0.3899		KIRP-A4-7828	KIRP-A4-7828-TP	KIRP-A4-7828-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	APOB	Frameshift	p.P4458fs	2	21224920	21224921.0	-	-	G	0.3516	91.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-7828	KIRP-A4-7828-TP	KIRP-A4-7828-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	CMYA5	Frameshift	p.G3280fs	5	79034426	79034426.0	G	G	-	0.1681	119.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-7828	KIRP-A4-7828-TP	KIRP-A4-7828-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	PSG5	Missense	p.S224I	19	43683069	43683069.0	C	C	A	0.033	485.0	1.6e-05	0.0		0								0.0	0.0	0.0		KIRP-A4-7828	KIRP-A4-7828-TP	KIRP-A4-7828-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	WNK1	Nonsense	p.G293*	12	922925	922925.0	G	G	T	0.0857	35.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-7828	KIRP-A4-7828-TP	KIRP-A4-7828-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	SLCO2B1	Missense	p.G30A	11	74883496	74883496.0	G	G	C	0.2935	92.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-7828	KIRP-A4-7828-TP	KIRP-A4-7828-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	COCH	Missense	p.N129T	14	31353851	31353851.0	A	A	C	0.2586	58.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-7828	KIRP-A4-7828-TP	KIRP-A4-7828-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	DOCK2	Missense	p.D605G	5	169446069	169446069.0	A	A	G	0.2337	261.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-7828	KIRP-A4-7828-TP	KIRP-A4-7828-NB	0	0	0	0	0	1	1
+Cancer Module				Copy Number	AHCTF1	Amplification		1	245422841	247813706.0						0.0	0.0		0												KIRP-A4-7828	TCGA-A4-7828-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SCCPDH	Amplification		1	245422841	247813706.0						0.0	0.0		0												KIRP-A4-7828	TCGA-A4-7828-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNF124	Amplification		1	245422841	247813706.0						0.0	0.0		0												KIRP-A4-7828	TCGA-A4-7828-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KIF26B	Amplification		1	245422841	247813706.0						0.0	0.0		0												KIRP-A4-7828	TCGA-A4-7828-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NLRP3	Amplification		1	245422841	247813706.0						0.0	0.0		0												KIRP-A4-7828	TCGA-A4-7828-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GPR137B	Deletion		1	236346198	236346213.0						0.0	0.0		0												KIRP-A4-7828	TCGA-A4-7828-01		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	IGLJ3	Fusion	IGLV1-40--IGLJ3	chr22	22764613							0.0	0.0		0	19.0	IGLV1-40	chr22	22764613.0	IGLJ3	chr22	23247173.0					KIRP-A4-7828			0	0	0	0	0	1	0
+Cosmic				Somatic Variant	TMEM205	Missense	p.Q142K	19	11453637	11453637.0	G	G	T	0.3281	128.0	0.0	0.0		0								507.0	0.3826	1.0		KIRP-A4-7828	KIRP-A4-7828-TP	KIRP-A4-7828-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	CCDC57	Missense	p.S619T	17	80129603	80129603.0	C	C	G	0.1892	74.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-7828	KIRP-A4-7828-TP	KIRP-A4-7828-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	MYH6	Splice Site	p.A1115P	14	23859655	23859655.0	C	C	G	0.3684	38.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-7828	KIRP-A4-7828-TP	KIRP-A4-7828-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ZNF488	Missense	p.S164I	10	48371023	48371023.0	G	G	T	0.0526	76.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-7828	KIRP-A4-7828-TP	KIRP-A4-7828-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ISOC2	Nonsense	p.Q128*	19	55966664	55966664.0	G	G	A	0.2	25.0	0.0	0.0		0								92.0	0.0543	0.9964		KIRP-A4-7828	KIRP-A4-7828-TP	KIRP-A4-7828-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	PGAP1	Missense	p.G63V	2	197781305	197781305.0	C	C	A	0.2045	44.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-7828	KIRP-A4-7828-TP	KIRP-A4-7828-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	POLR2B	Deletion	p.E827del	4	57888371	57888373.0	AAG	AAG	-	0.1692	65.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-7828	KIRP-A4-7828-TP	KIRP-A4-7828-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	TUBGCP5	Frameshift	p.KNCH988fs	15	22872435	22872444.0	AAACTGCCAT	AAACTGCCAT	-	0.0614	114.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-7828	KIRP-A4-7828-TP	KIRP-A4-7828-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	RGAG1	Frameshift	p.R404fs	X	109695056	109695056.0	G	G	-	0.2817	575.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-7828	KIRP-A4-7828-TP	KIRP-A4-7828-NB	0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF695	Amplification		1	245422841	247813706.0						0.0	0.0		0												KIRP-A4-7828	TCGA-A4-7828-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CNST	Amplification		1	245422841	247813706.0						0.0	0.0		0												KIRP-A4-7828	TCGA-A4-7828-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2B11	Amplification		1	245422841	247813706.0						0.0	0.0		0												KIRP-A4-7828	TCGA-A4-7828-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2C3	Amplification		1	245422841	247813706.0						0.0	0.0		0												KIRP-A4-7828	TCGA-A4-7828-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2G2	Amplification		1	245422841	247813706.0						0.0	0.0		0												KIRP-A4-7828	TCGA-A4-7828-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C1orf229	Amplification		1	245422841	247813706.0						0.0	0.0		0												KIRP-A4-7828	TCGA-A4-7828-01		0	0	0	0	0	0	1
+Cosmic				Rearrangement	MLIP	Fusion	RP11-411K7.1--MLIP	chr6	53795075							0.0	0.0		0	7.0	RP11-411K7.1	chr6	53795075.0	MLIP	chr6	53986245.0					KIRP-A4-7828			0	0	0	0	0	0	1
+Cosmic				Copy Number	SMYD3	Amplification		1	245422841	247813706.0						0.0	0.0		0												KIRP-A4-7828	TCGA-A4-7828-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TFB2M	Amplification		1	245422841	247813706.0						0.0	0.0		0												KIRP-A4-7828	TCGA-A4-7828-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF496	Amplification		1	245422841	247813706.0						0.0	0.0		0												KIRP-A4-7828	TCGA-A4-7828-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF669	Amplification		1	245422841	247813706.0						0.0	0.0		0												KIRP-A4-7828	TCGA-A4-7828-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF670	Amplification		1	245422841	247813706.0						0.0	0.0		0												KIRP-A4-7828	TCGA-A4-7828-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2G3	Amplification		1	245422841	247813706.0						0.0	0.0		0												KIRP-A4-7828	TCGA-A4-7828-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2W5	Amplification		1	245422841	247813706.0						0.0	0.0		0												KIRP-A4-7828	TCGA-A4-7828-01		0	0	0	0	0	0	1
+Cosmic				Rearrangement	SRGAP2	Fusion	RP11-312O7.2--SRGAP2	chr1	206135293							0.0	0.0		0	9.0	RP11-312O7.2	chr1	206135293.0	SRGAP2	chr1	206557369.0					KIRP-A4-7828			0	0	0	0	0	0	1
+Cosmic				Rearrangement	IGLL5	Fusion	IGLV1-40--IGLL5	chr22	22764613							0.0	0.0		0	47.0	IGLV1-40	chr22	22764613.0	IGLL5	chr22	23235963.0					KIRP-A4-7828			0	0	0	0	0	0	1
+VUS				Somatic Variant	MROH7	Missense	p.D60A	1	55118778	55118778.0	A	A	C	0.3101	129.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-7828	KIRP-A4-7828-TP	KIRP-A4-7828-NB	0	0	0	0	0	0	0
+VUS				Copy Number	RP11-83A16.1	Amplification		1	245422841	247813706.0						0.0	0.0		0												KIRP-A4-7828	TCGA-A4-7828-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-439E19.8	Amplification		1	245422841	247813706.0						0.0	0.0		0												KIRP-A4-7828	TCGA-A4-7828-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-439E19.9	Amplification		1	245422841	247813706.0						0.0	0.0		0												KIRP-A4-7828	TCGA-A4-7828-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-488L18.10	Amplification		1	245422841	247813706.0						0.0	0.0		0												KIRP-A4-7828	TCGA-A4-7828-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-488L18.8	Amplification		1	245422841	247813706.0						0.0	0.0		0												KIRP-A4-7828	TCGA-A4-7828-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-522M21.2	Amplification		1	245422841	247813706.0						0.0	0.0		0												KIRP-A4-7828	TCGA-A4-7828-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-522M21.3	Amplification		1	245422841	247813706.0						0.0	0.0		0												KIRP-A4-7828	TCGA-A4-7828-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-634B7.4	Amplification		1	245422841	247813706.0						0.0	0.0		0												KIRP-A4-7828	TCGA-A4-7828-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-690C23.2	Amplification		1	245422841	247813706.0						0.0	0.0		0												KIRP-A4-7828	TCGA-A4-7828-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-978I15.10	Amplification		1	245422841	247813706.0						0.0	0.0		0												KIRP-A4-7828	TCGA-A4-7828-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL359983.1	Amplification		1	245422841	247813706.0						0.0	0.0		0												KIRP-A4-7828	TCGA-A4-7828-01		0	0	0	0	0	0	0
+VUS				Copy Number	SMYD3-IT1	Amplification		1	245422841	247813706.0						0.0	0.0		0												KIRP-A4-7828	TCGA-A4-7828-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-439E19.7	Amplification		1	245422841	247813706.0						0.0	0.0		0												KIRP-A4-7828	TCGA-A4-7828-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-439E19.3	Amplification		1	245422841	247813706.0						0.0	0.0		0												KIRP-A4-7828	TCGA-A4-7828-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-439E19.10	Amplification		1	245422841	247813706.0						0.0	0.0		0												KIRP-A4-7828	TCGA-A4-7828-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-439E19.1	Amplification		1	245422841	247813706.0						0.0	0.0		0												KIRP-A4-7828	TCGA-A4-7828-01		0	0	0	0	0	0	0
+VUS				Copy Number	GCSAML	Amplification		1	245422841	247813706.0						0.0	0.0		0												KIRP-A4-7828	TCGA-A4-7828-01		0	0	0	0	0	0	0
+VUS				Copy Number	GCSAML-AS1	Amplification		1	245422841	247813706.0						0.0	0.0		0												KIRP-A4-7828	TCGA-A4-7828-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3916	Amplification		1	245422841	247813706.0						0.0	0.0		0												KIRP-A4-7828	TCGA-A4-7828-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP82	Amplification		1	245422841	247813706.0						0.0	0.0		0												KIRP-A4-7828	TCGA-A4-7828-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1283P	Amplification		1	245422841	247813706.0						0.0	0.0		0												KIRP-A4-7828	TCGA-A4-7828-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-691P	Amplification		1	245422841	247813706.0						0.0	0.0		0												KIRP-A4-7828	TCGA-A4-7828-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-36N20.1	Amplification		1	245422841	247813706.0						0.0	0.0		0												KIRP-A4-7828	TCGA-A4-7828-01		0	0	0	0	0	0	0
+VUS				Rearrangement	SMC5-AS1	Fusion	SMC5-AS1--MAMDC2-AS1	chr9	72831202							0.0	0.0		0	6.0	SMC5-AS1	chr9	72831202.0	MAMDC2-AS1	chr9	72728776.0					KIRP-A4-7828			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-96H19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	13.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	47046173.0					KIRP-A4-7828			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-411K7.1	Fusion	RP11-411K7.1--MLIP	chr6	53795075							0.0	0.0		0	7.0	RP11-411K7.1	chr6	53795075.0	MLIP	chr6	53986245.0					KIRP-A4-7828			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-312O7.2	Fusion	RP11-312O7.2--SRGAP2	chr1	206135293							0.0	0.0		0	9.0	RP11-312O7.2	chr1	206135293.0	SRGAP2	chr1	206557369.0					KIRP-A4-7828			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKV3-20	Fusion	IGKV3-20--IGKJ1	chr2	89442058							0.0	0.0		0	63.0	IGKV3-20	chr2	89442058.0	IGKJ1	chr2	89161435.0					KIRP-A4-7828			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKV3-20	Fusion	IGKV3-20--AC096579.7	chr2	89442058							0.0	0.0		0	174.0	IGKV3-20	chr2	89442058.0	AC096579.7	chr2	89161435.0					KIRP-A4-7828			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKV3-11	Fusion	IGKV3-11--IGKJ4	chr2	89326669							0.0	0.0		0	20.0	IGKV3-11	chr2	89326669.0	IGKJ4	chr2	89160432.0					KIRP-A4-7828			0	0	0	0	0	0	0
+VUS				Rearrangement	MAMDC2-AS1	Fusion	SMC5-AS1--MAMDC2-AS1	chr9	72831202							0.0	0.0		0	6.0	SMC5-AS1	chr9	72831202.0	MAMDC2-AS1	chr9	72728776.0					KIRP-A4-7828			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-446N19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	13.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	47046173.0					KIRP-A4-7828			0	0	0	0	0	0	0
+VUS				Rearrangement	IGLJ1	Fusion	IGLV1-40--IGLJ1	chr22	22764613							0.0	0.0		0	15.0	IGLV1-40	chr22	22764613.0	IGLJ1	chr22	23235963.0					KIRP-A4-7828			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKJ2	Fusion	IGKV4-1--IGKJ2	chr2	89185668							0.0	0.0		0	64.0	IGKV4-1	chr2	89185668.0	IGKJ2	chr2	89161074.0					KIRP-A4-7828			0	0	0	0	0	0	0
+VUS				Rearrangement	AC096579.13	Fusion	IGKV4-1--AC096579.13	chr2	89185668							0.0	0.0		0	66.0	IGKV4-1	chr2	89185668.0	AC096579.13	chr2	89161074.0					KIRP-A4-7828			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKJ1	Fusion	IGKV3-20--IGKJ1	chr2	89442058							0.0	0.0		0	63.0	IGKV3-20	chr2	89442058.0	IGKJ1	chr2	89161435.0					KIRP-A4-7828			0	0	0	0	0	0	0
+VUS				Rearrangement	AC096579.7	Fusion	IGKV3-20--AC096579.7	chr2	89442058							0.0	0.0		0	174.0	IGKV3-20	chr2	89442058.0	AC096579.7	chr2	89161435.0					KIRP-A4-7828			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKJ4	Fusion	IGKV3-11--IGKJ4	chr2	89326669							0.0	0.0		0	20.0	IGKV3-11	chr2	89326669.0	IGKJ4	chr2	89160432.0					KIRP-A4-7828			0	0	0	0	0	0	0

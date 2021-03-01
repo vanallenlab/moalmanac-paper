@@ -1,0 +1,418 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Investigate Actionability	Investigate Actionability			Rearrangement	NTRK2	Fusion	NTRK2--AUH	chr9	87287086							0.0	0.0		0	47.0	NTRK2	chr9	87287086.0	AUH	chr9	93983274.0					Osteosarcoma-IAS513			3	0	0	0	0	1	1
+Biologically Relevant				Somatic Variant	NF1	Frameshift	p.S2309fs	17	29667528	29667528.0	G	G	-	0.5614	57.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IAS513	Osteosarcoma-IAS513-Tumor-SM-2RCB3	Osteosarcoma-IAS513-Normal-SM-2RCCI	1	1	0	1	0	0	1
+Biologically Relevant				Somatic Variant	FIP1L1	Missense	p.G242R	4	54265915	54265915.0	G	G	A	0.1746	126.0	0.0	0.0		0								188.0	0.2234	1.0		Osteosarcoma-IAS513	Osteosarcoma-IAS513-Tumor-SM-2RCB3	Osteosarcoma-IAS513-Normal-SM-2RCCI	1	0	0	1	0	0	1
+Cancer Hotspot 3D				Copy Number	ACACA	Amplification		17	35443999	35487396.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	ZNF658	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	1	0	0	0	1
+Cancer Hotspot 3D				Rearrangement	ZNF664	Fusion	ZNF664--RP11-214K3.24	chr12	124472685							0.0	0.0		0	7.0	ZNF664	chr12	124472685.0	RP11-214K3.24	chr12	124572811.0					Osteosarcoma-IAS513			0	0	1	0	0	0	1
+Cancer Hotspot 3D				Copy Number	CTSL	Amplification		9	90345044	90589138.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	1	0	0	0	0
+Cancer Gene Census				Rearrangement	NCOR1	Fusion	NCOR1--KCNQ5	chr17	16056653							0.0	0.0		0	94.0	NCOR1	chr17	16056653.0	KCNQ5	chr6	73751659.0					Osteosarcoma-IAS513			0	0	0	1	1	1	1
+Cancer Gene Census				Somatic Variant	FAM46C	Missense	p.V319M	1	118166445	118166445.0	G	G	A	0.3571	84.0	2.5e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-IAS513	Osteosarcoma-IAS513-Tumor-SM-2RCB3	Osteosarcoma-IAS513-Normal-SM-2RCCI	0	0	0	1	0	0	2
+Cancer Pathway				Copy Number	KLRC1	Deletion		12	10598898	10604007.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	KLRK1	Deletion		12	9301905	10571349.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	RFC1	Amplification		4	38689954	39344339.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	KLRG1	Deletion		12	8375793	9232550.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	1	1	1
+Cancer Pathway				Rearrangement	PPARD	Fusion	PPARD--CLIC5	chr6	35310458							0.0	0.0		0	94.0	PPARD	chr6	35310458.0	CLIC5	chr6	45882146.0					Osteosarcoma-IAS513			0	0	0	0	1	1	1
+Cancer Pathway				Somatic Variant	LAMA1	Missense	p.A1138V	18	7012088	7012088.0	G	G	A	0.4722	36.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IAS513	Osteosarcoma-IAS513-Tumor-SM-2RCB3	Osteosarcoma-IAS513-Normal-SM-2RCCI	0	0	0	0	1	0	2
+Cancer Pathway				Copy Number	KLRD1	Deletion		12	9301905	10571349.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	1	0	1
+Cancer Pathway				Rearrangement	IGKV4-1	Fusion	IGKV4-1--AC096579.7	chr2	89185668							0.0	0.0		0	24.0	IGKV4-1	chr2	89185668.0	AC096579.7	chr2	89161074.0					Osteosarcoma-IAS513			0	0	0	0	1	0	0
+Cancer Module				Somatic Variant	AHNAK	Missense	p.P2207S	11	62295270	62295270.0	G	G	A	0.3994	363.0	8e-06	0.0		0								120.0	0.6083	1.0		Osteosarcoma-IAS513	Osteosarcoma-IAS513-Tumor-SM-2RCB3	Osteosarcoma-IAS513-Normal-SM-2RCCI	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SYNE1	Missense	p.K1817R	6	152738122	152738122.0	T	T	C	0.0207	145.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IAS513	Osteosarcoma-IAS513-Tumor-SM-2RCB3	Osteosarcoma-IAS513-Normal-SM-2RCCI	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	DNAH9	Missense	p.L2351I	17	11666812	11666812.0	C	C	A	0.1835	267.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IAS513	Osteosarcoma-IAS513-Tumor-SM-2RCB3	Osteosarcoma-IAS513-Normal-SM-2RCCI	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	PSD4	Missense	p.D210G	2	113940662	113940662.0	A	A	G	0.1628	43.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IAS513	Osteosarcoma-IAS513-Tumor-SM-2RCB3	Osteosarcoma-IAS513-Normal-SM-2RCCI	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	DLG1	Missense	p.N411D	3	196857431	196857431.0	T	T	C	0.0395	76.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IAS513	Osteosarcoma-IAS513-Tumor-SM-2RCB3	Osteosarcoma-IAS513-Normal-SM-2RCCI	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ARAP2	Missense	p.T940N	4	36152600	36152600.0	G	G	T	0.1597	263.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IAS513	Osteosarcoma-IAS513-Tumor-SM-2RCB3	Osteosarcoma-IAS513-Normal-SM-2RCCI	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	WLS	Missense	p.T242M	1	68619278	68619278.0	G	G	A	0.039	77.0	1.6e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-IAS513	Osteosarcoma-IAS513-Tumor-SM-2RCB3	Osteosarcoma-IAS513-Normal-SM-2RCCI	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	B3GNT5	Missense	p.V223A	3	182988254	182988254.0	T	T	C	0.392	176.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IAS513	Osteosarcoma-IAS513-Tumor-SM-2RCB3	Osteosarcoma-IAS513-Normal-SM-2RCCI	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	CD38	Missense	p.F89L	4	15818167	15818167.0	C	C	G	0.0814	221.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IAS513	Osteosarcoma-IAS513-Tumor-SM-2RCB3	Osteosarcoma-IAS513-Normal-SM-2RCCI	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SLCO2A1	Missense	p.S549R	3	133653616	133653616.0	T	T	G	0.2439	82.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IAS513	Osteosarcoma-IAS513-Tumor-SM-2RCB3	Osteosarcoma-IAS513-Normal-SM-2RCCI	0	0	0	0	0	1	1
+Cancer Module				Copy Number	TLR10	Amplification		4	38689954	39344339.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TLR1	Amplification		4	38689954	39344339.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SEMA4D	Amplification		9	91606689	92020623.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PZP	Deletion		12	9301905	10571349.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CLEC1B	Deletion		12	9301905	10571349.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KLRC4	Deletion		12	9301905	10571349.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	C15orf57	Fusion	C15orf57--CBX3	chr15	40854971							0.0	0.0		0	9.0	C15orf57	chr15	40854971.0	CBX3	chr7	26241389.0					Osteosarcoma-IAS513			0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNF624	Amplification		17	16343185	16594308.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FGFBP2	Amplification		4	13369930	16190228.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ARAP2	Amplification		4	36126232	37633397.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	C4orf19	Amplification		4	36126232	37633397.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	A2M	Deletion		12	8375793	9232550.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DLGAP2	Deletion		8	115834	1645715.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KLRB1	Deletion		12	9301905	10571349.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	CTSC	Fusion	CTSC--RAB38	chr11	88033698							0.0	0.0		0	12.0	CTSC	chr11	88033698.0	RAB38	chr11	87883123.0					Osteosarcoma-IAS513			0	0	0	0	0	1	1
+Cancer Module				Copy Number	PIGL	Amplification		17	16216609	16229464.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TRPV2	Amplification		17	16343185	16594308.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FBXL5	Amplification		4	13369930	16190228.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CC2D2A	Amplification		4	13369930	16190228.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CD38	Amplification		4	13369930	16190228.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NKX3-2	Amplification		4	13369930	16190228.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FGFBP1	Amplification		4	13369930	16190228.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PROM1	Amplification		4	13369930	16190228.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	BST1	Amplification		4	13369930	16190228.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TMEM156	Amplification		4	38689954	39344339.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	WDR19	Amplification		4	38689954	39344339.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FAM114A1	Amplification		4	38689954	39344339.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ELAC2	Amplification		17	12647248	12920690.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CDK20	Amplification		9	90345044	90589138.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CKS2	Amplification		9	91606689	92020623.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ANKRD20A1	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SPTBN1	Deletion		2	54884735	54887475.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	AICDA	Deletion		12	8375793	9232550.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MFAP5	Deletion		12	8375793	9232550.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	M6PR	Deletion		12	8375793	9232550.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	OLR1	Deletion		12	9301905	10571349.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CLEC2B	Deletion		12	9301905	10571349.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CD69	Deletion		12	9301905	10571349.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	TXN	Fusion	TXN--STOM	chr9	113007058							0.0	0.0		0	8.0	TXN	chr9	113007058.0	STOM	chr9	124111601.0					Osteosarcoma-IAS513			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	TRAK1	Fusion	TRAK1--MRPS14	chr3	42128892							0.0	0.0		0	41.0	TRAK1	chr3	42128892.0	MRPS14	chr1	174987712.0					Osteosarcoma-IAS513			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	PI4K2B	Fusion	PI4K2B--LINC00937	chr4	25162375							0.0	0.0		0	25.0	PI4K2B	chr4	25162375.0	LINC00937	chr12	8509737.0					Osteosarcoma-IAS513			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	NRIP1	Fusion	NRIP1--AF127936.7	chr21	16415816							0.0	0.0		0	5.0	NRIP1	chr21	16415816.0	AF127936.7	chr21	16230029.0					Osteosarcoma-IAS513			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	GSN	Fusion	GSN--ASTN2	chr9	124043840							0.0	0.0		0	76.0	GSN	chr9	124043840.0	ASTN2	chr9	119382722.0					Osteosarcoma-IAS513			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	CNRIP1	Fusion	CNRIP1--RP11-474G23.1	chr2	68544289							0.0	0.0		0	7.0	CNRIP1	chr2	68544289.0	RP11-474G23.1	chr2	68444263.0					Osteosarcoma-IAS513			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	CNRIP1	Fusion	CNRIP1--PPP3R1	chr2	68544289							0.0	0.0		0	7.0	CNRIP1	chr2	68544289.0	PPP3R1	chr2	68444263.0					Osteosarcoma-IAS513			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	STOM	Fusion	TXN--STOM	chr9	113007058							0.0	0.0		0	8.0	TXN	chr9	113007058.0	STOM	chr9	124111601.0					Osteosarcoma-IAS513			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	GPRASP2	Fusion	RP4-769N13.6--GPRASP2	chrX	101860581							0.0	0.0		0	6.0	RP4-769N13.6	chrX	101860581.0	GPRASP2	chrX	101968710.0					Osteosarcoma-IAS513			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	EYA1	Fusion	RP11-1102P16.1--EYA1	chr8	72447979							0.0	0.0		0	7.0	RP11-1102P16.1	chr8	72447979.0	EYA1	chr8	72268746.0					Osteosarcoma-IAS513			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	AUH	Fusion	NTRK2--AUH	chr9	87287086							0.0	0.0		0	47.0	NTRK2	chr9	87287086.0	AUH	chr9	93983274.0					Osteosarcoma-IAS513			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	KCNQ5	Fusion	NCOR1--KCNQ5	chr17	16056653							0.0	0.0		0	94.0	NCOR1	chr17	16056653.0	KCNQ5	chr6	73751659.0					Osteosarcoma-IAS513			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	CBX3	Fusion	C15orf57--CBX3	chr15	40854971							0.0	0.0		0	9.0	C15orf57	chr15	40854971.0	CBX3	chr7	26241389.0					Osteosarcoma-IAS513			0	0	0	0	0	1	1
+Cosmic				Somatic Variant	GPR156	Missense	p.V541I	3	119886703	119886703.0	C	C	T	0.35100000000000003	208.0	0.0	0.0		0								14.0	0.6429	0.7768		Osteosarcoma-IAS513	Osteosarcoma-IAS513-Tumor-SM-2RCB3	Osteosarcoma-IAS513-Normal-SM-2RCCI	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	OR51M1	Missense	p.F43L	11	5410755	5410755.0	T	T	C	0.0316	95.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IAS513	Osteosarcoma-IAS513-Tumor-SM-2RCB3	Osteosarcoma-IAS513-Normal-SM-2RCCI	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	PTPN18	Missense	p.Y192C	2	131127649	131127649.0	A	A	G	0.038	158.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IAS513	Osteosarcoma-IAS513-Tumor-SM-2RCB3	Osteosarcoma-IAS513-Normal-SM-2RCCI	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	FRY	Missense	p.L640W	13	32745175	32745175.0	T	T	G	0.3246	114.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IAS513	Osteosarcoma-IAS513-Tumor-SM-2RCB3	Osteosarcoma-IAS513-Normal-SM-2RCCI	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	HEPHL1	Missense	p.G531D	11	93808427	93808427.0	G	G	A	0.1778	45.0	1.7e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-IAS513	Osteosarcoma-IAS513-Tumor-SM-2RCB3	Osteosarcoma-IAS513-Normal-SM-2RCCI	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	OR4S2	Missense	p.T277I	11	55419209	55419209.0	C	C	T	0.2684	231.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IAS513	Osteosarcoma-IAS513-Tumor-SM-2RCB3	Osteosarcoma-IAS513-Normal-SM-2RCCI	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	C11orf54	Missense	p.M20I	11	93483516	93483516.0	G	G	A	0.4444	54.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IAS513	Osteosarcoma-IAS513-Tumor-SM-2RCB3	Osteosarcoma-IAS513-Normal-SM-2RCCI	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	HGS	Splice Site		17	79663030	79663030.0	G	G	A	0.2955	44.0	0.0	0.0		0								20.0	0.95	0.8556		Osteosarcoma-IAS513	Osteosarcoma-IAS513-Tumor-SM-2RCB3	Osteosarcoma-IAS513-Normal-SM-2RCCI	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	SYTL3	Missense	p.D422E	6	159178371	159178371.0	C	C	A	0.0366	82.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IAS513	Osteosarcoma-IAS513-Tumor-SM-2RCB3	Osteosarcoma-IAS513-Normal-SM-2RCCI	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	ZNF155	Missense	p.S396P	19	44501162	44501162.0	T	T	C	0.0259	116.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IAS513	Osteosarcoma-IAS513-Tumor-SM-2RCB3	Osteosarcoma-IAS513-Normal-SM-2RCCI	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	C19orf26	Missense	p.A266G	19	1233607	1233607.0	G	G	C	0.28	25.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IAS513	Osteosarcoma-IAS513-Tumor-SM-2RCB3	Osteosarcoma-IAS513-Normal-SM-2RCCI	0	0	0	0	0	0	1
+Cosmic				Copy Number	A2ML1	Deletion		12	8375793	9232550.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM90A1	Deletion		12	8375793	9232550.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PNPLA7	Deletion		9	140414117	140417561.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	MYH13	Fusion	TMEM14B--MYH13	chr6	10770437							0.0	0.0		0	6.0	TMEM14B	chr6	10770437.0	MYH13	chr17	10274576.0					Osteosarcoma-IAS513			0	0	0	0	0	0	1
+Cosmic				Copy Number	CLEC2D	Deletion		12	9301905	10571349.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	NAV3	Fusion	RP1-34H18.1--NAV3	chr12	77966046							0.0	0.0		0	5.0	RP1-34H18.1	chr12	77966046.0	NAV3	chr12	78334099.0					Osteosarcoma-IAS513			0	0	0	0	0	0	1
+Cosmic				Copy Number	C17orf102	Amplification		17	32904294	32965503.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF287	Amplification		17	16343185	16594308.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TLR6	Amplification		4	38689954	39344339.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KLHL5	Amplification		4	38689954	39344339.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FRMD3	Amplification		9	85636999	86301322.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RASEF	Amplification		9	85636999	86301322.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KIF13B	Deletion		8	28997847	29006534.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NOMO3	Deletion		16	16367294	16369552.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PHC1	Deletion		12	8375793	9232550.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FBXO25	Deletion		8	115834	1645715.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CLEC1A	Deletion		12	9301905	10571349.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CLEC12B	Deletion		12	9301905	10571349.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CLEC12A	Deletion		12	9301905	10571349.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CLECL1	Deletion		12	9301905	10571349.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KLRF1	Deletion		12	9301905	10571349.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LHX1	Amplification		17	35295243	35414216.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	AATF	Amplification		17	35295243	35414216.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM132E	Amplification		17	32904294	32965503.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM211A	Amplification		17	16343185	16594308.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C1QTNF7	Amplification		4	13369930	16190228.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CPEB2	Amplification		4	13369930	16190228.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM200B	Amplification		4	13369930	16190228.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RAB28	Amplification		4	13369930	16190228.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TAPT1	Amplification		4	13369930	16190228.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KIAA1239	Amplification		4	36126232	37633397.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DTHD1	Amplification		4	36126232	37633397.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RELL1	Amplification		4	36126232	37633397.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KLF3	Amplification		4	38689954	39344339.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ARHGAP44	Amplification		17	12647248	12920690.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MYOCD	Amplification		17	12647248	12920690.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	S1PR3	Amplification		9	91606689	92020623.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C9orf47	Amplification		9	91606689	92020623.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SHC3	Amplification		9	91606689	92020623.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SECISBP2	Amplification		9	91606689	92020623.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IDNK	Amplification		9	85636999	86301322.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	UBQLN1	Amplification		9	85636999	86301322.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SPATA31A4	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SPATA31A5	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RP11-195B21.3	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ANKRD20A2	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM74A1	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	BX088651.1	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CBWD7	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CNTNAP3B	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM27A	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM27B	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM27C	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FOXD4L2	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM27D1	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM27E1	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM27E2	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM27E3	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM74A3	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ANKRD20A3	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM74A2	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CLEC6A	Deletion		12	8375793	9232550.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CLEC4E	Deletion		12	8375793	9232550.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CLEC4D	Deletion		12	8375793	9232550.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RIMKLB	Deletion		12	8375793	9232550.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF596	Deletion		8	115834	1645715.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR4F21	Deletion		8	115834	1645715.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ERICH1	Deletion		8	115834	1645715.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM52B	Deletion		12	9301905	10571349.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GABARAPL1	Deletion		12	9301905	10571349.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CLEC2A	Deletion		12	9301905	10571349.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KLRF2	Deletion		12	9301905	10571349.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CLEC7A	Deletion		12	9301905	10571349.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CLEC9A	Deletion		12	9301905	10571349.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TLR4	Deletion		9	120466499	120477178.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	TMEM14B	Fusion	TMEM14B--MYH13	chr6	10770437							0.0	0.0		0	6.0	TMEM14B	chr6	10770437.0	MYH13	chr17	10274576.0					Osteosarcoma-IAS513			0	0	0	0	0	0	1
+Cosmic				Rearrangement	SUPT3H	Fusion	SUPT3H--RP11-328M4.2	chr6	44900390							0.0	0.0		0	9.0	SUPT3H	chr6	44900390.0	RP11-328M4.2	chr6	41491963.0					Osteosarcoma-IAS513			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND6	Fusion	MT-ND6--MT-TE	chrM	14477							0.0	0.0		0	14.0	MT-ND6	chrM	14477.0	MT-TE	chrM	14689.0					Osteosarcoma-IAS513			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4	Fusion	MT-ND4--MT-ND4L	chrM	10832							0.0	0.0		0	43.0	MT-ND4	chrM	10832.0	MT-ND4L	chrM	10615.0					Osteosarcoma-IAS513			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CO3	Fusion	MT-CO3--MT-ATP6	chrM	9359							0.0	0.0		0	7.0	MT-CO3	chrM	9359.0	MT-ATP6	chrM	9205.0					Osteosarcoma-IAS513			0	0	0	0	0	0	1
+Cosmic				Rearrangement	FAM101A	Fusion	FAM101A--RP11-214K3.24	chr12	124472685							0.0	0.0		0	7.0	FAM101A	chr12	124472685.0	RP11-214K3.24	chr12	124572811.0					Osteosarcoma-IAS513			0	0	0	0	0	0	1
+Cosmic				Rearrangement	CEP78	Fusion	CEP78--IGHV4OR15-8	chr9	80869880							0.0	0.0		0	9.0	CEP78	chr9	80869880.0	IGHV4OR15-8	chr15	22473224.0					Osteosarcoma-IAS513			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MRPS14	Fusion	TRAK1--MRPS14	chr3	42128892							0.0	0.0		0	41.0	TRAK1	chr3	42128892.0	MRPS14	chr1	174987712.0					Osteosarcoma-IAS513			0	0	0	0	0	0	1
+Cosmic				Rearrangement	ST7	Fusion	ST7-OT4--ST7	chr7	116594733							0.0	0.0		0	10.0	ST7-OT4	chr7	116594733.0	ST7	chr7	116739816.0					Osteosarcoma-IAS513			0	0	0	0	0	0	1
+Cosmic				Rearrangement	SRGAP2	Fusion	RP11-312O7.2--SRGAP2	chr1	206135293							0.0	0.0		0	6.0	RP11-312O7.2	chr1	206135293.0	SRGAP2	chr1	206557369.0					Osteosarcoma-IAS513			0	0	0	0	0	0	1
+Cosmic				Rearrangement	CLIC5	Fusion	PPARD--CLIC5	chr6	35310458							0.0	0.0		0	94.0	PPARD	chr6	35310458.0	CLIC5	chr6	45882146.0					Osteosarcoma-IAS513			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4L	Fusion	MT-ND4--MT-ND4L	chrM	10832							0.0	0.0		0	43.0	MT-ND4	chrM	10832.0	MT-ND4L	chrM	10615.0					Osteosarcoma-IAS513			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-CO3--MT-ATP6	chrM	9359							0.0	0.0		0	7.0	MT-CO3	chrM	9359.0	MT-ATP6	chrM	9205.0					Osteosarcoma-IAS513			0	0	0	0	0	0	1
+Cosmic				Rearrangement	ASTN2	Fusion	GSN--ASTN2	chr9	124043840							0.0	0.0		0	76.0	GSN	chr9	124043840.0	ASTN2	chr9	119382722.0					Osteosarcoma-IAS513			0	0	0	0	0	0	1
+Cosmic				Rearrangement	RAB38	Fusion	CTSC--RAB38	chr11	88033698							0.0	0.0		0	12.0	CTSC	chr11	88033698.0	RAB38	chr11	87883123.0					Osteosarcoma-IAS513			0	0	0	0	0	0	1
+VUS				Copy Number	BOD1L1	Amplification		4	13369930	16190228.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	NKG2-E	Deletion		12	9301905	10571349.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	TDRP	Deletion		8	115834	1645715.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-445F12.2	Amplification		17	35295243	35414216.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR2909	Amplification		17	35295243	35414216.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-268N12.2	Amplification		17	35295243	35414216.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-268N12.3	Amplification		17	35295243	35414216.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-445F12.1	Amplification		17	35295243	35414216.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-333J10.3	Amplification		17	35295243	35414216.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-333J10.2	Amplification		17	35295243	35414216.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	C17orf76-AS1	Amplification		17	16343185	16594308.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-92B11.4	Amplification		17	16343185	16594308.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-77H15.1	Amplification		17	16343185	16594308.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-219A15.1	Amplification		17	16343185	16594308.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-138I1.3	Amplification		17	16343185	16594308.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-452J21.2	Amplification		4	13369930	16190228.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-799M12.2	Amplification		4	13369930	16190228.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-669M16.2	Amplification		4	13369930	16190228.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-669M16.1	Amplification		4	13369930	16190228.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-665G4.1	Amplification		4	13369930	16190228.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-484O2.1	Amplification		4	13369930	16190228.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01085	Amplification		4	13369930	16190228.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	CPEB2-AS1	Amplification		4	13369930	16190228.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR5091	Amplification		4	13369930	16190228.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP170	Amplification		4	13369930	16190228.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-341G5.1	Amplification		4	13369930	16190228.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00504	Amplification		4	13369930	16190228.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC098830.1	Amplification		4	13369930	16190228.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC006296.1	Amplification		4	13369930	16190228.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC006296.2	Amplification		4	13369930	16190228.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC006445.8	Amplification		4	13369930	16190228.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC007126.1	Amplification		4	13369930	16190228.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-350P	Amplification		4	13369930	16190228.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-103J17.2	Amplification		4	36126232	37633397.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-103J17.1	Amplification		4	36126232	37633397.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-36B15.1	Amplification		4	36126232	37633397.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-722M1.1	Amplification		4	36126232	37633397.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-431M7.3	Amplification		4	36126232	37633397.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4801	Amplification		4	36126232	37633397.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-431M7.2	Amplification		4	36126232	37633397.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-360F5.1	Amplification		4	38689954	39344339.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-360F5.3	Amplification		4	38689954	39344339.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR574	Amplification		4	38689954	39344339.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP158	Amplification		4	38689954	39344339.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-32P	Amplification		4	38689954	39344339.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1090M7.1	Amplification		17	12647248	12920690.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC005358.1	Amplification		17	12647248	12920690.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL550P	Amplification		17	12647248	12920690.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-597M12.1	Amplification		17	12647248	12920690.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1269B	Amplification		17	12647248	12920690.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	XXyac-YM21GA2.4	Amplification		9	90345044	90589138.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	XXyac-YM21GA2.7	Amplification		9	90345044	90589138.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	XXyac-YM21GA2.3	Amplification		9	90345044	90589138.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	XXyac-YM21GA2.6	Amplification		9	90345044	90589138.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTSL3P	Amplification		9	90345044	90589138.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	SPATA31E1	Amplification		9	90345044	90589138.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL160279.1	Amplification		9	90345044	90589138.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	SPATA31C1	Amplification		9	90345044	90589138.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-82L18.4	Amplification		9	91606689	92020623.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-82L18.2	Amplification		9	91606689	92020623.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3153	Amplification		9	91606689	92020623.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP242	Amplification		9	85636999	86301322.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-439K3.3	Amplification		9	85636999	86301322.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU4-29P	Amplification		9	85636999	86301322.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU4-15P	Amplification		9	85636999	86301322.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-439K3.1	Amplification		9	85636999	86301322.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-160N1.10	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-146D12.2	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-160N1.9	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-599P	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-144A16.5	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-12A20.7	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-12A20.2	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-118H15.1	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-111F5.8	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-111F5.5	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-111F5.4	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-111F5.3	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-175I6.5	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-368P	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-538P	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-100J16.5	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-101E5.1	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL544P	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-187C18.2	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-95H8.5	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-374M1.5	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1269P	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-381O7.3	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-38P6.1	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-395E19.5	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-395E19.7	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-449H15.2	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-475I24.3	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-475I24.8	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-95K23.3	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-187C18.5	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-95K23.5	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-95K23.6	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	SPATA31A1	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	SPATA31A2	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	SPATA31A3	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	SPATA31A6	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	SPATA31A7	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-374M1.4	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-374M1.3	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-374M1.2	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-347J14.8	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-204M4.2	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-211N8.2	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-211N8.7	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-216M21.5	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-216M21.7	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-236F9.2	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-262H14.1	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-262H14.3	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-262H14.4	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-262H14.7	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-292F9.1	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-292F9.2	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-318K12.2	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-327I22.4	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-327I22.5	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-327I22.6	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-327I22.8	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-347J14.7	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-156P	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	CYP4F59P	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL591471.1	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL953854.2	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	BX088651.2	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	BX649567.1	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2173L22.4	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	FAM95B1	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	FAM74A6	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	FAM74A5	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	FAM74A4	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL845321.1	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL763P	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL591379.1	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL422P	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC129778.2	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL462P	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL565P	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL722P	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL343P	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL787P	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL353626.1	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL353626.2	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL353791.1	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP283	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL354718.1	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL513478.1	Deletion		9	39355476	67969165.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2647L4.1	Deletion		8	28997847	29006534.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL781P	Deletion		8	28997847	29006534.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHV1-8	Deletion		14	106538827	106552979.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHV3-9	Deletion		14	106538827	106552979.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-275P	Deletion		12	8375793	9232550.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	A2ML1-AS1	Deletion		12	8375793	9232550.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC092865.1	Deletion		12	8375793	9232550.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC092865.2	Deletion		12	8375793	9232550.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC092745.1	Deletion		12	8375793	9232550.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC092111.1	Deletion		12	8375793	9232550.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-561P12.5	Deletion		12	8375793	9232550.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-90D4.3	Deletion		12	8375793	9232550.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	SCARNA11	Deletion		12	8375793	9232550.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	A2ML1-AS2	Deletion		12	8375793	9232550.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	FAM86FP	Deletion		12	8375793	9232550.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-20D14.6	Deletion		12	8375793	9232550.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-20D14.3	Deletion		12	8375793	9232550.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00612	Deletion		12	8375793	9232550.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-259O18.4	Deletion		12	8375793	9232550.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00937	Deletion		12	8375793	9232550.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-266K4.9	Deletion		12	8375793	9232550.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-113C12.4	Deletion		12	8375793	9232550.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	A2M-AS1	Deletion		12	8375793	9232550.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-91J19.3	Deletion		8	115834	1645715.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-91J19.4	Deletion		8	115834	1645715.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-855D21.1	Deletion		8	115834	1645715.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-855D21.2	Deletion		8	115834	1645715.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-855D21.3	Deletion		8	115834	1645715.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RPL23AP53	Deletion		8	115834	1645715.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-666I19.2	Deletion		8	115834	1645715.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	AF067845.1	Deletion		8	115834	1645715.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	FAM87A	Deletion		8	115834	1645715.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2281E23.3	Deletion		8	115834	1645715.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-43A14.1	Deletion		8	115834	1645715.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2281E23.2	Deletion		8	115834	1645715.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-585F1.10	Deletion		8	115834	1645715.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	ERICH1-AS1	Deletion		8	115834	1645715.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-63E5.6	Deletion		8	115834	1645715.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2281E23.1	Deletion		8	115834	1645715.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	A2MP1	Deletion		12	9301905	10571349.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-133L14.5	Deletion		12	9301905	10571349.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-277P12.10	Deletion		12	9301905	10571349.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-118B22.4	Deletion		12	9301905	10571349.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC006432.1	Deletion		12	9301905	10571349.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-189P	Deletion		12	9301905	10571349.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-700P	Deletion		12	9301905	10571349.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC091814.2	Deletion		12	9301905	10571349.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC091814.3	Deletion		12	9301905	10571349.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00987	Deletion		12	9301905	10571349.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-277P12.20	Deletion		12	9301905	10571349.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-277P12.9	Deletion		12	9301905	10571349.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-290C10.1	Deletion		12	9301905	10571349.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP161	Deletion		12	9301905	10571349.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-705C15.2	Deletion		12	9301905	10571349.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-705C15.3	Deletion		12	9301905	10571349.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-705C15.4	Deletion		12	9301905	10571349.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-705C15.5	Deletion		12	9301905	10571349.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-726G1.1	Deletion		12	9301905	10571349.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-75L1.1	Deletion		12	9301905	10571349.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-656E20.5	Deletion		12	9301905	10571349.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	KLRC4-KLRK1	Deletion		12	9301905	10571349.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP13-735L24.1	Deletion		12	9301905	10571349.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1082P	Deletion		9	120466499	120477178.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC007436.1	Deletion		12	9242248	9301842.0						0.0	0.0		0												Osteosarcoma-IAS513	IAS513_T		0	0	0	0	0	0	0
+VUS				Rearrangement	WI2-1896O14.1	Fusion	WI2-1896O14.1--RP11-353N4.1	chr1	144676874							0.0	0.0		0	8.0	WI2-1896O14.1	chr1	144676874.0	RP11-353N4.1	chr1	149590973.0					Osteosarcoma-IAS513			0	0	0	0	0	0	0
+VUS				Rearrangement	ST7-OT4	Fusion	ST7-OT4--ST7	chr7	116594733							0.0	0.0		0	10.0	ST7-OT4	chr7	116594733.0	ST7	chr7	116739816.0					Osteosarcoma-IAS513			0	0	0	0	0	0	0
+VUS				Rearrangement	RP4-769N13.6	Fusion	RP4-769N13.6--GPRASP2	chrX	101860581							0.0	0.0		0	6.0	RP4-769N13.6	chrX	101860581.0	GPRASP2	chrX	101968710.0					Osteosarcoma-IAS513			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-312O7.2	Fusion	RP11-312O7.2--SRGAP2	chr1	206135293							0.0	0.0		0	6.0	RP11-312O7.2	chr1	206135293.0	SRGAP2	chr1	206557369.0					Osteosarcoma-IAS513			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-110G21.1	Fusion	RP11-110G21.1--RP11-546K22.1	chr8	52825740							0.0	0.0		0	6.0	RP11-110G21.1	chr8	52825740.0	RP11-546K22.1	chr8	52934976.0					Osteosarcoma-IAS513			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-1102P16.1	Fusion	RP11-1102P16.1--EYA1	chr8	72447979							0.0	0.0		0	7.0	RP11-1102P16.1	chr8	72447979.0	EYA1	chr8	72268746.0					Osteosarcoma-IAS513			0	0	0	0	0	0	0
+VUS				Rearrangement	RP1-34H18.1	Fusion	RP1-34H18.1--RP11-781A6.1	chr12	77966046							0.0	0.0		0	9.0	RP1-34H18.1	chr12	77966046.0	RP11-781A6.1	chr12	78177043.0					Osteosarcoma-IAS513			0	0	0	0	0	0	0
+VUS				Rearrangement	RP1-34H18.1	Fusion	RP1-34H18.1--NAV3	chr12	77966046							0.0	0.0		0	5.0	RP1-34H18.1	chr12	77966046.0	NAV3	chr12	78334099.0					Osteosarcoma-IAS513			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-214K3.24	Fusion	ZNF664--RP11-214K3.24	chr12	124472685							0.0	0.0		0	7.0	ZNF664	chr12	124472685.0	RP11-214K3.24	chr12	124572811.0					Osteosarcoma-IAS513			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-353N4.1	Fusion	WI2-1896O14.1--RP11-353N4.1	chr1	144676874							0.0	0.0		0	8.0	WI2-1896O14.1	chr1	144676874.0	RP11-353N4.1	chr1	149590973.0					Osteosarcoma-IAS513			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-328M4.2	Fusion	SUPT3H--RP11-328M4.2	chr6	44900390							0.0	0.0		0	9.0	SUPT3H	chr6	44900390.0	RP11-328M4.2	chr6	41491963.0					Osteosarcoma-IAS513			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-546K22.1	Fusion	RP11-110G21.1--RP11-546K22.1	chr8	52825740							0.0	0.0		0	6.0	RP11-110G21.1	chr8	52825740.0	RP11-546K22.1	chr8	52934976.0					Osteosarcoma-IAS513			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-781A6.1	Fusion	RP1-34H18.1--RP11-781A6.1	chr12	77966046							0.0	0.0		0	9.0	RP1-34H18.1	chr12	77966046.0	RP11-781A6.1	chr12	78177043.0					Osteosarcoma-IAS513			0	0	0	0	0	0	0
+VUS				Rearrangement	LINC00937	Fusion	PI4K2B--LINC00937	chr4	25162375							0.0	0.0		0	25.0	PI4K2B	chr4	25162375.0	LINC00937	chr12	8509737.0					Osteosarcoma-IAS513			0	0	0	0	0	0	0
+VUS				Rearrangement	AF127936.7	Fusion	NRIP1--AF127936.7	chr21	16415816							0.0	0.0		0	5.0	NRIP1	chr21	16415816.0	AF127936.7	chr21	16230029.0					Osteosarcoma-IAS513			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TE	Fusion	MT-ND6--MT-TE	chrM	14477							0.0	0.0		0	14.0	MT-ND6	chrM	14477.0	MT-TE	chrM	14689.0					Osteosarcoma-IAS513			0	0	0	0	0	0	0
+VUS				Rearrangement	AC096579.7	Fusion	IGKV4-1--AC096579.7	chr2	89185668							0.0	0.0		0	24.0	IGKV4-1	chr2	89185668.0	AC096579.7	chr2	89161074.0					Osteosarcoma-IAS513			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-214K3.24	Fusion	FAM101A--RP11-214K3.24	chr12	124472685							0.0	0.0		0	7.0	FAM101A	chr12	124472685.0	RP11-214K3.24	chr12	124572811.0					Osteosarcoma-IAS513			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-474G23.1	Fusion	CNRIP1--RP11-474G23.1	chr2	68544289							0.0	0.0		0	7.0	CNRIP1	chr2	68544289.0	RP11-474G23.1	chr2	68444263.0					Osteosarcoma-IAS513			0	0	0	0	0	0	0
+VUS				Rearrangement	PPP3R1	Fusion	CNRIP1--PPP3R1	chr2	68544289							0.0	0.0		0	7.0	CNRIP1	chr2	68544289.0	PPP3R1	chr2	68444263.0					Osteosarcoma-IAS513			0	0	0	0	0	0	0
+VUS				Rearrangement	IGHV4OR15-8	Fusion	CEP78--IGHV4OR15-8	chr9	80869880							0.0	0.0		0	9.0	CEP78	chr9	80869880.0	IGHV4OR15-8	chr15	22473224.0					Osteosarcoma-IAS513			0	0	0	0	0	0	0

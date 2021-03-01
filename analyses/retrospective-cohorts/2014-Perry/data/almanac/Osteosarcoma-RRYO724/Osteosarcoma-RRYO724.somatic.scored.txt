@@ -1,0 +1,386 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Putatively Actionable			Putatively Actionable	Copy Number	RB1	Deletion		13	48881164	48986811.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		4	1	1	1	1	1	1
+Putatively Actionable	Putatively Actionable			Copy Number	CCNE1	Amplification		19	30303780	30314936.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		4	0	0	1	1	1	1
+Biologically Relevant				Rearrangement	TP53	Fusion	TP53--RP11-69I8.3	chr17	7590695							0.0	0.0		0	12.0	TP53	chr17	7590695.0	RP11-69I8.3	chr6	132395933.0					Osteosarcoma-RRYO724			1	1	1	1	1	1	1
+Biologically Relevant				Copy Number	FLI1	Amplification		11	128333152	129307198.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		1	0	0	1	0	1	1
+Cancer Hotspot				Somatic Variant	PTPRD	Missense	p.E1347K	9	8436639	8436639.0	C	C	T	0.1507	73.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	1	1	1	0	1	2
+Cancer Hotspot				Somatic Variant	FGFR4	Missense	p.R171H	5	176518014	176518014.0	G	G	A	0.425	40.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	1	0	1	0	1	2
+Cancer Hotspot				Copy Number	HLA-B	Amplification		6	31323692	31324798.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	1	0	0	1	1	1
+Cancer Hotspot				Rearrangement	PTPRS	Fusion	PTPRS--AZU1	chr19	5340675							0.0	0.0		0	8.0	PTPRS	chr19	5340675.0	AZU1	chr19	828230.0					Osteosarcoma-RRYO724			0	1	0	0	0	1	1
+Cancer Hotspot				Rearrangement	ANKRD11	Fusion	ANKRD11--RP11-104N10.1	chr16	89484692							0.0	0.0		0	15.0	ANKRD11	chr16	89484692.0	RP11-104N10.1	chr16	89559041.0					Osteosarcoma-RRYO724			0	1	0	0	0	1	1
+Cancer Hotspot 3D				Copy Number	ARHGAP32	Amplification		11	128333152	129307198.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	PTPN1	Amplification		20	49177648	49236921.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Rearrangement	SLIT2	Fusion	SLIT2--SLIT2-IT1	chr4	20270504							0.0	0.0		0	5.0	SLIT2	chr4	20270504.0	SLIT2-IT1	chr4	20394973.0					Osteosarcoma-RRYO724			0	0	1	0	0	1	1
+Cancer Hotspot 3D				Somatic Variant	OXSR1	Missense	p.A44V	3	38224554	38224554.0	C	C	T	0.0617	81.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	1	0	0	0	2
+Cancer Hotspot 3D				Somatic Variant	IQUB	Splice Site	p.K527N	7	123109268	123109268.0	C	C	A	0.4074	54.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	1	0	0	0	2
+Cancer Hotspot 3D				Rearrangement	RBM46	Fusion	TRIM2--RBM46	chr4	154074422							0.0	0.0		0	7.0	TRIM2	chr4	154074422.0	RBM46	chr4	155741515.0					Osteosarcoma-RRYO724			0	0	1	0	0	0	1
+Cancer Gene Census				Somatic Variant	PABPC1	Missense	p.P33L	8	101733714	101733714.0	G	G	A	0.2805	82.0	0.0	0.0		0								261.0	0.1724	1.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	1	0	1	2
+Cancer Gene Census				Somatic Variant	FAM135B	Missense	p.P1371H	8	139144945	139144945.0	G	G	T	0.4367	442.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	1	0	1	2
+Cancer Gene Census				Somatic Variant	LRP1B	Missense	p.A1474V	2	141625317	141625317.0	G	G	A	0.0342	117.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	1	0	1	2
+Cancer Gene Census				Copy Number	KCNJ5	Amplification		11	128333152	129307198.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	CNTNAP2	Deletion		7	146536551	146829853.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	1	0	1	1
+Cancer Gene Census				Somatic Variant	CACNA1D	Missense	p.A865P	3	53766961	53766961.0	G	G	C	0.1714	70.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	1	0	0	1
+Cancer Gene Census				Copy Number	NFATC2	Amplification		20	50048352	50218138.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	1	0	0	1
+Cancer Gene Census				Copy Number	CTNND2	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	1	0	0	1
+Cancer Pathway				Somatic Variant	PAK2	Missense	p.S217C	3	196534726	196534726.0	C	C	G	0.1923	78.0	0.0	0.0		0								55.0	0.4909	0.9875		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	1	1	2
+Cancer Pathway				Somatic Variant	PAK2	Missense	p.S152C	3	196532241	196532241.0	C	C	G	0.3667	30.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	1	1	2
+Cancer Pathway				Somatic Variant	NFKB1	Missense	p.V539L	4	103518796	103518796.0	G	G	C	0.2233	103.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	1	1	2
+Cancer Pathway				Copy Number	ETS1	Amplification		11	128333152	129307198.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	WNT7B	Deletion		22	45681570	46670218.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	1	1	1
+Cancer Module				Somatic Variant	CEP135	Missense	p.H661L	4	56858224	56858224.0	A	A	T	0.2308	52.0	0.0	0.0		0								2.0	1.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SERPINA5	Missense	p.T151M	14	95054151	95054151.0	C	C	T	0.3385	65.0	1.6e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	LEPR	Missense	p.G108V	1	66036438	66036438.0	G	G	T	0.2321	56.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	MSH4	Missense	p.R580S	1	76345797	76345797.0	A	A	T	0.4085	71.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ABCA12	Missense	p.F1056L	2	215865440	215865440.0	G	G	T	0.3279	61.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	UGT8	Missense	p.S13R	4	115544073	115544073.0	A	A	C	0.3793	58.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ZNF624	Missense	p.C813F	17	16525762	16525762.0	C	C	A	0.0357	84.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	PHRF1	Missense	p.A490V	11	606459	606459.0	C	C	T	0.875	8.0	8e-06	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	BAG6	Missense	p.R290C	6	31614221	31614221.0	G	G	A	0.1892	111.0	1.7e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	CYP4A11	Missense	p.L59P	1	47406930	47406930.0	A	A	G	0.3407	91.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	CD1C	Missense	p.K325E	1	158263085	158263085.0	A	A	G	0.2391	184.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	DCT	Missense	p.R202S	13	95118904	95118904.0	G	G	T	0.5333	30.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	IFT43	Missense	p.R93K	14	76543002	76543002.0	G	G	A	0.2537	134.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SH3BP1	Missense	p.R110H	22	38038946	38038946.0	G	G	A	0.0337	89.0	8e-06	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	TTN	Missense	p.G3963A	2	179606072	179606072.0	C	C	G	0.0291	103.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	ATAD2B	Missense	p.D222N	2	24108608	24108608.0	C	C	T	0.25	12.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	EPHA4	Frameshift	p.P27fs	2	222436888	222436888.0	G	G	-	0.3607	61.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	SCN5A	Missense	p.D1945H	3	38591931	38591931.0	C	C	G	0.0388	103.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	USP30	Splice Site		12	109519137	109519137.0	A	A	T	0.1461	89.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	0	1	1
+Cancer Module				Copy Number	COL6A3	Deletion		2	238248843	238290394.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	AMACR	Deletion		5	32057509	34687312.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RIBC2	Deletion		22	45681570	46670218.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PDCD6IP	Amplification		3	33907591	36759920.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MTA1	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ADAMTS12	Deletion		5	32057509	34687312.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZFR	Deletion		5	32057509	34687312.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NPR3	Deletion		5	32057509	34687312.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	JMJD1C	Deletion		10	65139826	65358154.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FBLN1	Deletion		22	45681570	46670218.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RAI14	Deletion		5	32057509	34687312.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PPAP2C	Deletion		19	281136	376222.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SIGLEC5	Deletion		19	52146356	52148909.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	OPCML	Amplification		11	132398703	132813239.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GGTLC1	Amplification		20	23966663	23967500.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	JAM3	Amplification		11	133711682	134257805.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	BARX2	Amplification		11	128333152	129307198.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KCNJ1	Amplification		11	128333152	129307198.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	IFT43	Amplification		14	76525418	76550172.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FAM65C	Amplification		20	49177648	49236921.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ATP9A	Amplification		20	50048352	50218138.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	STAC	Amplification		3	33907591	36759920.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MAGI1	Amplification		3	64666625	65479558.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PACS2	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	JAG2	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CRIP2	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CRIP1	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	BRF1	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PPARA	Deletion		22	45681570	46670218.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PDZD2	Deletion		5	32057509	34687312.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TARS	Deletion		5	32057509	34687312.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SUB1	Deletion		5	32057509	34687312.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GOLPH3	Deletion		5	32057509	34687312.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MTMR12	Deletion		5	32057509	34687312.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DAP	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MARCH6	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PAPD7	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ROPN1L	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CCT5	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NSUN2	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ALPPL2	Deletion		2	233273162	233273589.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ORM2	Deletion		9	117092965	117094461.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	THEG	Deletion		19	281136	376222.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LPAR6	Deletion		13	48881164	48986811.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	TRIM2	Fusion	TRIM2--RBM46	chr4	154074422							0.0	0.0		0	7.0	TRIM2	chr4	154074422.0	RBM46	chr4	155741515.0					Osteosarcoma-RRYO724			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	SPARC	Fusion	SPARC--MT-CO2	chr5	151043709							0.0	0.0		0	6.0	SPARC	chr5	151043709.0	MT-CO2	chrM	7982.0					Osteosarcoma-RRYO724			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	KARS	Fusion	KARS--CFDP1	chr16	75674082							0.0	0.0		0	14.0	KARS	chr16	75674082.0	CFDP1	chr16	75339080.0					Osteosarcoma-RRYO724			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	DIP2C	Fusion	DIP2C--LINC01054	chr10	735434							0.0	0.0		0	5.0	DIP2C	chr10	735434.0	LINC01054	chr13	115096253.0					Osteosarcoma-RRYO724			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	ATG4D	Fusion	SLC44A2--ATG4D	chr19	10747432							0.0	0.0		0	35.0	SLC44A2	chr19	10747432.0	ATG4D	chr19	10659580.0					Osteosarcoma-RRYO724			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	AZU1	Fusion	PTPRS--AZU1	chr19	5340675							0.0	0.0		0	8.0	PTPRS	chr19	5340675.0	AZU1	chr19	828230.0					Osteosarcoma-RRYO724			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	CFDP1	Fusion	KARS--CFDP1	chr16	75674082							0.0	0.0		0	14.0	KARS	chr16	75674082.0	CFDP1	chr16	75339080.0					Osteosarcoma-RRYO724			0	0	0	0	0	1	1
+Cancer Module				Copy Number	IGHM	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	1	0
+Cancer Module				Copy Number	IGHG3	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	1	0
+Cosmic				Somatic Variant	SCAMP2	Missense	p.W173C	15	75142968	75142968.0	C	C	G	0.1729	133.0	0.0	0.0		0								183.0	0.1366	1.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	HAUS5	Missense	p.S517F	19	36111128	36111128.0	C	C	T	0.8155	103.0	0.0	0.0		0								47.0	0.7659999999999999	1.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	TRPM4	Missense	p.E608G	19	49691977	49691977.0	A	A	G	0.3902	41.0	0.0	0.0		0								12.0	0.4167	0.7347		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ATP13A5	Splice Site	p.W925C	3	193019000	193019000.0	C	C	A	0.1937	191.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	SCN1A	Missense	p.M270T	2	166908384	166908384.0	A	A	G	0.2097	62.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	OR5K4	Missense	p.D121V	3	98073059	98073059.0	A	A	T	0.3039	204.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	SCUBE1	Missense	p.M657I	22	43610178	43610178.0	C	C	A	0.3229	96.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ZNF831	Missense	p.L1443F	20	57829091	57829091.0	C	C	T	0.1504	113.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	RHBDD1	Missense	p.K47N	2	227729550	227729550.0	G	G	C	0.4286	63.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ARPP21	Missense	p.R294I	3	35750546	35750546.0	G	G	T	0.1034	87.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	C7orf66	Missense	p.H83Q	7	108524163	108524163.0	A	A	T	0.5474	95.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	KCNC2	Missense	p.A483E	12	75444337	75444337.0	G	G	T	0.22	50.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	DAAM1	Missense	p.I217L	14	59789818	59789818.0	A	A	C	0.1154	26.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	SPINT1	Missense	p.R406H	15	41148141	41148141.0	G	G	A	0.425	120.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	CHST8	Missense	p.K199N	19	34263290	34263290.0	G	G	T	0.3077	143.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	GIMAP8	Missense	p.R566Q	7	150174567	150174567.0	G	G	A	0.2985	67.0	1.6e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ZNF687	Missense	p.R569L	1	151260473	151260473.0	G	G	T	0.0294	102.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	SENP7	Missense	p.E796K	3	101056447	101056447.0	C	C	T	0.1852	54.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	GGTLC2	Missense	p.A138T	22	22989560	22989560.0	G	G	A	0.2273	176.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	GGTLC2	Missense	p.A138G	22	22989561	22989561.0	C	C	G	0.2428	173.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	CDC42BPA	Missense	p.R1310C	1	227216757	227216757.0	G	G	A	0.0882	34.0	2.5e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	ZNF33A	Missense	p.R451C	10	38344403	38344403.0	C	C	T	0.2364	55.0	3.3e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	SLC36A2	Missense	p.F475L	5	150696407	150696407.0	A	A	G	0.0345	87.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	ABHD11	Missense	p.E197A	7	73151573	73151573.0	T	T	G	0.252	127.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	PPP2R1B	Missense	p.Q446R	11	111614182	111614182.0	T	T	C	0.1891	201.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	ZNF773	Splice Site		19	58017725	58017725.0	G	G	T	0.3143	70.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	0	0	1
+Cosmic				Copy Number	AKNA	Deletion		9	117092965	117094461.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TP53AIP1	Amplification		11	128333152	129307198.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SMC1B	Deletion		22	45681570	46670218.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GLB1L3	Amplification		11	133711682	134257805.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM118A	Deletion		22	45681570	46670218.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC45A2	Deletion		5	32057509	34687312.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MTRR	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NUDT14	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C22orf26	Deletion		22	45681570	46670218.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	UPK3A	Deletion		22	45681570	46670218.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TTC38	Deletion		22	45681570	46670218.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TAS2R1	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FASTKD3	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	SLC44A2	Fusion	SLC44A2--ATG4D	chr19	10747432							0.0	0.0		0	35.0	SLC44A2	chr19	10747432.0	ATG4D	chr19	10659580.0					Osteosarcoma-RRYO724			0	0	0	0	0	0	1
+Cosmic				Copy Number	B3GAT1	Amplification		11	133711682	134257805.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SPATA19	Amplification		11	133711682	134257805.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NCAPD3	Amplification		11	133711682	134257805.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GLB1L2	Amplification		11	133711682	134257805.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IGSF9B	Amplification		11	133711682	134257805.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	VPS26B	Amplification		11	133711682	134257805.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ACAD8	Amplification		11	133711682	134257805.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	THYN1	Amplification		11	133711682	134257805.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NTM	Amplification		11	131240450	132307505.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C11orf45	Amplification		11	128333152	129307198.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DCLK3	Amplification		3	33907591	36759920.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ARPP21	Amplification		3	33907591	36759920.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ADAMTS9	Amplification		3	64666625	65479558.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM121	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	BTBD6	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C14orf80	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GPR132	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMTC2	Deletion		12	83250537	83359113.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PKDREJ	Deletion		22	45681570	46670218.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ATXN10	Deletion		22	45681570	46670218.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PAPPA	Deletion		9	119064784	119125270.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C1QTNF3	Deletion		5	32057509	34687312.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RXFP3	Deletion		5	32057509	34687312.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ADCY2	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SRD5A1	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SEMA5A	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM173B	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C5orf49	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CMBL	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	REEP3	Deletion		10	65139826	65358154.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MIER2	Deletion		19	281136	376222.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND6	Fusion	MT-ND6--MT-TE	chrM	14486							0.0	0.0		0	20.0	MT-ND6	chrM	14486.0	MT-TE	chrM	14720.0					Osteosarcoma-RRYO724			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-ATP6--MT-ATP8	chrM	8675							0.0	0.0		0	17.0	MT-ATP6	chrM	8675.0	MT-ATP8	chrM	8457.0					Osteosarcoma-RRYO724			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CO2	Fusion	SPARC--MT-CO2	chr5	151043709							0.0	0.0		0	6.0	SPARC	chr5	151043709.0	MT-CO2	chrM	7982.0					Osteosarcoma-RRYO724			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP8	Fusion	MT-ATP6--MT-ATP8	chrM	8675							0.0	0.0		0	17.0	MT-ATP6	chrM	8675.0	MT-ATP8	chrM	8457.0					Osteosarcoma-RRYO724			0	0	0	0	0	0	1
+VUS				Somatic Variant	ITIH6	Missense	p.T53N	X	54823474	54823474.0	G	G	T	0.0219	183.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRYO724	Osteosarcoma-RRYO724-Tumor-SM-2RCBJ	Osteosarcoma-RRYO724-Normal-SM-2RCCY	0	0	0	0	0	0	0
+VUS				Copy Number	OPCML-IT2	Amplification		11	132398703	132813239.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1182P	Amplification		11	132398703	132813239.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-713P17.4	Amplification		11	133711682	134257805.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-713P17.3	Amplification		11	133711682	134257805.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-700F16.3	Amplification		11	133711682	134257805.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	AP000911.1	Amplification		11	133711682	134257805.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4697	Amplification		11	133711682	134257805.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-713P17.5	Amplification		11	133711682	134257805.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-217L21.1	Amplification		11	131240450	132307505.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	NTM-IT	Amplification		11	131240450	132307505.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	AP004372.1	Amplification		11	131240450	132307505.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	AP003039.3	Amplification		11	131240450	132307505.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	AP003025.2	Amplification		11	131240450	132307505.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6ATAC12P	Amplification		11	131240450	132307505.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-697E14.2	Amplification		11	131240450	132307505.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	FLI1-AS1	Amplification		11	128333152	129307198.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-874P	Amplification		11	128333152	129307198.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1007G5.2	Amplification		11	128333152	129307198.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-264E20.1	Amplification		11	128333152	129307198.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-264E20.2	Amplification		11	128333152	129307198.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-744N12.3	Amplification		11	128333152	129307198.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-876P	Amplification		11	128333152	129307198.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1302-5	Amplification		20	49177648	49236921.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR645	Amplification		20	49177648	49236921.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-530I15.9	Amplification		20	49177648	49236921.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3194	Amplification		20	50048352	50218138.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	ARPP21-AS1	Amplification		3	33907591	36759920.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-243P	Amplification		3	33907591	36759920.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC018359.3	Amplification		3	33907591	36759920.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR128-2	Amplification		3	33907591	36759920.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC123023.1	Amplification		3	33907591	36759920.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP227	Amplification		3	33907591	36759920.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC018359.1	Amplification		3	33907591	36759920.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-88H12.2	Amplification		3	64666625	65479558.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-543A18.1	Amplification		3	64666625	65479558.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	ADAMTS9-AS2	Amplification		3	64666625	65479558.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC104331.1	Amplification		3	64666625	65479558.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHD6-19	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHD5-5	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHD6-13	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHD4-4	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHD5-12	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHD5-24	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHD5-18	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHJ3	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHD4-23	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHD4-17	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHD6-6	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHD4-11	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHD3-9	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHD3-3	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHD3-22	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHD3-16	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHD3-10	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHD2-8	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHD2-21	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHD6-25	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHD7-27	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	hsa-mir-4538	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	hsa-mir-4537	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	TEX22	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-731F5.2	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-731F5.1	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-521B24.5	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-521B24.3	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-44N21.4	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-44N21.1	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHD2-15	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	KIAA0125	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHE	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHV6-1	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHJ6	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHJ5	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHJ4	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHJ2	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHJ1	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHG4	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHG2	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHG1	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHD2-2	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	hsa-mir-4539	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHD1-7	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL122127.1	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL928768.3	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL928742.2	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL928742.12	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL928742.1	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL901608.1	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL122127.5	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL122127.4	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL122127.3	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHD1-26	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL122127.25	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL122127.2	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHA2	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHD1-20	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHD1-14	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHD1-1	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHD	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHA1	Amplification		14	105521472	106405966.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	WI2-85898F10.1	Deletion		22	45681570	46670218.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP6-109B7.2	Deletion		22	45681570	46670218.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	FLJ27365	Deletion		22	45681570	46670218.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3619	Deletion		22	45681570	46670218.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	CR536603.1	Deletion		22	45681570	46670218.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4762	Deletion		22	45681570	46670218.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4763	Deletion		22	45681570	46670218.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIRLET7A3	Deletion		22	45681570	46670218.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIRLET7B	Deletion		22	45681570	46670218.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP6-109B7.3	Deletion		22	45681570	46670218.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP6-109B7.4	Deletion		22	45681570	46670218.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00899	Deletion		22	45681570	46670218.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-102D24.5	Deletion		22	45681570	46670218.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	CDPF1	Deletion		22	45681570	46670218.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	CITF22-92A6.1	Deletion		22	45681570	46670218.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1161P	Deletion		22	45681570	46670218.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTA-941F9.9	Deletion		22	45681570	46670218.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP6-109B7.5	Deletion		22	45681570	46670218.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-45A16.4	Deletion		9	119064784	119125270.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1079P	Deletion		5	32057509	34687312.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2004A9.1	Deletion		5	32057509	34687312.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1250I15.3	Deletion		5	32057509	34687312.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-923P	Deletion		5	32057509	34687312.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1023L17.1	Deletion		5	32057509	34687312.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1084J3.4	Deletion		5	32057509	34687312.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-113I22.1	Deletion		5	32057509	34687312.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-378P	Deletion		5	32057509	34687312.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2066L21.3	Deletion		5	32057509	34687312.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2024P10.1	Deletion		5	32057509	34687312.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR579	Deletion		5	32057509	34687312.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC008949.1	Deletion		5	32057509	34687312.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2218G20.2	Deletion		5	32057509	34687312.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2203K17.1	Deletion		5	32057509	34687312.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2186M15.3	Deletion		5	32057509	34687312.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2152M20.2	Deletion		5	32057509	34687312.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2024P10.2	Deletion		5	32057509	34687312.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC026703.1	Deletion		5	32057509	34687312.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC026703.2	Deletion		5	32057509	34687312.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2233C11.2	Deletion		5	32057509	34687312.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2066L21.1	Deletion		5	32057509	34687312.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2066L21.2	Deletion		5	32057509	34687312.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-332J15.2	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-332J15.3	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-332J15.4	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-315A16.1	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-332J15.1	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-404K5.4	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-417J1.1	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-447B18.1	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	ANKRD33B	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD123	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNHG18	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-480D4.1	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-480D4.2	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1C1.7	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-480D4.6	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-711G10.1	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	ANKRD33B-AS1	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-215G15.5	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP177	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1C1.6	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2256P15.1	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2154B17.1	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1C1.5	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2154B17.4	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2199O4.1	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2199O4.3	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2199O4.6	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2199O4.7	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2201E9.1	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2201E9.2	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2201E9.4	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2215L10.1	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2256P15.2	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4458HG	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2256P15.4	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2256P15.5	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2296D1.1	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2296D1.2	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2296D1.3	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2296D1.4	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2296D1.5	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2143L24.1	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4636	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1C1.4	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-143A12.3	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-122F24.1	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	ROPN1L-AS1	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-429P	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU1-76P	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP176	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2072I24.1	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP79	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2001E22.1	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2044J15.2	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2044J15.1	Deletion		5	6606681	11111407.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	JMJD1C-AS1	Deletion		10	65139826	65358154.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC084872.1	Deletion		7	146536551	146829853.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC006004.1	Deletion		7	146536551	146829853.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-3113P16.5	Deletion		19	281136	376222.0						0.0	0.0		0												Osteosarcoma-RRYO724	RRYO724_T		0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-96H19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	11.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	47046173.0					Osteosarcoma-RRYO724			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-216L13.19	Fusion	RP11-216L13.19--NELFB	chr9	139704438							0.0	0.0		0	13.0	RP11-216L13.19	chr9	139704438.0	NELFB	chr9	140157489.0					Osteosarcoma-RRYO724			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-69I8.3	Fusion	TP53--RP11-69I8.3	chr17	7590695							0.0	0.0		0	12.0	TP53	chr17	7590695.0	RP11-69I8.3	chr6	132395933.0					Osteosarcoma-RRYO724			0	0	0	0	0	0	0
+VUS				Rearrangement	SLIT2-IT1	Fusion	SLIT2--SLIT2-IT1	chr4	20270504							0.0	0.0		0	5.0	SLIT2	chr4	20270504.0	SLIT2-IT1	chr4	20394973.0					Osteosarcoma-RRYO724			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-446N19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	11.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	47046173.0					Osteosarcoma-RRYO724			0	0	0	0	0	0	0
+VUS				Rearrangement	NELFB	Fusion	RP11-216L13.19--NELFB	chr9	139704438							0.0	0.0		0	13.0	RP11-216L13.19	chr9	139704438.0	NELFB	chr9	140157489.0					Osteosarcoma-RRYO724			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TE	Fusion	MT-ND6--MT-TE	chrM	14486							0.0	0.0		0	20.0	MT-ND6	chrM	14486.0	MT-TE	chrM	14720.0					Osteosarcoma-RRYO724			0	0	0	0	0	0	0
+VUS				Rearrangement	LINC01054	Fusion	DIP2C--LINC01054	chr10	735434							0.0	0.0		0	5.0	DIP2C	chr10	735434.0	LINC01054	chr13	115096253.0					Osteosarcoma-RRYO724			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-104N10.1	Fusion	ANKRD11--RP11-104N10.1	chr16	89484692							0.0	0.0		0	15.0	ANKRD11	chr16	89484692.0	RP11-104N10.1	chr16	89559041.0					Osteosarcoma-RRYO724			0	0	0	0	0	0	0

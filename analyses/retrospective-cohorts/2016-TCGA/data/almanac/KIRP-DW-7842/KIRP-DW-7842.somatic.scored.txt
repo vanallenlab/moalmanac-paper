@@ -1,0 +1,253 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Biologically Relevant				Rearrangement	JAK1	Fusion	RP4-535B20.1--JAK1	chr1	65533287							0.0	0.0		0	6.0	RP4-535B20.1	chr1	65533287.0	JAK1	chr1	65352024.0					KIRP-DW-7842			1	1	0	1	1	1	1
+Biologically Relevant				Copy Number	PMS2	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		1	1	0	1	1	0	1
+Cancer Hotspot				Copy Number	RAC1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	1	1	1	1	1	1
+Cancer Hotspot				Copy Number	CARD11	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	1	0	1	0	0	1
+Cancer Hotspot 3D				Somatic Variant	VIM	Missense	p.A308G	10	17276732	17276732.0	C	C	G	0.1429	105.0	0.0	0.0		0								4143.0	0.1301	1.0		KIRP-DW-7842	KIRP-DW-7842-TP	KIRP-DW-7842-NB	0	0	1	0	0	1	2
+Cancer Hotspot 3D				Copy Number	ISPD	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	1	0	0	0	1
+Cancer Hotspot 3D				Rearrangement	PCDHA4	Fusion	PCDHA4--PCDHAC2	chr5	140189157							0.0	0.0		0	25.0	PCDHA4	chr5	140189157.0	PCDHAC2	chr5	140358534.0					KIRP-DW-7842			0	0	1	0	0	0	1
+Cancer Hotspot 3D				Rearrangement	PCDHA4	Fusion	PCDHA4--PCDHAC1	chr5	140189157							0.0	0.0		0	25.0	PCDHA4	chr5	140189157.0	PCDHAC1	chr5	140358534.0					KIRP-DW-7842			0	0	1	0	0	0	1
+Cancer Gene Census				Copy Number	ETV1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	1	0	1	1
+Cancer Gene Census				Rearrangement	SRGAP3	Fusion	RP11-380O24.1--SRGAP3	chr3	9367694							0.0	0.0		0	17.0	RP11-380O24.1	chr3	9367694.0	SRGAP3	chr3	9166601.0					KIRP-DW-7842			0	0	0	1	0	1	1
+Cancer Pathway				Copy Number	MAD1L1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	RPA3	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	L1CAM	Deletion		X	153139884	153143775.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	PRKAR1B	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	1	0	1
+Cancer Module				Somatic Variant	RPAP3	Missense	p.E303K	12	48080648	48080648.0	C	C	T	0.5588	68.0	0.0	0.0		0								52.0	0.3846	1.0		KIRP-DW-7842	KIRP-DW-7842-TP	KIRP-DW-7842-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	MYOM2	Missense	p.T1070I	8	2063780	2063780.0	C	C	T	0.4348	69.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-DW-7842	KIRP-DW-7842-TP	KIRP-DW-7842-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	GNG10	Splice Site		9	114429094	114429094.0	G	G	A	0.3429	35.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-DW-7842	KIRP-DW-7842-TP	KIRP-DW-7842-NB	0	0	0	0	0	1	1
+Cancer Module				Copy Number	NDUFA4	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NUDT1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PHF14	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RBAK	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MIOS	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FSCN1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GLCCI1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GNA12	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GPR146	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ICA1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	INTS1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KDELR2	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MAFK	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SNX8	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	THSD7A	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZDHHC4	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RNF216	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ARL4A	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EIF3B	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	AIMP2	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	NRIP1	Fusion	NRIP1--AF127936.7	chr21	16386665							0.0	0.0		0	6.0	NRIP1	chr21	16386665.0	AF127936.7	chr21	16230029.0					KIRP-DW-7842			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	CTSC	Fusion	CTSC--RAB38	chr11	88029301							0.0	0.0		0	15.0	CTSC	chr11	88029301.0	RAB38	chr11	87883123.0					KIRP-DW-7842			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	CHST9	Fusion	CHST9--AQP4	chr18	24604080							0.0	0.0		0	7.0	CHST9	chr18	24604080.0	AQP4	chr18	24442560.0					KIRP-DW-7842			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	LIPA	Fusion	SLC16A12--LIPA	chr10	91198361							0.0	0.0		0	18.0	SLC16A12	chr10	91198361.0	LIPA	chr10	91007406.0					KIRP-DW-7842			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	GLCCI1	Fusion	RPA3-AS1--GLCCI1	chr7	7841374							0.0	0.0		0	6.0	RPA3-AS1	chr7	7841374.0	GLCCI1	chr7	8043538.0					KIRP-DW-7842			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	LEPR	Fusion	LEPROT--LEPR	chr1	65891061							0.0	0.0		0	30.0	LEPROT	chr1	65891061.0	LEPR	chr1	66031229.0					KIRP-DW-7842			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	IPCEF1	Fusion	CNKSR3--IPCEF1	chr6	154731477							0.0	0.0		0	8.0	CNKSR3	chr6	154731477.0	IPCEF1	chr6	154610890.0					KIRP-DW-7842			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	AQP4	Fusion	CHST9--AQP4	chr18	24604080							0.0	0.0		0	7.0	CHST9	chr18	24604080.0	AQP4	chr18	24442560.0					KIRP-DW-7842			0	0	0	0	0	1	1
+Cosmic				Somatic Variant	GALNT11	Missense	p.V290A	7	151805279	151805279.0	T	T	C	0.7368	133.0	0.0	0.0		0								812.0	0.601	1.0		KIRP-DW-7842	KIRP-DW-7842-TP	KIRP-DW-7842-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	WDR18	Missense	p.H342R	19	992048	992048.0	A	A	G	0.6364	22.0	0.0	0.0		0								148.0	0.4122	1.0		KIRP-DW-7842	KIRP-DW-7842-TP	KIRP-DW-7842-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	MED17	Missense	p.L549M	11	93542943	93542943.0	C	C	A	0.4615	143.0	0.0	0.0		0								135.0	0.4815	1.0		KIRP-DW-7842	KIRP-DW-7842-TP	KIRP-DW-7842-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ARHGEF17	Missense	p.G263R	11	73020470	73020470.0	G	G	A	0.5294	34.0	0.0	0.0		0								39.0	0.4615	1.0		KIRP-DW-7842	KIRP-DW-7842-TP	KIRP-DW-7842-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	FOXE3	Missense	p.N143T	1	47882415	47882415.0	A	A	C	0.325	80.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-DW-7842	KIRP-DW-7842-TP	KIRP-DW-7842-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	PROM2	Missense	p.A92T	2	95941238	95941238.0	G	G	A	0.3485	66.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-DW-7842	KIRP-DW-7842-TP	KIRP-DW-7842-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	C11orf49	Splice Site	p.D94Y	11	47074069	47074069.0	G	G	T	0.4382	89.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-DW-7842	KIRP-DW-7842-TP	KIRP-DW-7842-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	PTGDR	Missense	p.L121M	14	52734893	52734893.0	C	C	A	0.3646	192.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-DW-7842	KIRP-DW-7842-TP	KIRP-DW-7842-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	PTGDR	Missense	p.L121R	14	52734894	52734894.0	T	T	G	0.3594	192.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-DW-7842	KIRP-DW-7842-TP	KIRP-DW-7842-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	PLA2G4F	Missense	p.V291A	15	42442584	42442584.0	A	A	G	0.5769	26.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-DW-7842	KIRP-DW-7842-TP	KIRP-DW-7842-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	DSG4	Missense	p.K454M	18	28980927	28980927.0	A	A	T	0.4462	65.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-DW-7842	KIRP-DW-7842-TP	KIRP-DW-7842-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	APCDD1	Missense	p.R487Q	18	10487950	10487950.0	G	G	A	0.2857	119.0	0.00056	0.0		0								0.0	0.0	0.0		KIRP-DW-7842	KIRP-DW-7842-TP	KIRP-DW-7842-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	DOCK4	Missense	p.L1910V	7	111368503	111368503.0	G	G	C	0.0532	94.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-DW-7842	KIRP-DW-7842-TP	KIRP-DW-7842-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	ARHGAP21	Frameshift	p.R1148fs	10	24885703	24885704.0	-	-	G	0.4865	74.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-DW-7842	KIRP-DW-7842-TP	KIRP-DW-7842-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	MYO7A	Splice Site		11	76890090	76890090.0	G	G	T	0.5625	16.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-DW-7842	KIRP-DW-7842-TP	KIRP-DW-7842-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	NLRP5	Missense	p.G10E	19	56511120	56511120.0	G	G	A	0.1398	186.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-DW-7842	KIRP-DW-7842-TP	KIRP-DW-7842-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	FGD5	Missense	p.V553M	3	14862235	14862235.0	G	G	A	0.1111	27.0	0.0017289999999999999	1.0		0								0.0	0.0	0.0		KIRP-DW-7842	KIRP-DW-7842-TP	KIRP-DW-7842-NB	0	0	0	0	0	0	1
+Cosmic				Copy Number	PAPOLB	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MMD2	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NXPH1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OCM	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PSMG3	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RADIL	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FOXK1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FTSJ2	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GET4	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GRID2IP	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	HEATR2	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MICALL2	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	IQCE	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	LFNG	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MEOX2	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TNRC18	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RSPH10B2	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SCIN	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SDK1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC29A4	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SUN1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM106B	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM184A	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TTYH3	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	UNCX	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	USP42	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	VWDE	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	WIPI2	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZFAND2A	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF12	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF853	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RSPH10B	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FBXL18	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	AC073343.1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CHST12	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	BRAT1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C1GALT1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C7orf26	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C7orf50	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCZ1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	COL28A1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	COX19	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CYP2W1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CYTH3	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DAGLB	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DGKB	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	EIF2AK1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ELFN1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	AMZ1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	AGMO	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ACTB	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ADAP1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	1
+Cosmic				Rearrangement	SLC16A12	Fusion	SLC16A12--LIPA	chr10	91198361							0.0	0.0		0	18.0	SLC16A12	chr10	91198361.0	LIPA	chr10	91007406.0					KIRP-DW-7842			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MACC1	Fusion	MACC1--AC005062.2	chr7	20256922							0.0	0.0		0	13.0	MACC1	chr7	20256922.0	AC005062.2	chr7	20085184.0					KIRP-DW-7842			0	0	0	0	0	0	1
+Cosmic				Rearrangement	LEPROT	Fusion	LEPROT--LEPR	chr1	65891061							0.0	0.0		0	30.0	LEPROT	chr1	65891061.0	LEPR	chr1	66031229.0					KIRP-DW-7842			0	0	0	0	0	0	1
+Cosmic				Rearrangement	CNKSR3	Fusion	CNKSR3--IPCEF1	chr6	154731477							0.0	0.0		0	8.0	CNKSR3	chr6	154731477.0	IPCEF1	chr6	154610890.0					KIRP-DW-7842			0	0	0	0	0	0	1
+Cosmic				Rearrangement	ST7	Fusion	ST7-OT4--ST7	chr7	116595207							0.0	0.0		0	5.0	ST7-OT4	chr7	116595207.0	ST7	chr7	116738667.0					KIRP-DW-7842			0	0	0	0	0	0	1
+Cosmic				Rearrangement	TMEM135	Fusion	RP11-736K20.6--TMEM135	chr11	86669068							0.0	0.0		0	5.0	RP11-736K20.6	chr11	86669068.0	TMEM135	chr11	86868383.0					KIRP-DW-7842			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MLIP	Fusion	RP11-411K7.1--MLIP	chr6	53847648							0.0	0.0		0	6.0	RP11-411K7.1	chr6	53847648.0	MLIP	chr6	53989271.0					KIRP-DW-7842			0	0	0	0	0	0	1
+Cosmic				Rearrangement	FAM65B	Fusion	RP11-367G6.3--FAM65B	chr6	25042079							0.0	0.0		0	21.0	RP11-367G6.3	chr6	25042079.0	FAM65B	chr6	24876045.0					KIRP-DW-7842			0	0	0	0	0	0	1
+Cosmic				Rearrangement	PCDHAC2	Fusion	PCDHA4--PCDHAC2	chr5	140189157							0.0	0.0		0	25.0	PCDHA4	chr5	140189157.0	PCDHAC2	chr5	140358534.0					KIRP-DW-7842			0	0	0	0	0	0	1
+Cosmic				Rearrangement	PCDHAC1	Fusion	PCDHA4--PCDHAC1	chr5	140189157							0.0	0.0		0	25.0	PCDHA4	chr5	140189157.0	PCDHAC1	chr5	140358534.0					KIRP-DW-7842			0	0	0	0	0	0	1
+Cosmic				Rearrangement	RAB38	Fusion	CTSC--RAB38	chr11	88029301							0.0	0.0		0	15.0	CTSC	chr11	88029301.0	RAB38	chr11	87883123.0					KIRP-DW-7842			0	0	0	0	0	0	1
+VUS				Somatic Variant	CCDC180	Missense	p.I1115M	9	100117239	100117239.0	A	A	G	0.4536	97.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-DW-7842	KIRP-DW-7842-TP	KIRP-DW-7842-NB	0	0	0	0	0	0	0
+VUS				Somatic Variant	TICRR	Missense	p.R423H	15	90129030	90129030.0	G	G	A	0.0806	62.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-DW-7842	KIRP-DW-7842-TP	KIRP-DW-7842-NB	0	0	0	0	0	0	0
+VUS				Copy Number	AC004160.4	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4648	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4655	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4656	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR589	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR339	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	PMS2CL	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	PSMG3-AS1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	RBAK-RBAKDN	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3683	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP130	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	GRIFIN	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	GPER1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	RBAKDN	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP228	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC004535.2	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	RPA3-AS1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	ZNF815P	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL556P	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1275H24.2	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL851P	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNF216-IT1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNF216P1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-215P	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-218P	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-534P	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1246C19.1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1275H24.1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1275H24.3	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-855F16.1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-196O16.1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-30B1.1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-449P15.1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-449P15.2	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-611L7.1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-594A5.1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1007H16.1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1159O4.1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1159O4.2	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	FLJ20306	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	FAM220A	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC073094.4	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC007128.1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC007161.5	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC009473.1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC011284.3	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC011288.2	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC011891.5	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC024028.1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC060834.3	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC069286.1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC073316.1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC007009.1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC073316.2	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC073343.13	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC073343.2	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC073957.15	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC074389.1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC074389.5	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC074389.6	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC074389.7	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC007009.2	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006483.1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC079742.4	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005532.5	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC004538.3	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC004840.8	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC004840.9	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC004895.1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC004895.4	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC004906.3	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005019.3	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005281.1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005281.2	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005550.3	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006458.3	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005550.4	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005550.5	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006000.5	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006041.1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006042.6	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006042.7	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006150.1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006150.2	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006373.1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC074389.9	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC079756.1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AP5Z1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	CCZ1B	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC079804.1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-161C1.1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	ANKRD61	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC092104.5	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC079804.2	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC091729.7	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC091729.8	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC091729.9	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC091801.1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC092104.1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC092104.2	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC092104.3	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC092104.4	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC092171.2	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC092171.4	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC093376.1	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC093620.5	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC102953.4	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC102953.6	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC110781.3	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Copy Number	ZNF890P	Amplification		7	705284	16169658.0						0.0	0.0		0												KIRP-DW-7842	TCGA-DW-7842-01		0	0	0	0	0	0	0
+VUS				Rearrangement	ST7-OT4	Fusion	ST7-OT4--ST7	chr7	116595207							0.0	0.0		0	5.0	ST7-OT4	chr7	116595207.0	ST7	chr7	116738667.0					KIRP-DW-7842			0	0	0	0	0	0	0
+VUS				Rearrangement	SMC5-AS1	Fusion	SMC5-AS1--MAMDC2-AS1	chr9	72831202							0.0	0.0		0	14.0	SMC5-AS1	chr9	72831202.0	MAMDC2-AS1	chr9	72703410.0					KIRP-DW-7842			0	0	0	0	0	0	0
+VUS				Rearrangement	RPA3-AS1	Fusion	RPA3-AS1--GLCCI1	chr7	7841374							0.0	0.0		0	6.0	RPA3-AS1	chr7	7841374.0	GLCCI1	chr7	8043538.0					KIRP-DW-7842			0	0	0	0	0	0	0
+VUS				Rearrangement	RP4-535B20.1	Fusion	RP4-535B20.1--JAK1	chr1	65533287							0.0	0.0		0	6.0	RP4-535B20.1	chr1	65533287.0	JAK1	chr1	65352024.0					KIRP-DW-7842			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-96H19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	21.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	47046173.0					KIRP-DW-7842			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-736K20.6	Fusion	RP11-736K20.6--TMEM135	chr11	86669068							0.0	0.0		0	5.0	RP11-736K20.6	chr11	86669068.0	TMEM135	chr11	86868383.0					KIRP-DW-7842			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-411K7.1	Fusion	RP11-411K7.1--MLIP	chr6	53847648							0.0	0.0		0	6.0	RP11-411K7.1	chr6	53847648.0	MLIP	chr6	53989271.0					KIRP-DW-7842			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-380O24.1	Fusion	RP11-380O24.1--SRGAP3	chr3	9367694							0.0	0.0		0	17.0	RP11-380O24.1	chr3	9367694.0	SRGAP3	chr3	9166601.0					KIRP-DW-7842			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-367G6.3	Fusion	RP11-367G6.3--FAM65B	chr6	25042079							0.0	0.0		0	21.0	RP11-367G6.3	chr6	25042079.0	FAM65B	chr6	24876045.0					KIRP-DW-7842			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TA	Fusion	MT-TA--MT-TN	chrM	5604							0.0	0.0		0	8.0	MT-TA	chrM	5604.0	MT-TN	chrM	5708.0					KIRP-DW-7842			0	0	0	0	0	0	0
+VUS				Rearrangement	MAMDC2-AS1	Fusion	SMC5-AS1--MAMDC2-AS1	chr9	72831202							0.0	0.0		0	14.0	SMC5-AS1	chr9	72831202.0	MAMDC2-AS1	chr9	72703410.0					KIRP-DW-7842			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-446N19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	21.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	47046173.0					KIRP-DW-7842			0	0	0	0	0	0	0
+VUS				Rearrangement	AF127936.7	Fusion	NRIP1--AF127936.7	chr21	16386665							0.0	0.0		0	6.0	NRIP1	chr21	16386665.0	AF127936.7	chr21	16230029.0					KIRP-DW-7842			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TN	Fusion	MT-TA--MT-TN	chrM	5604							0.0	0.0		0	8.0	MT-TA	chrM	5604.0	MT-TN	chrM	5708.0					KIRP-DW-7842			0	0	0	0	0	0	0
+VUS				Rearrangement	AC005062.2	Fusion	MACC1--AC005062.2	chr7	20256922							0.0	0.0		0	13.0	MACC1	chr7	20256922.0	AC005062.2	chr7	20085184.0					KIRP-DW-7842			0	0	0	0	0	0	0

@@ -286,7 +286,6 @@ Copy Number	ZNF676			19	14939055	22836817.0														SC_9036	SC_9036-Tumor		
 Copy Number	ZNF675			19	22940136	40368878.0														SC_9036	SC_9036-Tumor		0
 Copy Number	ZNF674-AS1			X	2773198	49242922.0														SC_9036	SC_9036-Tumor		0
 Copy Number	ZNF674			X	2773198	49242922.0														SC_9036	SC_9036-Tumor		0
-Somatic Variant	ZNF672	IGR		1	249144675	249144675.0	G	G	T	0.013999999999999999	286.0									SC_9036	SC_9036-Tumor	SC_9036-Normal	0
 Copy Number	ZNF672			1	241675445	249212564.0														SC_9036	SC_9036-Tumor		0
 Copy Number	ZNF671			19	54818836	59082758.0														SC_9036	SC_9036-Tumor		0
 Copy Number	ZNF670			1	241675445	249212564.0														SC_9036	SC_9036-Tumor		0
@@ -737,6 +736,7 @@ Copy Number	ZG16			16	29474794	30199899.0														SC_9036	SC_9036-Tumor		0
 Copy Number	ZFYVE9			1	25655417	97189152.0														SC_9036	SC_9036-Tumor		0
 Copy Number	ZFYVE28			4	997260	39978197.0														SC_9036	SC_9036-Tumor		0
 Copy Number	ZFYVE27			10	51592621	117075248.0														SC_9036	SC_9036-Tumor		0
+Somatic Variant	ZFYVE26	Intron		14	68252978	68252979.0	-	-	AAAAAAAAAA	0.0323	124.0									SC_9036	SC_9036-Tumor	SC_9036-Normal	0
 Copy Number	ZFYVE26			14	65381254	106237742.0														SC_9036	SC_9036-Tumor		0
 Copy Number	ZFYVE21			14	65381254	106237742.0														SC_9036	SC_9036-Tumor		0
 Rearrangement	ZFYVE20--TOP2B	Fusion	ZFYVE20--TOP2B	3	15139626							0.0	ZFYVE20	3	15139626.0	TOP2B	3	25662307.0		SC_9036			0
@@ -1309,6 +1309,7 @@ Copy Number	WDR11			10	117093931	124362645.0														SC_9036	SC_9036-Tumor	
 Copy Number	WDR1			4	997260	39978197.0														SC_9036	SC_9036-Tumor		0
 Copy Number	WDPCP			2	41629	89037595.0														SC_9036	SC_9036-Tumor		0
 Copy Number	WDHD1			14	32068587	65242123.0														SC_9036	SC_9036-Tumor		0
+Somatic Variant	WDFY4	Silent	p.S331S	10	49937498	49937498.0	C	C	T	0.1216	255.0									SC_9036	SC_9036-Tumor	SC_9036-Normal	0
 Copy Number	WDFY4			10	48371557	50966640.0														SC_9036	SC_9036-Tumor		0
 Copy Number	WDFY3-AS2			4	40099191	105412454.0														SC_9036	SC_9036-Tumor		0
 Copy Number	WDFY3-AS1			4	40099191	105412454.0														SC_9036	SC_9036-Tumor		0
@@ -2340,7 +2341,6 @@ Copy Number	TRIM33			1	97915781	120548213.0														SC_9036	SC_9036-Tumor		
 Copy Number	TRIM32			9	117092300	134401366.0														SC_9036	SC_9036-Tumor		0
 Copy Number	TRIM31-AS1			6	345930	31323371.0														SC_9036	SC_9036-Tumor		0
 Copy Number	TRIM31			6	345930	31323371.0														SC_9036	SC_9036-Tumor		0
-Somatic Variant	TRIM3	Silent	p.T328T	11	6477972	6477972.0	C	C	A	0.0074	943.0									SC_9036	SC_9036-Tumor	SC_9036-Normal	0
 Copy Number	TRIM3			11	193913	18421097.0														SC_9036	SC_9036-Tumor		0
 Copy Number	TRIM29			11	89537639	134257555.0														SC_9036	SC_9036-Tumor		0
 Copy Number	TRIM28			19	54818836	59082758.0														SC_9036	SC_9036-Tumor		0
@@ -3171,7 +3171,6 @@ Copy Number	TM6SF1			15	74369467	102463264.0														SC_9036	SC_9036-Tumor	
 Copy Number	TM4SF5			17	69529	9885203.0														SC_9036	SC_9036-Tumor		0
 Copy Number	TM4SF4			3	49724913	197765540.0														SC_9036	SC_9036-Tumor		0
 Copy Number	TM4SF20			2	227663456	241622254.0														SC_9036	SC_9036-Tumor		0
-Somatic Variant	TM4SF2	Intron		X	38145753	38145753.0	A	A	C	0.3421	38.0									SC_9036	SC_9036-Tumor	SC_9036-Normal	0
 Copy Number	TM4SF2			X	2773198	49242922.0														SC_9036	SC_9036-Tumor		0
 Copy Number	TM4SF19-AS1			3	49724913	197765540.0														SC_9036	SC_9036-Tumor		0
 Copy Number	TM4SF19			3	49724913	197765540.0														SC_9036	SC_9036-Tumor		0
@@ -3682,7 +3681,6 @@ Copy Number	TARBP1			1	230795373	238053937.0														SC_9036	SC_9036-Tumor	
 Copy Number	TAPT1-AS1			4	997260	39978197.0														SC_9036	SC_9036-Tumor		0
 Copy Number	TAPT1			4	997260	39978197.0														SC_9036	SC_9036-Tumor		0
 Copy Number	TAPSAR1			6	31996311	35748988.0														SC_9036	SC_9036-Tumor		0
-Somatic Variant	TAPBPL	3'UTR		12	6567825	6567825.0	C	C	T	0.3457	431.0									SC_9036	SC_9036-Tumor	SC_9036-Normal	0
 Copy Number	TAPBPL			12	176602	10588011.0														SC_9036	SC_9036-Tumor		0
 Copy Number	TAPBP			6	31996311	35748988.0														SC_9036	SC_9036-Tumor		0
 Copy Number	TAP2			6	31996311	35748988.0														SC_9036	SC_9036-Tumor		0
@@ -4073,7 +4071,6 @@ Copy Number	STAC3			12	56600584	58114694.0														SC_9036	SC_9036-Tumor		0
 Copy Number	STAC2			17	21826300	81052322.0														SC_9036	SC_9036-Tumor		0
 Copy Number	STAC			3	367749	49722941.0														SC_9036	SC_9036-Tumor		0
 Copy Number	STAB2			12	88379832	133779461.0														SC_9036	SC_9036-Tumor		0
-Somatic Variant	STAB1	IGR		3	52558533	52558533.0	C	C	T	0.1742	752.0									SC_9036	SC_9036-Tumor	SC_9036-Normal	0
 Copy Number	STAB1			3	49724913	197765540.0														SC_9036	SC_9036-Tumor		0
 Copy Number	ST8SIA6-AS1			10	94056	22607949.0														SC_9036	SC_9036-Tumor		0
 Copy Number	ST8SIA6			10	94056	22607949.0														SC_9036	SC_9036-Tumor		0
@@ -4389,7 +4386,7 @@ Copy Number	SPATA25			20	15480494	62904955.0														SC_9036	SC_9036-Tumor	
 Copy Number	SPATA24			5	126993461	161178776.0														SC_9036	SC_9036-Tumor		0
 Copy Number	SPATA22			17	69529	9885203.0														SC_9036	SC_9036-Tumor		0
 Copy Number	SPATA21			1	13743100	16785387.0														SC_9036	SC_9036-Tumor		0
-Somatic Variant	SPATA20	Silent	p.L799L	17	48633011	48633011.0	A	A	G	0.1318	531.0									SC_9036	SC_9036-Tumor	SC_9036-Normal	0
+Somatic Variant	SPATA20	Silent	p.L783L	17	48633011	48633011.0	A	A	G	0.1318	531.0									SC_9036	SC_9036-Tumor	SC_9036-Normal	0
 Copy Number	SPATA20			17	21826300	81052322.0														SC_9036	SC_9036-Tumor		0
 Copy Number	SPATA2			20	15480494	62904955.0														SC_9036	SC_9036-Tumor		0
 Copy Number	SPATA19			11	89537639	134257555.0														SC_9036	SC_9036-Tumor		0
@@ -5804,7 +5801,6 @@ Copy Number	SF3B1			2	95770477	203842057.0														SC_9036	SC_9036-Tumor		0
 Copy Number	SF3A3			1	25655417	97189152.0														SC_9036	SC_9036-Tumor		0
 Copy Number	SF3A2			19	111598	14884868.0														SC_9036	SC_9036-Tumor		0
 Copy Number	SF3A1			22	24324971	42486828.0														SC_9036	SC_9036-Tumor		0
-Somatic Variant	SF1	IGR		11	64532872	64532872.0	T	T	A	0.2649	268.0									SC_9036	SC_9036-Tumor	SC_9036-Normal	0
 Copy Number	SF1			11	61018755	65172541.0														SC_9036	SC_9036-Tumor		0
 Copy Number	SEZ6L2			16	29474794	30199899.0														SC_9036	SC_9036-Tumor		0
 Copy Number	SEZ6L			22	24324971	42486828.0														SC_9036	SC_9036-Tumor		0
@@ -6128,7 +6124,6 @@ Copy Number	SCARNA12			12	176602	10588011.0														SC_9036	SC_9036-Tumor		
 Copy Number	SCARNA11			12	176602	10588011.0														SC_9036	SC_9036-Tumor		0
 Copy Number	SCARNA10			12	176602	10588011.0														SC_9036	SC_9036-Tumor		0
 Copy Number	SCARNA1			1	25655417	97189152.0														SC_9036	SC_9036-Tumor		0
-Somatic Variant	SCARF2	Intron		22	20785831	20785831.0	G	G	A	0.1689	148.0									SC_9036	SC_9036-Tumor	SC_9036-Normal	0
 Copy Number	SCARF2			22	17073442	24313814.0														SC_9036	SC_9036-Tumor		0
 Copy Number	SCARF1			17	69529	9885203.0														SC_9036	SC_9036-Tumor		0
 Copy Number	SCARB2			4	40099191	105412454.0														SC_9036	SC_9036-Tumor		0
@@ -19436,7 +19431,6 @@ Copy Number	RACGAP1			12	46123713	52843419.0														SC_9036	SC_9036-Tumor	
 Copy Number	RAC3			17	21826300	81052322.0														SC_9036	SC_9036-Tumor		0
 Copy Number	RAC2			22	24324971	42486828.0														SC_9036	SC_9036-Tumor		0
 Copy Number	RAC1			7	5997660	6737550.0														SC_9036	SC_9036-Tumor		0
-Somatic Variant	RABL6	Intron		9	139732309	139732309.0	C	C	T	0.15	20.0									SC_9036	SC_9036-Tumor	SC_9036-Normal	0
 Copy Number	RABL6			9	138454281	141016451.0														SC_9036	SC_9036-Tumor		0
 Copy Number	RABL5			7	98985886	102196579.0														SC_9036	SC_9036-Tumor		0
 Copy Number	RABL3			3	49724913	197765540.0														SC_9036	SC_9036-Tumor		0
@@ -21056,7 +21050,6 @@ Copy Number	PCYOX1			2	41629	89037595.0														SC_9036	SC_9036-Tumor		0
 Copy Number	PCTP			17	21826300	81052322.0														SC_9036	SC_9036-Tumor		0
 Copy Number	PCSK9			1	25655417	97189152.0														SC_9036	SC_9036-Tumor		0
 Copy Number	PCSK7			11	89537639	134257555.0														SC_9036	SC_9036-Tumor		0
-Somatic Variant	PCSK6	Intron		15	101847536	101847536.0	G	G	T	0.0245	204.0									SC_9036	SC_9036-Tumor	SC_9036-Normal	0
 Copy Number	PCSK6			15	74369467	102463264.0														SC_9036	SC_9036-Tumor		0
 Copy Number	PCSK5			9	72435949	97535452.0														SC_9036	SC_9036-Tumor		0
 Copy Number	PCSK4			19	111598	14884868.0														SC_9036	SC_9036-Tumor		0
@@ -21495,7 +21488,6 @@ Copy Number	OR8H3			11	18425360	57193647.0														SC_9036	SC_9036-Tumor		0
 Copy Number	OR8H2			11	18425360	57193647.0														SC_9036	SC_9036-Tumor		0
 Copy Number	OR8H1			11	18425360	57193647.0														SC_9036	SC_9036-Tumor		0
 Copy Number	OR8G5			11	89537639	134257555.0														SC_9036	SC_9036-Tumor		0
-Somatic Variant	OR8G1	RNA		11	124121119	124121119.0	G	G	T	0.0314	255.0									SC_9036	SC_9036-Tumor	SC_9036-Normal	0
 Copy Number	OR8G1			11	89537639	134257555.0														SC_9036	SC_9036-Tumor		0
 Copy Number	OR8D4			11	89537639	134257555.0														SC_9036	SC_9036-Tumor		0
 Copy Number	OR8D2			11	89537639	134257555.0														SC_9036	SC_9036-Tumor		0
@@ -25200,7 +25192,6 @@ Copy Number	MAST3			19	14939055	22836817.0														SC_9036	SC_9036-Tumor		0
 Copy Number	MAST2			1	25655417	97189152.0														SC_9036	SC_9036-Tumor		0
 Copy Number	MAST1			19	111598	14884868.0														SC_9036	SC_9036-Tumor		0
 Copy Number	MASP2			1	70010	12853665.0														SC_9036	SC_9036-Tumor		0
-Somatic Variant	MASP1	Silent	p.T404T	3	186954108	186954108.0	G	G	T	0.0086	1045.0									SC_9036	SC_9036-Tumor	SC_9036-Normal	0
 Copy Number	MASP1			3	49724913	197765540.0														SC_9036	SC_9036-Tumor		0
 Copy Number	MAS1L			6	345930	31323371.0														SC_9036	SC_9036-Tumor		0
 Copy Number	MAS1			6	109468142	170892837.0														SC_9036	SC_9036-Tumor		0
@@ -29509,7 +29500,6 @@ Copy Number	GLT8D2			12	88379832	133779461.0														SC_9036	SC_9036-Tumor	
 Copy Number	GLT8D1			3	49724913	197765540.0														SC_9036	SC_9036-Tumor		0
 Copy Number	GLT6D1			9	138454281	141016451.0														SC_9036	SC_9036-Tumor		0
 Copy Number	GLT1D1			12	88379832	133779461.0														SC_9036	SC_9036-Tumor		0
-Somatic Variant	GLS2	IGR		12	56862970	56862991.0	TGGCAGACACAGCGGTCACCAG	TGGCAGACACAGCGGTCACCAG	-	0.0527	455.0									SC_9036	SC_9036-Tumor	SC_9036-Normal	0
 Copy Number	GLS2			12	56600584	58114694.0														SC_9036	SC_9036-Tumor		0
 Copy Number	GLS			2	95770477	203842057.0														SC_9036	SC_9036-Tumor		0
 Copy Number	GLRX5			14	65381254	106237742.0														SC_9036	SC_9036-Tumor		0
@@ -34438,7 +34428,6 @@ Copy Number	COL22A1			8	75898482	145106373.0														SC_9036	SC_9036-Tumor	
 Copy Number	COL21A1			6	35773861	64423606.0														SC_9036	SC_9036-Tumor		0
 Copy Number	COL20A1			20	15480494	62904955.0														SC_9036	SC_9036-Tumor		0
 Copy Number	COL1A2			7	91758372	98984414.0														SC_9036	SC_9036-Tumor		0
-Somatic Variant	COL1A1	Silent	p.T1360T	17	48263307	48263307.0	G	G	T	0.0121	659.0									SC_9036	SC_9036-Tumor	SC_9036-Normal	0
 Copy Number	COL1A1			17	21826300	81052322.0														SC_9036	SC_9036-Tumor		0
 Copy Number	COL19A1			6	66045041	109466586.0														SC_9036	SC_9036-Tumor		0
 Copy Number	COL18A1-AS2			21	42778927	48083468.0														SC_9036	SC_9036-Tumor		0
@@ -34743,7 +34732,6 @@ Copy Number	CIRBP-AS1			19	111598	14884868.0														SC_9036	SC_9036-Tumor	
 Copy Number	CIRBP			19	111598	14884868.0														SC_9036	SC_9036-Tumor		0
 Copy Number	CIR1			2	95770477	203842057.0														SC_9036	SC_9036-Tumor		0
 Copy Number	CINP			14	65381254	106237742.0														SC_9036	SC_9036-Tumor		0
-Somatic Variant	CILP2	Silent	p.P650P	19	19655304	19655304.0	C	C	A	0.0125	798.0									SC_9036	SC_9036-Tumor	SC_9036-Normal	0
 Copy Number	CILP2			19	14939055	22836817.0														SC_9036	SC_9036-Tumor		0
 Copy Number	CILP			15	62146759	72951873.0														SC_9036	SC_9036-Tumor		0
 Copy Number	CIITA			16	8719657	14766608.0														SC_9036	SC_9036-Tumor		0
@@ -36138,7 +36126,6 @@ Copy Number	C20orf195			20	15480494	62904955.0														SC_9036	SC_9036-Tumo
 Copy Number	C20orf194			20	68410	14665607.0														SC_9036	SC_9036-Tumor		0
 Copy Number	C20orf187			20	68410	14665607.0														SC_9036	SC_9036-Tumor		0
 Copy Number	C20orf173			20	15480494	62904955.0														SC_9036	SC_9036-Tumor		0
-Somatic Variant	C20orf166-AS1	RNA		20	61143511	61143511.0	G	G	T	0.0118	845.0									SC_9036	SC_9036-Tumor	SC_9036-Normal	0
 Copy Number	C20orf166-AS1			20	15480494	62904955.0														SC_9036	SC_9036-Tumor		0
 Copy Number	C20orf166			20	15480494	62904955.0														SC_9036	SC_9036-Tumor		0
 Copy Number	C20orf144			20	15480494	62904955.0														SC_9036	SC_9036-Tumor		0

@@ -1,0 +1,57 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Cancer Pathway				Rearrangement	IGKC	Fusion	IGKV4-1--IGKC	chr2	89185136							0.0	0.0		0	3760.0	IGKV4-1	chr2	89185136.0	IGKC	chr2	89157196.0					Osteosarcoma-MHRS763			0	0	0	0	1	1	0
+Cancer Pathway				Somatic Variant	TOP3A	Missense	p.G153C	17	18208468	18208468.0	C	C	A	0.0326	92.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-MHRS763	Osteosarcoma-MHRS763-Tumor-SM-2RCBD	Osteosarcoma-MHRS763-Normal-SM-2RCCS	0	0	0	0	1	0	1
+Cancer Pathway				Copy Number	IGLC2	Amplification		22	23242908	23249081.0						0.0	0.0		0												Osteosarcoma-MHRS763	MHRS763_T		0	0	0	0	1	0	0
+Cancer Pathway				Copy Number	IGLC3	Amplification		22	23242908	23249081.0						0.0	0.0		0												Osteosarcoma-MHRS763	MHRS763_T		0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGLV1-40	Fusion	IGLV1-40--IGLL5	chr22	22764613							0.0	0.0		0	1336.0	IGLV1-40	chr22	22764613.0	IGLL5	chr22	23235963.0					Osteosarcoma-MHRS763			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGLV1-40	Fusion	IGLV1-40--IGLJ1	chr22	22764613							0.0	0.0		0	304.0	IGLV1-40	chr22	22764613.0	IGLJ1	chr22	23235963.0					Osteosarcoma-MHRS763			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGKV4-1	Fusion	IGKV4-1--IGKC	chr2	89185136							0.0	0.0		0	3760.0	IGKV4-1	chr2	89185136.0	IGKC	chr2	89157196.0					Osteosarcoma-MHRS763			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGKV4-1	Fusion	IGKV4-1--AC096579.7	chr2	89185668							0.0	0.0		0	4965.0	IGKV4-1	chr2	89185668.0	AC096579.7	chr2	89160435.0					Osteosarcoma-MHRS763			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGLC2	Fusion	IGLVI-70--IGLC2	chr22	22380519							0.0	0.0		0	22.0	IGLVI-70	chr22	22380519.0	IGLC2	chr22	23243156.0					Osteosarcoma-MHRS763			0	0	0	0	1	0	0
+Cancer Module				Somatic Variant	CDH5	Missense	p.A175T	16	66422250	66422250.0	G	G	A	0.0455	88.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-MHRS763	Osteosarcoma-MHRS763-Tumor-SM-2RCBD	Osteosarcoma-MHRS763-Normal-SM-2RCCS	0	0	0	0	0	1	2
+Cancer Module				Copy Number	TCP10	Amplification		6	167787587	167790444.0						0.0	0.0		0												Osteosarcoma-MHRS763	MHRS763_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	C4orf17	Deletion		4	100339891	100460779.0						0.0	0.0		0												Osteosarcoma-MHRS763	MHRS763_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	C15orf57	Fusion	C15orf57--CBX3	chr15	40854180							0.0	0.0		0	5.0	C15orf57	chr15	40854180.0	CBX3	chr7	26241365.0					Osteosarcoma-MHRS763			0	0	0	0	0	1	1
+Cancer Module				Copy Number	ADH7	Deletion		4	100339891	100460779.0						0.0	0.0		0												Osteosarcoma-MHRS763	MHRS763_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	HBB	Fusion	IGH-@--HBB	chr14	106174439							0.0	0.0		0	123.0	IGH-@	chr14	106174439.0	HBB	chr11	5248201.0					Osteosarcoma-MHRS763			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	HBB	Fusion	HBA1--HBB	chr16	226810							0.0	0.0		0	32.0	HBA1	chr16	226810.0	HBB	chr11	5248029.0					Osteosarcoma-MHRS763			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	CBX3	Fusion	C15orf57--CBX3	chr15	40854180							0.0	0.0		0	5.0	C15orf57	chr15	40854180.0	CBX3	chr7	26241365.0					Osteosarcoma-MHRS763			0	0	0	0	0	1	1
+Cancer Module				Copy Number	IGLJ3	Amplification		22	23242908	23249081.0						0.0	0.0		0												Osteosarcoma-MHRS763	MHRS763_T		0	0	0	0	0	1	0
+Cancer Module				Rearrangement	IGLJ3	Fusion	IGLV1-51--IGLJ3	chr22	22677325							0.0	0.0		0	430.0	IGLV1-51	chr22	22677325.0	IGLJ3	chr22	23247171.0					Osteosarcoma-MHRS763			0	0	0	0	0	1	0
+Cosmic				Somatic Variant	ZNF488	Missense	p.C45Y	10	48370666	48370666.0	G	G	A	0.0388	103.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-MHRS763	Osteosarcoma-MHRS763-Tumor-SM-2RCBD	Osteosarcoma-MHRS763-Normal-SM-2RCCS	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	TMC2	Missense	p.V675M	20	2597800	2597800.0	G	G	A	0.0413	121.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-MHRS763	Osteosarcoma-MHRS763-Tumor-SM-2RCBD	Osteosarcoma-MHRS763-Normal-SM-2RCCS	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	CWC27	Missense	p.R312H	5	64100210	64100210.0	G	G	A	0.0545	55.0	2.5e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-MHRS763	Osteosarcoma-MHRS763-Tumor-SM-2RCBD	Osteosarcoma-MHRS763-Normal-SM-2RCCS	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	FAAH2	Nonsense	p.E338*	X	57458366	57458366.0	G	G	T	0.1364	22.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-MHRS763	Osteosarcoma-MHRS763-Tumor-SM-2RCBD	Osteosarcoma-MHRS763-Normal-SM-2RCCS	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	TTC23	Splice Site		15	99759102	99759102.0	C	C	A	0.0353	85.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-MHRS763	Osteosarcoma-MHRS763-Tumor-SM-2RCBD	Osteosarcoma-MHRS763-Normal-SM-2RCCS	0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP4-5	Amplification		17	39279517	39324676.0						0.0	0.0		0												Osteosarcoma-MHRS763	MHRS763_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP4-3	Amplification		17	39279517	39324676.0						0.0	0.0		0												Osteosarcoma-MHRS763	MHRS763_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP4-12	Amplification		17	39279517	39324676.0						0.0	0.0		0												Osteosarcoma-MHRS763	MHRS763_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP4-4	Amplification		17	39279517	39324676.0						0.0	0.0		0												Osteosarcoma-MHRS763	MHRS763_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP4-6	Amplification		17	39279517	39324676.0						0.0	0.0		0												Osteosarcoma-MHRS763	MHRS763_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND6	Fusion	MT-ND6--MT-TE	chrM	14484							0.0	0.0		0	6.0	MT-ND6	chrM	14484.0	MT-TE	chrM	14696.0					Osteosarcoma-MHRS763			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CO3	Fusion	MT-CO3--MT-ATP6	chrM	9339							0.0	0.0		0	5.0	MT-CO3	chrM	9339.0	MT-ATP6	chrM	9179.0					Osteosarcoma-MHRS763			0	0	0	0	0	0	1
+Cosmic				Rearrangement	HBA1	Fusion	HBA1--HBB	chr16	226810							0.0	0.0		0	32.0	HBA1	chr16	226810.0	HBB	chr11	5248029.0					Osteosarcoma-MHRS763			0	0	0	0	0	0	1
+Cosmic				Rearrangement	FAM65B	Fusion	RP11-367G6.3--FAM65B	chr6	25042079							0.0	0.0		0	7.0	RP11-367G6.3	chr6	25042079.0	FAM65B	chr6	24876045.0					Osteosarcoma-MHRS763			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-CO3--MT-ATP6	chrM	9339							0.0	0.0		0	5.0	MT-CO3	chrM	9339.0	MT-ATP6	chrM	9179.0					Osteosarcoma-MHRS763			0	0	0	0	0	0	1
+Cosmic				Rearrangement	IGLL5	Fusion	IGLV1-40--IGLL5	chr22	22764613							0.0	0.0		0	1336.0	IGLV1-40	chr22	22764613.0	IGLL5	chr22	23235963.0					Osteosarcoma-MHRS763			0	0	0	0	0	0	1
+VUS				Somatic Variant	C16orf98	Missense	p.R49W	16	31213919	31213919.0	C	C	T	0.0588	51.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-MHRS763	Osteosarcoma-MHRS763-Tumor-SM-2RCBD	Osteosarcoma-MHRS763-Normal-SM-2RCCS	0	0	0	0	0	0	0
+VUS				Copy Number	IGLJ2	Amplification		22	23242908	23249081.0						0.0	0.0		0												Osteosarcoma-MHRS763	MHRS763_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNHG14	Deletion		15	25473864	25477865.0						0.0	0.0		0												Osteosarcoma-MHRS763	MHRS763_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD115-31	Deletion		15	25473864	25477865.0						0.0	0.0		0												Osteosarcoma-MHRS763	MHRS763_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD115-32	Deletion		15	25473864	25477865.0						0.0	0.0		0												Osteosarcoma-MHRS763	MHRS763_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD115-33	Deletion		15	25473864	25477865.0						0.0	0.0		0												Osteosarcoma-MHRS763	MHRS763_T		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV6-9	Deletion		7	142099205	142104803.0						0.0	0.0		0												Osteosarcoma-MHRS763	MHRS763_T		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV7-8	Deletion		7	142099205	142104803.0						0.0	0.0		0												Osteosarcoma-MHRS763	MHRS763_T		0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-367G6.3	Fusion	RP11-367G6.3--FAM65B	chr6	25042079							0.0	0.0		0	7.0	RP11-367G6.3	chr6	25042079.0	FAM65B	chr6	24876045.0					Osteosarcoma-MHRS763			0	0	0	0	0	0	0
+VUS				Rearrangement	IGLVI-70	Fusion	IGLVI-70--IGLC2	chr22	22380519							0.0	0.0		0	22.0	IGLVI-70	chr22	22380519.0	IGLC2	chr22	23243156.0					Osteosarcoma-MHRS763			0	0	0	0	0	0	0
+VUS				Rearrangement	IGLV1-51	Fusion	IGLV1-51--IGLJ3	chr22	22677325							0.0	0.0		0	430.0	IGLV1-51	chr22	22677325.0	IGLJ3	chr22	23247171.0					Osteosarcoma-MHRS763			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKV1-9	Fusion	IGKV1-9--IGKJ3	chr2	89309480							0.0	0.0		0	78.0	IGKV1-9	chr2	89309480.0	IGKJ3	chr2	89160770.0					Osteosarcoma-MHRS763			0	0	0	0	0	0	0
+VUS				Rearrangement	IGHV7-27	Fusion	IGHV7-27--RP11-731F5.2	chr14	106774454							0.0	0.0		0	7.0	IGHV7-27	chr14	106774454.0	RP11-731F5.2	chr14	106111126.0					Osteosarcoma-MHRS763			0	0	0	0	0	0	0
+VUS				Rearrangement	IGH-@	Fusion	IGH-@--IGHGP	chr14	106110063							0.0	0.0		0	51.0	IGH-@	chr14	106110063.0	IGHGP	chr14	106135071.0					Osteosarcoma-MHRS763			0	0	0	0	0	0	0
+VUS				Rearrangement	IGH-@	Fusion	IGH-@--HBB	chr14	106174439							0.0	0.0		0	123.0	IGH-@	chr14	106174439.0	HBB	chr11	5248201.0					Osteosarcoma-MHRS763			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TE	Fusion	MT-ND6--MT-TE	chrM	14484							0.0	0.0		0	6.0	MT-ND6	chrM	14484.0	MT-TE	chrM	14696.0					Osteosarcoma-MHRS763			0	0	0	0	0	0	0
+VUS				Rearrangement	IGLJ1	Fusion	IGLV1-40--IGLJ1	chr22	22764613							0.0	0.0		0	304.0	IGLV1-40	chr22	22764613.0	IGLJ1	chr22	23235963.0					Osteosarcoma-MHRS763			0	0	0	0	0	0	0
+VUS				Rearrangement	AC096579.7	Fusion	IGKV4-1--AC096579.7	chr2	89185668							0.0	0.0		0	4965.0	IGKV4-1	chr2	89185668.0	AC096579.7	chr2	89160435.0					Osteosarcoma-MHRS763			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKJ3	Fusion	IGKV1-9--IGKJ3	chr2	89309480							0.0	0.0		0	78.0	IGKV1-9	chr2	89309480.0	IGKJ3	chr2	89160770.0					Osteosarcoma-MHRS763			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-731F5.2	Fusion	IGHV7-27--RP11-731F5.2	chr14	106774454							0.0	0.0		0	7.0	IGHV7-27	chr14	106774454.0	RP11-731F5.2	chr14	106111126.0					Osteosarcoma-MHRS763			0	0	0	0	0	0	0
+VUS				Rearrangement	IGHGP	Fusion	IGH-@--IGHGP	chr14	106110063							0.0	0.0		0	51.0	IGH-@	chr14	106110063.0	IGHGP	chr14	106135071.0					Osteosarcoma-MHRS763			0	0	0	0	0	0	0

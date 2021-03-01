@@ -1508,6 +1508,7 @@ Copy Number	VAMP2			17	7724689	8076906.0														MO_1095	MO_1095-Tumor		0
 Copy Number	VAMP1			12	645463	7043478.0														MO_1095	MO_1095-Tumor		0
 Copy Number	VAC14-AS1			16	70218528	71715810.0														MO_1095	MO_1095-Tumor		0
 Copy Number	VAC14			16	70218528	71715810.0														MO_1095	MO_1095-Tumor		0
+Somatic Variant	Unknown	IGR		GL000220.1	124798	124799.0	-	-	GGCGA	0.0256	312.0									MO_1095	MO_1095-Tumor	MO_1095-Normal	0
 Copy Number	UXT			X	2864177	48159202.0														MO_1095	MO_1095-Tumor		0
 Copy Number	UXS1			2	89442355	148602778.0														MO_1095	MO_1095-Tumor		0
 Copy Number	UVSSA			4	53385	107165923.0														MO_1095	MO_1095-Tumor		0
@@ -2230,7 +2231,7 @@ Copy Number	TRPV5			7	195732	143454751.0														MO_1095	MO_1095-Tumor		0
 Copy Number	TRPV4			12	101773338	123307968.0														MO_1095	MO_1095-Tumor		0
 Copy Number	TRPV3			17	69529	4446462.0														MO_1095	MO_1095-Tumor		0
 Copy Number	TRPV2			17	8395829	18675998.0														MO_1095	MO_1095-Tumor		0
-Somatic Variant	TRPV1	Intron		17	3491521	3491521.0	C	C	T	0.2812	32.0									MO_1095	MO_1095-Tumor	MO_1095-Normal	0
+Somatic Variant	TRPV1	Silent	p.S395S	17	3491521	3491521.0	C	C	T	0.2812	32.0									MO_1095	MO_1095-Tumor	MO_1095-Normal	0
 Copy Number	TRPV1			17	69529	4446462.0														MO_1095	MO_1095-Tumor		0
 Copy Number	TRPT1			11	63488506	64855588.0														MO_1095	MO_1095-Tumor		0
 Copy Number	TRPS1			8	48114372	142517249.0														MO_1095	MO_1095-Tumor		0
@@ -2292,7 +2293,6 @@ Copy Number	TRIOBP			22	32058194	42486828.0														MO_1095	MO_1095-Tumor		
 Copy Number	TRIO			5	140833	37371081.0														MO_1095	MO_1095-Tumor		0
 Copy Number	TRIML2			4	170658900	191013434.0														MO_1095	MO_1095-Tumor		0
 Copy Number	TRIML1			4	170658900	191013434.0														MO_1095	MO_1095-Tumor		0
-Somatic Variant	TRIM9	IGR		14	51444041	51444041.0	C	C	T	0.2179	257.0									MO_1095	MO_1095-Tumor	MO_1095-Normal	0
 Copy Number	TRIM9			14	22991078	106518853.0														MO_1095	MO_1095-Tumor		0
 Copy Number	TRIM8			10	99771096	124273877.0														MO_1095	MO_1095-Tumor		0
 Copy Number	TRIM77			11	65651962	92565177.0														MO_1095	MO_1095-Tumor		0
@@ -3797,7 +3797,7 @@ Copy Number	SYT3			19	40382828	52133471.0														MO_1095	MO_1095-Tumor		0
 Copy Number	SYT2			1	149783880	244852646.0														MO_1095	MO_1095-Tumor		0
 Copy Number	SYT17			16	5133760	29465774.0														MO_1095	MO_1095-Tumor		0
 Copy Number	SYT16			14	22991078	106518853.0														MO_1095	MO_1095-Tumor		0
-Somatic Variant	SYT15	Silent	p.S277S	10	46965114	46965114.0	C	C	T	0.1285	179.0									MO_1095	MO_1095-Tumor	MO_1095-Normal	0
+Somatic Variant	SYT15	Silent	p.S277S	10	46965114	46965114.0	C	C	T	0.1278	180.0									MO_1095	MO_1095-Tumor	MO_1095-Normal	0
 Copy Number	SYT15			10	45799872	48259566.0														MO_1095	MO_1095-Tumor		0
 Copy Number	SYT14			1	149783880	244852646.0														MO_1095	MO_1095-Tumor		0
 Copy Number	SYT13			11	34905053	60971094.0														MO_1095	MO_1095-Tumor		0
@@ -4551,7 +4551,6 @@ Copy Number	SNX17			2	41629	89340195.0														MO_1095	MO_1095-Tumor		0
 Copy Number	SNX16			8	48114372	142517249.0														MO_1095	MO_1095-Tumor		0
 Copy Number	SNX15			11	63488506	64855588.0														MO_1095	MO_1095-Tumor		0
 Copy Number	SNX14			6	32009713	87943245.0														MO_1095	MO_1095-Tumor		0
-Somatic Variant	SNX13	3'UTR		7	17833800	17833800.0	A	A	T	0.2857	280.0									MO_1095	MO_1095-Tumor	MO_1095-Normal	0
 Copy Number	SNX13			7	195732	143454751.0														MO_1095	MO_1095-Tumor		0
 Copy Number	SNX12			X	49364863	71380102.0														MO_1095	MO_1095-Tumor		0
 Copy Number	SNX11			17	36455436	80047262.0														MO_1095	MO_1095-Tumor		0
@@ -20945,7 +20944,7 @@ Copy Number	PGGT1B			5	55396133	131939183.0														MO_1095	MO_1095-Tumor		
 Copy Number	PGF			14	22991078	106518853.0														MO_1095	MO_1095-Tumor		0
 Copy Number	PGD			1	2540860	13450838.0														MO_1095	MO_1095-Tumor		0
 Copy Number	PGCP1			1	25667072	120539957.0														MO_1095	MO_1095-Tumor		0
-Somatic Variant	PGC	Intron		6	41708993	41709018.0	AGAGGTGGAGAGGAAGTTAGCAACAT	AGAGGTGGAGAGGAAGTTAGCAACAT	-	0.1053	133.0									MO_1095	MO_1095-Tumor	MO_1095-Normal	0
+Somatic Variant	PGC	Intron		6	41708993	41709018.0	AGAGGTGGAGAGGAAGTTAGCAACAT	AGAGGTGGAGAGGAAGTTAGCAACAT	-	0.0959	146.0									MO_1095	MO_1095-Tumor	MO_1095-Normal	0
 Copy Number	PGC			6	32009713	87943245.0														MO_1095	MO_1095-Tumor		0
 Copy Number	PGBD5			1	149783880	244852646.0														MO_1095	MO_1095-Tumor		0
 Copy Number	PGBD4			15	25486974	72950979.0														MO_1095	MO_1095-Tumor		0
@@ -22432,7 +22431,7 @@ Copy Number	NOL9			1	2540860	13450838.0														MO_1095	MO_1095-Tumor		0
 Copy Number	NOL8			9	69201614	127689022.0														MO_1095	MO_1095-Tumor		0
 Copy Number	NOL7			6	345930	31603528.0														MO_1095	MO_1095-Tumor		0
 Copy Number	NOL6			9	33442211	39177501.0														MO_1095	MO_1095-Tumor		0
-Somatic Variant	NOL4	Silent	p.D107D	18	31538263	31538263.0	G	G	A	0.0109	548.0									MO_1095	MO_1095-Tumor	MO_1095-Normal	0
+Somatic Variant	NOL4	Silent	p.D392D	18	31538263	31538263.0	G	G	A	0.0109	548.0									MO_1095	MO_1095-Tumor	MO_1095-Normal	0
 Copy Number	NOL4			18	192902	44683910.0														MO_1095	MO_1095-Tumor		0
 Copy Number	NOL3			16	67039298	67682217.0														MO_1095	MO_1095-Tumor		0
 Copy Number	NOL12			22	32058194	42486828.0														MO_1095	MO_1095-Tumor		0
@@ -25282,7 +25281,6 @@ Copy Number	MAST4-AS1			5	55396133	131939183.0														MO_1095	MO_1095-Tumo
 Copy Number	MAST4			5	55396133	131939183.0														MO_1095	MO_1095-Tumor		0
 Copy Number	MAST3			19	18186680	18507775.0														MO_1095	MO_1095-Tumor		0
 Copy Number	MAST2			1	25667072	120539957.0														MO_1095	MO_1095-Tumor		0
-Somatic Variant	MAST1	Silent	p.A84A	19	12954346	12954346.0	G	G	A	0.2558	215.0									MO_1095	MO_1095-Tumor	MO_1095-Normal	0
 Copy Number	MAST1			19	11241994	14034626.0														MO_1095	MO_1095-Tumor		0
 Copy Number	MASP2			1	2540860	13450838.0														MO_1095	MO_1095-Tumor		0
 Copy Number	MASP1			3	186515405	187451483.0														MO_1095	MO_1095-Tumor		0
@@ -25368,7 +25366,6 @@ Copy Number	MAP3K5			6	121769144	170892837.0														MO_1095	MO_1095-Tumor	
 Copy Number	MAP3K4			6	121769144	170892837.0														MO_1095	MO_1095-Tumor		0
 Copy Number	MAP3K3			17	36455436	80047262.0														MO_1095	MO_1095-Tumor		0
 Copy Number	MAP3K2			2	89442355	148602778.0														MO_1095	MO_1095-Tumor		0
-Somatic Variant	MAP3K19	Intron		2	135740853	135740853.0	A	A	C	0.1268	71.0									MO_1095	MO_1095-Tumor	MO_1095-Normal	0
 Copy Number	MAP3K19			2	89442355	148602778.0														MO_1095	MO_1095-Tumor		0
 Copy Number	MAP3K15			X	2864177	48159202.0														MO_1095	MO_1095-Tumor		0
 Rearrangement	MAP3K14-AS1--NOC4L	Fusion	MAP3K14-AS1--NOC4L	17	43332585							0.0	MAP3K14-AS1	17	43332585.0	NOC4L	12	132635803.0		MO_1095			0
@@ -25592,7 +25589,6 @@ Copy Number	LTK			15	25486974	72950979.0														MO_1095	MO_1095-Tumor		0
 Copy Number	LTF			3	33195525	46622742.0														MO_1095	MO_1095-Tumor		0
 Copy Number	LTC4S			5	176734706	180219973.0														MO_1095	MO_1095-Tumor		0
 Copy Number	LTBR			12	645463	7043478.0														MO_1095	MO_1095-Tumor		0
-Somatic Variant	LTBP4	3'UTR		19	41120235	41120235.0	C	C	A	0.2461	1142.0									MO_1095	MO_1095-Tumor	MO_1095-Normal	0
 Copy Number	LTBP4			19	40382828	52133471.0														MO_1095	MO_1095-Tumor		0
 Copy Number	LTBP3			11	64875201	65387131.0														MO_1095	MO_1095-Tumor		0
 Copy Number	LTBP2			14	22991078	106518853.0														MO_1095	MO_1095-Tumor		0
@@ -28106,7 +28102,6 @@ Copy Number	IGHD1-20			14	22991078	106518853.0														MO_1095	MO_1095-Tumo
 Copy Number	IGHD1-14			14	22991078	106518853.0														MO_1095	MO_1095-Tumor		0
 Copy Number	IGHD1-1			14	22991078	106518853.0														MO_1095	MO_1095-Tumor		0
 Copy Number	IGHD			14	22991078	106518853.0														MO_1095	MO_1095-Tumor		0
-Somatic Variant	IGHA2	RNA		14	106054166	106054166.0	C	C	T	0.0933	1126.0									MO_1095	MO_1095-Tumor	MO_1095-Normal	0
 Copy Number	IGHA2			14	22991078	106518853.0														MO_1095	MO_1095-Tumor		0
 Copy Number	IGHA1			14	22991078	106518853.0														MO_1095	MO_1095-Tumor		0
 Copy Number	IGFN1			1	149783880	244852646.0														MO_1095	MO_1095-Tumor		0
@@ -28192,7 +28187,7 @@ Copy Number	IFITM10			11	294198	2154455.0														MO_1095	MO_1095-Tumor		0
 Copy Number	IFITM1			11	294198	2154455.0														MO_1095	MO_1095-Tumor		0
 Copy Number	IFIT5			10	91178407	92635373.0														MO_1095	MO_1095-Tumor		0
 Copy Number	IFIH1			2	152127391	179519722.0														MO_1095	MO_1095-Tumor		0
-Somatic Variant	IFI6	Silent	p.S78S	1	27994813	27994813.0	C	C	T	0.2656	128.0									MO_1095	MO_1095-Tumor	MO_1095-Normal	0
+Somatic Variant	IFI6	Silent	p.S74S	1	27994813	27994813.0	C	C	T	0.2656	128.0									MO_1095	MO_1095-Tumor	MO_1095-Normal	0
 Copy Number	IFI6			1	25667072	120539957.0														MO_1095	MO_1095-Tumor		0
 Copy Number	IFI44L			1	25667072	120539957.0														MO_1095	MO_1095-Tumor		0
 Copy Number	IFI44			1	25667072	120539957.0														MO_1095	MO_1095-Tumor		0
@@ -28284,7 +28279,7 @@ Copy Number	HTR4-IT1			5	141511462	176722462.0														MO_1095	MO_1095-Tumo
 Copy Number	HTR4			5	141511462	176722462.0														MO_1095	MO_1095-Tumor		0
 Copy Number	HTR3E-AS1			3	183535901	184542573.0														MO_1095	MO_1095-Tumor		0
 Copy Number	HTR3E			3	183535901	184542573.0														MO_1095	MO_1095-Tumor		0
-Somatic Variant	HTR3D	Silent	p.V385V	3	183756553	183756553.0	A	A	G	0.1255	550.0									MO_1095	MO_1095-Tumor	MO_1095-Normal	0
+Somatic Variant	HTR3D	Silent	p.V385V	3	183756553	183756553.0	A	A	G	0.1257	549.0									MO_1095	MO_1095-Tumor	MO_1095-Normal	0
 Copy Number	HTR3D			3	183535901	184542573.0														MO_1095	MO_1095-Tumor		0
 Copy Number	HTR3C			3	183535901	184542573.0														MO_1095	MO_1095-Tumor		0
 Copy Number	HTR3B			11	110008139	121461867.0														MO_1095	MO_1095-Tumor		0
@@ -30454,7 +30449,7 @@ Copy Number	FAXC			6	87971519	121655578.0														MO_1095	MO_1095-Tumor		0
 Copy Number	FAU			11	64875201	65387131.0														MO_1095	MO_1095-Tumor		0
 Copy Number	FATE1			X	140785845	152959043.0														MO_1095	MO_1095-Tumor		0
 Copy Number	FAT4			4	108817166	140196548.0														MO_1095	MO_1095-Tumor		0
-Somatic Variant	FAT3	Silent	p.A603A	11	92087537	92087537.0	C	C	T	0.2233	309.0									MO_1095	MO_1095-Tumor	MO_1095-Normal	0
+Somatic Variant	FAT3	Silent	p.A753A	11	92087537	92087537.0	C	C	T	0.2233	309.0									MO_1095	MO_1095-Tumor	MO_1095-Normal	0
 Copy Number	FAT3			11	65651962	92565177.0														MO_1095	MO_1095-Tumor		0
 Copy Number	FAT3			11	92568250	92600375.0														MO_1095	MO_1095-Tumor		0
 Copy Number	FAT3			11	92614050	92901339.0														MO_1095	MO_1095-Tumor		0
@@ -31050,7 +31045,7 @@ Copy Number	ERICH2			2	152127391	179519722.0														MO_1095	MO_1095-Tumor	
 Copy Number	ERICH1-AS1			8	117026	7320383.0														MO_1095	MO_1095-Tumor		0
 Copy Number	ERICH1			8	117026	7320383.0														MO_1095	MO_1095-Tumor		0
 Copy Number	ERI3-IT1			1	25667072	120539957.0														MO_1095	MO_1095-Tumor		0
-Somatic Variant	ERI3	Intron		1	44750411	44750414.0	GAGG	GAGG	-	0.3529	34.0									MO_1095	MO_1095-Tumor	MO_1095-Normal	0
+Somatic Variant	ERI3	Intron		1	44750411	44750414.0	GAGG	GAGG	-	0.3429	35.0									MO_1095	MO_1095-Tumor	MO_1095-Normal	0
 Copy Number	ERI3			1	25667072	120539957.0														MO_1095	MO_1095-Tumor		0
 Copy Number	ERI2			16	5133760	29465774.0														MO_1095	MO_1095-Tumor		0
 Copy Number	ERI1			8	7752294	30470000.0														MO_1095	MO_1095-Tumor		0
@@ -31540,7 +31535,6 @@ Rearrangement	DYM--C8orf44-SGK3	Fusion	DYM--C8orf44-SGK3	18	46690055							0.0	D
 Copy Number	DYM			18	45368323	77960817.0														MO_1095	MO_1095-Tumor		0
 Copy Number	DYDC2			10	75549795	88123855.0														MO_1095	MO_1095-Tumor		0
 Copy Number	DYDC1			10	75549795	88123855.0														MO_1095	MO_1095-Tumor		0
-Somatic Variant	DXO	5'UTR		6	31939859	31939859.0	G	G	A	0.2077	284.0									MO_1095	MO_1095-Tumor	MO_1095-Normal	0
 Copy Number	DXO			6	31913136	31937982.0														MO_1095	MO_1095-Tumor		0
 Copy Number	DXO			6	31938257	31940536.0														MO_1095	MO_1095-Tumor		0
 Copy Number	DVL3			3	183535901	184542573.0														MO_1095	MO_1095-Tumor		0
@@ -31588,7 +31582,7 @@ Copy Number	DUOXA2			15	25486974	72950979.0														MO_1095	MO_1095-Tumor		
 Copy Number	DUOXA1			15	25486974	72950979.0														MO_1095	MO_1095-Tumor		0
 Copy Number	DUOX2			15	25486974	72950979.0														MO_1095	MO_1095-Tumor		0
 Copy Number	DUOX1			15	25486974	72950979.0														MO_1095	MO_1095-Tumor		0
-Somatic Variant	DTYMK	5'UTR		2	242626097	242626097.0	G	G	A	0.3771	236.0									MO_1095	MO_1095-Tumor	MO_1095-Normal	0
+Somatic Variant	DTYMK	Silent	p.G34G	2	242626097	242626097.0	G	G	A	0.3771	236.0									MO_1095	MO_1095-Tumor	MO_1095-Normal	0
 Copy Number	DTYMK			2	233323120	242815428.0														MO_1095	MO_1095-Tumor		0
 Copy Number	DTX4			11	34905053	60971094.0														MO_1095	MO_1095-Tumor		0
 Copy Number	DTX3L			3	119101248	126452067.0														MO_1095	MO_1095-Tumor		0
@@ -32175,7 +32169,6 @@ Copy Number	DDRGK1			20	68410	20006413.0														MO_1095	MO_1095-Tumor		0
 Copy Number	DDR2			1	149783880	244852646.0														MO_1095	MO_1095-Tumor		0
 Copy Number	DDR1-AS1			6	345930	31603528.0														MO_1095	MO_1095-Tumor		0
 Copy Number	DDR1			6	345930	31603528.0														MO_1095	MO_1095-Tumor		0
-Somatic Variant	DDOST	Intron		1	20979476	20979476.0	G	G	T	0.2091	287.0									MO_1095	MO_1095-Tumor	MO_1095-Normal	0
 Copy Number	DDOST			1	17266590	25573456.0														MO_1095	MO_1095-Tumor		0
 Copy Number	DDO			6	87971519	121655578.0														MO_1095	MO_1095-Tumor		0
 Copy Number	DDN			12	49162501	50503304.0														MO_1095	MO_1095-Tumor		0
@@ -34431,7 +34424,6 @@ Copy Number	COPA			1	149783880	244852646.0														MO_1095	MO_1095-Tumor		0
 Copy Number	COMTD1			10	75549795	88123855.0														MO_1095	MO_1095-Tumor		0
 Copy Number	COMT			22	16282318	23917271.0														MO_1095	MO_1095-Tumor		0
 Copy Number	COMP			19	18572664	19166739.0														MO_1095	MO_1095-Tumor		0
-Somatic Variant	COMMD9	Intron		11	36300170	36300170.0	C	C	G	0.0796	113.0									MO_1095	MO_1095-Tumor	MO_1095-Normal	0
 Copy Number	COMMD9			11	34905053	60971094.0														MO_1095	MO_1095-Tumor		0
 Copy Number	COMMD8			4	53385	107165923.0														MO_1095	MO_1095-Tumor		0
 Copy Number	COMMD7			20	20013833	35547924.0														MO_1095	MO_1095-Tumor		0
@@ -35847,7 +35839,6 @@ Copy Number	CACNA1C-AS3			12	645463	7043478.0														MO_1095	MO_1095-Tumor
 Copy Number	CACNA1C-AS2			12	645463	7043478.0														MO_1095	MO_1095-Tumor		0
 Copy Number	CACNA1C-AS1			12	645463	7043478.0														MO_1095	MO_1095-Tumor		0
 Copy Number	CACNA1C			12	645463	7043478.0														MO_1095	MO_1095-Tumor		0
-Somatic Variant	CACNA1B	Intron		9	140809100	140809100.0	C	C	T	0.2423	392.0									MO_1095	MO_1095-Tumor	MO_1095-Normal	0
 Copy Number	CACNA1B			9	140160433	141016451.0														MO_1095	MO_1095-Tumor		0
 Copy Number	CACNA1A			19	11241994	14034626.0														MO_1095	MO_1095-Tumor		0
 Copy Number	CACHD1			1	25667072	120539957.0														MO_1095	MO_1095-Tumor		0
@@ -39003,7 +38994,6 @@ Copy Number	AKAP11			13	31711254	73428295.0														MO_1095	MO_1095-Tumor		
 Copy Number	AKAP10			17	18702258	25638644.0														MO_1095	MO_1095-Tumor		0
 Copy Number	AKAP1			17	36455436	80047262.0														MO_1095	MO_1095-Tumor		0
 Copy Number	AK9			6	87971519	121655578.0														MO_1095	MO_1095-Tumor		0
-Somatic Variant	AK8	Intron		9	135602832	135602832.0	A	A	T	0.2903	31.0									MO_1095	MO_1095-Tumor	MO_1095-Normal	0
 Copy Number	AK8			9	131455046	139357584.0														MO_1095	MO_1095-Tumor		0
 Copy Number	AK7			14	22991078	106518853.0														MO_1095	MO_1095-Tumor		0
 Copy Number	AK5			1	25667072	120539957.0														MO_1095	MO_1095-Tumor		0

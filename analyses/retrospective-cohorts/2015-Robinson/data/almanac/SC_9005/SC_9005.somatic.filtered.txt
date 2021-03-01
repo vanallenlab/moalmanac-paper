@@ -741,7 +741,7 @@ Copy Number	ZFY-AS1			Y	2655646	27770214.0														SC_9005	SC_9005-Tumor		0
 Copy Number	ZFY			Y	2655646	27770214.0														SC_9005	SC_9005-Tumor		0
 Copy Number	ZFX-AS1			X	2773198	38178242.0														SC_9005	SC_9005-Tumor		0
 Copy Number	ZFX			X	2773198	38178242.0														SC_9005	SC_9005-Tumor		0
-Somatic Variant	ZFR2	Intron		19	3806210	3806229.0	CCAGCAGATGGGCCAGGCCT	CCAGCAGATGGGCCAGGCCT	-	0.2128	94.0									SC_9005	SC_9005-Tumor	SC_9005-Normal	0
+Somatic Variant	ZFR2	Intron		19	3806210	3806229.0	CCAGCAGATGGGCCAGGCCT	CCAGCAGATGGGCCAGGCCT	-	0.1818	110.0									SC_9005	SC_9005-Tumor	SC_9005-Normal	0
 Copy Number	ZFR2			19	111598	5649512.0														SC_9005	SC_9005-Tumor		0
 Rearrangement	ZFR--LNPEP	Fusion	ZFR--LNPEP	5	32444335							0.0	ZFR	5	32444335.0	LNPEP	5	96314842.0		SC_9005			0
 Copy Number	ZFR			5	140833	37371081.0														SC_9005	SC_9005-Tumor		0
@@ -1291,7 +1291,6 @@ Copy Number	WDR34			9	117092858	141016451.0														SC_9005	SC_9005-Tumor		
 Copy Number	WDR33			2	118572440	142567972.0														SC_9005	SC_9005-Tumor		0
 Copy Number	WDR31			9	70428901	117087179.0														SC_9005	SC_9005-Tumor		0
 Copy Number	WDR3			1	113635904	148587953.0														SC_9005	SC_9005-Tumor		0
-Somatic Variant	WDR27	Intron		6	170047865	170047865.0	G	G	A	0.2348	115.0									SC_9005	SC_9005-Tumor	SC_9005-Normal	0
 Copy Number	WDR27			6	167794826	170892837.0														SC_9005	SC_9005-Tumor		0
 Copy Number	WDR26			1	207726196	240555864.0														SC_9005	SC_9005-Tumor		0
 Copy Number	WDR25			14	74042219	101364333.0														SC_9005	SC_9005-Tumor		0
@@ -1499,7 +1498,7 @@ Copy Number	VAV3			1	103345474	113616269.0														SC_9005	SC_9005-Tumor		0
 Copy Number	VAV2			9	117092858	141016451.0														SC_9005	SC_9005-Tumor		0
 Copy Number	VAV1			19	5651085	40392912.0														SC_9005	SC_9005-Tumor		0
 Copy Number	VAT1L			16	74486031	90141882.0														SC_9005	SC_9005-Tumor		0
-Somatic Variant	VAT1	5'Flank		17	41174408	41174408.0	G	G	-	0.2364	258.0									SC_9005	SC_9005-Tumor	SC_9005-Normal	0
+Somatic Variant	VAT1	5'UTR		17	41174408	41174408.0	G	G	-	0.2179	280.0									SC_9005	SC_9005-Tumor	SC_9005-Normal	0
 Copy Number	VAT1			17	20353434	81052322.0														SC_9005	SC_9005-Tumor		0
 Copy Number	VASP			19	43674292	55179472.0														SC_9005	SC_9005-Tumor		0
 Copy Number	VASN			16	2158035	5128020.0														SC_9005	SC_9005-Tumor		0
@@ -5182,7 +5181,6 @@ Copy Number	SLC9A7P1			12	70732345	100598837.0														SC_9005	SC_9005-Tumo
 Copy Number	SLC9A7			X	44109691	49298020.0														SC_9005	SC_9005-Tumor		0
 Copy Number	SLC9A6			X	134948157	144337336.0														SC_9005	SC_9005-Tumor		0
 Copy Number	SLC9A5			16	55880596	69993751.0														SC_9005	SC_9005-Tumor		0
-Somatic Variant	SLC9A4	Intron		2	103095771	103095771.0	C	C	T	0.1741	316.0									SC_9005	SC_9005-Tumor	SC_9005-Normal	0
 Copy Number	SLC9A4			2	100903527	114004498.0														SC_9005	SC_9005-Tumor		0
 Copy Number	SLC9A3R2			16	2017420	2147506.0														SC_9005	SC_9005-Tumor		0
 Copy Number	SLC9A3R1			17	20353434	81052322.0														SC_9005	SC_9005-Tumor		0
@@ -5319,7 +5317,7 @@ Copy Number	SLC37A4			11	110451951	122954557.0														SC_9005	SC_9005-Tumo
 Copy Number	SLC37A3			7	38398423	143271244.0														SC_9005	SC_9005-Tumor		0
 Copy Number	SLC37A2			11	123677059	134257555.0														SC_9005	SC_9005-Tumor		0
 Copy Number	SLC37A1			21	40668291	48083468.0														SC_9005	SC_9005-Tumor		0
-Somatic Variant	SLC36A4	Intron		11	92917535	92917535.0	G	G	-	0.2199	191.0									SC_9005	SC_9005-Tumor	SC_9005-Normal	0
+Somatic Variant	SLC36A4	Intron		11	92917535	92917535.0	G	G	-	0.19	221.0									SC_9005	SC_9005-Tumor	SC_9005-Normal	0
 Copy Number	SLC36A4			11	92573925	93754704.0														SC_9005	SC_9005-Tumor		0
 Copy Number	SLC36A3			5	99871670	180795228.0														SC_9005	SC_9005-Tumor		0
 Copy Number	SLC36A2			5	99871670	180795228.0														SC_9005	SC_9005-Tumor		0
@@ -5579,7 +5577,7 @@ Copy Number	SLBP			4	997260	44724226.0														SC_9005	SC_9005-Tumor		0
 Copy Number	SLAMF9			1	157548334	161046267.0														SC_9005	SC_9005-Tumor		0
 Copy Number	SLAMF8			1	157548334	161046267.0														SC_9005	SC_9005-Tumor		0
 Copy Number	SLAMF7			1	157548334	161046267.0														SC_9005	SC_9005-Tumor		0
-Somatic Variant	SLAMF6	Silent	p.N31N	1	160466140	160466140.0	G	G	A	0.2322	435.0									SC_9005	SC_9005-Tumor	SC_9005-Normal	0
+Somatic Variant	SLAMF6	Silent	p.N31N	1	160466140	160466140.0	G	G	A	0.2317	436.0									SC_9005	SC_9005-Tumor	SC_9005-Normal	0
 Copy Number	SLAMF6			1	157548334	161046267.0														SC_9005	SC_9005-Tumor		0
 Copy Number	SLAMF1			1	157548334	161046267.0														SC_9005	SC_9005-Tumor		0
 Copy Number	SLAIN2			4	46043273	100544007.0														SC_9005	SC_9005-Tumor		0
@@ -6024,7 +6022,6 @@ Copy Number	SDHAP1			3	125691015	197765540.0														SC_9005	SC_9005-Tumor	
 Copy Number	SDHAF2			11	61026786	89487134.0														SC_9005	SC_9005-Tumor		0
 Copy Number	SDHAF1			19	5651085	40392912.0														SC_9005	SC_9005-Tumor		0
 Copy Number	SDHA			5	140833	37371081.0														SC_9005	SC_9005-Tumor		0
-Somatic Variant	SDF4	Intron		1	1158614	1158614.0	G	G	A	0.0244	655.0									SC_9005	SC_9005-Tumor	SC_9005-Normal	0
 Copy Number	SDF4			1	622036	2494714.0														SC_9005	SC_9005-Tumor		0
 Copy Number	SDF2L1			22	17280916	24300890.0														SC_9005	SC_9005-Tumor		0
 Copy Number	SDF2			17	20353434	81052322.0														SC_9005	SC_9005-Tumor		0
@@ -19883,7 +19880,6 @@ Copy Number	PSEN1			14	39868993	74010361.0														SC_9005	SC_9005-Tumor		0
 Copy Number	PSD4			2	100903527	114004498.0														SC_9005	SC_9005-Tumor		0
 Copy Number	PSD3			8	12047397	43212040.0														SC_9005	SC_9005-Tumor		0
 Copy Number	PSD2			5	99871670	180795228.0														SC_9005	SC_9005-Tumor		0
-Somatic Variant	PSD	IGR		10	104161663	104161663.0	C	C	T	0.0735	490.0									SC_9005	SC_9005-Tumor	SC_9005-Normal	0
 Copy Number	PSD			10	92680107	135491085.0														SC_9005	SC_9005-Tumor		0
 Copy Number	PSCA			8	124822593	146279545.0														SC_9005	SC_9005-Tumor		0
 Copy Number	PSAT1			9	70428901	117087179.0														SC_9005	SC_9005-Tumor		0
@@ -20444,7 +20440,6 @@ Copy Number	POLR1C			6	42646409	64004952.0														SC_9005	SC_9005-Tumor		0
 Copy Number	POLR1B			2	100903527	114004498.0														SC_9005	SC_9005-Tumor		0
 Copy Number	POLR1A			2	41629	90044439.0														SC_9005	SC_9005-Tumor		0
 Copy Number	POLQ			3	113524374	125313646.0														SC_9005	SC_9005-Tumor		0
-Somatic Variant	POLN	Intron		4	2097569	2097569.0	G	G	A	0.2917	288.0									SC_9005	SC_9005-Tumor	SC_9005-Normal	0
 Copy Number	POLN			4	997260	44724226.0														SC_9005	SC_9005-Tumor		0
 Copy Number	POLM			7	38398423	143271244.0														SC_9005	SC_9005-Tumor		0
 Copy Number	POLL			10	92680107	135491085.0														SC_9005	SC_9005-Tumor		0
@@ -20550,7 +20545,7 @@ Copy Number	PLXNB1			3	45785163	49721624.0														SC_9005	SC_9005-Tumor		0
 Copy Number	PLXNA4			7	38398423	143271244.0														SC_9005	SC_9005-Tumor		0
 Copy Number	PLXNA3			X	153422010	154774939.0														SC_9005	SC_9005-Tumor		0
 Copy Number	PLXNA2			1	207726196	240555864.0														SC_9005	SC_9005-Tumor		0
-Somatic Variant	PLXNA1	Silent	p.N92N	3	126707712	126707712.0	C	C	T	0.0124	969.0									SC_9005	SC_9005-Tumor	SC_9005-Normal	0
+Somatic Variant	PLXNA1	Silent	p.N92N	3	126707712	126707712.0	C	C	T	0.0124	970.0									SC_9005	SC_9005-Tumor	SC_9005-Normal	0
 Copy Number	PLXNA1			3	125691015	197765540.0														SC_9005	SC_9005-Tumor		0
 Rearrangement	PLXDC2--ZEB1	Fusion	PLXDC2--ZEB1	10	20357168							0.0	PLXDC2	10	20357168.0	ZEB1	10	31676053.0		SC_9005			0
 Copy Number	PLXDC2			10	20290917	43127474.0														SC_9005	SC_9005-Tumor		0
@@ -21394,7 +21389,6 @@ Copy Number	PAGE1			X	49364863	52977798.0														SC_9005	SC_9005-Tumor		0
 Copy Number	PAG1			8	48114372	124042958.0														SC_9005	SC_9005-Tumor		0
 Copy Number	PAFAH2			1	25679467	27589728.0														SC_9005	SC_9005-Tumor		0
 Copy Number	PAFAH1B3			19	40399857	43259420.0														SC_9005	SC_9005-Tumor		0
-Somatic Variant	PAFAH1B2	IGR		11	117049973	117049973.0	C	C	T	0.0098	408.0									SC_9005	SC_9005-Tumor	SC_9005-Normal	0
 Copy Number	PAFAH1B2			11	110451951	122954557.0														SC_9005	SC_9005-Tumor		0
 Copy Number	PAFAH1B1			17	2323892	20209397.0														SC_9005	SC_9005-Tumor		0
 Copy Number	PAF1			19	5651085	40392912.0														SC_9005	SC_9005-Tumor		0
@@ -23028,7 +23022,6 @@ Copy Number	MYCBP2-AS2			13	31338245	79219134.0														SC_9005	SC_9005-Tum
 Copy Number	MYCBP2-AS1			13	31338245	79219134.0														SC_9005	SC_9005-Tumor		0
 Copy Number	MYCBP2			13	31338245	79219134.0														SC_9005	SC_9005-Tumor		0
 Copy Number	MYCBP			1	29023598	43103051.0														SC_9005	SC_9005-Tumor		0
-Somatic Variant	MYC	IGR		8	128752729	128752731.0	CTT	CTT	-	0.165	503.0									SC_9005	SC_9005-Tumor	SC_9005-Normal	0
 Copy Number	MYC			8	124822593	146279545.0														SC_9005	SC_9005-Tumor		0
 Copy Number	MYBPHL			1	103345474	113616269.0														SC_9005	SC_9005-Tumor		0
 Copy Number	MYBPH			1	196918781	207697354.0														SC_9005	SC_9005-Tumor		0
@@ -25465,7 +25458,6 @@ Copy Number	MACROD2-IT1			20	68410	62904955.0														SC_9005	SC_9005-Tumor
 Copy Number	MACROD2-AS1			20	68410	62904955.0														SC_9005	SC_9005-Tumor		0
 Copy Number	MACROD2			20	68410	62904955.0														SC_9005	SC_9005-Tumor		0
 Copy Number	MACROD1			11	61026786	89487134.0														SC_9005	SC_9005-Tumor		0
-Somatic Variant	MACF1	Intron		1	39876716	39876716.0	C	C	A	0.196	352.0									SC_9005	SC_9005-Tumor	SC_9005-Normal	0
 Copy Number	MACF1			1	29023598	43103051.0														SC_9005	SC_9005-Tumor		0
 Copy Number	MACC1-AS1			7	195732	38247332.0														SC_9005	SC_9005-Tumor		0
 Copy Number	MACC1			7	195732	38247332.0														SC_9005	SC_9005-Tumor		0
@@ -26417,7 +26409,7 @@ Copy Number	LIN28B			6	86177002	133703581.0														SC_9005	SC_9005-Tumor		
 Copy Number	LIN28A			1	25679467	27589728.0														SC_9005	SC_9005-Tumor		0
 Copy Number	LIMS3L			2	100903527	114004498.0														SC_9005	SC_9005-Tumor		0
 Copy Number	LIMS3			2	100903527	114004498.0														SC_9005	SC_9005-Tumor		0
-Somatic Variant	LIMS2	5'UTR		2	128422100	128422100.0	G	G	-	0.3117	77.0									SC_9005	SC_9005-Tumor	SC_9005-Normal	0
+Somatic Variant	LIMS2	5'UTR		2	128422100	128422100.0	G	G	-	0.2637	91.0									SC_9005	SC_9005-Tumor	SC_9005-Normal	0
 Copy Number	LIMS2			2	118572440	142567972.0														SC_9005	SC_9005-Tumor		0
 Copy Number	LIMS1			2	100903527	114004498.0														SC_9005	SC_9005-Tumor		0
 Copy Number	LIMK2			22	24313597	42807744.0														SC_9005	SC_9005-Tumor		0
@@ -26427,7 +26419,6 @@ Copy Number	LIMD2			17	20353434	81052322.0														SC_9005	SC_9005-Tumor		0
 Copy Number	LIMD1-AS1			3	367749	45748401.0														SC_9005	SC_9005-Tumor		0
 Copy Number	LIMD1			3	367749	45748401.0														SC_9005	SC_9005-Tumor		0
 Copy Number	LIMCH1			4	997260	44724226.0														SC_9005	SC_9005-Tumor		0
-Somatic Variant	LIMA1	Intron		12	50625498	50625498.0	A	A	G	0.098	153.0									SC_9005	SC_9005-Tumor	SC_9005-Normal	0
 Copy Number	LIMA1			12	38710868	62894662.0														SC_9005	SC_9005-Tumor		0
 Copy Number	LIM2			19	43674292	55179472.0														SC_9005	SC_9005-Tumor		0
 Copy Number	LILRB5			19	43674292	55179472.0														SC_9005	SC_9005-Tumor		0
@@ -28138,7 +28129,6 @@ Copy Number	IGFBP2			2	143643107	227985866.0														SC_9005	SC_9005-Tumor	
 Copy Number	IGFBP1			7	38398423	143271244.0														SC_9005	SC_9005-Tumor		0
 Copy Number	IGFALS			16	1364099	2011294.0														SC_9005	SC_9005-Tumor		0
 Rearrangement	IGF2R--POGZ	Fusion	IGF2R--POGZ	6	160471684							0.0	IGF2R	6	160471684.0	POGZ	1	151396762.0		SC_9005			0
-Somatic Variant	IGF2R	Intron		6	160448349	160448349.0	C	C	T	0.1667	102.0									SC_9005	SC_9005-Tumor	SC_9005-Normal	0
 Copy Number	IGF2R			6	144858855	167786850.0														SC_9005	SC_9005-Tumor		0
 Copy Number	IGF2BP3			7	195732	38247332.0														SC_9005	SC_9005-Tumor		0
 Copy Number	IGF2BP2			3	125691015	197765540.0														SC_9005	SC_9005-Tumor		0
@@ -30750,7 +30740,6 @@ Copy Number	FAM197Y1			Y	2655646	27770214.0														SC_9005	SC_9005-Tumor		
 Copy Number	FAM196B			5	99871670	180795228.0														SC_9005	SC_9005-Tumor		0
 Copy Number	FAM196A			10	92680107	135491085.0														SC_9005	SC_9005-Tumor		0
 Copy Number	FAM195B			17	20353434	81052322.0														SC_9005	SC_9005-Tumor		0
-Somatic Variant	FAM195A	Intron		16	697896	697896.0	A	A	C	0.1111	36.0									SC_9005	SC_9005-Tumor	SC_9005-Normal	0
 Copy Number	FAM195A			16	97559	1250571.0														SC_9005	SC_9005-Tumor		0
 Copy Number	FAM194B			13	31338245	79219134.0														SC_9005	SC_9005-Tumor		0
 Copy Number	FAM194A			3	125691015	197765540.0														SC_9005	SC_9005-Tumor		0
@@ -34670,7 +34659,7 @@ Copy Number	CLRN1-AS1			3	125691015	197765540.0														SC_9005	SC_9005-Tum
 Copy Number	CLRN1			3	125691015	197765540.0														SC_9005	SC_9005-Tumor		0
 Copy Number	CLPX			15	62176470	72875635.0														SC_9005	SC_9005-Tumor		0
 Copy Number	CLPTM1L			5	140833	37371081.0														SC_9005	SC_9005-Tumor		0
-Somatic Variant	CLPTM1	Silent	p.N281N	19	45490528	45490528.0	C	C	T	0.295	678.0									SC_9005	SC_9005-Tumor	SC_9005-Normal	0
+Somatic Variant	CLPTM1	Silent	p.N295N	19	45490528	45490528.0	C	C	T	0.295	678.0									SC_9005	SC_9005-Tumor	SC_9005-Normal	0
 Copy Number	CLPTM1			19	43674292	55179472.0														SC_9005	SC_9005-Tumor		0
 Copy Number	CLPSL2			6	33133595	42626060.0														SC_9005	SC_9005-Tumor		0
 Copy Number	CLPSL1			6	33133595	42626060.0														SC_9005	SC_9005-Tumor		0
@@ -39405,7 +39394,7 @@ Copy Number	ACSM2B			16	20559797	20565244.0														SC_9005	SC_9005-Tumor		
 Copy Number	ACSM2A			16	5140352	20477051.0														SC_9005	SC_9005-Tumor		0
 Copy Number	ACSM2A			16	20482540	20498002.0														SC_9005	SC_9005-Tumor		0
 Copy Number	ACSM1			16	20634896	28187418.0														SC_9005	SC_9005-Tumor		0
-Somatic Variant	ACSL6	Intron		5	131310649	131310649.0	C	C	T	0.1888	233.0									SC_9005	SC_9005-Tumor	SC_9005-Normal	0
+Somatic Variant	ACSL6	Silent	p.P310P	5	131310649	131310649.0	C	C	T	0.1888	233.0									SC_9005	SC_9005-Tumor	SC_9005-Normal	0
 Copy Number	ACSL6			5	99871670	180795228.0														SC_9005	SC_9005-Tumor		0
 Copy Number	ACSL5			10	92680107	135491085.0														SC_9005	SC_9005-Tumor		0
 Copy Number	ACSL4			X	101576986	120070759.0														SC_9005	SC_9005-Tumor		0

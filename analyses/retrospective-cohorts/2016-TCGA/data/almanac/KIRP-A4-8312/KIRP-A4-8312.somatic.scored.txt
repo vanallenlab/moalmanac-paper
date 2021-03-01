@@ -1,0 +1,52 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Putatively Actionable	Investigate Actionability	Investigate Actionability	Putatively Actionable	Somatic Variant	KRAS	Missense	p.G12D	12	25398284	25398284.0	C	C	T	0.4828	29.0	1.6e-05	0.0		0								17.0	0.4706	0.9721		KIRP-A4-8312	KIRP-A4-8312-TP	KIRP-A4-8312-NB	4	2	2	1	1	1	2
+Cancer Hotspot 3D				Rearrangement	MECOM	Fusion	MECOM--RP11-641D5.1	chr3	169381124							0.0	0.0		0	14.0	MECOM	chr3	169381124.0	RP11-641D5.1	chr3	169201750.0					KIRP-A4-8312			0	0	1	1	1	1	1
+Cancer Hotspot 3D				Rearrangement	PCDHA4	Fusion	PCDHA4--PCDHAC2	chr5	140189157							0.0	0.0		0	16.0	PCDHA4	chr5	140189157.0	PCDHAC2	chr5	140358534.0					KIRP-A4-8312			0	0	1	0	0	0	1
+Cancer Hotspot 3D				Rearrangement	PCDHA4	Fusion	PCDHA4--PCDHAC1	chr5	140189157							0.0	0.0		0	16.0	PCDHA4	chr5	140189157.0	PCDHAC1	chr5	140358534.0					KIRP-A4-8312			0	0	1	0	0	0	1
+Cancer Gene Census				Somatic Variant	TRIP11	Missense	p.E1222D	14	92470654	92470654.0	T	T	A	0.45899999999999996	61.0	0.0	0.0		0								23.0	0.3043	0.9966		KIRP-A4-8312	KIRP-A4-8312-TP	KIRP-A4-8312-NB	0	0	0	1	0	0	2
+Cancer Module				Somatic Variant	AMBP	Missense	p.T24M	9	116840419	116840419.0	G	G	A	0.405	121.0	0.000165	0.0		0								12.0	0.3333	0.7767		KIRP-A4-8312	KIRP-A4-8312-TP	KIRP-A4-8312-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	DUSP27	Missense	p.K906T	1	167097085	167097085.0	A	A	C	0.1087	46.0	8e-06	0.0		0								0.0	0.0	0.0		KIRP-A4-8312	KIRP-A4-8312-TP	KIRP-A4-8312-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	MMP13	Missense	p.W14C	11	102826393	102826393.0	C	C	A	0.0968	93.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-8312	KIRP-A4-8312-TP	KIRP-A4-8312-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	LYZL6	Missense	p.G135S	17	34261844	34261844.0	C	C	T	0.2581	62.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-8312	KIRP-A4-8312-TP	KIRP-A4-8312-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ATP2A3	Missense	p.I611V	17	3844534	3844534.0	T	T	C	0.0566	106.0	3.3e-05	0.0		0								0.0	0.0	0.0		KIRP-A4-8312	KIRP-A4-8312-TP	KIRP-A4-8312-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	CACNA1C	Missense	p.V400F	12	2614092	2614092.0	G	G	T	0.375	16.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-8312	KIRP-A4-8312-TP	KIRP-A4-8312-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	BICD1	Frameshift	p.QF858fs	12	32491723	32491724.0	AT	AT	-	0.35	160.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-8312	KIRP-A4-8312-TP	KIRP-A4-8312-NB	0	0	0	0	0	1	1
+Cancer Module				Rearrangement	C15orf57	Fusion	C15orf57--CBX3	chr15	40854180							0.0	0.0		0	9.0	C15orf57	chr15	40854180.0	CBX3	chr7	26241365.0					KIRP-A4-8312			0	0	0	0	0	1	1
+Cancer Module				Copy Number	RPS6	Amplification		9	19361448	19652765.0						0.0	0.0		0												KIRP-A4-8312	TCGA-A4-8312-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NHSL1	Deletion		6	138754323	138754349.0						0.0	0.0		0												KIRP-A4-8312	TCGA-A4-8312-01		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	CBX3	Fusion	C15orf57--CBX3	chr15	40854180							0.0	0.0		0	9.0	C15orf57	chr15	40854180.0	CBX3	chr7	26241365.0					KIRP-A4-8312			0	0	0	0	0	1	1
+Cosmic				Somatic Variant	PPIL1	Missense	p.A3T	6	36842542	36842542.0	C	C	T	0.125	24.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-8312	KIRP-A4-8312-TP	KIRP-A4-8312-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	MTUS2	Missense	p.S300L	13	29599704	29599704.0	C	C	T	0.3	30.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-8312	KIRP-A4-8312-TP	KIRP-A4-8312-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	ATP10A	Splice Site		15	25972305	25972305.0	A	A	T	0.4306	72.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-8312	KIRP-A4-8312-TP	KIRP-A4-8312-NB	0	0	0	0	0	0	1
+Cosmic				Rearrangement	PCDHAC1	Fusion	PCDHA4--PCDHAC1	chr5	140189157							0.0	0.0		0	16.0	PCDHA4	chr5	140189157.0	PCDHAC1	chr5	140358534.0					KIRP-A4-8312			0	0	0	0	0	0	1
+Cosmic				Copy Number	ACER2	Amplification		9	19361448	19652765.0						0.0	0.0		0												KIRP-A4-8312	TCGA-A4-8312-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DENND4C	Amplification		9	19361448	19652765.0						0.0	0.0		0												KIRP-A4-8312	TCGA-A4-8312-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC24A2	Amplification		9	19361448	19652765.0						0.0	0.0		0												KIRP-A4-8312	TCGA-A4-8312-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PTPRQ	Deletion		12	80853644	80861668.0						0.0	0.0		0												KIRP-A4-8312	TCGA-A4-8312-01		0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND6	Fusion	MT-ND6--MT-TE	chrM	14622							0.0	0.0		0	69.0	MT-ND6	chrM	14622.0	MT-TE	chrM	14717.0					KIRP-A4-8312			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND5	Fusion	MT-ND5--MT-ND4	chrM	13673							0.0	0.0		0	162.0	MT-ND5	chrM	13673.0	MT-ND4	chrM	11036.0					KIRP-A4-8312			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4	Fusion	MT-ND4--MT-CO1	chrM	11669							0.0	0.0		0	159.0	MT-ND4	chrM	11669.0	MT-CO1	chrM	6417.0					KIRP-A4-8312			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CO3	Fusion	MT-CO3--MT-ND1	chrM	9473							0.0	0.0		0	25.0	MT-CO3	chrM	9473.0	MT-ND1	chrM	4165.0					KIRP-A4-8312			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-ATP6--MT-CO1	chrM	9081							0.0	0.0		0	118.0	MT-ATP6	chrM	9081.0	MT-CO1	chrM	6557.0					KIRP-A4-8312			0	0	0	0	0	0	1
+Cosmic				Rearrangement	PCDHAC2	Fusion	PCDHA4--PCDHAC2	chr5	140189157							0.0	0.0		0	16.0	PCDHA4	chr5	140189157.0	PCDHAC2	chr5	140358534.0					KIRP-A4-8312			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4	Fusion	MTATP6P1--MT-ND4	chr1	569196							0.0	0.0		0	9.0	MTATP6P1	chr1	569196.0	MT-ND4	chrM	10905.0					KIRP-A4-8312			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4	Fusion	MT-ND5--MT-ND4	chrM	13673							0.0	0.0		0	162.0	MT-ND5	chrM	13673.0	MT-ND4	chrM	11036.0					KIRP-A4-8312			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CO1	Fusion	MT-ND4--MT-CO1	chrM	11669							0.0	0.0		0	159.0	MT-ND4	chrM	11669.0	MT-CO1	chrM	6417.0					KIRP-A4-8312			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND1	Fusion	MT-CO3--MT-ND1	chrM	9473							0.0	0.0		0	25.0	MT-CO3	chrM	9473.0	MT-ND1	chrM	4165.0					KIRP-A4-8312			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CO1	Fusion	MT-ATP6--MT-CO1	chrM	9081							0.0	0.0		0	118.0	MT-ATP6	chrM	9081.0	MT-CO1	chrM	6557.0					KIRP-A4-8312			0	0	0	0	0	0	1
+VUS				Copy Number		Amplification		20	53764037	53764850.0						0.0	0.0		0												KIRP-A4-8312	TCGA-A4-8312-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-363E7.3	Amplification		9	19361448	19652765.0						0.0	0.0		0												KIRP-A4-8312	TCGA-A4-8312-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-363E7.4	Amplification		9	19361448	19652765.0						0.0	0.0		0												KIRP-A4-8312	TCGA-A4-8312-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-513M16.7	Amplification		9	19361448	19652765.0						0.0	0.0		0												KIRP-A4-8312	TCGA-A4-8312-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-513M16.8	Amplification		9	19361448	19652765.0						0.0	0.0		0												KIRP-A4-8312	TCGA-A4-8312-01		0	0	0	0	0	0	0
+VUS				Rearrangement	SMC5-AS1	Fusion	SMC5-AS1--MAMDC2-AS1	chr9	72831202							0.0	0.0		0	22.0	SMC5-AS1	chr9	72831202.0	MAMDC2-AS1	chr9	72728776.0					KIRP-A4-8312			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-96H19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46848924							0.0	0.0		0	34.0	RP11-96H19.1	chr12	46848924.0	RP11-446N19.1	chr12	47046173.0					KIRP-A4-8312			0	0	0	0	0	0	0
+VUS				Rearrangement	MTATP6P1	Fusion	MTATP6P1--MT-ND4	chr1	569196							0.0	0.0		0	9.0	MTATP6P1	chr1	569196.0	MT-ND4	chrM	10905.0					KIRP-A4-8312			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TA	Fusion	MT-TA--MT-TN	chrM	5604							0.0	0.0		0	13.0	MT-TA	chrM	5604.0	MT-TN	chrM	5708.0					KIRP-A4-8312			0	0	0	0	0	0	0
+VUS				Rearrangement	LINC00472	Fusion	LINC00472--RP11-154D6.1	chr6	72126113							0.0	0.0		0	8.0	LINC00472	chr6	72126113.0	RP11-154D6.1	chr6	72020345.0					KIRP-A4-8312			0	0	0	0	0	0	0
+VUS				Rearrangement	MAMDC2-AS1	Fusion	SMC5-AS1--MAMDC2-AS1	chr9	72831202							0.0	0.0		0	22.0	SMC5-AS1	chr9	72831202.0	MAMDC2-AS1	chr9	72728776.0					KIRP-A4-8312			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-446N19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46848924							0.0	0.0		0	34.0	RP11-96H19.1	chr12	46848924.0	RP11-446N19.1	chr12	47046173.0					KIRP-A4-8312			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TN	Fusion	MT-TA--MT-TN	chrM	5604							0.0	0.0		0	13.0	MT-TA	chrM	5604.0	MT-TN	chrM	5708.0					KIRP-A4-8312			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TE	Fusion	MT-ND6--MT-TE	chrM	14622							0.0	0.0		0	69.0	MT-ND6	chrM	14622.0	MT-TE	chrM	14717.0					KIRP-A4-8312			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-641D5.1	Fusion	MECOM--RP11-641D5.1	chr3	169381124							0.0	0.0		0	14.0	MECOM	chr3	169381124.0	RP11-641D5.1	chr3	169201750.0					KIRP-A4-8312			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-154D6.1	Fusion	LINC00472--RP11-154D6.1	chr6	72126113							0.0	0.0		0	8.0	LINC00472	chr6	72126113.0	RP11-154D6.1	chr6	72020345.0					KIRP-A4-8312			0	0	0	0	0	0	0

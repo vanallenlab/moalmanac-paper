@@ -1,0 +1,13 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Cancer Pathway				Copy Number	IGLC2	Amplification		22	23242908	23249081						0.0	0.0		0												Osteosarcoma-SJDOSTEOS004	SJDOSTEOS004-1		0	0	0	0	1	0	0
+Cancer Pathway				Copy Number	IGLC3	Amplification		22	23242908	23249081						0.0	0.0		0												Osteosarcoma-SJDOSTEOS004	SJDOSTEOS004-1		0	0	0	0	1	0	0
+Cancer Module				Somatic Variant	HEBP1	Missense	p.A153V	12	13128354	13128354	G	G	A	0.0484	62.0	0.0	0.0		0												Osteosarcoma-SJDOSTEOS004	Osteosarcoma-SJDOSTEOS004-Tumor	Osteosarcoma-SJDOSTEOS004-Normal	0	0	0	0	0	1	2
+Cancer Module				Copy Number	PHIP	Deletion		6	79654765	79656202						0.0	0.0		0												Osteosarcoma-SJDOSTEOS004	SJDOSTEOS004-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	UGT2B17	Deletion		4	69403091	69417881						0.0	0.0		0												Osteosarcoma-SJDOSTEOS004	SJDOSTEOS004-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	IGLJ3	Amplification		22	23242908	23249081						0.0	0.0		0												Osteosarcoma-SJDOSTEOS004	SJDOSTEOS004-1		0	0	0	0	0	1	0
+Cosmic				Copy Number	ANKRD30A	Amplification		10	37455281	37463091						0.0	0.0		0												Osteosarcoma-SJDOSTEOS004	SJDOSTEOS004-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	CLCA4	Amplification		1	87012551	87046280						0.0	0.0		0												Osteosarcoma-SJDOSTEOS004	SJDOSTEOS004-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	LCE3D	Deletion		1	152538154	152552664						0.0	0.0		0												Osteosarcoma-SJDOSTEOS004	SJDOSTEOS004-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	LCE3E	Deletion		1	152538154	152552664						0.0	0.0		0												Osteosarcoma-SJDOSTEOS004	SJDOSTEOS004-1		0	0	0	0	0	0	1
+VUS				Copy Number	RP4-651E10.4	Amplification		1	87012551	87046280						0.0	0.0		0												Osteosarcoma-SJDOSTEOS004	SJDOSTEOS004-1		0	0	0	0	0	0	0
+VUS				Copy Number	IGLJ2	Amplification		22	23242908	23249081						0.0	0.0		0												Osteosarcoma-SJDOSTEOS004	SJDOSTEOS004-1		0	0	0	0	0	0	0

@@ -1,0 +1,71 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Putatively Actionable	Putatively Actionable			Rearrangement	ALK	Fusion	EML4--ALK	chr2	42472827							0.0	0.0		0	37.0	EML4	chr2	42472827.0	ALK	chr2	29446394.0					KIRP-2Z-A9JJ			4	1	0	1	0	0	1
+Putatively Actionable	Putatively Actionable			Rearrangement	EML4	Fusion	EML4--ALK	chr2	42472827							0.0	0.0		0	37.0	EML4	chr2	42472827.0	ALK	chr2	29446394.0					KIRP-2Z-A9JJ			4	0	0	1	0	1	1
+Cancer Hotspot 3D				Somatic Variant	ITPR2	Nonsense	p.Q674*	12	26810812	26810812.0	G	G	A	0.2947	95.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-2Z-A9JJ	KIRP-2Z-A9JJ-TP	KIRP-2Z-A9JJ-NB	0	0	1	0	0	1	1
+Cancer Hotspot 3D				Somatic Variant	CD300C	Missense	p.L195I	17	72537820	72537820.0	G	G	T	0.3514	37.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-2Z-A9JJ	KIRP-2Z-A9JJ-TP	KIRP-2Z-A9JJ-NB	0	0	1	0	0	1	1
+Cancer Gene Census				Copy Number	LIFR	Amplification		5	38412200	38806480.0						0.0	0.0		0												KIRP-2Z-A9JJ	TCGA-2Z-A9JJ-01		0	0	0	1	0	1	1
+Cancer Pathway				Rearrangement	GRIP1	Fusion	RP11-123O10.4--GRIP1	chr12	67462830							0.0	0.0		0	9.0	RP11-123O10.4	chr12	67462830.0	GRIP1	chr12	66990707.0					KIRP-2Z-A9JJ			0	0	0	0	1	0	1
+Cancer Pathway				Copy Number	SKP2	Amplification		5	36181585	36402794.0						0.0	0.0		0												KIRP-2Z-A9JJ	TCGA-2Z-A9JJ-01		0	0	0	0	1	0	1
+Cancer Pathway				Rearrangement	IGKV4-1	Fusion	IGKV4-1--IGKJ3	chr2	89185668							0.0	0.0		0	14.0	IGKV4-1	chr2	89185668.0	IGKJ3	chr2	89160770.0					KIRP-2Z-A9JJ			0	0	0	0	1	0	0
+Cancer Module				Somatic Variant	SPDEF	Missense	p.Q311R	6	34506127	34506127.0	T	T	C	0.1081	74.0	0.0	0.0		0								251.0	0.1952	0.9999		KIRP-2Z-A9JJ	KIRP-2Z-A9JJ-TP	KIRP-2Z-A9JJ-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	DST	Missense	p.K5773E	6	56382076	56382076.0	T	T	C	0.3438	32.0	0.0	0.0		0								56.0	0.4821	0.9997		KIRP-2Z-A9JJ	KIRP-2Z-A9JJ-TP	KIRP-2Z-A9JJ-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	DMD	Missense	p.L3014R	X	31462641	31462641.0	A	A	C	0.4904	104.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-2Z-A9JJ	KIRP-2Z-A9JJ-TP	KIRP-2Z-A9JJ-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	TRAF3IP3	Missense	p.E55D	1	209933549	209933549.0	G	G	T	0.0276	145.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-2Z-A9JJ	KIRP-2Z-A9JJ-TP	KIRP-2Z-A9JJ-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	CELSR3	Missense	p.G2136C	3	48687979	48687979.0	C	C	A	0.3308	133.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-2Z-A9JJ	KIRP-2Z-A9JJ-TP	KIRP-2Z-A9JJ-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	KIAA1432	Missense	p.A888E	9	5763690	5763690.0	C	C	A	0.0652	46.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-2Z-A9JJ	KIRP-2Z-A9JJ-TP	KIRP-2Z-A9JJ-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	TIMP1	Missense	p.F153C	X	47445924	47445924.0	T	T	G	0.4103	39.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-2Z-A9JJ	KIRP-2Z-A9JJ-TP	KIRP-2Z-A9JJ-NB	0	0	0	0	0	1	1
+Cancer Module				Rearrangement	HPR	Fusion	HPR--HP	chr16	72110275							0.0	0.0		0	195.0	HPR	chr16	72110275.0	HP	chr16	72093055.0					KIRP-2Z-A9JJ			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	LEPR	Fusion	LEPROT--LEPR	chr1	65891061							0.0	0.0		0	24.0	LEPROT	chr1	65891061.0	LEPR	chr1	66031229.0					KIRP-2Z-A9JJ			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	PFKFB3	Fusion	PFKFB3--RP11-563J2.2	chr10	6268328							0.0	0.0		0	13.0	PFKFB3	chr10	6268328.0	RP11-563J2.2	chr10	6368509.0					KIRP-2Z-A9JJ			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	MTMR12	Fusion	MTMR12--CARD6	chr5	32312864							0.0	0.0		0	12.0	MTMR12	chr5	32312864.0	CARD6	chr5	40852276.0					KIRP-2Z-A9JJ			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	DSCR4	Fusion	DSCR4--DSCR4-IT1	chr21	39492401							0.0	0.0		0	5.0	DSCR4	chr21	39492401.0	DSCR4-IT1	chr21	39379128.0					KIRP-2Z-A9JJ			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	HP	Fusion	HPR--HP	chr16	72110275							0.0	0.0		0	195.0	HPR	chr16	72110275.0	HP	chr16	72093055.0					KIRP-2Z-A9JJ			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	BEND5	Fusion	AGBL4--BEND5	chr1	49332863							0.0	0.0		0	8.0	AGBL4	chr1	49332863.0	BEND5	chr1	49224956.0					KIRP-2Z-A9JJ			0	0	0	0	0	1	1
+Cosmic				Somatic Variant	ALKBH8	Missense	p.R58Q	11	107427686	107427686.0	C	C	T	0.3361	119.0	1.6e-05	0.0		0								0.0	0.0	0.0		KIRP-2Z-A9JJ	KIRP-2Z-A9JJ-TP	KIRP-2Z-A9JJ-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	TUBB	Missense	p.A296G	6	30691726	30691726.0	C	C	G	0.3421	38.0	0.0	0.0		0								1187.0	0.3353	1.0		KIRP-2Z-A9JJ	KIRP-2Z-A9JJ-TP	KIRP-2Z-A9JJ-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	DNAH8	Missense	p.M2054T	6	38835956	38835956.0	T	T	C	0.1839	87.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-2Z-A9JJ	KIRP-2Z-A9JJ-TP	KIRP-2Z-A9JJ-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	ABCB5	Frameshift	p.EI733fs	7	20739491	20739492.0	-	-	T	0.2192	73.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-2Z-A9JJ	KIRP-2Z-A9JJ-TP	KIRP-2Z-A9JJ-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	PRDM15	Missense	p.Q899P	21	43230577	43230577.0	T	T	G	0.3429	35.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-2Z-A9JJ	KIRP-2Z-A9JJ-TP	KIRP-2Z-A9JJ-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	WIPI1	Missense	p.D59E	17	66447025	66447025.0	G	G	T	0.037000000000000005	81.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-2Z-A9JJ	KIRP-2Z-A9JJ-TP	KIRP-2Z-A9JJ-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	CELF3	Missense	p.A323T	1	151679166	151679166.0	C	C	T	0.4125	80.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-2Z-A9JJ	KIRP-2Z-A9JJ-TP	KIRP-2Z-A9JJ-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	GPR124	Missense	p.Y428H	8	37690712	37690712.0	T	T	C	0.3333	18.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-2Z-A9JJ	KIRP-2Z-A9JJ-TP	KIRP-2Z-A9JJ-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	VPS13A	Splice Site	p.K1858R	9	79936242	79936242.0	A	A	G	0.3265	196.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-2Z-A9JJ	KIRP-2Z-A9JJ-TP	KIRP-2Z-A9JJ-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	AP2A2	Missense	p.R385W	11	988573	988573.0	C	C	T	0.075	40.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-2Z-A9JJ	KIRP-2Z-A9JJ-TP	KIRP-2Z-A9JJ-NB	0	0	0	0	0	0	1
+Cosmic				Copy Number	OR8S1	Deletion		12	48909939	48911217.0						0.0	0.0		0												KIRP-2Z-A9JJ	TCGA-2Z-A9JJ-01		0	0	0	0	0	0	1
+Cosmic				Rearrangement	MLIP	Fusion	RP11-411K7.1--MLIP	chr6	53847648							0.0	0.0		0	26.0	RP11-411K7.1	chr6	53847648.0	MLIP	chr6	53986245.0					KIRP-2Z-A9JJ			0	0	0	0	0	0	1
+Cosmic				Copy Number	RANBP3L	Amplification		5	36181585	36402794.0						0.0	0.0		0												KIRP-2Z-A9JJ	TCGA-2Z-A9JJ-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	EGFLAM	Amplification		5	38412200	38806480.0						0.0	0.0		0												KIRP-2Z-A9JJ	TCGA-2Z-A9JJ-01		0	0	0	0	0	0	1
+Cosmic				Rearrangement	SHISA9	Fusion	SHISA9--U91319.1	chr16	13297406							0.0	0.0		0	27.0	SHISA9	chr16	13297406.0	U91319.1	chr16	13444037.0					KIRP-2Z-A9JJ			0	0	0	0	0	0	1
+Cosmic				Rearrangement	LEPROT	Fusion	LEPROT--LEPR	chr1	65891061							0.0	0.0		0	24.0	LEPROT	chr1	65891061.0	LEPR	chr1	66031229.0					KIRP-2Z-A9JJ			0	0	0	0	0	0	1
+Cosmic				Rearrangement	C1QTNF3	Fusion	C1QTNF3--CLPTM1L	chr5	34028859							0.0	0.0		0	14.0	C1QTNF3	chr5	34028859.0	CLPTM1L	chr5	1318568.0					KIRP-2Z-A9JJ			0	0	0	0	0	0	1
+Cosmic				Rearrangement	AGBL4	Fusion	AGBL4--BEND5	chr1	49332863							0.0	0.0		0	8.0	AGBL4	chr1	49332863.0	BEND5	chr1	49224956.0					KIRP-2Z-A9JJ			0	0	0	0	0	0	1
+Cosmic				Rearrangement	FAM65B	Fusion	RP11-367G6.3--FAM65B	chr6	25042079							0.0	0.0		0	36.0	RP11-367G6.3	chr6	25042079.0	FAM65B	chr6	24876045.0					KIRP-2Z-A9JJ			0	0	0	0	0	0	1
+Cosmic				Rearrangement	CLPTM1L	Fusion	RP11-1084J3.4--CLPTM1L	chr5	34028859							0.0	0.0		0	14.0	RP11-1084J3.4	chr5	34028859.0	CLPTM1L	chr5	1318568.0					KIRP-2Z-A9JJ			0	0	0	0	0	0	1
+Cosmic				Rearrangement	CARD6	Fusion	MTMR12--CARD6	chr5	32312864							0.0	0.0		0	12.0	MTMR12	chr5	32312864.0	CARD6	chr5	40852276.0					KIRP-2Z-A9JJ			0	0	0	0	0	0	1
+Cosmic				Rearrangement	CLPTM1L	Fusion	C1QTNF3--CLPTM1L	chr5	34028859							0.0	0.0		0	14.0	C1QTNF3	chr5	34028859.0	CLPTM1L	chr5	1318568.0					KIRP-2Z-A9JJ			0	0	0	0	0	0	1
+VUS				Copy Number	NADK2	Amplification		5	36181585	36402794.0						0.0	0.0		0												KIRP-2Z-A9JJ	TCGA-2Z-A9JJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	NADK2-AS1	Amplification		5	36181585	36402794.0						0.0	0.0		0												KIRP-2Z-A9JJ	TCGA-2Z-A9JJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2196P11.2	Amplification		5	38412200	38806480.0						0.0	0.0		0												KIRP-2Z-A9JJ	TCGA-2Z-A9JJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2263F21.1	Amplification		5	38412200	38806480.0						0.0	0.0		0												KIRP-2Z-A9JJ	TCGA-2Z-A9JJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	EGFLAM-AS1	Amplification		5	38412200	38806480.0						0.0	0.0		0												KIRP-2Z-A9JJ	TCGA-2Z-A9JJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	LIFR-AS1	Amplification		5	38412200	38806480.0						0.0	0.0		0												KIRP-2Z-A9JJ	TCGA-2Z-A9JJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3650	Amplification		5	38412200	38806480.0						0.0	0.0		0												KIRP-2Z-A9JJ	TCGA-2Z-A9JJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-122C5.1	Amplification		5	38412200	38806480.0						0.0	0.0		0												KIRP-2Z-A9JJ	TCGA-2Z-A9JJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-122C5.3	Amplification		5	38412200	38806480.0						0.0	0.0		0												KIRP-2Z-A9JJ	TCGA-2Z-A9JJ-01		0	0	0	0	0	0	0
+VUS				Copy Number		Deletion		18	73487233	73488289.0						0.0	0.0		0												KIRP-2Z-A9JJ	TCGA-2Z-A9JJ-01		0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-96H19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	11.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	46965039.0					KIRP-2Z-A9JJ			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-411K7.1	Fusion	RP11-411K7.1--MLIP	chr6	53847648							0.0	0.0		0	26.0	RP11-411K7.1	chr6	53847648.0	MLIP	chr6	53986245.0					KIRP-2Z-A9JJ			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-367G6.3	Fusion	RP11-367G6.3--FAM65B	chr6	25042079							0.0	0.0		0	36.0	RP11-367G6.3	chr6	25042079.0	FAM65B	chr6	24876045.0					KIRP-2Z-A9JJ			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-123O10.4	Fusion	RP11-123O10.4--GRIP1	chr12	67462830							0.0	0.0		0	9.0	RP11-123O10.4	chr12	67462830.0	GRIP1	chr12	66990707.0					KIRP-2Z-A9JJ			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-1084J3.4	Fusion	RP11-1084J3.4--CLPTM1L	chr5	34028859							0.0	0.0		0	14.0	RP11-1084J3.4	chr5	34028859.0	CLPTM1L	chr5	1318568.0					KIRP-2Z-A9JJ			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKV3-15	Fusion	IGKV3-15--IGKJ4	chr2	89384673							0.0	0.0		0	24.0	IGKV3-15	chr2	89384673.0	IGKJ4	chr2	89160434.0					KIRP-2Z-A9JJ			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKV2D-28	Fusion	IGKV2D-28--IGKJ2	chr2	89999557							0.0	0.0		0	19.0	IGKV2D-28	chr2	89999557.0	IGKJ2	chr2	89161074.0					KIRP-2Z-A9JJ			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKV2D-28	Fusion	IGKV2D-28--AC096579.13	chr2	89999557							0.0	0.0		0	19.0	IGKV2D-28	chr2	89999557.0	AC096579.13	chr2	89161074.0					KIRP-2Z-A9JJ			0	0	0	0	0	0	0
+VUS				Rearrangement	U91319.1	Fusion	SHISA9--U91319.1	chr16	13297406							0.0	0.0		0	27.0	SHISA9	chr16	13297406.0	U91319.1	chr16	13444037.0					KIRP-2Z-A9JJ			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-446N19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	11.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	46965039.0					KIRP-2Z-A9JJ			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-563J2.2	Fusion	PFKFB3--RP11-563J2.2	chr10	6268328							0.0	0.0		0	13.0	PFKFB3	chr10	6268328.0	RP11-563J2.2	chr10	6368509.0					KIRP-2Z-A9JJ			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKJ3	Fusion	IGKV4-1--IGKJ3	chr2	89185668							0.0	0.0		0	14.0	IGKV4-1	chr2	89185668.0	IGKJ3	chr2	89160770.0					KIRP-2Z-A9JJ			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKJ4	Fusion	IGKV3-15--IGKJ4	chr2	89384673							0.0	0.0		0	24.0	IGKV3-15	chr2	89384673.0	IGKJ4	chr2	89160434.0					KIRP-2Z-A9JJ			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKJ2	Fusion	IGKV2D-28--IGKJ2	chr2	89999557							0.0	0.0		0	19.0	IGKV2D-28	chr2	89999557.0	IGKJ2	chr2	89161074.0					KIRP-2Z-A9JJ			0	0	0	0	0	0	0
+VUS				Rearrangement	AC096579.13	Fusion	IGKV2D-28--AC096579.13	chr2	89999557							0.0	0.0		0	19.0	IGKV2D-28	chr2	89999557.0	AC096579.13	chr2	89161074.0					KIRP-2Z-A9JJ			0	0	0	0	0	0	0
+VUS				Rearrangement	DSCR4-IT1	Fusion	DSCR4--DSCR4-IT1	chr21	39492401							0.0	0.0		0	5.0	DSCR4	chr21	39492401.0	DSCR4-IT1	chr21	39379128.0					KIRP-2Z-A9JJ			0	0	0	0	0	0	0

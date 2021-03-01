@@ -1,0 +1,122 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Putatively Actionable	Putatively Actionable			Copy Number	CDKN2A	Deletion		9	21371370	22347407.0						0.0	0.0		0												KIRP-A4-A57E	TCGA-A4-A57E-01		4	1	0	1	1	1	1
+Investigate Actionability		Investigate Actionability	Investigate Actionability	Somatic Variant	TP53	Missense	p.S241C	17	7577559	7577559.0	G	G	C	0.7568	74.0	8e-06	0.0		0								33.0	0.9394	1.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	3	2	2	1	1	1	2
+Investigate Actionability	Investigate Actionability		Investigate Actionability	Somatic Variant	POLD1	Missense	p.F799Y	19	50918079	50918079.0	T	T	A	0.3676	68.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	3	0	0	1	1	1	2
+Biologically Relevant				Copy Number	PIK3CB	Amplification		3	137904492	138837696.0						0.0	0.0		0												KIRP-A4-A57E	TCGA-A4-A57E-01		1	1	0	1	1	1	1
+Cancer Hotspot				Somatic Variant	CUL3	Missense	p.R59S	2	225422463	225422463.0	T	T	G	0.6923	26.0	0.0	0.0		0								9.0	1.0	0.9417		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	1	0	1	0	0	2
+Cancer Hotspot				Copy Number	FOXL2	Amplification		3	137904492	138837696.0						0.0	0.0		0												KIRP-A4-A57E	TCGA-A4-A57E-01		0	1	0	1	0	0	1
+Cancer Hotspot				Somatic Variant	PAK7	Missense	p.V604F	20	9525075	9525075.0	C	C	A	0.3288	73.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	1	0	0	1	0	2
+Cancer Hotspot 3D				Somatic Variant	KIF1A	Frameshift	p.P1602fs	2	241658528	241658528.0	G	G	-	0.64	250.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	1	0	0	1	1
+Cancer Hotspot 3D				Somatic Variant	COL22A1	Missense	p.G880E	8	139707076	139707076.0	C	C	T	0.44	75.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	1	0	0	0	2
+Cancer Hotspot 3D				Somatic Variant	KCNH5	Missense	p.T268M	14	63447729	63447729.0	G	G	A	0.4595	74.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	1	0	0	0	2
+Cancer Gene Census				Somatic Variant	TPM4	Frameshift	p.G191fs	19	16199862	16199862.0	G	G	-	0.3611	72.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	1	0	1	1
+Cancer Gene Census				Somatic Variant	ARHGEF10L	Splice Site	p.G13*	1	17907127	17907127.0	G	G	T	0.3485	66.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	1	0	0	2
+Cancer Pathway				Copy Number	CDKN2B	Deletion		9	21371370	22347407.0						0.0	0.0		0												KIRP-A4-A57E	TCGA-A4-A57E-01		0	0	0	0	1	1	1
+Cancer Pathway				Somatic Variant	FGF19	Missense	p.E123K	11	69514314	69514314.0	C	C	T	0.046	87.0	8e-06	0.0		0								0.0	0.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	1	0	2
+Cancer Module				Somatic Variant	PRDX6	Missense	p.R106G	1	173454563	173454563.0	A	A	G	0.4268	82.0	0.0	0.0		0								951.0	0.5363	1.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SREBF2	Missense	p.H751N	22	42289163	42289163.0	C	C	A	0.4921	63.0	0.0	0.0		0								40.0	0.475	1.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	GTF3C1	Missense	p.V2034M	16	27473632	27473632.0	C	C	T	0.2609	69.0	3.5e-05	0.0		0								51.0	0.4118	0.998		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ADAMTS3	Missense	p.S1159N	4	73148995	73148995.0	C	C	T	0.3307	127.0	0.0	0.0		0								19.0	0.3684	0.9065		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ZNF770	Missense	p.N6Y	15	35275620	35275620.0	T	T	A	0.4038	52.0	0.0	0.0		0								10.0	0.6	0.6224		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SSH2	Missense	p.T1329A	17	27958146	27958146.0	T	T	C	0.2455	110.0	8e-06	0.0		0								15.0	0.4667	0.5314		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	DMXL1	Missense	p.I221F	5	118451949	118451949.0	A	A	T	0.25	76.0	0.0	0.0		0								5.0	0.8	0.0204		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SNTG2	Missense	p.N275Y	2	1241763	1241763.0	A	A	T	0.6389	36.0	0.0	0.0		0								2.0	1.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	EXPH5	Missense	p.G470R	11	108384826	108384826.0	C	C	T	0.2581	93.0	1.6e-05	0.0		0								0.0	0.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	PIK3C2G	Missense	p.E123K	12	18435382	18435382.0	G	G	A	0.1471	34.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	DNAH3	Missense	p.P106L	16	21156633	21156633.0	G	G	A	0.2663	338.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ADAMTS2	Missense	p.P555L	5	178567002	178567002.0	G	G	A	0.2961	152.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	FOXD2	Missense	p.G473R	1	47905224	47905224.0	G	G	A	0.5862	29.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SIPA1L2	Missense	p.R933S	1	232600607	232600607.0	C	C	G	0.3973	73.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	RAPH1	Missense	p.G1039R	2	204304798	204304798.0	C	C	G	0.3043	69.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	KRT86	Missense	p.K396R	12	52700004	52700004.0	A	A	G	0.304	125.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	CYP27B1	Missense	p.A357V	12	58158227	58158227.0	G	G	A	0.433	97.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	RYR1	Missense	p.M3652L	19	39019255	39019255.0	A	A	T	0.375	176.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	MED14	Missense	p.E113G	X	40586008	40586008.0	T	T	C	0.0588	51.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	CCDC132	Missense	p.Y651F	7	92953019	92953019.0	A	A	T	0.25	24.0	0.0	0.0		0								23.0	0.3043	0.8203		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	PRUNE	Frameshift	p.A307fs	1	151001408	151001408.0	A	A	-	0.3737	99.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	ALDOC	Missense	p.R230H	17	26901111	26901111.0	C	C	T	0.5596	193.0	0.000297	0.0		0								0.0	0.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	1	1
+Cancer Module				Copy Number	FAIM	Amplification		3	137904492	138837696.0						0.0	0.0		0												KIRP-A4-A57E	TCGA-A4-A57E-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ARMC8	Amplification		3	137904492	138837696.0						0.0	0.0		0												KIRP-A4-A57E	TCGA-A4-A57E-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC6A6	Deletion		3	14498753	14500744.0						0.0	0.0		0												KIRP-A4-A57E	TCGA-A4-A57E-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	C9orf53	Deletion		9	21371370	22347407.0						0.0	0.0		0												KIRP-A4-A57E	TCGA-A4-A57E-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	BPESC1	Amplification		3	137904492	138837696.0						0.0	0.0		0												KIRP-A4-A57E	TCGA-A4-A57E-01		0	0	0	0	0	1	0
+Cosmic				Somatic Variant	SLC35F5	Missense	p.V351G	2	114487016	114487016.0	A	A	C	0.6634	101.0	0.0	0.0		0								75.0	0.6133	1.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	DCAF13	Missense	p.K208T	8	104432588	104432588.0	A	A	C	0.3714	105.0	0.0	0.0		0								61.0	0.5738	1.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	FAM168B	Missense	p.P128L	2	131812937	131812937.0	G	G	A	0.64	200.0	0.0	0.0		0								48.0	0.6458	1.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ABT1	Nonsense	p.K40*	6	26597328	26597328.0	A	A	T	0.4069	145.0	0.0	0.0		0								39.0	0.2821	1.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	CEP104	Missense	p.A577V	1	3747716	3747716.0	G	G	A	0.6909	110.0	0.0	0.0		0								14.0	0.8571	0.9992		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	BRI3BP	Missense	p.W159L	12	125509696	125509696.0	G	G	T	0.4627	67.0	0.0	0.0		0								15.0	0.4667	0.9516		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	MUC17	Missense	p.E704G	7	100676808	100676808.0	A	A	G	0.235	200.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	PRAMEF12	Nonsense	p.R131*	1	12835789	12835789.0	C	C	T	0.3966	116.0	3.3e-05	0.0		0								0.0	0.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	SAMD9L	Missense	p.Y413N	7	92764048	92764048.0	A	A	T	0.2609	23.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	MEOX2	Missense	p.P54R	7	15725867	15725867.0	G	G	C	0.2424	132.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	KCNT1	Missense	p.P237A	9	138649177	138649177.0	C	C	G	0.3478	46.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ABCG4	Missense	p.M267I	11	119027153	119027153.0	G	G	T	0.5486	175.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	PKP2	Missense	p.R101C	12	33031889	33031889.0	G	G	A	0.0769	52.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	SRGAP1	Missense	p.E595Q	12	64491125	64491125.0	G	G	C	0.3333	36.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	AP1G1	Missense	p.D627A	16	71779166	71779166.0	T	T	G	0.6582	79.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	KIAA1755	Missense	p.E408D	20	36869309	36869309.0	C	C	A	0.4524	42.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	MUC2	Missense	p.T1925M	11	1094686	1094686.0	C	C	T	0.3723	137.0	5.7999999999999994e-05	0.0		0								0.0	0.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	PCDH12	Frameshift	p.F850fs	5	141334867	141334868.0	-	-	A	0.6	135.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	COL21A1	Frameshift	p.C797fs	6	55925556	55925557.0	-	-	A	0.359	39.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	TOP1MT	Missense	p.H410Q	8	144397926	144397926.0	G	G	C	0.45	60.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	MRGPRX3	Frameshift	p.R281fs	11	18159591	18159591.0	G	G	-	0.4	40.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	RIN3	Frameshift	p.P187fs	14	93117951	93117952.0	-	-	T	0.6	35.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	SGK2	Missense	p.F138L	20	42199308	42199308.0	T	T	C	0.2041	49.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	DNAH10	Missense	p.G1937S	12	124335495	124335495.0	G	G	A	0.5714	70.0	1.6e-05	0.0		0								0.0	0.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	C1orf51	Deletion	p.MDRIQR158del	1	150256865	150256882.0	ATGGACAGGATCCAGCGT	ATGGACAGGATCCAGCGT	-	0.1494	174.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	ARAP3	Missense	p.Q1160E	5	141035313	141035313.0	G	G	C	0.2917	168.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	ANKRD18A	Frameshift	p.S636fs	9	38593854	38593855.0	-	-	AAAA	0.2612	134.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	SAMD14	Frameshift	p.Q310fs	17	48191564	48191565.0	TG	TG	-	0.2513	195.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	TSHZ3	Missense	p.G546S	19	31769063	31769063.0	C	C	T	0.4429	140.0	8e-06	0.0		0								0.0	0.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	0	1
+Cosmic				Copy Number	CEP70	Amplification		3	137904492	138837696.0						0.0	0.0		0												KIRP-A4-A57E	TCGA-A4-A57E-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SPAG16	Amplification		2	214000569	214360044.0						0.0	0.0		0												KIRP-A4-A57E	TCGA-A4-A57E-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DNAH2	Deletion		17	7690713	7691110.0						0.0	0.0		0												KIRP-A4-A57E	TCGA-A4-A57E-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MTAP	Deletion		9	21371370	22347407.0						0.0	0.0		0												KIRP-A4-A57E	TCGA-A4-A57E-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRR23C	Amplification		3	137904492	138837696.0						0.0	0.0		0												KIRP-A4-A57E	TCGA-A4-A57E-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NME9	Amplification		3	137904492	138837696.0						0.0	0.0		0												KIRP-A4-A57E	TCGA-A4-A57E-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRR23A	Amplification		3	137904492	138837696.0						0.0	0.0		0												KIRP-A4-A57E	TCGA-A4-A57E-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRR23B	Amplification		3	137904492	138837696.0						0.0	0.0		0												KIRP-A4-A57E	TCGA-A4-A57E-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ESYT3	Amplification		3	137904492	138837696.0						0.0	0.0		0												KIRP-A4-A57E	TCGA-A4-A57E-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MRPS22	Amplification		3	137904492	138837696.0						0.0	0.0		0												KIRP-A4-A57E	TCGA-A4-A57E-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MRAS	Amplification		3	137904492	138837696.0						0.0	0.0		0												KIRP-A4-A57E	TCGA-A4-A57E-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C3orf72	Amplification		3	137904492	138837696.0						0.0	0.0		0												KIRP-A4-A57E	TCGA-A4-A57E-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	IKZF2	Amplification		2	214000569	214360044.0						0.0	0.0		0												KIRP-A4-A57E	TCGA-A4-A57E-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	IFNA1	Deletion		9	21371370	22347407.0						0.0	0.0		0												KIRP-A4-A57E	TCGA-A4-A57E-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	IFNA2	Deletion		9	21371370	22347407.0						0.0	0.0		0												KIRP-A4-A57E	TCGA-A4-A57E-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	IFNA8	Deletion		9	21371370	22347407.0						0.0	0.0		0												KIRP-A4-A57E	TCGA-A4-A57E-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	IFNE	Deletion		9	21371370	22347407.0						0.0	0.0		0												KIRP-A4-A57E	TCGA-A4-A57E-01		0	0	0	0	0	0	1
+Cosmic				Rearrangement	SHISA9	Fusion	SHISA9--U91319.1	chr16	13297406							0.0	0.0		0	5.0	SHISA9	chr16	13297406.0	U91319.1	chr16	13444037.0					KIRP-A4-A57E			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND6	Fusion	MT-ND6--MT-ND5	chrM	14170							0.0	0.0		0	113.0	MT-ND6	chrM	14170.0	MT-ND5	chrM	14089.0					KIRP-A4-A57E			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND5	Fusion	MT-ND5--MT-CO2	chrM	13673							0.0	0.0		0	17.0	MT-ND5	chrM	13673.0	MT-CO2	chrM	7734.0					KIRP-A4-A57E			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND2	Fusion	MT-ND2--MT-RNR2	chrM	5359							0.0	0.0		0	62.0	MT-ND2	chrM	5359.0	MT-RNR2	chrM	1690.0					KIRP-A4-A57E			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4	Fusion	MTATP6P1--MT-ND4	chr1	569188							0.0	0.0		0	5.0	MTATP6P1	chr1	569188.0	MT-ND4	chrM	10897.0					KIRP-A4-A57E			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND5	Fusion	MT-ND6--MT-ND5	chrM	14170							0.0	0.0		0	113.0	MT-ND6	chrM	14170.0	MT-ND5	chrM	14089.0					KIRP-A4-A57E			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CO2	Fusion	MT-ND5--MT-CO2	chrM	13673							0.0	0.0		0	17.0	MT-ND5	chrM	13673.0	MT-CO2	chrM	7734.0					KIRP-A4-A57E			0	0	0	0	0	0	1
+Cosmic				Rearrangement	ARL17B	Fusion	KANSL1--ARL17B	chr17	44171926							0.0	0.0		0	5.0	KANSL1	chr17	44171926.0	ARL17B	chr17	44430296.0					KIRP-A4-A57E			0	0	0	0	0	0	1
+VUS				Somatic Variant	FAM221A	Missense	p.P115R	7	23728992	23728992.0	C	C	G	0.2442	86.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	0	0
+VUS				Somatic Variant	TANGO6	Missense	p.G579V	16	68941414	68941414.0	G	G	T	0.2925	106.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A57E	KIRP-A4-A57E-TP	KIRP-A4-A57E-NB	0	0	0	0	0	0	0
+VUS				Rearrangement	KANSL1	Fusion	KANSL1--ARL17B	chr17	44171926							0.0	0.0		0	5.0	KANSL1	chr17	44171926.0	ARL17B	chr17	44430296.0					KIRP-A4-A57E			0	0	0	0	0	0	0
+VUS				Copy Number	RP11-145E5.5	Deletion		9	21371370	22347407.0						0.0	0.0		0												KIRP-A4-A57E	TCGA-A4-A57E-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-548O1.3	Amplification		3	137904492	138837696.0						0.0	0.0		0												KIRP-A4-A57E	TCGA-A4-A57E-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-105N14.1	Amplification		2	214000569	214360044.0						0.0	0.0		0												KIRP-A4-A57E	TCGA-A4-A57E-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-105N14.2	Amplification		2	214000569	214360044.0						0.0	0.0		0												KIRP-A4-A57E	TCGA-A4-A57E-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-105N14.3	Amplification		2	214000569	214360044.0						0.0	0.0		0												KIRP-A4-A57E	TCGA-A4-A57E-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC079610.2	Amplification		2	214000569	214360044.0						0.0	0.0		0												KIRP-A4-A57E	TCGA-A4-A57E-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4438	Amplification		2	214362583	215168395.0						0.0	0.0		0												KIRP-A4-A57E	TCGA-A4-A57E-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-70L8.4	Deletion		9	21371370	22347407.0						0.0	0.0		0												KIRP-A4-A57E	TCGA-A4-A57E-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-408N14.1	Deletion		9	21371370	22347407.0						0.0	0.0		0												KIRP-A4-A57E	TCGA-A4-A57E-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-354P17.15	Deletion		9	21371370	22347407.0						0.0	0.0		0												KIRP-A4-A57E	TCGA-A4-A57E-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-149I2.4	Deletion		9	21371370	22347407.0						0.0	0.0		0												KIRP-A4-A57E	TCGA-A4-A57E-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR31HG	Deletion		9	21371370	22347407.0						0.0	0.0		0												KIRP-A4-A57E	TCGA-A4-A57E-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL359922.1	Deletion		9	21371370	22347407.0						0.0	0.0		0												KIRP-A4-A57E	TCGA-A4-A57E-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL151P	Deletion		9	21371370	22347407.0						0.0	0.0		0												KIRP-A4-A57E	TCGA-A4-A57E-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR31	Deletion		9	21371370	22347407.0						0.0	0.0		0												KIRP-A4-A57E	TCGA-A4-A57E-01		0	0	0	0	0	0	0
+VUS				Copy Number	CDKN2B-AS1	Deletion		9	21371370	22347407.0						0.0	0.0		0												KIRP-A4-A57E	TCGA-A4-A57E-01		0	0	0	0	0	0	0
+VUS				Rearrangement	SMC5-AS1	Fusion	SMC5-AS1--MAMDC2-AS1	chr9	72831202							0.0	0.0		0	11.0	SMC5-AS1	chr9	72831202.0	MAMDC2-AS1	chr9	72728776.0					KIRP-A4-A57E			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-96H19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	18.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	47046173.0					KIRP-A4-A57E			0	0	0	0	0	0	0
+VUS				Rearrangement	MTATP6P1	Fusion	MTATP6P1--MT-ND4	chr1	569188							0.0	0.0		0	5.0	MTATP6P1	chr1	569188.0	MT-ND4	chrM	10897.0					KIRP-A4-A57E			0	0	0	0	0	0	0
+VUS				Rearrangement	MAMDC2-AS1	Fusion	SMC5-AS1--MAMDC2-AS1	chr9	72831202							0.0	0.0		0	11.0	SMC5-AS1	chr9	72831202.0	MAMDC2-AS1	chr9	72728776.0					KIRP-A4-A57E			0	0	0	0	0	0	0
+VUS				Rearrangement	U91319.1	Fusion	SHISA9--U91319.1	chr16	13297406							0.0	0.0		0	5.0	SHISA9	chr16	13297406.0	U91319.1	chr16	13444037.0					KIRP-A4-A57E			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-446N19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	18.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	47046173.0					KIRP-A4-A57E			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-RNR2	Fusion	MT-ND2--MT-RNR2	chrM	5359							0.0	0.0		0	62.0	MT-ND2	chrM	5359.0	MT-RNR2	chrM	1690.0					KIRP-A4-A57E			0	0	0	0	0	0	0

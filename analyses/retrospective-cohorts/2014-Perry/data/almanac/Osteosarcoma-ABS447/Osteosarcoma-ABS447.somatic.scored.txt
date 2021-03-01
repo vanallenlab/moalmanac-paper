@@ -1,0 +1,845 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Putatively Actionable			Putatively Actionable	Copy Number	RB1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		4	1	1	1	1	1	1
+Putatively Actionable	Putatively Actionable			Copy Number	BRCA2	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		4	1	0	1	1	1	1
+Putatively Actionable			Putatively Actionable	Copy Number	MYC	Amplification		8	128750242	131070574.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		4	1	0	1	1	1	1
+Putatively Actionable	Putatively Actionable			Copy Number	CDKN2A	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		4	1	0	1	1	1	1
+Biologically Relevant				Rearrangement	TP53	Fusion	TP53--FAM124A	chr17	7590695							0.0	0.0		0	15.0	TP53	chr17	7590695.0	FAM124A	chr13	51805484.0					Osteosarcoma-ABS447			1	1	1	1	1	1	1
+Biologically Relevant				Copy Number	FLT3	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		1	1	0	1	1	1	1
+Biologically Relevant				Copy Number	ESRP1	Amplification		8	95142602	96281669.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		1	0	0	0	0	1	1
+Cancer Hotspot				Copy Number	FOXO1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	1	0	1	1	1	1
+Cancer Hotspot				Copy Number	FOXP1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	1	0	1	0	1	1
+Cancer Hotspot				Copy Number	PPP4R2	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	1	0	0	0	1	1
+Cancer Hotspot 3D				Copy Number	FGF9	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	1	0	1	1	1
+Cancer Hotspot 3D				Copy Number	CPB2	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	FLT1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	CDK8	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	COL22A1	Amplification		8	139379898	141525598.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	1	0	0	0	1
+Cancer Gene Census				Copy Number	MITF	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	1	1	1	1
+Cancer Gene Census				Copy Number	FHIT	Deletion		3	59737700	62751911.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	1	1	1	1
+Cancer Gene Census				Copy Number	FCGR2B	Deletion		1	161559102	161599991.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	1	1	1	0
+Cancer Gene Census				Somatic Variant	CD209	Missense	p.L38V	19	7811412	7811412.0	G	G	C	0.0448	134.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-ABS447	Osteosarcoma-ABS447-Tumor-SM-2RCAO	Osteosarcoma-ABS447-Normal-SM-2RCC4	0	0	0	1	0	1	2
+Cancer Gene Census				Copy Number	CDH17	Amplification		8	95142602	96281669.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	FAM135B	Amplification		8	135577326	139323415.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	LCP1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	CDX2	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	MLLT3	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	CNTNAP2	Deletion		7	146536551	147336650.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	ROBO2	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	1	0	0	1
+Cancer Gene Census				Copy Number	NDRG1	Amplification		8	133184593	135525094.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	1	0	0	1
+Cancer Gene Census				Copy Number	PSIP1	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	1	0	0	1
+Cancer Gene Census				Copy Number	NBEA	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	1	0	0	1
+Cancer Gene Census				Copy Number	LHFP	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	1	0	0	1
+Cancer Pathway				Copy Number	CCNE2	Amplification		8	95142602	96281669.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	RAD54B	Amplification		8	95142602	96281669.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	CDKN2B	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	PSMD6	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	CCNA1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	RFC3	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	FCGR3A	Deletion		1	161559102	161599991.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	PTK2	Amplification		8	141541891	141749458.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	1	0	1
+Cancer Pathway				Rearrangement	IGKV4-1	Fusion	IGKV4-1--IGKJ2	chr2	89185668							0.0	0.0		0	7.0	IGKV4-1	chr2	89185668.0	IGKJ2	chr2	89161074.0					Osteosarcoma-ABS447			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGKV4-1	Fusion	IGKV4-1--AC096579.13	chr2	89185668							0.0	0.0		0	7.0	IGKV4-1	chr2	89185668.0	AC096579.13	chr2	89161074.0					Osteosarcoma-ABS447			0	0	0	0	1	0	0
+Cancer Module				Somatic Variant	MYCBP2	Missense	p.N2811S	13	77672743	77672743.0	T	T	C	0.62	200.0	0.0	0.0		0								97.0	0.6392	1.0		Osteosarcoma-ABS447	Osteosarcoma-ABS447-Tumor-SM-2RCAO	Osteosarcoma-ABS447-Normal-SM-2RCC4	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	KIAA0196	Missense	p.E542Q	8	126071682	126071682.0	C	C	G	0.1288	132.0	0.0	0.0		0								143.0	0.0769	0.9997		Osteosarcoma-ABS447	Osteosarcoma-ABS447-Tumor-SM-2RCAO	Osteosarcoma-ABS447-Normal-SM-2RCC4	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	MYBBP1A	Missense	p.R411W	17	4453441	4453441.0	G	G	A	0.0682	44.0	8e-06	0.0		0								0.0	0.0	0.0		Osteosarcoma-ABS447	Osteosarcoma-ABS447-Tumor-SM-2RCAO	Osteosarcoma-ABS447-Normal-SM-2RCC4	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	UGT2B10	Missense	p.R527G	4	69696589	69696589.0	A	A	G	0.0429	70.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-ABS447	Osteosarcoma-ABS447-Tumor-SM-2RCAO	Osteosarcoma-ABS447-Normal-SM-2RCC4	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	C4BPA	Missense	p.V86I	1	207287558	207287558.0	G	G	A	0.1268	71.0	8e-06	0.0		0								0.0	0.0	0.0		Osteosarcoma-ABS447	Osteosarcoma-ABS447-Tumor-SM-2RCAO	Osteosarcoma-ABS447-Normal-SM-2RCC4	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	RPL3L	Missense	p.K69N	16	2003033	2003033.0	T	T	A	0.14	50.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-ABS447	Osteosarcoma-ABS447-Tumor-SM-2RCAO	Osteosarcoma-ABS447-Normal-SM-2RCC4	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	CSE1L	Missense	p.H198Y	20	47685276	47685276.0	C	C	T	0.0379	132.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-ABS447	Osteosarcoma-ABS447-Tumor-SM-2RCAO	Osteosarcoma-ABS447-Normal-SM-2RCC4	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	NRG2	Missense	p.T246M	5	139267060	139267060.0	G	G	A	0.1071	56.0	3.3e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-ABS447	Osteosarcoma-ABS447-Tumor-SM-2RCAO	Osteosarcoma-ABS447-Normal-SM-2RCC4	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	MYBPC1	Missense	p.T796A	12	102061560	102061560.0	A	A	G	0.1905	63.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-ABS447	Osteosarcoma-ABS447-Tumor-SM-2RCAO	Osteosarcoma-ABS447-Normal-SM-2RCC4	0	0	0	0	0	1	1
+Cancer Module				Copy Number	PARP4	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TG	Amplification		8	133184593	135525094.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	USPL1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MTMR6	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CHL1	Deletion		3	367390	1444422.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ADAMTSL1	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ATXN7	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FRMD4B	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GBE1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	IFT88	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC45A4	Amplification		8	141753077	142238617.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LRRC6	Amplification		8	133184593	135525094.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TEK	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PDZRN3	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RYBP	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MAGI1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SUCLA2	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TSC22D1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZMYM5	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CENPJ	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NUPL1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MRPS31	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DHRS4	Deletion		14	24434719	24435342.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KHDRBS3	Amplification		8	135577326	139323415.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DENND3	Amplification		8	141753077	142238617.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	INTS8	Amplification		8	95142602	96281669.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TP53INP1	Amplification		8	95142602	96281669.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GEM	Amplification		8	95142602	96281669.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PLEKHF2	Amplification		8	95142602	96281669.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ADCY8	Amplification		8	131792384	132052831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PHF20L1	Amplification		8	133184593	135525094.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ST3GAL1	Amplification		8	133184593	135525094.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLA	Amplification		8	133184593	135525094.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KCNQ3	Amplification		8	133184593	135525094.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ARGLU1	Amplification		13	107164625	107220519.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EFNB2	Amplification		13	107164625	107220519.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZHX2	Amplification		8	121170117	124096832.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HAS2	Amplification		8	121170117	124096832.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MTBP	Amplification		8	121170117	124096832.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MRPL13	Amplification		8	121170117	124096832.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LRRC19	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PLIN2	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	IFNA5	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RPS6	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	IFNA4	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ELAVL2	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RRAGA	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	C9orf53	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SH3GL2	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HAUS6	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	IFNA21	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	IFNA13	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	THOC7	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CNTN3	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ROBO1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KBTBD8	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ARL6IP5	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TMF1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SPG20	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TPT1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RPL21	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TNFSF11	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	WASF3	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC25A15	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	WBP4	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	XPO4	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SOHLH2	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	UBL3	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	UFM1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SGCG	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HMGB1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GTF3A	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GTF2F2	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GJB2	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HTR2A	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EXOSC8	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ENOX1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HSPH1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KIAA0226L	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KATNAL1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DCLK1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CRYL1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ATP8A2	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ATP12A	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ALOX5AP	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	POSTN	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PABPC3	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NUDT15	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NAA16	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	N4BP2L1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MRP63	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MED4	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LSP1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TM4SF5	Deletion		17	4686371	4689899.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FCGR3B	Deletion		1	161559102	161599991.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CADPS	Deletion		3	59737700	62751911.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	C3orf14	Deletion		3	59737700	62751911.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PTPRG	Deletion		3	59737700	62751911.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CNTN6	Deletion		3	367390	1444422.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	TEF	Fusion	TEF--RP11-325K19.2	chr22	41790320							0.0	0.0		0	9.0	TEF	chr22	41790320.0	RP11-325K19.2	chr18	58321663.0					Osteosarcoma-ABS447			0	0	0	0	0	1	1
+Cosmic				Somatic Variant	CPXM2	Missense	p.D468A	10	125526565	125526565.0	T	T	G	0.2424	99.0	0.0	0.0		0								163.0	0.6258	1.0		Osteosarcoma-ABS447	Osteosarcoma-ABS447-Tumor-SM-2RCAO	Osteosarcoma-ABS447-Normal-SM-2RCC4	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	KIAA1755	Missense	p.P527A	20	36868098	36868098.0	G	G	C	0.1132	53.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-ABS447	Osteosarcoma-ABS447-Tumor-SM-2RCAO	Osteosarcoma-ABS447-Normal-SM-2RCC4	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	KIF9	Missense	p.A484V	3	47286344	47286344.0	G	G	A	0.0349	86.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-ABS447	Osteosarcoma-ABS447-Tumor-SM-2RCAO	Osteosarcoma-ABS447-Normal-SM-2RCC4	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	AP1B1	Missense	p.G638A	22	29736730	29736730.0	C	C	G	0.1429	14.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-ABS447	Osteosarcoma-ABS447-Tumor-SM-2RCAO	Osteosarcoma-ABS447-Normal-SM-2RCC4	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	CEACAM8	Missense	p.R77H	19	43097887	43097887.0	C	C	T	0.0295	237.0	8e-06	0.0		0								0.0	0.0	0.0		Osteosarcoma-ABS447	Osteosarcoma-ABS447-Tumor-SM-2RCAO	Osteosarcoma-ABS447-Normal-SM-2RCC4	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ZNF514	Missense	p.F365C	2	95815136	95815136.0	A	A	C	0.2237	76.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-ABS447	Osteosarcoma-ABS447-Tumor-SM-2RCAO	Osteosarcoma-ABS447-Normal-SM-2RCC4	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	TRPV6	Missense	p.V235M	7	142574220	142574220.0	C	C	T	0.1642	67.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-ABS447	Osteosarcoma-ABS447-Tumor-SM-2RCAO	Osteosarcoma-ABS447-Normal-SM-2RCC4	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	RNF169	Missense	p.G706R	11	74547764	74547764.0	G	G	A	0.0411	73.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-ABS447	Osteosarcoma-ABS447-Tumor-SM-2RCAO	Osteosarcoma-ABS447-Normal-SM-2RCC4	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	IGF2BP1	Missense	p.R199W	17	47115723	47115723.0	C	C	T	0.2727	22.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-ABS447	Osteosarcoma-ABS447-Tumor-SM-2RCAO	Osteosarcoma-ABS447-Normal-SM-2RCC4	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	IQSEC3	Missense	p.R869H	12	272682	272682.0	G	G	A	0.2056	107.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-ABS447	Osteosarcoma-ABS447-Tumor-SM-2RCAO	Osteosarcoma-ABS447-Normal-SM-2RCC4	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	RTN4	Missense	p.L550V	2	55253587	55253587.0	G	G	C	0.1009	109.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-ABS447	Osteosarcoma-ABS447-Tumor-SM-2RCAO	Osteosarcoma-ABS447-Normal-SM-2RCC4	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	TSHZ3	Missense	p.R258C	19	31769927	31769927.0	G	G	A	0.0389	283.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-ABS447	Osteosarcoma-ABS447-Tumor-SM-2RCAO	Osteosarcoma-ABS447-Normal-SM-2RCC4	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	MON2	Missense	p.R987W	12	62946772	62946772.0	C	C	T	0.027000000000000003	148.0	4.9e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-ABS447	Osteosarcoma-ABS447-Tumor-SM-2RCAO	Osteosarcoma-ABS447-Normal-SM-2RCC4	0	0	0	0	0	0	1
+Cosmic				Copy Number	FREM2	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GLTPD2	Deletion		17	4686371	4689899.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	EBLN2	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LATS2	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	N4BP2L2	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GSDMC	Amplification		8	128750242	131070574.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CNTLN	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM154A	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRIG1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SKA3	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ELF1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CSNK1A1L	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	COG6	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	COG3	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	B3GALTL	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MTUS2	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RNF17	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZFAT	Amplification		8	135577326	139323415.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NDUFAF6	Amplification		8	95142602	96281669.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CHRAC1	Amplification		8	139379898	141525598.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	COL14A1	Amplification		8	121170117	124096832.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IFNK	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IFT74	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TTC39B	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TUSC1	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PTPLAD2	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SNAPC3	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SHQ1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	STARD13	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZC3H13	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GJA3	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DNAJC15	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C1QTNF9	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PSPC1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MTIF3	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NUFIP1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRCH1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LNX2	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MPHOSPH8	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MIPEP	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	VMO1	Deletion		17	4686371	4689899.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	CHSY3	Fusion	CHSY3--HSPA8P4	chr5	129244053							0.0	0.0		0	7.0	CHSY3	chr5	129244053.0	HSPA8P4	chr5	129476585.0					Osteosarcoma-ABS447			0	0	0	0	0	0	1
+Cosmic				Copy Number	DPY19L4	Amplification		8	95142602	96281669.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C8orf37	Amplification		8	95142602	96281669.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FSBP	Amplification		8	95142602	96281669.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KIAA1429	Amplification		8	95142602	96281669.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TRAPPC9	Amplification		8	139379898	141525598.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KCNK9	Amplification		8	139379898	141525598.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	WISP1	Amplification		8	133184593	135525094.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM71	Amplification		8	133184593	135525094.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM49B	Amplification		8	128750242	131070574.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ASAP1	Amplification		8	128750242	131070574.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM75	Amplification		8	128750242	131070574.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SNTB1	Amplification		8	121170117	124096832.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DERL1	Amplification		8	121170117	124096832.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LINGO2	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KLHL9	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IFNA8	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IFNB1	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IFNE	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IFNW1	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IZUMO3	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PLAA	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IFNA6	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MTAP	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ACER2	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IFNA7	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	BNC2	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC24A2	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C9orf92	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C9orf72	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DMRTA1	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DENND4C	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IFNA17	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IFNA2	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IFNA16	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IFNA10	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IFNA1	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IFNA14	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRICKLE2	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	EOGT	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	EIF4E3	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PROK2	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SYNPR	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C3orf49	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF717	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SNTN	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ADAMTS9	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC25A26	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FRG2C	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GXYLT2	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LMOD3	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SUCLG2	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GPR27	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	UBA3	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM19A1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM19A4	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SACS	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SAP18	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SPERT	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TNFRSF19	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZDHHC20	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RXFP2	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SUGT1P3	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TRPC4	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	STOML3	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SPATA13	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC25A30	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SMIM2	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SMAD9	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC7A1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC46A3	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZAR1L	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SERP2	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	USP12	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZMYM2	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SIAH3	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SHISA2	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GSX1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GPR12	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GJB6	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FRY	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM194B	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ESD	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	EPSTI1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KL	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KCTD4	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KBTBD7	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KBTBD6	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ITM2B	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IL17D	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DGKH	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	AKAP11	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ALG5	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCDC169	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCDC122	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C1QTNF9B	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ATP5EP2	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RFXAP	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RASL11A	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	POMP	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	POLR1D	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PDX1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PDS5B	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PAN3	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NHLRC3	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MTRF1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RNF6	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	N6AMT2	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRRC63	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LINC00544	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MAB21L1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RDH16	Deletion		12	57345561	57351498.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FCGR2C	Deletion		1	161559102	161599991.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FEZF2	Deletion		3	59737700	62751911.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	TNRC6B	Fusion	TNRC6B--CCDC178	chr22	40441002							0.0	0.0		0	11.0	TNRC6B	chr22	40441002.0	CCDC178	chr18	30950153.0					Osteosarcoma-ABS447			0	0	0	0	0	0	1
+Cosmic				Rearrangement	RNF2	Fusion	RNF2--PDC	chr1	185014781							0.0	0.0		0	17.0	RNF2	chr1	185014781.0	PDC	chr1	186418615.0					Osteosarcoma-ABS447			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND6	Fusion	MT-ND6--MT-TE	chrM	14484							0.0	0.0		0	11.0	MT-ND6	chrM	14484.0	MT-TE	chrM	14696.0					Osteosarcoma-ABS447			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CO3	Fusion	MT-CO3--MT-ATP6	chrM	9609							0.0	0.0		0	7.0	MT-CO3	chrM	9609.0	MT-ATP6	chrM	9206.0					Osteosarcoma-ABS447			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-ATP6--MT-ATP8	chrM	8638							0.0	0.0		0	16.0	MT-ATP6	chrM	8638.0	MT-ATP8	chrM	8480.0					Osteosarcoma-ABS447			0	0	0	0	0	0	1
+Cosmic				Rearrangement	FAM124A	Fusion	TP53--FAM124A	chr17	7590695							0.0	0.0		0	15.0	TP53	chr17	7590695.0	FAM124A	chr13	51805484.0					Osteosarcoma-ABS447			0	0	0	0	0	0	1
+Cosmic				Rearrangement	PDC	Fusion	RNF2--PDC	chr1	185014781							0.0	0.0		0	17.0	RNF2	chr1	185014781.0	PDC	chr1	186418615.0					Osteosarcoma-ABS447			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-CO3--MT-ATP6	chrM	9609							0.0	0.0		0	7.0	MT-CO3	chrM	9609.0	MT-ATP6	chrM	9206.0					Osteosarcoma-ABS447			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP8	Fusion	MT-ATP6--MT-ATP8	chrM	8638							0.0	0.0		0	16.0	MT-ATP6	chrM	8638.0	MT-ATP8	chrM	8480.0					Osteosarcoma-ABS447			0	0	0	0	0	0	1
+VUS				Somatic Variant	MYRF	Missense	p.T281A	11	61539072	61539072.0	A	A	G	0.0315	222.0	8e-06	0.0		0								0.0	0.0	0.0		Osteosarcoma-ABS447	Osteosarcoma-ABS447-Tumor-SM-2RCAO	Osteosarcoma-ABS447-Normal-SM-2RCC4	0	0	0	0	0	0	0
+VUS				Copy Number	FOCAD	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	CCDC171	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	MEDAG	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Rearrangement	CCDC178	Fusion	TNRC6B--CCDC178	chr22	40441002							0.0	0.0		0	11.0	TNRC6B	chr22	40441002.0	CCDC178	chr18	30950153.0					Osteosarcoma-ABS447			0	0	0	0	0	0	0
+VUS				Copy Number	TBC1D31	Amplification		8	121170117	124096832.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	SUPT20H	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	PROSER1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Rearrangement	GSE1	Fusion	RP11-680G10.1--GSE1	chr16	85391249							0.0	0.0		0	6.0	RP11-680G10.1	chr16	85391249.0	GSE1	chr16	85667520.0					Osteosarcoma-ABS447			0	0	0	0	0	0	0
+VUS				Copy Number	CASC7	Amplification		8	141541891	141749458.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AGO2	Amplification		8	141541891	141749458.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR151A	Amplification		8	141541891	141749458.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-343P9.1	Amplification		8	135577326	139323415.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC083843.3	Amplification		8	135577326	139323415.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-489O18.1	Amplification		8	135577326	139323415.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-30J20.1	Amplification		8	135577326	139323415.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-149P24.1	Amplification		8	135577326	139323415.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-452N4.1	Amplification		8	135577326	139323415.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-431D12.1	Amplification		8	135577326	139323415.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC083843.1	Amplification		8	135577326	139323415.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC083843.2	Amplification		8	135577326	139323415.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-238K6.1	Amplification		8	135577326	139323415.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1057B8.2	Amplification		8	135577326	139323415.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR30B	Amplification		8	135577326	139323415.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2342N23.3	Amplification		8	135577326	139323415.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC022681.1	Amplification		8	135577326	139323415.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU1-35P	Amplification		8	135577326	139323415.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR30D	Amplification		8	135577326	139323415.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	ZFAT-AS1	Amplification		8	135577326	139323415.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-144P	Amplification		8	135577326	139323415.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-238K6.2	Amplification		8	135577326	139323415.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-809O17.1	Amplification		8	141753077	142238617.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP278	Amplification		8	141753077	142238617.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-128L5.1	Amplification		8	141753077	142238617.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-347C18.3	Amplification		8	95142602	96281669.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-347C18.5	Amplification		8	95142602	96281669.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1608C10.2	Amplification		8	95142602	96281669.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1047C11.2	Amplification		8	95142602	96281669.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1047C11.1	Amplification		8	95142602	96281669.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3150B	Amplification		8	95142602	96281669.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-267M23.3	Amplification		8	95142602	96281669.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC023632.1	Amplification		8	95142602	96281669.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-267M23.4	Amplification		8	95142602	96281669.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-320N21.2	Amplification		8	95142602	96281669.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-22C11.2	Amplification		8	95142602	96281669.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1209P	Amplification		8	95142602	96281669.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2534J5.1	Amplification		8	139379898	141525598.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-284H18.1	Amplification		8	139379898	141525598.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	C8orf17	Amplification		8	139379898	141525598.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTA-204B4.2	Amplification		8	139379898	141525598.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-398H6.1	Amplification		8	139379898	141525598.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-324F11.1	Amplification		8	139379898	141525598.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-737F9.2	Amplification		8	131792384	132052831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-737F9.1	Amplification		8	131792384	132052831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AF230666.2	Amplification		8	133184593	135525094.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AF216667.1	Amplification		8	133184593	135525094.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	WISP1-UT1	Amplification		8	133184593	135525094.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-137K3.1	Amplification		8	133184593	135525094.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2309H9.3	Amplification		8	133184593	135525094.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2588J1.1	Amplification		8	133184593	135525094.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-157E21.1	Amplification		8	133184593	135525094.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-629O1.2	Amplification		8	133184593	135525094.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-513H8.1	Amplification		8	133184593	135525094.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	HPYR1	Amplification		8	133184593	135525094.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU1-106P	Amplification		8	128750242	131070574.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU4-25P	Amplification		8	128750242	131070574.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-26E5.1	Amplification		8	128750242	131070574.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1208	Amplification		8	128750242	131070574.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-473O4.5	Amplification		8	128750242	131070574.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-473O4.4	Amplification		8	128750242	131070574.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-181P	Amplification		8	128750242	131070574.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-473O4.3	Amplification		8	128750242	131070574.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1207	Amplification		8	128750242	131070574.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR5194	Amplification		8	128750242	131070574.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3686	Amplification		8	128750242	131070574.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP226	Amplification		8	128750242	131070574.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-419K12.1	Amplification		8	128750242	131070574.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP206	Amplification		8	128750242	131070574.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	CCDC26	Amplification		8	128750242	131070574.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00977	Amplification		8	128750242	131070574.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-89M16.1	Amplification		8	128750242	131070574.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	PVT1	Amplification		8	128750242	131070574.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1205	Amplification		8	128750242	131070574.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	hsa-mir-3673	Amplification		8	128750242	131070574.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	hsa-mir-3669	Amplification		8	128750242	131070574.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC011652.1	Amplification		8	128750242	131070574.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC011652.2	Amplification		8	128750242	131070574.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC016178.1	Amplification		8	128750242	131070574.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC016178.2	Amplification		8	128750242	131070574.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC068570.1	Amplification		8	128750242	131070574.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	HAS2-AS1	Amplification		8	121170117	124096832.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-713M15.2	Amplification		8	121170117	124096832.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-973F15.2	Amplification		8	121170117	124096832.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-3G20.1	Amplification		8	121170117	124096832.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-713M15.1	Amplification		8	121170117	124096832.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-973F15.1	Amplification		8	121170117	124096832.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-44N11.2	Amplification		8	121170117	124096832.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-44N11.3	Amplification		8	121170117	124096832.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC011626.1	Amplification		8	121170117	124096832.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-557C18.3	Amplification		8	121170117	124096832.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-44N11.1	Amplification		8	121170117	124096832.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-96B2.1	Amplification		8	121170117	124096832.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC027238.1	Amplification		8	121170117	124096832.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-369K17.1	Amplification		8	121170117	124096832.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC016405.2	Amplification		8	121170117	124096832.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC022909.1	Amplification		8	121170117	124096832.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-557C18.4	Amplification		8	121170117	124096832.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY4P5	Amplification		8	121170117	124096832.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-398G24.2	Amplification		8	121170117	124096832.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-785H20.1	Amplification		8	121170117	124096832.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-3G20.2	Amplification		8	121170117	124096832.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-94A24.1	Amplification		8	121170117	124096832.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-438B23.2	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-399D6.2	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-408N14.1	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-378I6.1	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-4E23.2	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-370B11.3	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-513M16.7	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-513M16.8	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL163193.1	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-56F10.3	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-570H19.2	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL512635.1	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL442639.1	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL391117.1	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL359922.1	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-70L8.4	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00032	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-62F24.2	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-62F24.1	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-575I8.1	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-363E7.4	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-337A23.3	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-363E7.3	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL151P	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-183I6.2	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RMRPP5	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-149I2.4	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP120	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-146N23.4	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP258	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-145E5.5	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL100P	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL157P	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-354P17.15	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL158P	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-132E11.2	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL720P	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL98P	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP280	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU4-26P	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-14P	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-246P	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-264P	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-319P	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-18A15.1	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-20A20.2	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL158150.1	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL158077.1	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-33G16.1	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-337A23.6	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL157830.1	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR31	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3152	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR31HG	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-321L2.2	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-321L2.1	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4473	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4474	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR491	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-315I14.2	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	MOB3B	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-298E2.2	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	CDKN2B-AS1	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	CAAP1	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	SCARNA8	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	EQTN	Deletion		9	15225663	27950921.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC113171.1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-20B7.1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-231I13.2	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	ADAMTS9-AS2	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC106827.2	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	PDZRN3-AS1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC112219.1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC117479.1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	PRICKLE2-AS1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	PRICKLE2-AS2	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	PRICKLE2-AS3	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-245J9.4	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC117481.1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-314M24.1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4444-1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4273	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC139453.1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC136289.1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3923	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC134729.1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC134025.1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC133041.1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC128653.1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-245J9.6	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-245J9.5	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	ADAMTS9-AS1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-14D22.1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU2-28P	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL751P	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL92P	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP134	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP135	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP136	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC026877.1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU1-62P	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU2-64P	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	PSMD6-AS2	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-19P	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-119P	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1270P	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-217P	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-281P	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-386P	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-787P	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-557P	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-739P	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL647P	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL482P	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC104331.1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC099326.1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC096971.1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC096922.1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-154H23.3	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-14D22.2	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	THOC7-AS1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	SYNPR-AS1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2026G6.3	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2013N24.2	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-142L1.1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP61	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL271P	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-129B22.1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL294P	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL418P	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3136	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-520D19.2	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00870	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-447M4.1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-444P10.1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-433A10.3	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-398A8.4	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-433A10.2	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	FOXP1-IT1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	FOXP1-AS1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00994	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-6B4.1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-654C22.2	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-62G11.2	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00960	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-460N16.1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00877	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-354H21.2	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-47P18.1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-520D19.1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-85I21.1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1324	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1284	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-81N13.1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-508O18.1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-47P18.2	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-803B1.8	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	FAM86DP	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-88H12.2	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	MAGI1-AS1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-354H21.1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	MAGI1-IT1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-543A18.1	Deletion		3	63466258	81810918.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-141M1.1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY4P14	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-124N19.3	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-101P17.11	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	SACS-AS1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-523H24.3	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-556N21.1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-629E24.2	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-61K9.2	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	SPG20OS	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	TPT1-AS1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-70P	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-71P	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-73P	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-74P	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	TPTE2P1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-78P	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	TPTE2P5	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	SUCLA2-AS1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	TPTE2P6	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-82P	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY3P9	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	STARD13-IT1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-68P	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-71C5.2	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY1P1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	STARD13-AS	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY1P3	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY1P4	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	SPATA13-AS1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY1P7	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY3P4	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-168P13.1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	SMIM2-IT1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-363G2.4	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	TEX26-AS1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-271M24.2	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-279N8.1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-290D2.3	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-290D2.6	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORA16	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-298P3.4	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-307N16.6	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-307O13.1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-309I15.1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	WASF3-AS1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-252M21.6	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	SMIM2-AS1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	SLC25A30-AS1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-321C24.1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	SMAD9-AS1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	ZDHHC20-IT1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-266E6.3	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-141M1.3	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	SERTM1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-478K15.6	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	URAD	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	USP12-AS1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-16D22.2	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-172E9.2	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-179A7.2	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	TEX26	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	USP12-AS2	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-187A9.3	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-189B4.6	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD27	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD116	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD102	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	VWA8	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-37L2.1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-37E23.5	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-69P	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-64P	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	HNRNPA1P30	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	GPALPP1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	FRY-AS1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	FREM2-AS1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	FAM216B	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	ESRRAP2	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	ENOX1-AS2	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	ENOX1-AS1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	HTR2A-AS1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00415	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00297	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00407	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00400	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00398	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00390	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00385	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00384	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00366	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00365	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-63P	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00352	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00332	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00330	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00327	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00284	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LATS2-AS1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LACC1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	EEF1DP3	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL161891.1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL590007.1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL512505.1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL390071.1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL359736.1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL359538.2	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL359538.1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL356750.1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL354833.3	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL354833.2	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL354833.1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL354808.2	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL162853.1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL161898.1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL161772.1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL159977.1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL157931.1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL139377.1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL139328.1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL139080.1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL138999.1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL138963.1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL138815.2	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL138815.1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL138706.1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL136160.1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL133318.1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL590787.1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL591925.1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL596092.1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	CPB2-AS1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	CCDC169-SOHLH2	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	C1QTNF9B-AS1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	C1QTNF9-AS1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	ARL2BPP3	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	ANKRD20A19P	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AMER2-AS1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AMER2	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00412	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00362	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00423	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	PAN3-AS1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	PDX1-AS1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00424	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	MTUS2-AS2	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	MTUS2-AS1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RGCC	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP2	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP3	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-59P	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-58P	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-57P	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-56P	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-53P	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-51P	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU5A-4P	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU4-9P	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU2-7P	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU2-6P	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP27	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP26	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP25	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL80P	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL766P	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL741P	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL700P	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL597P	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL515P	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL49P	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL289P	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL288P	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL272P	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL166P	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP5	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00598	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00621	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01046	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01048	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01050	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01053	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01055	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01058	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01066	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01071	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01072	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01073	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01076	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01079	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00572	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00571	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00566	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00445	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00426	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00427	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00428	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00437	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00441	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00444	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00457	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00563	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00539	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00543	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00545	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00556	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00562	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIPEPP3	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4499	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4305	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR320D1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3168	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR2276	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	MICU2	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR621	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR5006	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	MED4-AS1	Deletion		13	20220331	48955831.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR548F4	Deletion		7	146536551	147336650.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC084872.1	Deletion		7	146536551	147336650.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC006004.1	Deletion		7	146536551	147336650.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-25K21.6	Deletion		1	161559102	161599991.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	PTPRG-AS1	Deletion		3	59737700	62751911.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU2-10P	Deletion		3	59737700	62751911.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	NPCDR1	Deletion		3	59737700	62751911.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	CHL1-AS1	Deletion		3	367390	1444422.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL120P	Deletion		3	367390	1444422.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC090044.2	Deletion		3	367390	1444422.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC090044.1	Deletion		3	367390	1444422.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC087430.1	Deletion		3	367390	1444422.0						0.0	0.0		0												Osteosarcoma-ABS447	ABS447_T		0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-96H19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	12.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	47046173.0					Osteosarcoma-ABS447			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-680G10.1	Fusion	RP11-680G10.1--GSE1	chr16	85391249							0.0	0.0		0	6.0	RP11-680G10.1	chr16	85391249.0	GSE1	chr16	85667520.0					Osteosarcoma-ABS447			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKV3-15	Fusion	IGKV3-15--AC096579.7	chr2	89384674							0.0	0.0		0	8.0	IGKV3-15	chr2	89384674.0	AC096579.7	chr2	89161435.0					Osteosarcoma-ABS447			0	0	0	0	0	0	0
+VUS				Rearrangement	CTC-786C10.1	Fusion	CTC-786C10.1--RP11-680G10.1	chr16	85205413							0.0	0.0		0	13.0	CTC-786C10.1	chr16	85205413.0	RP11-680G10.1	chr16	85391069.0					Osteosarcoma-ABS447			0	0	0	0	0	0	0
+VUS				Rearrangement	AGO2	Fusion	AGO2--HAS2-AS1	chr8	141557567							0.0	0.0		0	9.0	AGO2	chr8	141557567.0	HAS2-AS1	chr8	122656506.0					Osteosarcoma-ABS447			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-325K19.2	Fusion	TEF--RP11-325K19.2	chr22	41790320							0.0	0.0		0	9.0	TEF	chr22	41790320.0	RP11-325K19.2	chr18	58321663.0					Osteosarcoma-ABS447			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-446N19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	12.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	47046173.0					Osteosarcoma-ABS447			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TE	Fusion	MT-ND6--MT-TE	chrM	14484							0.0	0.0		0	11.0	MT-ND6	chrM	14484.0	MT-TE	chrM	14696.0					Osteosarcoma-ABS447			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKJ2	Fusion	IGKV4-1--IGKJ2	chr2	89185668							0.0	0.0		0	7.0	IGKV4-1	chr2	89185668.0	IGKJ2	chr2	89161074.0					Osteosarcoma-ABS447			0	0	0	0	0	0	0
+VUS				Rearrangement	AC096579.13	Fusion	IGKV4-1--AC096579.13	chr2	89185668							0.0	0.0		0	7.0	IGKV4-1	chr2	89185668.0	AC096579.13	chr2	89161074.0					Osteosarcoma-ABS447			0	0	0	0	0	0	0
+VUS				Rearrangement	AC096579.7	Fusion	IGKV3-15--AC096579.7	chr2	89384674							0.0	0.0		0	8.0	IGKV3-15	chr2	89384674.0	AC096579.7	chr2	89161435.0					Osteosarcoma-ABS447			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-680G10.1	Fusion	CTC-786C10.1--RP11-680G10.1	chr16	85205413							0.0	0.0		0	13.0	CTC-786C10.1	chr16	85205413.0	RP11-680G10.1	chr16	85391069.0					Osteosarcoma-ABS447			0	0	0	0	0	0	0
+VUS				Rearrangement	HSPA8P4	Fusion	CHSY3--HSPA8P4	chr5	129244053							0.0	0.0		0	7.0	CHSY3	chr5	129244053.0	HSPA8P4	chr5	129476585.0					Osteosarcoma-ABS447			0	0	0	0	0	0	0
+VUS				Rearrangement	HAS2-AS1	Fusion	AGO2--HAS2-AS1	chr8	141557567							0.0	0.0		0	9.0	AGO2	chr8	141557567.0	HAS2-AS1	chr8	122656506.0					Osteosarcoma-ABS447			0	0	0	0	0	0	0

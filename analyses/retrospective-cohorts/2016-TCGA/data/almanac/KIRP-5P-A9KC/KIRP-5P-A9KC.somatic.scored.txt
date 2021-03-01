@@ -1,0 +1,1337 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Putatively Actionable	Putatively Actionable			Copy Number	PIK3CA	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		4	1	1	1	1	1	1
+Investigate Actionability	Investigate Actionability			Somatic Variant	ERBB3	Splice Site	p.F244F	12	56481697	56481697.0	T	T	C	0.4872	78.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	2	1	0	1	1	1	1
+Investigate Actionability	Investigate Actionability	Investigate Actionability		Somatic Variant	BRCA1	Missense	p.T236S	17	41246841	41246841.0	G	G	C	0.2979	47.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	2	0	0	1	1	1	1
+Biologically Relevant				Somatic Variant	MTOR	Missense	p.Q1233K	1	11269473	11269473.0	G	G	T	0.0435	69.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	1	1	1	1	1	0	1
+Biologically Relevant				Copy Number	PIK3CB	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		1	1	0	1	1	1	1
+Biologically Relevant				Somatic Variant	RAF1	Missense	p.K171N	3	12650333	12650333.0	T	T	A	0.2821	117.0	0.0	0.0		0								175.0	0.4114	1.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	1	1	0	1	1	0	1
+Cancer Hotspot				Copy Number	EIF4A2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	1	1	1	0	1	1
+Cancer Hotspot				Copy Number	EPHB1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	1	1	0	0	1	1
+Cancer Hotspot				Copy Number	TP63	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	1	0	1	0	1	1
+Cancer Hotspot				Copy Number	GATA2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	1	0	1	0	1	1
+Cancer Hotspot				Copy Number	BCL6	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	1	0	1	0	1	1
+Cancer Hotspot				Copy Number	MAP3K13	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	1	0	1	0	1	1
+Cancer Hotspot				Somatic Variant	SMARCB1	Frameshift	p.Q272fs	22	24167567	24167568.0	AC	AC	-	0.5789	38.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	1	0	1	0	0	1
+Cancer Hotspot				Copy Number	FOXL2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	1	0	1	0	0	1
+Cancer Hotspot				Copy Number	GSK3B	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	1	0	0	1	0	1
+Cancer Hotspot				Copy Number	PRKCI	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	1	0	0	0	1	1
+Cancer Hotspot 3D				Copy Number	MECOM	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	1	1	1	1	1
+Cancer Hotspot 3D				Copy Number	TBL1XR1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	1	1	0	0	1
+Cancer Hotspot 3D				Somatic Variant	ACLY	Missense	p.G282V	17	40062802	40062802.0	C	C	A	0.2439	41.0	0.0	0.0		0								274.0	0.5073	1.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	1	0	0	1	1
+Cancer Hotspot 3D				Somatic Variant	SMG7	Missense	p.S1075N	1	183520249	183520249.0	G	G	A	0.2524	103.0	8e-06	0.0		0								110.0	0.5364	1.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	TOPBP1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	TF	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	RNF7	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	ZIC1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	TTC14	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	MRPL3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	HES1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Somatic Variant	ATXN1	Missense	p.E175D	6	16328017	16328017.0	C	C	G	0.3	30.0	0.0	0.0		0								11.0	0.5455	0.4618		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	1	0	0	0	1
+Cancer Hotspot 3D				Copy Number	RBP2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	1	0	0	0	1
+Cancer Hotspot 3D				Copy Number	ADCY5	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	1	0	0	0	1
+Cancer Hotspot 3D				Copy Number	MASP1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	1	0	0	0	1
+Cancer Gene Census				Copy Number	CBLB	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	1	1	1	1
+Cancer Gene Census				Copy Number	ATR	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	1	1	1	1
+Cancer Gene Census				Copy Number	TFG	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	1	1	0	1
+Cancer Gene Census				Somatic Variant	LZTR1	Missense	p.W215L	22	21343964	21343964.0	G	G	T	0.375	16.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	MUC4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	POLQ	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	TFRC	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	SOX2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	WWTR1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	RPN1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	CNBP	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	GMPS	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	ETV5	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	LPP	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	MLF1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	1	0	1	0
+Cancer Gene Census				Somatic Variant	MLLT4	Deletion	p.E1740del	6	168366692	168366694.0	GAG	GAG	-	0.2051	39.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	1	0	0	1
+Cancer Gene Census				Copy Number	STAG1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	1	0	0	1
+Cancer Gene Census				Copy Number	IGF2BP2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	1	0	0	1
+Cancer Gene Census				Copy Number	MB21D2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	1	0	0	1
+Cancer Pathway				Somatic Variant	PSMD4	Missense	p.S211I	1	151238063	151238063.0	G	G	T	0.2754	69.0	0.0	0.0		0								321.0	0.4081	1.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	CD200R1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	PSMD2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	CD200	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	PLD1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	RFC4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	CD96	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	FGF12	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	PAK2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	MCM2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	SKIL	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	1	0	1
+Cancer Pathway				Rearrangement	GRIP1	Fusion	RP11-123O10.4--GRIP1	chr12	67462830							0.0	0.0		0	22.0	RP11-123O10.4	chr12	67462830.0	GRIP1	chr12	66990707.0					KIRP-5P-A9KC			0	0	0	0	1	0	1
+Cancer Pathway				Copy Number	DVL3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	1	0	1
+Cancer Pathway				Copy Number	ATP1B3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	1	0	1
+Cancer Module				Somatic Variant	RHOU	Missense	p.E109K	1	228879035	228879035.0	G	G	A	0.1884	69.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	PFN1	Missense	p.E83V	17	4850000	4850000.0	T	T	A	0.32	50.0	0.0	0.0		0								3911.0	0.39399999999999996	1.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	PDCD6	Missense	p.S83T	5	306756	306756.0	G	G	C	0.2388	67.0	0.0	0.0		0								532.0	0.4079	1.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	PARP4	Missense	p.S1335N	13	25009275	25009275.0	C	C	T	0.3333	102.0	0.0	0.0		0								256.0	0.3984	1.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	PFKP	Missense	p.E18K	10	3109839	3109839.0	G	G	A	0.24	75.0	0.0	0.0		0								256.0	0.4219	1.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	MPP1	Missense	p.A427G	X	154007573	154007573.0	G	G	C	0.2688	160.0	0.0	0.0		0								223.0	0.7489	1.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	HP1BP3	Missense	p.R269H	1	21091954	21091954.0	C	C	T	0.2959	98.0	0.0	0.0		0								164.0	0.4085	1.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	HBP1	Missense	p.E275K	7	106829794	106829794.0	G	G	A	0.4732	112.0	1.6e-05	0.0		0								157.0	0.5414	1.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	CFLAR	Missense	p.Q429R	2	202025647	202025647.0	A	A	G	0.2742	62.0	0.0	0.0		0								140.0	0.3857	1.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	PUM2	Missense	p.Q505R	2	20482914	20482914.0	T	T	C	0.1667	54.0	0.0	0.0		0								54.0	0.5185	0.9606		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	NFYA	Missense	p.G85E	6	41051876	41051876.0	G	G	A	0.19699999999999998	66.0	0.0	0.0		0								38.0	0.3684	0.932		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	SCAPER	Missense	p.L1344Q	15	76646306	76646306.0	A	A	T	0.2151	93.0	0.0	0.0		0								28.0	0.5357	0.8633		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	KIF26B	Missense	p.D1338N	1	245850297	245850297.0	G	G	A	0.2577	97.0	1.7e-05	0.0		0								9.0	0.4444	0.1985		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	HCRTR2	Missense	p.A334T	6	55145137	55145137.0	G	G	A	0.3043	69.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	AHNAK	Frameshift	p.P2451fs	11	62294536	62294536.0	G	G	-	0.3113	106.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	CNTN5	Nonsense	p.K412*	11	99941227	99941227.0	A	A	T	0.16	75.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	ITGB3	Frameshift	p.Y695fs	17	45380155	45380156.0	-	-	A	0.3176	85.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	CEP250	Missense	p.E721G	20	34067123	34067123.0	A	A	G	0.3243	111.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	CAMK1G	Missense	p.G113A	1	209778922	209778922.0	G	G	C	0.25	52.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	LPIN1	Frameshift	p.K514fs	2	11959665	11959665.0	A	A	-	0.3434	99.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	CNTNAP5	Missense	p.C582S	2	125320891	125320891.0	T	T	A	0.3137	51.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	RAB6B	Splice Site		3	133557104	133557104.0	C	C	T	0.3556	45.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	ELOVL6	Frameshift	p.R80fs	4	110980893	110980894.0	CG	CG	-	0.2252	151.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	TFPI2	Missense	p.A4T	7	93519981	93519981.0	C	C	T	0.4611	180.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	LPL	Missense	p.H68Y	8	19805804	19805804.0	C	C	T	0.3301	103.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	KIAA1432	Frameshift	p.P771fs	9	5763340	5763340.0	T	T	-	0.3025	119.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	CLUL1	Missense	p.D69N	18	619236	619236.0	G	G	A	0.1295	139.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	CHRNA4	Missense	p.I163T	20	61982275	61982275.0	A	A	G	0.2	60.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	ITM2A	Missense	p.A98E	X	78618587	78618587.0	G	G	T	0.0149	268.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	1	1
+Cancer Module				Copy Number	HEG1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PLXND1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HCLS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC15A2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CPN2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MUC13	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KNG1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ST3GAL6	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC12A8	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SI	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SEMA5B	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CASR	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CD86	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GFM1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EIF4G1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	AHSG	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MYLK	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RARRES1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PARP14	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MFSD1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	LEPR	Fusion	LEPROT--LEPR	chr1	65891061							0.0	0.0		0	32.0	LEPROT	chr1	65891061.0	LEPR	chr1	66031229.0					KIRP-5P-A9KC			0	0	0	0	0	1	1
+Cancer Module				Copy Number	RETNLB	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SIDT1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLCO2A1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	YEATS2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	WDR52	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZXDC	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	UPK1B	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	UMPS	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TSC22D2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CLDN18	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CP	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CPA3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CPB1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DCBLD2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CLCN2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FNDC3B	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FILIP1L	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FYTTD1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ECE2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DRD3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ABCC5	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	AADAC	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	C3orf17	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	B4GALT4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	AMOTL2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ALDH1L1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RBP1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NEK11	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PPP2R3A	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	POPDC2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PTX3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PCYT1A	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KALRN	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KCNMB3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LAMP3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KPNA1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HGD	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	IFT80	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MFN1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MED12L	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MCF2L2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RHO	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ROPN1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TFDP2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TBC1D23	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TAGLN3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	THPO	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TIMMDC1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TIPARP	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TM4SF4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TM4SF1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ST6GAL1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC35A5	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC2A2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SST	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLITRK3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SSR3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SRPRB	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SPSB4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SNX4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SMC4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	XRN1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZBTB20	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNF639	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZIC4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TRH	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TRA2B	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TNFSF10	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TMEM45A	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TRAT1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TRPC1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SIAH2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SERPINI2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RPL24	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RSRC1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RPL39L	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RYK	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SERPINI1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SERP1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SEC61A1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SCHIP1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	COX17	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	COPB2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DCUN1D1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CSTA	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CPOX	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CPNE4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CLDN1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GPR160	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CCNL1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CHCHD6	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CDV3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CD80	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CD47	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FSTL1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FETUB	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DLG1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GAP43	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GP9	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GP5	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GOLIM4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FAM131A	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FAIM	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EAF2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DZIP3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DNAJC13	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ECT2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EPHB3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EHHADH	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	C3orf55	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	C3orf36	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ABTB1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ABI3BP	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ABCF3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ATP13A3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ATP2C1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ARMC8	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	B3GNT5	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	C3orf27	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	BFSP2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	BDH1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	BCHE	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ACTL6A	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ACAP2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ADPRH	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	APOD	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	AP2M1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ALG3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ALCAM	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	AGTR1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GPR171	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NMD3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NLGN1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NDUFB5	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NCK1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NSUN3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	OPA1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NCBP2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MME	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MRPL47	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NAA50	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MYNN	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PPM1L	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PLXNA1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PLSCR1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RAB6B	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PVRL3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PLS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PLOD2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PDIA5	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PCNP	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PCCB	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PARP9	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	P2RY14	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	P2RY1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PDCD10	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PEX5L	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PIK3R4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PFN2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ITGB5	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KCNAB1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ISY1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	IQCB1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KIAA1257	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KPNA4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KLHL6	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KLHL24	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KIAA1524	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	IL1RAP	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	H1FX	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GYG1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GTF2E1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HLTF	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HPS3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	IL12A	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	IFT57	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	IFT122	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HRG	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MGLL	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MFI2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MBNL1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MBD4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MAP6D1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LSAMP	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ITM2A	Deletion		X	78610583	78617053.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	BPESC1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	1	0
+Cosmic				Somatic Variant	FAM131C	Missense	p.D70N	1	16388654	16388654.0	C	C	T	0.0972	72.0	3.3e-05	0.0		0								59.0	0.3898	0.8140000000000001		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ALPP	Missense	p.P501R	2	233246399	233246399.0	C	C	G	0.0411	73.0	0.000671	0.0		0								0.0	0.0	0.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	TMEM176B	Missense	p.C98R	7	150491072	150491072.0	A	A	G	0.2111	180.0	0.0	0.0		0								1456.0	0.2328	1.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	COPA	Missense	p.D701N	1	160267412	160267412.0	C	C	T	0.2442	86.0	0.0	0.0		0								285.0	0.4351	1.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	SCAMP2	Missense	p.D11N	15	75165566	75165566.0	C	C	T	0.193	57.0	0.0	0.0		0								252.0	0.4246	1.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	TRIM44	Missense	p.Y189N	11	35685224	35685224.0	T	T	A	0.3043	115.0	0.0	0.0		0								189.0	0.4497	1.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	SENP6	Missense	p.S667A	6	76388567	76388567.0	T	T	G	0.2113	142.0	0.0	0.0		0								85.0	0.4235	0.9999		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	POLR3A	Missense	p.T1238R	10	79741958	79741958.0	G	G	C	0.2857	70.0	0.0	0.0		0								40.0	0.6	0.9952		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	FASTKD3	Missense	p.T252A	5	7867443	7867443.0	T	T	C	0.3095	42.0	0.0	0.0		0								33.0	0.3636	0.9865		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	ZDHHC23	Missense	p.G223A	3	113673053	113673053.0	G	G	C	0.2105	171.0	0.0	0.0		0								45.0	0.4	0.9861		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	SASH1	Missense	p.S308C	6	148840743	148840743.0	C	C	G	0.2558	86.0	0.0	0.0		0								35.0	0.3714	0.9782		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	ZNF250	Missense	p.C540R	8	146106965	146106965.0	A	A	G	0.2241	58.0	0.0	0.0		0								20.0	0.55	0.6844		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	CHAD	Missense	p.N61I	17	48545993	48545993.0	T	T	A	0.2653	49.0	0.0	0.0		0								10.0	0.4	0.2952		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	ZFP82	Missense	p.G125E	19	36884868	36884868.0	C	C	T	0.2462	65.0	0.0	0.0		0								10.0	0.6	0.2443		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	SAMD15	Nonsense	p.E512*	14	77845295	77845295.0	G	G	T	0.2963	162.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	CIB4	Missense	p.E163D	2	26805731	26805731.0	C	C	G	0.3	60.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	JMY	Missense	p.R615L	5	78596649	78596649.0	G	G	T	0.0143	491.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	C6orf222	Missense	p.S473R	6	36291122	36291122.0	G	G	C	0.2642	53.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	WDR86	Missense	p.L261H	7	151082318	151082318.0	A	A	T	0.1714	35.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	SYT16	Missense	p.H460R	14	62547937	62547937.0	A	A	G	0.2927	82.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	MAGOH	Frameshift	p.E2fs	1	53704117	53704117.0	C	C	-	0.29	231.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	GDAP2	Frameshift	p.I452fs	1	118420722	118420723.0	-	-	T	0.3219	146.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	UBR3	Missense	p.S1482P	2	170871867	170871867.0	T	T	C	0.3421	38.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	PEBP4	Missense	p.I56F	8	22777789	22777789.0	T	T	A	0.2881	59.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	TUBB8	Missense	p.D128G	10	93949	93949.0	T	T	C	0.0469	128.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	OR5P3	Missense	p.T240A	11	7846802	7846802.0	T	T	C	0.2821	117.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	OR8B8	Missense	p.P58H	11	124310809	124310809.0	G	G	T	0.3594	64.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	ADAMTS20	Missense	p.K1804E	12	43769218	43769218.0	T	T	C	0.2526	95.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	ASCL4	Missense	p.L104M	12	108169302	108169302.0	C	C	A	0.4516	31.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	TTC7B	Missense	p.T236A	14	91161915	91161915.0	T	T	C	0.3333	42.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	EMILIN2	Missense	p.G1017V	18	2913290	2913290.0	G	G	T	0.1964	112.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	ZNF226	Frameshift	p.P58fs	19	44677042	44677042.0	C	C	-	0.2846	253.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	0	1
+Cosmic				Copy Number	MUC20	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR5H6	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NAALADL2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZBBX	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DZIP1L	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ATP13A5	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ALG1L	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MYH15	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	KIAA2018	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RTP2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RTP4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GOLGB1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C3orf30	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ARHGEF26	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR5H15	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GUCA1C	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	HTR3D	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MAGEF1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC41A3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	COL6A5	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DGKG	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GPR128	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ATP13A4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	BTLA	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR5K4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR5H14	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR5H1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MORC1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PLSCR4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PIGZ	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	KBTBD12	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	HTR3C	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRRC15	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	STXBP5L	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM207	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMCC1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TM4SF19	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SPATA16	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM39A	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM44	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZDHHC23	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	VEPH1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMPRSS7	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TRIM42	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	A4GNT	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	COMMD2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	COL6A6	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CLSTN2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CRYBG3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCDC54	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCDC50	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCDC14	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CEP70	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CD200R1L	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DHFRL1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DHX36	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GPR15	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DPPA4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ESYT3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	EIF2A	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C3orf52	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	AADACL2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C3orf33	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ATP11B	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ARHGAP31	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ACAD11	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GPR156	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NR1I2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NFKBIZ	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR5K3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OTOL1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PYDC2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PARL	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	P2RY13	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PHLDB2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	HHLA2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	IGSF11	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	IGSF10	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	HTR3E	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	HSPBAP1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MINA	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MCCC1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MAATS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	LXN	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	LSG1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRRC34	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RNF168	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RNF13	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ROPN1B	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TCTEX1D2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TBCCD1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SUCNR1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	STX19	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TIGIT	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM212	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM14E	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM108	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TM4SF18	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC33A1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC9A9	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC7A14	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC25A36	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SPICE1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SOX14	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM30C	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM41A	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZBED2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	XXYLT1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	WDR5B	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	WDR53	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	WDR49	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZBTB11	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZPLD1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF80	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF148	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZMAT3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZDHHC19	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZBTB38	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	VWA5B2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	VPS8	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TPRG1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TPRA1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TOMM70A	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TNK2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TNIK	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TRIM59	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	USP13	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	UROC1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	UBXN7	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	UBA5	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	U2SURP	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TXNRD3NB	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TXNRD3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SHOX2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RTP1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RPL32P3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RPL22L1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RUVBL1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SENP7	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SENP5	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SENP2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SEC62	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SEC22A	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SAMD7	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	COL8A1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CLDN11	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CLRN1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CLDND1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DBR1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CRYGS	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CLDN16	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCDC39	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCDC37	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CAMK2N2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C3orf80	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C3orf79	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C3orf72	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C3orf70	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C3orf65	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C3orf58	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C3orf56	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCDC58	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCDC80	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CHST2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CHST13	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CHRD	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CEP97	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CEP63	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CEP19	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DIRC2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FBXO45	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FBXO40	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM43A	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM194A	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM188B2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FXR1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GABRR3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GPR149	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GNB4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GMNC	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GK5	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GHSR	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM162A	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	EEFSEC	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DTX3L	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DPPA2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DNAJC19	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DNAJB8	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DNAJB11	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	EPHA6	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	EIF5A2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	EIF2B5	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ABHD10	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	AC022498.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ATG3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ASTE1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ARL6	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ARL14	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ARL13B	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ATP6V1A	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	B3GALNT1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C3orf22	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	BOC	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	BBX	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ACPP	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ACPL2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ACAD9	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ADIPOQ	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ARGFX	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ANKUB1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ANAPC13	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NPHP3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NMNAT3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NME9	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NIT2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NDUFB4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NCEH1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NUDT16	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR5K2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR5K1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR5H2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR5AC2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GPR87	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MRAS	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MRPS22	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MSL2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OSBPL11	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OSTN	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	POGLUT1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PPP1R2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	POLR2H	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PODXL2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PLSCR5	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PLSCR2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRR23A	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRR23B	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRR23C	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RASA2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RAP2B	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RABL3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RAB7A	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RAB43	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	QTRTD1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PTPLB	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PCOLCE2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PARP15	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PAQR9	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	P2RY12	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PLCXD2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PLCH1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PLA1A	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PIGX	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PHC3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	KCNMB2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	IQCJ-SCHIP1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	IQCJ	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	IMPG2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ILDR1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	KIAA0226	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	KIAA1407	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	LEPREL1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	LEKR1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	KY	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	KLF15	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	IL20RB	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	H1FOO	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GTPBP8	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GRK7	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GRAMD1C	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	HRASLS	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	LIPH	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	LNP1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRRIQ4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRRC58	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRRC31	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRCH3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	1
+Cosmic				Rearrangement	SHISA9	Fusion	SHISA9--U91319.1	chr16	13297406							0.0	0.0		0	7.0	SHISA9	chr16	13297406.0	U91319.1	chr16	13444037.0					KIRP-5P-A9KC			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4	Fusion	MT-ND4--MT-ATP6	chrM	11541							0.0	0.0		0	122.0	MT-ND4	chrM	11541.0	MT-ATP6	chrM	8938.0					KIRP-5P-A9KC			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND3	Fusion	MT-ND3--MT-ATP8	chrM	10110							0.0	0.0		0	9.0	MT-ND3	chrM	10110.0	MT-ATP8	chrM	8445.0					KIRP-5P-A9KC			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CO1	Fusion	MT-CO1--MT-RNR2	chrM	6533							0.0	0.0		0	95.0	MT-CO1	chrM	6533.0	MT-RNR2	chrM	1706.0					KIRP-5P-A9KC			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CO1	Fusion	MT-CO1--MT-ND1	chrM	6065							0.0	0.0		0	77.0	MT-CO1	chrM	6065.0	MT-ND1	chrM	3507.0					KIRP-5P-A9KC			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-ATP6--MT-ATP8	chrM	8641							0.0	0.0		0	96.0	MT-ATP6	chrM	8641.0	MT-ATP8	chrM	8436.0					KIRP-5P-A9KC			0	0	0	0	0	0	1
+Cosmic				Rearrangement	LEPROT	Fusion	LEPROT--LEPR	chr1	65891061							0.0	0.0		0	32.0	LEPROT	chr1	65891061.0	LEPR	chr1	66031229.0					KIRP-5P-A9KC			0	0	0	0	0	0	1
+Cosmic				Rearrangement	ST7	Fusion	ST7-OT4--ST7	chr7	116595207							0.0	0.0		0	8.0	ST7-OT4	chr7	116595207.0	ST7	chr7	116738667.0					KIRP-5P-A9KC			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND1	Fusion	MTND4P12--MT-ND1	chr5	134262741							0.0	0.0		0	6.0	MTND4P12	chr5	134262741.0	MT-ND1	chrM	3672.0					KIRP-5P-A9KC			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-ND4--MT-ATP6	chrM	11541							0.0	0.0		0	122.0	MT-ND4	chrM	11541.0	MT-ATP6	chrM	8938.0					KIRP-5P-A9KC			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP8	Fusion	MT-ND3--MT-ATP8	chrM	10110							0.0	0.0		0	9.0	MT-ND3	chrM	10110.0	MT-ATP8	chrM	8445.0					KIRP-5P-A9KC			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND1	Fusion	MT-CO1--MT-ND1	chrM	6065							0.0	0.0		0	77.0	MT-CO1	chrM	6065.0	MT-ND1	chrM	3507.0					KIRP-5P-A9KC			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP8	Fusion	MT-ATP6--MT-ATP8	chrM	8641							0.0	0.0		0	96.0	MT-ATP6	chrM	8641.0	MT-ATP8	chrM	8436.0					KIRP-5P-A9KC			0	0	0	0	0	0	1
+VUS				Somatic Variant	NPAP1	Missense	p.P1156R	15	24924481	24924481.0	C	C	G	0.2222	72.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	0	0
+VUS				Somatic Variant	CARF	Missense	p.P18S	2	203817333	203817333.0	C	C	T	0.2667	75.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	0	0
+VUS				Somatic Variant	TMA16	Missense	p.P168T	4	164440556	164440556.0	C	C	A	0.0293	307.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	0	0
+VUS				Somatic Variant	COA1	Missense	p.K145R	7	43679188	43679188.0	T	T	C	0.0326	92.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9KC	KIRP-5P-A9KC-TP	KIRP-5P-A9KC-NB	0	0	0	0	0	0	0
+VUS				Copy Number	SLC9C1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	SLC51A	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	SLC35G2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	UTS2B	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRMT10C	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	CMSS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC125387.1	Amplification		19	7304492	7344986.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-274H2.5	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-292E2.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-292E2.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-290K4.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-290K4.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-280H21.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-278L15.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-275H4.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-274H2.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-298O21.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-274H2.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-271K21.11	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-271C24.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-268E23.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-265F19.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-255G21.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-255E6.6	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-292E2.4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-255C15.4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-305O4.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-326J18.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-325B23.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-324C10.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-319G6.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-319G6.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-315J22.5	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-30O15.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-305K5.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-298O21.5	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-2L8.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-2L8.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-2A4.4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-2A4.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-299J3.8	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-298O21.7	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-298O21.6	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-298O21.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-255C15.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-246A10.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-200A1.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-197K3.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-190P13.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-190C22.9	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-190C22.8	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-18H7.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-185E8.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-180K7.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-175P19.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-174O3.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-16N11.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-169N13.4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-167H9.6	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-167H9.5	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-167H9.4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-166N6.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-197K6.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-201E8.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-245C23.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-202A13.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-23D24.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-232M24.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-231L11.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-231L11.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-231E6.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-227H4.5	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-225N10.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-221J22.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-221J22.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-219D15.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-217E22.5	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-211G3.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-211G3.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-208N14.4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-206M11.7	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-329B9.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-329B9.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-166D18.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-430L16.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-439C8.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-438D8.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-434H6.7	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-434H6.6	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-433C9.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-432B6.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-431I8.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-420J11.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-3K16.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-418B12.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-416O18.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-416O18.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-408H1.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-407B7.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-402L6.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-3P17.5	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-439C8.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-442N1.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-442N1.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-443P15.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-475N22.4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-469L4.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-469J4.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-461M2.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-457K10.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-454C18.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-454C18.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-451G4.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-451G4.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-451G4.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-450H5.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-44H4.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-447L10.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-446H18.6	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-446H18.5	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-3P17.4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-39E3.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-329B9.4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-362K14.5	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-372E1.6	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-372E1.4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-368I23.4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-368I23.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-368I23.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-362K14.7	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-362K14.6	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-362A9.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-38P22.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-360P21.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-352G9.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-343D2.11	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-340E6.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-33A14.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-338L18.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-329B9.5	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-373E16.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-373E16.4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-373I8.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-375I20.6	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-389G6.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-385J1.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-384F7.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-384F7.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-383I23.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-383G6.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-379K17.4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-379K17.12	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-379F4.9	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-379F4.8	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-379F4.7	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-379F4.6	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-379F4.4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-379B18.6	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-379B18.5	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-166N6.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-15N24.4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-483E7.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP149	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU1-20P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU1-100P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP151	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP150	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP148	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1174P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP147	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP146	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP145	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP144	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP143	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP142	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP141	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU1-43P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU1-70P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU2-11P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU2-20P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1127P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1120P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1109P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1105P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1101P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1098P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1094P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1047P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU5E-8P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU4-91P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU4-62P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU4-4P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU4-38P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU2-37P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU2-31P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP140	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP139	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP138	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL229P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL172P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL141P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP52	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP46	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP40	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP298	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP296	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP265	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP25	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP234	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP222	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP212	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP177	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP124	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL215P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL300P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP137	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL36P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL815P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL773P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL767P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL762P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL752P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL738P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL724P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL703P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL698P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL637P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL582P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL486P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL447P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL434P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL397P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1142P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1200P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-15L13.4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-114M1.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-114M1.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-114I8.4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-10O22.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-103G8.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-102M11.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNY5P3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1233P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNY4P4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-47P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-198P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-18P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-136P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-108P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6ATAC24P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-115H18.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-119D18.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-124N2.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-12K11.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-158I23.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-152C17.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-145M9.6	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-145M9.5	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-145M9.4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-143P4.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-141C7.4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-139K4.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-139K4.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-135A1.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-135A1.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-134F2.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-132N15.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-132N15.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-132N15.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6ATAC15P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-910P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-901P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-428P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-348P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-315P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-26P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-25P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-232P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-230P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-143P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1317P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1308P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1294P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1284P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1279P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1263P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1256P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1236P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-425P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-42P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-865P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-461P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-823P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-789P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-736P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-726P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-720P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-681P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-678P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-646P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-637P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-547P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-509P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-507P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-505P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-4P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-486P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-480A16.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-484K9.4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	TBL1XR1-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	TFP1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	TERC	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	ST3GAL6-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	TMEM212-IT1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	TMEM212-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	TMCC1-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	TM4SF19-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	TM4SF1-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	TIPARP-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-484M3.5	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	SLC9A9-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	SIDT1-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	SIAH2-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	SLC9A9-AS2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	SPTSSB	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	SOX2-OT	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	SNORA7B	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	SNORA58	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	SNORA5	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	SMCO1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	YEATS2-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	XXYLT1-AS2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	XXYLT1-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	WWTR1-IT1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	WWTR1-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	WDR52-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	ZBTB11-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	ZBTB20-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	ZIC4-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	ZBTB20-AS4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	ZBTB20-AS3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	ZBTB20-AS2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	TPRG1-AS2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	TPRG1-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	TNK2-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	TMEM44-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	UBXN7-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	TUSC7	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-615J4.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-649A16.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-646E18.4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-646E18.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-644C3.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-641D5.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-639B1.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-637O11.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-59J16.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-71G7.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-59J16.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-59E19.4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-59E19.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-576M8.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-573D15.9	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-573D15.8	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-573D15.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-64D22.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-64D22.5	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-651P23.5	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-655G22.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-71E19.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-71E19.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-706D8.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-702L6.4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-6F2.5	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-699L21.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-699L21.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-691G17.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-68L1.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-68L1.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-680B3.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-67L2.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-666A20.4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-657O9.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-656A15.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-573D15.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-572M11.4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-572M11.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-517B11.4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-513G11.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-513G11.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-501O2.5	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-501O2.4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-501O2.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-501O2.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-500K19.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-4B14.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-49I4.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-496H1.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-496B10.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-494H4.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-48F14.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-48F14.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-485G4.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-513G11.4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-517B11.7	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-572M11.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-523G9.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-572C15.6	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-572C15.5	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-567G11.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-555M1.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-553L6.5	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-553L6.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-553A10.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-550I24.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-548O1.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-543D10.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-538P18.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-534C12.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-531F16.4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-529G21.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-528A4.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-71E19.5	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-71H17.7	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RPL39P5	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-71H17.9	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP13-635I23.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP13-616I3.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-9N20.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-95L3.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-93K22.6	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-93K22.13	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-933H2.4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RUVBL1-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	SELT	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	SEC62-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	SDHAP1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	SCARNA7	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-91K9.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-91K8.5	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-91G21.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-779P15.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-778D9.13	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-778D9.12	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-774I5.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-768G7.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-768G7.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-758I14.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-757F18.5	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-747D18.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-731C17.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-723O4.9	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-723O4.6	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-723O4.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-71N10.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-71H9.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-71H9.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-779P15.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-77P16.4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-90K6.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-788A4.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-88I21.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-88H10.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-88H10.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-861A13.4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-85M11.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-85F14.5	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-816J6.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-80H8.4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-80H8.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-809F4.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-803P9.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-797D24.4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-797D24.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-78O22.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-78H24.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	hsa-mir-5588	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	COL6A4P2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	COPG1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	CLSTN2-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	CLRN1-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	CPHL1P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	CYP2AB1P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2049J23.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2021J15.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2002J20.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	CT64	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	CCDC39-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	FGF12-AS3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	FGF12-AS2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	FGF12-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	FAM86JP	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	FAM86HP	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	GCSAM	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	DNAJB8-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	DLG1-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	EFCAB12	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	ETV5-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	EFCC1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	EIF2B5-IT1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	EIF2B5-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	EHHADH-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	EGFEM1P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC090505.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC092958.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC092925.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC092905.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC092902.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC091633.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC090505.6	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC090505.4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC083908.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC124944.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC083906.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC083906.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC080008.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC078855.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC078828.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC078816.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC078794.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC092962.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC092964.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC092964.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC092965.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC117444.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC117422.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC117401.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC117395.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC112504.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC108739.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC108697.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC108676.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC107021.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC106706.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC104637.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC104472.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC097103.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC093004.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC092988.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC078785.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC072031.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC069513.4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC021654.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC018450.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC016970.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC011322.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC010207.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC007919.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC007919.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC007620.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	ABCC5-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC020636.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC021660.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC069257.8	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC069243.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC069067.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC068754.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC067718.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC063944.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC063932.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC055723.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC048346.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC046143.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC046143.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC046143.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC026320.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC024560.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC024560.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC023593.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC121332.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC124944.5	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	ATP1B3-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	ATP13A5-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	ATP13A4-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC127904.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	ARHGEF26-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	BFSP2-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	B4GALT4-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	ARHGAP31-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	ADIPOQ-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	ACTRT3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	ACKR4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	ACAP2-IT1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC131160.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC130888.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC128709.4	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC128709.3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC128709.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AF186996.1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	ALG1L2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	ALDH1L1-AS2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	ALDH1L1-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	AF186996.2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	NLGN1-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	NRROS	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	NPHP3-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	NCBP2-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	NUDT16P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	NUP210P1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	OR5H8P	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	OR5AC1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	OPA1-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	NXPE3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	NCBP2-AS2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR720	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	MORC1-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	MME-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR944	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR922	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR5704	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	NAALADL2-AS3	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR570	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR569	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR5682	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR568	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR567	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR551B	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR548I1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	NAALADL2-AS2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	NAALADL2-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	MYLK-AS2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	MYLK-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	MTRNR2L12	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	MTHFD2P1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	OSTN-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	PP13439	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	PLSCR5-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	RASA2-IT1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	PVRL3-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	PLS1-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	PBX2P1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	PEX5L-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	PLCXD2-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	PLCH1-AS2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	PLCH1-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	PEX5L-AS2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR548AQ	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR548AB	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR544B	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	KCNAB1-AS2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	KCNAB1-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	ITGB5-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	ISY1-RAB43	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR5186	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	IQCJ-SCHIP1-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	LEPREL1-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	KRT8P12	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	KLHL6-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	IL20RB-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	HLTF-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	H1FX-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	HMCES	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	IL12A-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	IGSF11-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	HTR3E-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00488	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00501	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00578	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	MFI2-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00635	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	MCCC1-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	MBNL1-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1224	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1263	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1280	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR15B	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR5092	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR5002	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4797	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4796	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4789	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4788	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4448	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4447	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4446	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4445	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3921	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3919	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3137	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR28	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR16-2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01063	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00973	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00969	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00903	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00901	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00888	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00887	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00886	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00885	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00884	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00883	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00882	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00881	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00880	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00879	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00636	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01014	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	LSAMP-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	LPP-AS2	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number	LPP-AS1	Amplification		3	93734671	197538677.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Copy Number		Deletion		X	150512959	150513614.0						0.0	0.0		0												KIRP-5P-A9KC	TCGA-5P-A9KC-01		0	0	0	0	0	0	0
+VUS				Rearrangement	ST7-OT4	Fusion	ST7-OT4--ST7	chr7	116595207							0.0	0.0		0	8.0	ST7-OT4	chr7	116595207.0	ST7	chr7	116738667.0					KIRP-5P-A9KC			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-96H19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	11.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	46965039.0					KIRP-5P-A9KC			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-123O10.4	Fusion	RP11-123O10.4--GRIP1	chr12	67462830							0.0	0.0		0	22.0	RP11-123O10.4	chr12	67462830.0	GRIP1	chr12	66990707.0					KIRP-5P-A9KC			0	0	0	0	0	0	0
+VUS				Rearrangement	MTND4P12	Fusion	MTND4P12--MT-ND1	chr5	134262741							0.0	0.0		0	6.0	MTND4P12	chr5	134262741.0	MT-ND1	chrM	3672.0					KIRP-5P-A9KC			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TA	Fusion	MT-TA--MT-TN	chrM	5604							0.0	0.0		0	7.0	MT-TA	chrM	5604.0	MT-TN	chrM	5708.0					KIRP-5P-A9KC			0	0	0	0	0	0	0
+VUS				Rearrangement	U91319.1	Fusion	SHISA9--U91319.1	chr16	13297406							0.0	0.0		0	7.0	SHISA9	chr16	13297406.0	U91319.1	chr16	13444037.0					KIRP-5P-A9KC			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-446N19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	11.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	46965039.0					KIRP-5P-A9KC			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TN	Fusion	MT-TA--MT-TN	chrM	5604							0.0	0.0		0	7.0	MT-TA	chrM	5604.0	MT-TN	chrM	5708.0					KIRP-5P-A9KC			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-RNR2	Fusion	MT-CO1--MT-RNR2	chrM	6533							0.0	0.0		0	95.0	MT-CO1	chrM	6533.0	MT-RNR2	chrM	1706.0					KIRP-5P-A9KC			0	0	0	0	0	0	0

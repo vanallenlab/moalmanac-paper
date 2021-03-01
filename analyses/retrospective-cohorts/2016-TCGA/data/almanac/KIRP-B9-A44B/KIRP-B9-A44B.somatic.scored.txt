@@ -1,0 +1,1235 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Investigate Actionability	Investigate Actionability	Investigate Actionability		Somatic Variant	ALK	Missense	p.Q1336H	2	29420473	29420473.0	C	C	A	0.45	60.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	3	1	0	1	0	0	2
+Investigate Actionability	Investigate Actionability			Somatic Variant	PBRM1	Missense	p.A905E	3	52637647	52637647.0	G	G	T	0.9048	21.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	2	1	1	1	0	1	1
+Investigate Actionability	Investigate Actionability	Investigate Actionability		Somatic Variant	BRCA2	Missense	p.K1264R	13	32912283	32912283.0	A	A	G	0.4286	14.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	2	1	0	1	1	1	2
+Biologically Relevant				Copy Number	TSC2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		1	0	0	1	1	1	1
+Biologically Relevant				Copy Number	PALB2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		1	0	0	1	0	0	1
+Cancer Hotspot				Copy Number	CREBBP	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	1	1	1	1	0	1
+Cancer Hotspot				Somatic Variant	EIF4A2	Missense	p.Q149H	3	186503770	186503770.0	G	G	T	0.2308	104.0	0.0	0.0		0								127.0	0.1969	1.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	1	1	1	0	1	2
+Cancer Hotspot				Somatic Variant	SETD2	Frameshift	p.G720fs	3	47163966	47163967.0	-	-	C	0.8	40.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	1	1	1	0	1	1
+Cancer Hotspot				Somatic Variant	ARID2	Frameshift	p.K102fs	12	46205220	46205221.0	AA	AA	-	0.3766	77.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	1	0	1	0	1	1
+Cancer Hotspot				Copy Number	SOCS1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	1	0	1	0	1	1
+Cancer Hotspot				Copy Number	TRAF7	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	1	0	1	0	1	1
+Cancer Hotspot				Copy Number	PDPK1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	1	0	0	1	1	1
+Cancer Hotspot 3D				Copy Number	PRKCB	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	1	1	1	1	1
+Cancer Hotspot 3D				Copy Number	IL21R	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	1	1	0	1	1
+Cancer Hotspot 3D				Copy Number	TCEB2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	1	0	1	1	1
+Cancer Hotspot 3D				Somatic Variant	MYO10	Missense	p.V1308G	5	16685914	16685914.0	A	A	C	0.4419	43.0	0.0	0.0		0								11.0	0.2727	0.7716		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	1	0	0	1	2
+Cancer Hotspot 3D				Somatic Variant	EPS15L1	Frameshift	p.Y74fs	19	16548668	16548669.0	AT	AT	-	0.31	100.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	ITGAM	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	GGA2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	TRAP1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	NME3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	LCMT1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	ITFG1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	1	0	0	0	1
+Cancer Hotspot 3D				Copy Number	MLST8	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	1	0	0	0	1
+Cancer Hotspot 3D				Copy Number	GPT2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	1	0	0	0	1
+Cancer Gene Census				Somatic Variant	SPEN	Missense	p.L1868V	1	16258337	16258337.0	T	T	G	0.7059	51.0	0.0	0.0		0								5.0	0.6	0.5282		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	1	0	1	2
+Cancer Gene Census				Somatic Variant	KAT6B	Missense	p.C1017S	10	76781667	76781667.0	G	G	C	0.322	59.0	0.0	0.0		0								2.0	1.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	1	0	1	2
+Cancer Gene Census				Copy Number	CIITA	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	TNFRSF17	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	MYH11	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	NTHL1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	GRIN2A	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	FUS	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	1	0	1	1
+Cancer Gene Census				Somatic Variant	PTPRB	Missense	p.D1870E	12	70932007	70932007.0	A	A	T	0.4043	141.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	1	0	0	1
+Cancer Gene Census				Copy Number	SS18L1	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	1	0	0	1
+Cancer Gene Census				Copy Number	PTK6	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	1	0	0	1
+Cancer Gene Census				Copy Number	RMI2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	1	0	0	1
+Cancer Gene Census				Copy Number	ERCC4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	1	0	0	1
+Cancer Pathway				Somatic Variant	PRKAR2B	Nonsense	p.Y399*	7	106799967	106799967.0	T	T	A	0.3977	88.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	1	1	2
+Cancer Pathway				Somatic Variant	DAPK2	Missense	p.R313S	15	64204316	64204316.0	C	C	G	0.5306	49.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	1	1	2
+Cancer Pathway				Somatic Variant	PXN	Frameshift	p.Q331fs	12	120653013	120653013.0	G	G	-	0.4828	58.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	LAMA5	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	CD19	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	ITGAL	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	PSMA7	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	SPN	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	MAPK3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	1	0	1
+Cancer Module				Somatic Variant	HS1BP3	Missense	p.A357P	2	20818857	20818857.0	C	C	G	0.5064	156.0	0.0	0.0		0								378.0	0.4894	1.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ADCK2	Missense	p.D419Y	7	140380887	140380887.0	G	G	T	0.4215	223.0	0.0	0.0		0								59.0	0.33899999999999997	1.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	PHLDB1	Missense	p.R901K	11	118509935	118509935.0	G	G	A	0.8033	61.0	0.0	0.0		0								55.0	0.8	1.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	PTRF	Missense	p.K173N	17	40557359	40557359.0	T	T	A	0.2143	14.0	0.0	0.0		0								106.0	0.1887	0.9956		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	CD97	Missense	p.C612F	19	14517156	14517156.0	G	G	T	0.5833	24.0	0.0	0.0		0								14.0	0.6429	0.9777		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	BCAS4	Missense	p.H126Y	20	49458324	49458324.0	C	C	T	0.4368	190.0	0.0	0.0		0								17.0	0.4706	0.9717		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	PLK1	Missense	p.R57S	16	23690422	23690422.0	C	C	A	0.3559	118.0	8e-06	0.0		0								16.0	0.25	0.8648		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	PRRC1	Missense	p.G132A	5	126860514	126860514.0	G	G	C	0.4667	150.0	0.0	0.0		0								10.0	0.6	0.7614		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	MDC1	Missense	p.A236S	6	30681013	30681013.0	C	C	A	0.051	98.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	PKD1L1	Missense	p.G2368R	7	47853600	47853600.0	C	C	T	0.5366	41.0	1.6e-05	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	PCLO	Missense	p.K1668R	7	82585266	82585266.0	T	T	C	0.4607	89.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ACIN1	Missense	p.E412Q	14	23549484	23549484.0	C	C	G	0.45399999999999996	174.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	CELSR3	Missense	p.F2183S	3	48686573	48686573.0	A	A	G	0.0423	71.0	8e-06	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	IGF2R	Missense	p.Y196H	6	160445676	160445676.0	T	T	C	0.2734	139.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	DSG3	Missense	p.S88A	18	29038453	29038453.0	T	T	G	0.5116	86.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SCN2A	Nonsense	p.K96*	2	166153545	166153545.0	A	A	T	0.5369	149.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	THPO	Missense	p.I243S	3	184090635	184090635.0	A	A	C	0.3305	118.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SNAP91	Missense	p.Y127N	6	84371294	84371294.0	A	A	T	0.5846	65.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	NEUROD6	Missense	p.E148D	7	31378439	31378439.0	T	T	A	0.4133	75.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	NEUROD6	Missense	p.E148V	7	31378440	31378440.0	T	T	A	0.3974	78.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	DCHS1	Missense	p.P904Q	11	6654032	6654032.0	G	G	T	0.4494	178.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	KRT85	Missense	p.A507T	12	52754642	52754642.0	C	C	T	0.4091	44.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	TMCC3	Missense	p.I466V	12	94965249	94965249.0	T	T	C	0.475	120.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ABCC4	Missense	p.A449S	13	95840715	95840715.0	C	C	A	0.175	80.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	RDH11	Missense	p.K26T	14	68159767	68159767.0	T	T	G	0.3562	73.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ZDHHC8	Missense	p.N239Y	22	20128194	20128194.0	A	A	T	0.52	25.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	KCNAB2	Missense	p.T74N	1	6142274	6142274.0	C	C	A	0.4127	63.0	8e-06	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	NTSR1	Missense	p.A311T	20	61389632	61389632.0	G	G	A	0.0497	161.0	0.000124	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	POMZP3	Missense	p.S182Y	7	76240801	76240801.0	G	G	T	0.3392	286.0	0.0	0.0		0								88.0	0.1364	1.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	MINK1	Missense	p.E295G	17	4789856	4789856.0	A	A	G	0.3218	87.0	0.0	0.0		0								14.0	0.4286	0.7018		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	SYNE2	Missense	p.A3358D	14	64522891	64522891.0	C	C	A	0.45	100.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	SYNE2	Missense	p.Y5052C	14	64610587	64610587.0	A	A	G	0.5263	133.0	8e-06	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	PCLO	Frameshift	p.K3621fs	7	82579041	82579041.0	T	T	-	0.4124	97.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	DSP	Frameshift	p.K237fs	6	7562996	7562996.0	A	A	-	0.4255	94.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	AIM1	Missense	p.G463W	6	106967694	106967694.0	G	G	T	0.0484	62.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	CD6	Deletion	p.VTI381del	11	60778597	60778605.0	AGTCACTAT	AGTCACTAT	-	0.3041	148.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	CTTNBP2NL	Frameshift	p.K435fs	1	112999419	112999419.0	G	G	-	0.6031	131.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	SLC17A3	Frameshift	p.L374fs	6	25850278	25850278.0	A	A	-	0.4111	90.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	KCNH3	Frameshift	p.D876fs	12	49951017	49951018.0	AC	AC	-	0.4414	111.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	NUSAP1	Missense	p.T239A	15	41657726	41657726.0	A	A	G	0.4032	62.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	BZRAP1	Missense	p.P1780L	17	56382447	56382447.0	G	G	A	0.0446	112.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	CECR2	Missense	p.A1205T	22	18029082	18029082.0	G	G	A	0.5111	45.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	COL4A5	Missense	p.G1602S	X	107938134	107938134.0	G	G	A	0.0368	163.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	GUCY2D	Missense	p.R490Q	17	7910749	7910749.0	G	G	A	0.069	58.0	8e-06	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	TRPM2	Missense	p.R1384H	21	45855040	45855040.0	G	G	A	0.0476	63.0	0.00025499999999999996	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	DNALI1	Deletion	p.K253del	1	38027791	38027793.0	AGA	AGA	-	0.551	98.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	RPSA	Splice Site		3	39453553	39453556.0	GTAT	GTAT	-	0.8095	21.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	EEF1D	Missense	p.R87T	8	144661995	144661995.0	C	C	G	0.3977	88.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	PNLIPRP1	Missense	p.T347I	10	118360690	118360690.0	C	C	T	0.0635	63.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	NPTX1	Frameshift	p.V199fs	17	78449367	78449367.0	A	A	-	0.4327	104.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	POLA1	Missense	p.I443K	X	24744126	24744126.0	T	T	A	0.7308	26.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	1	1
+Cancer Module				Copy Number	DIDO1	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	IL4R	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNF646	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ABCC6	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	ABCA7	Fusion	ABCA7--COL5A3	chr19	1059084							0.0	0.0		0	80.0	ABCA7	chr19	1059084.0	COL5A3	chr19	10114821.0					KIRP-B9-A44B			0	0	0	0	0	1	1
+Cancer Module				Copy Number	TELO2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NOMO1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PKD1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PRSS27	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	COL9A3	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TPSAB1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CPPED1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	BAIAP3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	C16orf71	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MMP25	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MSLN	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PPL	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KIAA0556	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	COL5A3	Fusion	ABCA7--COL5A3	chr19	1059084							0.0	0.0		0	80.0	ABCA7	chr19	1059084.0	COL5A3	chr19	10114821.0					KIRP-B9-A44B			0	0	0	0	0	1	1
+Cancer Module				Copy Number	KCNQ2	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	OSBPL2	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RBBP6	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	QPRT	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RNF40	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TBL3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TFAP4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	THUMPD1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLX4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TMEM159	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TNFRSF12A	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TNRC6A	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SRCAP	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SRRM2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SULT1A2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNF200	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNF263	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNF668	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZP2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SCNN1B	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SEZ6L2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SHCBP1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RPL3L	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CRYM	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CCP110	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DNAH3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DNAJA3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DNASE1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EARS2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ABCC1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	AQP8	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	BCKDK	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EIF3C	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NFATC2IP	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NTN3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HAGH	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	IL32	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	METTL22	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GPRC5B	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LITAF	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MAPK8IP3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GMEB2	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CDH4	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CHRNA4	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RPS21	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	COL20A1	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TAF4	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TCFL5	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EEF1A2	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PPDPF	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NTSR1	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PYCARD	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RAB26	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RHBDL1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RBFOX1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PMM2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TAOK2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TBX6	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TMC5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SYT17	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SULT1A3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SNN	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SOX8	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SPNS1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	STX1B	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNF267	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNF423	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNF764	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TUFM	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	UBE2I	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	UBN1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	UMOD	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	UNKL	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	UQCRC2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	YPEL3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SMG1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RPS15A	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RPS2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RPUSD1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SCNN1G	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SEPHS2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SIAH1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC5A2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC9A3R2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PRSS8	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CLDN9	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CLN3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CORO1A	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	COX6A2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CACNG3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CBLN1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CCDC101	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CCNF	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CD2BP2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CDIPT	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CDR2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CHP2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CTF1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DCTPP1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DEXI	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DNASE1L2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DOC2A	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ECI1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ABCA3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ARL6IP1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ATP2A1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ATP6V0C	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ATXN2L	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	C16orf45	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	C16orf58	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	C16orf62	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ACSM3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ACSM5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ALDOA	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MKL2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MVP	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MYLPF	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NAGPA	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NDE1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NDUFAB1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NDUFB10	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NMRAL1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PKMYT1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PLK1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ABAT	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PPP4C	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PRM2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NUDT16L1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NUPR1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ORC6	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PAM16	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	METTL9	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GTF3C1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HAGHL	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HEATR3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HMOX2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HS3ST2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	IFT140	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	IGSF6	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GSPT1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EMP2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FAHD1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FAM195A	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FBRS	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FLYWCH2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GP2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LAT	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LYRM1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MAZ	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ITGAX	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KIAA0430	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KIF22	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GPR137B	Deletion		1	236346198	236346213.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	SNRPA	Fusion	SNRPA--ANKRD24	chr19	41257386							0.0	0.0		0	25.0	SNRPA	chr19	41257386.0	ANKRD24	chr19	4199680.0					KIRP-B9-A44B			0	0	0	0	0	1	1
+Cancer Module				Copy Number	PLA2G10	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	1	0
+Cosmic				Somatic Variant	MRPL24	Missense	p.R105W	1	156707893	156707893.0	G	G	A	0.1933	269.0	4.9e-05	0.0		0								290.0	0.1724	1.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	NAT9	Missense	p.N149T	17	72768142	72768142.0	T	T	G	0.4404	109.0	0.0	0.0		0								53.0	0.4528	1.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	PARP6	Missense	p.P433S	15	72543559	72543559.0	G	G	A	0.48	75.0	0.0	0.0		0								26.0	0.7308	0.9995		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	FUT11	Missense	p.A406V	10	75533456	75533456.0	C	C	T	0.525	80.0	0.0	0.0		0								18.0	0.3889	0.9956		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ZNF622	Missense	p.V99A	5	16465479	16465479.0	A	A	G	0.2114	123.0	0.0	0.0		0								38.0	0.2368	0.9607		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	MATR3	Missense	p.M45I	5	138643239	138643239.0	G	G	A	0.4506	162.0	0.0	0.0		0								15.0	0.3333	0.9515		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	RNF19A	Missense	p.R412W	8	101276971	101276971.0	G	G	A	0.2388	67.0	0.0	0.0		0								27.0	0.1111	0.8913		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	WDR20	Missense	p.L388I	14	102675669	102675669.0	C	C	A	0.3672	128.0	0.0	0.0		0								11.0	0.4545	0.6199		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	NUS1	Missense	p.V223I	6	118015319	118015319.0	G	G	A	0.5797	69.0	0.0	0.0		0								6.0	0.5	0.4992		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	HERPUD2	Missense	p.D2N	7	35733937	35733937.0	C	C	T	0.365	137.0	0.0	0.0		0								7.0	0.4286	0.2336		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	MED13	Missense	p.N1567S	17	60042511	60042511.0	T	T	C	0.3973	219.0	8e-06	0.0		0								4.0	0.5	0.0262		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	MDN1	Nonsense	p.S3479*	6	90402313	90402313.0	G	G	C	0.2209	163.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	EFCAB5	Missense	p.K177N	17	28296149	28296149.0	A	A	T	0.4675	77.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	AXDND1	Missense	p.K754T	1	179460842	179460842.0	A	A	C	0.1786	224.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	POC1A	Missense	p.S176I	3	52181040	52181040.0	C	C	A	0.25	100.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	CACNA2D4	Missense	p.C1127R	12	1902856	1902856.0	A	A	G	0.3178	107.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	CARD14	Missense	p.D444N	17	78166392	78166392.0	G	G	A	0.2174	161.0	8e-06	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ATXN7L2	Missense	p.R102T	1	110029635	110029635.0	G	G	C	0.1398	93.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	CELF3	Missense	p.G12E	1	151688462	151688462.0	C	C	T	0.6606	109.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	SPACA1	Missense	p.P258H	6	88775941	88775941.0	C	C	A	0.3793	29.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	HACE1	Missense	p.F55Y	6	105298839	105298839.0	A	A	T	0.5513	78.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	SOBP	Missense	p.A106D	6	107827527	107827527.0	C	C	A	0.1774	62.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	FBXO3	Missense	p.G347E	11	33770331	33770331.0	C	C	T	0.275	40.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	SENP8	Missense	p.Y166F	15	72432461	72432461.0	A	A	T	0.3103	29.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	LONP2	Missense	p.L460R	16	48311386	48311386.0	T	T	G	0.32899999999999996	155.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	WFDC8	Missense	p.P166T	20	44181865	44181865.0	G	G	T	0.4216	102.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	CDH9	Missense	p.R137Q	5	26915851	26915851.0	C	C	T	0.3295	88.0	0.000132	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	KIF21A	Missense	p.Q890E	12	39726729	39726729.0	G	G	C	0.4044	136.0	0.0	0.0		0								13.0	0.6923	0.8304		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	CCDC129	Missense	p.D486E	7	31682718	31682718.0	C	C	A	0.4259	108.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	LRRC37B	Frameshift	p.A370fs	17	30349520	30349520.0	C	C	-	0.375	240.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	ZNF648	Frameshift	p.KEE76fs	1	182026912	182026918.0	TTCCTCT	TTCCTCT	-	0.1959	148.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	TMPRSS11A	Frameshift	p.Y405fs	4	68777111	68777111.0	G	G	-	0.4487	156.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	RBM33	Frameshift	p.N707fs	7	155534581	155534582.0	-	-	A	0.4043	141.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	PDCD11	Deletion	p.F1835del	10	105205187	105205189.0	TTC	TTC	-	0.3	190.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	HEPHL1	Deletion	p.SGTRND216del	11	93797512	93797529.0	ATTCAGGGACACGGAATG	ATTCAGGGACACGGAATG	-	0.1562	64.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	C22orf42	Deletion	p.Q62del	22	32555017	32555019.0	CTG	CTG	-	0.1918	245.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	FLVCR2	Missense	p.G235S	14	76107380	76107380.0	G	G	A	0.0284	176.0	1.6e-05	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	RCAN3	Frameshift	p.E31fs	1	24840954	24840954.0	A	A	-	0.4686	239.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	PGAP1	Missense	p.L15M	2	197784853	197784853.0	G	G	T	0.4419	43.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	MKRN2	Missense	p.V44I	3	12611673	12611673.0	G	G	A	0.9231	65.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	GRPEL2	Missense	p.S82F	5	148730494	148730494.0	C	C	T	0.2414	58.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	KLC4	Frameshift	p.-507fs	6	43041642	43041643.0	-	-	CAACACGA	0.2524	103.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	KLC4	Missense	p.M508T	6	43041648	43041648.0	T	T	C	0.32	100.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	YIPF3	Missense	p.L261P	6	43480515	43480515.0	A	A	G	0.3725	153.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	FUT10	Frameshift	p.I309fs	8	33246682	33246683.0	-	-	A	0.4154	260.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	HNRNPUL2	Frameshift	p.E241fs	11	62491416	62491416.0	C	C	-	0.6159	138.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	CCDC42B	Frameshift	p.K244fs	12	113593105	113593106.0	AG	AG	-	0.4638	69.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	SAMD4A	Missense	p.L284F	14	55203876	55203876.0	C	C	T	0.3846	104.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	C15orf41	Missense	p.I215K	15	37002072	37002072.0	T	T	A	0.4318	88.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	FANCI	Frameshift	p.G40fs	15	89801970	89801970.0	A	A	-	0.4615	91.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	DOCK9	Missense	p.N1988S	13	99449739	99449739.0	T	T	C	0.1739	92.0	8e-06	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	SLC44A3	Missense	p.I618T	1	95360468	95360468.0	T	T	C	0.1903	226.0	2.5e-05	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	1
+Cosmic				Copy Number	PTX4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ABCC12	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	VWA3A	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	WDR90	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TPSD1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ABCC11	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MSLNL	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRR25	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SRMS	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CACNA1H	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Rearrangement	ANKRD24	Fusion	SNRPA--ANKRD24	chr19	41257386							0.0	0.0		0	25.0	SNRPA	chr19	41257386.0	ANKRD24	chr19	4199680.0					KIRP-B9-A44B			0	0	0	0	0	0	1
+Cosmic				Copy Number	CABLES2	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC17A9	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	BIRC7	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NKAIN4	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZKSCAN2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF598	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	XYLT1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CHTF18	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	BRICD5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	APOBR	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ANKS3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ALG1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PDXDC1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NPW	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	IGFALS	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FOPNL	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OGFR	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RHOT2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TEKT5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM204	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SNX29	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SULT1A1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF205	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF48	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF768	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RRN3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC5A11	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CORO7	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CRAMP1L	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCDC78	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRSS53	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	E4F1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C16orf78	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ASPHD1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ANKS4B	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ACSM2A	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ACSM2B	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	EEF2K	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NARFL	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PHKB	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRR14	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NSMCE1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR1F1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2C1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	HS3ST4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	HS3ST6	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	HSD3B7	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ERN2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FLYWCH1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GFER	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GLIS2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GLYR1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	LMF1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	KREMEN2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RFTN2	Amplification		2	198534822	198538671.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C20orf166	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C20orf195	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	LSM14B	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	BHLHE23	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ARFGAP1	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	HRH3	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GATA5	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ADRM1	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLCO4A1	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	YTHDF1	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RP11-231C14.4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RABEP2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RAB40C	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PYDC1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RNPS1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RNF151	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ROGDI	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RP11-166B2.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMC7	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TBC1D10B	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TBC1D24	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TGFB1I1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	THOC6	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TIGD7	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM114	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM186	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM219	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TNP2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TP53TG3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TP53TG3B	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TP53TG3C	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TPSB2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SYNGR3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SULT1A4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SNX29P2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SPSB3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SRL	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SSTR5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	STUB1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	STX4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TPSG1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF213	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF500	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF597	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF629	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF688	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF689	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF720	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF747	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF75A	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF771	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF785	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF843	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZSCAN10	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF174	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZG16B	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZG16	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TRIM72	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TXNDC11	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	UBFD1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	USP31	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	USP7	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	VASN	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	VKORC1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	VPS35	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	WDR24	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	WFIKKN1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	XPO6	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZC3H7A	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLX1B	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RSL1D1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SBK1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SDR42E2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SEC14L5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SEPT1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SEPT12	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SETD1A	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SH2B1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SHISA9	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLX1A	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CLEC19A	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CLUAP1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	COG7	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	COQ7	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CTB-134H23.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CLEC16A	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CLDN6	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CLCN7	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C16orf90	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C16orf91	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C16orf92	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C16orf93	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C16orf96	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C1QTNF8	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CARHSP1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CASKIN1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CASP16	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCDC154	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCDC64B	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CEMP1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DCTN5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DCUN1D3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DNAJA2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C16orf89	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C16orf87	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ARHGAP17	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ARMC5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	BCL7C	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	BFAR	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	BOLA2B	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C16orf13	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C16orf52	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C16orf54	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C16orf59	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C16orf72	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	AC142381.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ACSM1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ADCY9	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	AHSP	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	AMDHD2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	EIF3CL	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MPV17L	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MRPS34	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MTRNR2L4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MYLK3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	N4BP1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NAA60	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NETO2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NLRC3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NOMO2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NOMO3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NOXO1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	EME2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PDZD9	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PGP	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PHKG2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	POLR3E	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRM1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRM3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRRT2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRSS21	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRSS22	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRSS33	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRSS36	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PDILT	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NPIPP1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NTAN1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NUBP1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NUBP2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ORAI3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OTOA	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PAPD5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PAQR4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PARN	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MGRN1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GSG1L	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	HCFC1R1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	HIRIP3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	HN1L	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	IL27	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ERI2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM173A	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM57B	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM86A	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FBXL16	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FBXL19	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GDE1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GDPD3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GNG13	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GNPTG	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GPR139	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	INO80E	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	IQCK	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	METRN	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	LINC00273	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	LONP2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ITGAD	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ITPRIPL2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	JMJD8	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	KAT8	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	KCTD13	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	KCTD5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MEFV	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-ATP6--MT-ATP8	chrM	8640							0.0	0.0		0	49.0	MT-ATP6	chrM	8640.0	MT-ATP8	chrM	8511.0					KIRP-B9-A44B			0	0	0	0	0	0	1
+Cosmic				Rearrangement	C7orf50	Fusion	C7orf50--CD177	chr7	1166893							0.0	0.0		0	17.0	C7orf50	chr7	1166893.0	CD177	chr19	43858005.0					KIRP-B9-A44B			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP8	Fusion	MT-ATP6--MT-ATP8	chrM	8640							0.0	0.0		0	49.0	MT-ATP6	chrM	8640.0	MT-ATP8	chrM	8511.0					KIRP-B9-A44B			0	0	0	0	0	0	1
+Cosmic				Rearrangement	CD177	Fusion	C7orf50--CD177	chr7	1166893							0.0	0.0		0	17.0	C7orf50	chr7	1166893.0	CD177	chr19	43858005.0					KIRP-B9-A44B			0	0	0	0	0	0	1
+VUS				Somatic Variant	EFCAB14	Frameshift	p.F476fs	1	47144193	47144194.0	AA	AA	-	0.3725	51.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	0
+VUS				Somatic Variant	MSS51	Missense	p.R109I	10	75187422	75187422.0	C	C	A	0.5345	58.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	0
+VUS				Somatic Variant	C2CD5	Missense	p.P315H	12	22670928	22670928.0	G	G	T	0.4247	73.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	0
+VUS				Somatic Variant	SGK494	Missense	p.M270T	17	26938587	26938587.0	A	A	G	0.3165	79.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	0
+VUS				Somatic Variant	SLC25A53	Missense	p.G202S	X	103349337	103349337.0	C	C	T	0.12	75.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B9-A44B	KIRP-B9-A44B-TP	KIRP-B9-A44B-NB	0	0	0	0	0	0	0
+VUS				Copy Number	HELZ2	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RBBP8NL	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CDIP1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-157P1.5	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	C20orf166-AS1	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR133A2	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1257	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR124-3	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1-1	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3196	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4326	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-157P1.4	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-151E14.1	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4758	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR548AG2	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	MRGBP	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	MTG2	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01056	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-994P	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-429E11.2	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-305P22.9	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-358D14.2	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-429E11.3	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00686	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	HAR1B	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	HAR1A	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	GID8	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-261N11.8	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-93B14.4	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-93B14.5	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-93B14.6	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00029	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP13-30A9.1	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP13-30A9.2	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP13-379O24.2	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP13-379O24.3	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-697K14.3	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-827L5.1	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-827L5.2	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-908M14.5	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-963E22.4	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-963E22.5	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00659	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	OGFR-AS1	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	WI2-87327B8.1	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	hsa-mir-3195	Amplification		20	59077209	62219837.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-264B17.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-264B17.4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-264B17.5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-279O17.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-264B17.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-266L9.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-266L9.5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-26O3.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-276H1.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-276H1.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-27M24.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-279O17.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-279O17.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-24N18.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-27M24.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-27M24.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-295D4.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-297C4.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-297C4.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-297C4.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-297M9.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-297M9.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP127	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-213P	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-244B22.6	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-244B22.11	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL54P	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL522P	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL493P	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL367P	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-20I23.6	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-20I23.7	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL274P	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-20I23.8	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-21M24.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-21M24.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL245P	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL219P	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP23	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-22D3.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-22D3.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-22P6.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-22P6.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-23E10.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-23E10.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-23E10.4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-243A14.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-243A14.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-243A14.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-2C24.6	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-2C24.4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-304L19.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-420N3.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-426C22.4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-426C22.5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-426C22.6	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-429K17.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-429P3.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-429P3.5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL743P	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-42I10.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-449H11.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-44I10.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-44I10.6	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-452L6.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-452L6.5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-452L6.7	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-455F5.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-455F5.4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-455F5.5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-457I16.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-418I22.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-3M1.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-396B14.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-388M20.9	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-304L19.11	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-304L19.12	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-304L19.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-304L19.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-304L19.4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-304L19.5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-304L19.8	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-305A4.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-329J18.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-329J18.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-345J4.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-345J4.5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-347C12.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-347C12.10	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-347C12.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-347C12.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-352B15.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-368J21.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-382N13.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-388M20.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-388M20.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-388M20.6	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL557P	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL99P	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL850P	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-146F11.5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1186N24.5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-120K18.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1043P	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1005P	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU4-46P	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1212A22.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1212A22.4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-124K4.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-127I20.5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU1-22P	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-127I20.7	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1348G14.4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1348G14.5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-141O15.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-142A12.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU1-125P	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1437A8.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1437A8.4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1437A8.5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1437A8.6	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-143N13.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP425	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1166P10.6	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1166P10.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-10K17.6	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-159P	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-328P	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-416P	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-457P	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-633P	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-845P	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-944P	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-196P	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-125P	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-199P	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-24P	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-61P	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-63P	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-109M19.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-99P	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1340P	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNY4P3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-101E7.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1021N1.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1035H13.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1035H13.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-105C19.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-105C19.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1241P	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-146F11.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-14K3.7	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL90P	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-14N9.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP413	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-189E14.4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP410	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-189E14.5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-196G11.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-196G11.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-196G11.4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP409	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-19N8.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-19N8.4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-19N8.7	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-204E4.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-20G6.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-20G6.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP408	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-20I23.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-20I23.11	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-20I23.13	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP407	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP406	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP405	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP404	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP403	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5-8SP2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-257P	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP415	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP416	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-189E14.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-166B2.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP424	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-152P23.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP423	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP422	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-161M6.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-161M6.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-161M6.5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-165E7.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-165M1.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-165M1.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP421	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-17M15.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP420	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP419	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP418	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-166B2.5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-166B2.7	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-166B2.8	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-169E6.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-169E6.4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-177N22.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-17M15.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP417	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-461A8.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-461A8.4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	TP53TG3D	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	SMG1P1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	SMIM22	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	SNHG9	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	SNORA1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	SNORA10	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	SNORA27	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	SNORA42	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	SNORA43	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	SNORA75	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD60	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	SRRM2-AS1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	SSTR5-AS1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	ZNF205-AS1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	ZSCAN32	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	hsa-mir-3180-3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	hsa-mir-3180-4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	TSR3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	TVP23A	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	U91319.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	U95743.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	UBALD1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	XX-DJ76P10__A.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	SLX1B-SULT1A4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-462G12.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-616M22.5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-568A19.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-56L13.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-56L13.7	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-57A19.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-57A19.5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-586K12.10	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-586K12.11	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-586K12.13	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-586K12.4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-586K12.8	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-609N14.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-616M22.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-616M22.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-616M22.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-616M22.7	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-626G11.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-626G11.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-626G11.4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-626G11.5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-626K17.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-645C24.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-645C24.5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-652G5.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-65J21.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-65J21.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-65J21.4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-66H6.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-673P17.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-673P17.4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-552C15.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-523L20.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-523L20.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-517A5.7	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-462G12.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-462G12.4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-468I15.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-46D6.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-473I1.10	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-473I1.5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-473I1.6	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-473I1.9	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-473M20.11	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-473M20.14	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-473M20.16	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-473M20.5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-473M20.7	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-473M20.9	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-474B12.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-480G7.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-485G7.5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-485G7.6	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-488I20.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-488I20.8	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-488I20.9	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-490O6.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-491F9.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-491F9.5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-491F9.6	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-491F9.8	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-509E10.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-517A5.4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-517A5.5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-67H24.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-680G24.5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-709D24.5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-989E6.8	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RRN3P1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RRN3P2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RRN3P3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	SCARNA6	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	SLC6A10P	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	SLX1A-SULT1A3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-989E6.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-709D24.6	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-989E6.10	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-715J22.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-715J22.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-715J22.4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-715J22.6	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-719K4.6	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-72I8.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-77H9.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-77H9.5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-77H9.6	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-77H9.8	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-80F22.10	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-80F22.14	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-80F22.15	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-80F22.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-80F22.4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-80F22.9	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-812E19.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-812E19.7	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-812E19.9	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-82O18.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-876N24.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-876N24.4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-876N24.5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-895K13.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-916L7.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-93O14.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-958N24.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-95P2.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-95P2.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-483K5.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	hsa-mir-3670-2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CLUHP3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CNEP1R1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CORO7-PAM16	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CRYM-AS1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTA-249B10.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTA-276F8.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTA-363E6.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTA-363E6.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTA-363E6.5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTA-363E6.6	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTA-363E6.7	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTA-481E9.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTA-481E9.4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTA-972D3.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-134H23.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-193M12.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-31N19.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	C16orf98	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CDIPT-AS1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-193M12.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-391G2.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2540M10.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2547G23.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2574D22.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2574D22.4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2576D5.4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2583P5.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2583P5.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-3037G24.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-3037G24.4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-3088G3.6	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-3088G3.8	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-3126B10.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-3126B10.4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-3203P2.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-3203P2.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-3229J4.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2547E10.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2535I10.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-508F8.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2515A14.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-527H23.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-527H23.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-527H23.4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2014E2.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2014E2.5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2014E2.6	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2049O4.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2135D7.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2135D7.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2135D7.4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2135D7.5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2144E22.5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2144E22.6	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2144E22.8	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2194A8.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2196E14.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2196E14.4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2196E14.5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2196E14.6	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2196E14.9	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2270L9.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2270L9.4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2288F12.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2313J23.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2349B8.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2358C21.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2358C21.4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2380F24.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2385L22.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	C16orf82	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC009041.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC009065.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC009065.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC009121.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC009133.12	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC009133.14	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC009133.15	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC009133.17	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC009133.20	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC009133.21	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC009134.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC009158.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC012175.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC012317.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC016597.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC018767.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC023818.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC023824.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC026471.6	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC027348.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC074051.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC092117.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC092117.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC092122.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC092122.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC092287.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC092291.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC092380.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC093515.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC106782.20	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC009065.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC009035.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC008938.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	ABCA17P	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	ABCC6P1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC002310.12	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC002310.13	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC002310.7	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC002331.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC002519.6	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC002519.8	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC002550.5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC002551.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC003003.5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC003009.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC004125.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC004381.6	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC004381.7	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005356.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005606.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005606.14	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005606.15	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC007216.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC007216.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC007339.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC007353.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC007611.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC116553.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC126763.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC134300.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC135048.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	ARHGAP23P1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	ATF7IP2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	ATP6C	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	BCAR4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	BMS1P8	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	BOLA2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC135048.13	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC135050.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC135050.5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC136932.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC136932.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC137056.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC138969.4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC140542.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC141586.5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	ANKRD26P1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AF001548.5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AF001548.6	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AF001550.7	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AJ003147.8	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AJ003147.9	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL022341.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL031721.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL499628.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	MSRB1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	NPIPA1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	NPIPA2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR940	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	NPIPA5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR762	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR193B	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1972-1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3177	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3178	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3179-1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3179-2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3179-3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3180-1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3180-2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3180-3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3180-4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3180-5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR365A	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3670-1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3670-2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3677	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3680-1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3680-2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4516	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4517	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4518	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4519	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4717	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4718	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4721	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR484	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR548H2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR548W	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR662	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	NPIPA3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	NPIPA7	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	PDPK2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	PKD1P5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	PKD1P6	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	PRSS29P	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	PRSS30P	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	PRSS41	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	NPIPA8	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	NPIPB11	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	NPIPB3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	NPIPB4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	NPIPB5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	NPIPB6	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	NPIPB7	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	NPIPB8	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	NPIPB9	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	PAGR1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1225	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	HERC2P4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	HERC2P5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	HERC2P8	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	IGHV2OR16-5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	IGHV3OR16-10	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	IGHV3OR16-12	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	IGHV3OR16-13	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	IGHV3OR16-8	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	IGHV3OR16-9	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	IL21R-AS1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	ERVK13-1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	FBXL19-AS1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	LA16c-395F10.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	LA16c-380A1.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	LA16c-380H5.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	LA16c-380H5.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	LA16c-380H5.4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	LA16c-380H5.5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	LA16c-381G6.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	LA16c-385E7.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	LA16c-390E6.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	LA16c-390E6.4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	LA16c-390E6.5	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	LA16c-390H2.4	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	LA16c-395F10.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	LA16c-425C2.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	MEIOB	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	LA16c-429E7.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	LA16c-431H6.6	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00514	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	LA16c-366D3.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	LA16c-361A3.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	LA16c-360H6.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	KDM8	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	KNOP1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	LA16c-306A4.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	LA16c-306A4.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	LA16c-306E5.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	LA16c-312E8.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	LA16c-313D11.12	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	LA16c-313D11.9	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	LA16c-316G12.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	LA16c-321D4.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	LA16c-325D7.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	LA16c-325D7.2	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	LA16c-329F2.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	LA16c-349E10.1	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	LA16c-358B7.3	Amplification		16	653459	50222223.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number		Deletion		X	50773700	50775417.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Copy Number	AP000439.2	Deletion		11	69256899	69263504.0						0.0	0.0		0												KIRP-B9-A44B	TCGA-B9-A44B-01		0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-96H19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	16.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	47046173.0					KIRP-B9-A44B			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TA	Fusion	MT-TA--MT-TN	chrM	5604							0.0	0.0		0	5.0	MT-TA	chrM	5604.0	MT-TN	chrM	5708.0					KIRP-B9-A44B			0	0	0	0	0	0	0
+VUS				Rearrangement	LINC00472	Fusion	LINC00472--RP11-154D6.1	chr6	72126113							0.0	0.0		0	10.0	LINC00472	chr6	72126113.0	RP11-154D6.1	chr6	72020345.0					KIRP-B9-A44B			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-446N19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	16.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	47046173.0					KIRP-B9-A44B			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TN	Fusion	MT-TA--MT-TN	chrM	5604							0.0	0.0		0	5.0	MT-TA	chrM	5604.0	MT-TN	chrM	5708.0					KIRP-B9-A44B			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-154D6.1	Fusion	LINC00472--RP11-154D6.1	chr6	72126113							0.0	0.0		0	10.0	LINC00472	chr6	72126113.0	RP11-154D6.1	chr6	72020345.0					KIRP-B9-A44B			0	0	0	0	0	0	0

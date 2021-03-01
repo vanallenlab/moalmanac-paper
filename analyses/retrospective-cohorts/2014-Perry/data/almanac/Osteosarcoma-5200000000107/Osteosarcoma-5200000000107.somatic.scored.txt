@@ -1,0 +1,76 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Investigate Actionability		Investigate Actionability	Investigate Actionability	Somatic Variant	TP53	Missense	p.D281V	17	7577096	7577096	T	T	A	0.3	20.0	0.0	0.0		0												Osteosarcoma-5200000000107	Osteosarcoma-5200000000107-Tumor-SM-3EWRM	Osteosarcoma-5200000000107-Normal-SM-3EWRN	3	2	2	1	1	1	2
+Investigate Actionability			Investigate Actionability	Somatic Variant	DNMT3A	Missense	p.V535M	2	25463221	25463221	C	C	T	0.0755	106.0	0.0	0.0		0												Osteosarcoma-5200000000107	Osteosarcoma-5200000000107-Tumor-SM-3EWRM	Osteosarcoma-5200000000107-Normal-SM-3EWRN	3	1	0	1	0	1	1
+Biologically Relevant				Copy Number	KIT	Amplification		4	55561426	55604975						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		1	1	1	1	1	1	1
+Biologically Relevant				Copy Number	PDGFRA	Amplification		4	54373232	55161691						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		1	1	0	1	1	1	1
+Biologically Relevant				Copy Number	FIP1L1	Amplification		4	54373232	55161691						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		1	0	0	1	0	0	1
+Cancer Gene Census				Somatic Variant	CSMD3	Missense	p.P2399L	8	113332180	113332180	G	G	A	0.04	125.0	0.0	0.0		0												Osteosarcoma-5200000000107	Osteosarcoma-5200000000107-Tumor-SM-3EWRM	Osteosarcoma-5200000000107-Normal-SM-3EWRN	0	0	0	1	0	1	2
+Cancer Gene Census				Copy Number	CHIC2	Amplification		4	54373232	55161691						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	1	0	0	1
+Cancer Module				Somatic Variant	DNAH5	Missense	p.D4398H	5	13708378	13708378	C	C	G	0.2137	131.0	0.0	0.0		0												Osteosarcoma-5200000000107	Osteosarcoma-5200000000107-Tumor-SM-3EWRM	Osteosarcoma-5200000000107-Normal-SM-3EWRN	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	STK39	Missense	p.Y182C	2	169020276	169020276	T	T	C	0.0678	59.0	0.0	0.0		0												Osteosarcoma-5200000000107	Osteosarcoma-5200000000107-Tumor-SM-3EWRM	Osteosarcoma-5200000000107-Normal-SM-3EWRN	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	LRP5	Missense	p.P1375L	11	68205926	68205926	C	C	T	0.0625	96.0	2.5e-05	0.0		0												Osteosarcoma-5200000000107	Osteosarcoma-5200000000107-Tumor-SM-3EWRM	Osteosarcoma-5200000000107-Normal-SM-3EWRN	0	0	0	0	0	1	2
+Cancer Module				Copy Number	DMBT1	Deletion		10	124350745	124356820						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RIMS1	Deletion		6	72678436	72958080						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GYPE	Deletion		4	144826374	145040157						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	REV3L	Deletion	p.K1158del	6	111696083	111696085	TCT	TCT	-	0.3478	46.0	0.0	0.0		0												Osteosarcoma-5200000000107	Osteosarcoma-5200000000107-Tumor-SM-3EWRM	Osteosarcoma-5200000000107-Normal-SM-3EWRN	0	0	0	0	0	1	1
+Cancer Module				Copy Number	ERVMER34-1	Amplification		4	52729351	54012001						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SH3GL3	Amplification		15	83925942	84567009						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MAGI2	Deletion		7	77823939	78256807						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RSRC1	Deletion		3	157823216	157840339						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GYPA	Deletion		4	144826374	145040157						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	AMPD1	Missense	p.R460C	1	115220069	115220069	G	G	A	0.0488	82.0	1.6e-05	0.0		0												Osteosarcoma-5200000000107	Osteosarcoma-5200000000107-Tumor-SM-3EWRM	Osteosarcoma-5200000000107-Normal-SM-3EWRN	0	0	0	0	0	1	1
+Cosmic				Somatic Variant	PTCHD3	Missense	p.P51L	10	27703028	27703028	G	G	A	0.2759	87.0	0.0	0.0		0												Osteosarcoma-5200000000107	Osteosarcoma-5200000000107-Tumor-SM-3EWRM	Osteosarcoma-5200000000107-Normal-SM-3EWRN	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	DCHS2	Missense	p.S2874F	4	155155818	155155818	G	G	A	0.0776	116.0	0.0	0.0		0												Osteosarcoma-5200000000107	Osteosarcoma-5200000000107-Tumor-SM-3EWRM	Osteosarcoma-5200000000107-Normal-SM-3EWRN	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	DCHS2	Missense	p.L2782V	4	155156095	155156095	G	G	C	0.23600000000000002	89.0	0.0	0.0		0												Osteosarcoma-5200000000107	Osteosarcoma-5200000000107-Tumor-SM-3EWRM	Osteosarcoma-5200000000107-Normal-SM-3EWRN	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	DCHS2	Nonsense	p.S2764*	4	155156148	155156148	G	G	T	0.1	50.0	0.0	0.0		0												Osteosarcoma-5200000000107	Osteosarcoma-5200000000107-Tumor-SM-3EWRM	Osteosarcoma-5200000000107-Normal-SM-3EWRN	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	FSD2	Missense	p.E229Q	15	83455313	83455313	C	C	G	0.3469	49.0	0.0	0.0		0												Osteosarcoma-5200000000107	Osteosarcoma-5200000000107-Tumor-SM-3EWRM	Osteosarcoma-5200000000107-Normal-SM-3EWRN	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ZPBP2	Missense	p.G322E	17	38033010	38033010	G	G	A	0.051	157.0	0.0	0.0		0												Osteosarcoma-5200000000107	Osteosarcoma-5200000000107-Tumor-SM-3EWRM	Osteosarcoma-5200000000107-Normal-SM-3EWRN	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ZNF611	Missense	p.N681D	19	53208267	53208267	T	T	C	0.2071	169.0	0.0	0.0		0												Osteosarcoma-5200000000107	Osteosarcoma-5200000000107-Tumor-SM-3EWRM	Osteosarcoma-5200000000107-Normal-SM-3EWRN	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	OR4N4	Missense	p.H224R	15	22383143	22383143	A	A	G	0.1667	72.0	8e-06	0.0		0												Osteosarcoma-5200000000107	Osteosarcoma-5200000000107-Tumor-SM-3EWRM	Osteosarcoma-5200000000107-Normal-SM-3EWRN	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	KCTD4	Missense	p.R171C	13	45768192	45768192	G	G	A	0.15	40.0	3.3e-05	0.0		0												Osteosarcoma-5200000000107	Osteosarcoma-5200000000107-Tumor-SM-3EWRM	Osteosarcoma-5200000000107-Normal-SM-3EWRN	0	0	0	0	0	0	2
+Cosmic				Copy Number	PRAMEF1	Deletion		1	12853125	12955193						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	0	1
+Cosmic				Somatic Variant	FSIP2	Missense	p.E6802K	2	186680176	186680176	G	G	A	0.1429	84.0	0.0	0.0		0												Osteosarcoma-5200000000107	Osteosarcoma-5200000000107-Tumor-SM-3EWRM	Osteosarcoma-5200000000107-Normal-SM-3EWRN	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	FSIP2	Missense	p.D6803N	2	186680179	186680179	G	G	A	0.1446	83.0	0.0	0.0		0												Osteosarcoma-5200000000107	Osteosarcoma-5200000000107-Tumor-SM-3EWRM	Osteosarcoma-5200000000107-Normal-SM-3EWRN	0	0	0	0	0	0	1
+Cosmic				Copy Number	HNRNPCL1	Deletion		1	12853125	12955193						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ADAMTSL3	Amplification		15	83925942	84567009						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRAMEF4	Deletion		1	12853125	12955193						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRAMEF2	Deletion		1	12853125	12955193						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SCFD2	Amplification		4	52729351	54012001						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	0	1
+Cosmic				Somatic Variant	KIAA0232	Missense	p.S1198L	4	6865702	6865702	C	C	T	0.1562	32.0	0.0	0.0		0												Osteosarcoma-5200000000107	Osteosarcoma-5200000000107-Tumor-SM-3EWRM	Osteosarcoma-5200000000107-Normal-SM-3EWRN	0	0	0	0	0	0	1
+Cosmic				Copy Number	GSX2	Amplification		4	54373232	55161691						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LNX1	Amplification		4	54373232	55161691						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRRC66	Amplification		4	52729351	54012001						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RASL11B	Amplification		4	52729351	54012001						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SGCB	Amplification		4	52729351	54012001						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DCUN1D4	Amplification		4	52729351	54012001						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SPATA18	Amplification		4	52729351	54012001						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	0	1
+Cosmic				Copy Number	USP46	Amplification		4	52729351	54012001						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	0	1
+Cosmic				Copy Number	BNC1	Amplification		15	83925942	84567009						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRAMEF11	Deletion		1	12853125	12955193						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRAMEF10	Deletion		1	12853125	12955193						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SHOX2	Deletion		3	157823216	157840339						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	0	1
+VUS				Copy Number	LNX1-AS1	Amplification		4	54373232	55161691						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-571I18.4	Amplification		4	54373232	55161691						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	0	0
+VUS				Copy Number	AC110298.1	Amplification		4	54373232	55161691						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	0	0
+VUS				Copy Number	AC110792.1	Amplification		4	54373232	55161691						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	0	0
+VUS				Copy Number	LNX1-AS2	Amplification		4	54373232	55161691						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-317M11.1	Amplification		4	54373232	55161691						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-89B16.1	Amplification		4	54373232	55161691						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	0	0
+VUS				Copy Number	USP46-AS1	Amplification		4	52729351	54012001						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4449	Amplification		4	52729351	54012001						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	0	0
+VUS				Copy Number	AC104066.1	Amplification		4	52729351	54012001						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-365H22.2	Amplification		4	52729351	54012001						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-177B4.2	Amplification		4	52729351	54012001						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-535C7.1	Amplification		4	52729351	54012001						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-752D24.2	Amplification		4	52729351	54012001						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-752D24.3	Amplification		4	52729351	54012001						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	0	0
+VUS				Copy Number	DANCR	Amplification		4	52729351	54012001						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1252P	Amplification		4	52729351	54012001						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-401P	Amplification		15	83925942	84567009						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-382A20.4	Amplification		15	83925942	84567009						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	0	0
+VUS				Copy Number	AC087738.1	Amplification		15	83925942	84567009						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1339P	Amplification		15	83925942	84567009						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	0	0
+VUS				Copy Number	RPL13AP17	Deletion		7	77823939	78256807						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-845O24.8	Deletion		1	12853125	12955193						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	0	0
+VUS				Copy Number	AL445256.1	Deletion		6	72678436	72958080						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-673E1.1	Deletion		4	144826374	145040157						0.0	0.0		0												Osteosarcoma-5200000000107	522040310107-T		0	0	0	0	0	0	0

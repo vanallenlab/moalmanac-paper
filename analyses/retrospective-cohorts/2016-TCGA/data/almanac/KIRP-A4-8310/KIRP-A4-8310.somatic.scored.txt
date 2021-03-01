@@ -1,0 +1,673 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Putatively Actionable			Putatively Actionable	Copy Number	TPX2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		4	0	0	0	0	1	1
+Investigate Actionability	Investigate Actionability			Somatic Variant	SMARCA4	Missense	p.E882D	19	11132430	11132430.0	A	A	T	0.3333	33.0	0.0	0.0		0								118.0	0.4322	1.0		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	2	1	0	1	0	1	2
+Biologically Relevant				Copy Number	ASXL1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		1	0	0	1	0	0	1
+Cancer Hotspot				Copy Number	PAK7	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	1	0	0	1	0	1
+Cancer Hotspot				Copy Number	DNMT3B	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	1	0	0	0	1	1
+Cancer Hotspot 3D				Somatic Variant	CUL1	Missense	p.L680S	7	148495672	148495672.0	T	T	C	0.5974	77.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	1	0	1	0	2
+Cancer Hotspot 3D				Somatic Variant	STK24	Frameshift	p.G331fs	13	99114124	99114125.0	-	-	C	0.4419	86.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	RPRD1B	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	PROCR	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Somatic Variant	LDLRAP1	Missense	p.Q173R	1	25889193	25889193.0	A	A	G	0.434	53.0	0.0	0.0		0								5.0	0.6	0.1283		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	1	0	0	0	2
+Cancer Hotspot 3D				Rearrangement	PCDHA4	Fusion	PCDHA4--PCDHAC2	chr5	140189157							0.0	0.0		0	26.0	PCDHA4	chr5	140189157.0	PCDHAC2	chr5	140358534.0					KIRP-A4-8310			0	0	1	0	0	0	1
+Cancer Hotspot 3D				Rearrangement	PCDHA4	Fusion	PCDHA4--PCDHAC1	chr5	140189157							0.0	0.0		0	26.0	PCDHA4	chr5	140189157.0	PCDHAC1	chr5	140358534.0					KIRP-A4-8310			0	0	1	0	0	0	1
+Cancer Gene Census				Copy Number	PLCG1	Amplification		20	38046128	40359519.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	1	1	1	1
+Cancer Gene Census				Copy Number	SRC	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	1	1	0	1
+Cancer Gene Census				Somatic Variant	ACVR2A	Missense	p.A353T	2	148677893	148677893.0	G	G	A	0.3875	80.0	1.6e-05	0.0		0								9.0	0.6667	0.491		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	1	0	1	2
+Cancer Gene Census				Copy Number	CRNKL1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	TOP1	Amplification		20	38046128	40359519.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	MAFB	Amplification		20	38046128	40359519.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	SIRPA	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	1	0	0	1
+Cancer Pathway				Somatic Variant	PPIA	Missense	p.G96C	7	44839397	44839397.0	G	G	T	0.1897	116.0	0.0	0.0		0								3021.0	0.2734	1.0		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	1	1	2
+Cancer Pathway				Somatic Variant	HMGB2	Missense	p.K90R	4	174254247	174254247.0	T	T	C	0.3792	240.0	0.0	0.0		0								128.0	0.3594	1.0		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	1	1	2
+Cancer Pathway				Copy Number	BMP2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	PSMF1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	PLCB1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	CSNK2A1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	E2F1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	BCL2L1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	PCNA	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	MCM8	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	1	0	1
+Cancer Module				Somatic Variant	IGFBP4	Missense	p.E246G	17	38612795	38612795.0	A	A	G	0.2386	88.0	0.0	0.0		0								611.0	0.1964	1.0		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SLC12A4	Missense	p.T604I	16	67982000	67982000.0	G	G	A	0.2383	214.0	0.0	0.0		0								129.0	0.3411	1.0		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	PITPNM1	Missense	p.K747E	11	67263727	67263727.0	T	T	C	0.4754	61.0	0.0	0.0		0								70.0	0.4857	1.0		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ATP7B	Missense	p.I1330L	13	52511445	52511445.0	T	T	G	0.4462	65.0	0.0	0.0		0								33.0	0.4848	0.9998		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	KIAA0196	Missense	p.H379P	8	126085409	126085409.0	T	T	G	0.4211	76.0	0.0	0.0		0								31.0	0.4839	0.9994		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	IDE	Missense	p.Y625C	10	94239044	94239044.0	T	T	C	0.4034	119.0	0.0	0.0		0								7.0	0.2857	0.304		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	PCNXL2	Missense	p.N1412S	1	233190130	233190130.0	T	T	C	0.4474	38.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	PDZD2	Missense	p.L772M	5	32059458	32059458.0	C	C	A	0.4082	49.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	FBN2	Missense	p.L1845V	5	127641530	127641530.0	G	G	C	0.1101	109.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	GTF2B	Missense	p.K178R	1	89325567	89325567.0	T	T	C	0.4565	92.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ICOS	Missense	p.K191T	2	204822592	204822592.0	A	A	C	0.3889	72.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SLC22A8	Missense	p.M31V	11	62782340	62782340.0	T	T	C	0.3198	222.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	PPP6R1	Nonsense	p.L317*	19	55752903	55752903.0	A	A	T	0.2667	15.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ARFGEF2	Missense	p.P1305H	20	47628617	47628617.0	C	C	A	0.2421	190.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	KLHL32	Missense	p.V334L	6	97562031	97562031.0	G	G	T	0.0667	90.0	8e-06	0.0		0								0.0	0.0	0.0		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	DENND4B	Missense	p.L133Q	1	153915526	153915526.0	A	A	T	0.381	63.0	0.0	0.0		0								23.0	0.2609	0.9823		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	NEB	Missense	p.L3451S	2	152482148	152482148.0	A	A	G	0.3478	23.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	PCSK5	Missense	p.C1576R	9	78953204	78953204.0	T	T	C	0.3333	30.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	FBXO42	Frameshift	p.S667fs	1	16577319	16577320.0	-	-	TATTAAA	0.2028	143.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	PDE5A	Missense	p.Q510L	4	120446828	120446828.0	T	T	A	0.3918	97.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	ASAP3	Frameshift	p.L128fs	1	23779230	23779231.0	-	-	GG	0.4176	170.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	1	1
+Cancer Module				Copy Number	CHGB	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SIRPB1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CPNE1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	LEPR	Fusion	LEPROT--LEPR	chr1	65891061							0.0	0.0		0	9.0	LEPROT	chr1	65891061.0	LEPR	chr1	66031229.0					KIRP-A4-8310			0	0	0	0	0	1	1
+Cancer Module				Copy Number	SIRPG	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CEP250	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NINL	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MKKS	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MYH7B	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TCF15	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNF133	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TGM3	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC24A3	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CST1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	C20orf26	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CD93	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EDEM2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ACTR5	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	BPI	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NSFL1C	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	OTOR	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PXMP4	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PRNP	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GINS1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FLRT3	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FAM83D	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GDF5	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LBP	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SNPH	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SNRPB	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SNRPB2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SNTA1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SNX5	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SPEF1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SRXN1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SMOX	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SNAP25	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TASP1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC23A2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TTI1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	XRN2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNF337	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNF343	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TRPC4AP	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TRMT6	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TGM2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	THBD	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TMX4	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TP53INP2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SAMHD1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SCAND1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SEC23B	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	REM1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	COMMD7	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CRLS1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CST3	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CST4	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CBFA2T2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CDC25B	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CDS2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CST7	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DSTN	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DZANK1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EIF2S2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EIF6	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EPB41L1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DLGAP4	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	C20orf141	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ADRA1D	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	AHCY	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	C20orf112	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	BFSP1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	BTBD3	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ATRN	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ASIP	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NECAB3	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NNAT	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NOP56	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	OVOL2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	OXT	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MRPS26	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MYL9	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MYLK2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PCSK2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PYGB	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RALGAPA2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RALGAPB	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RASSF2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RBM12	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RBM39	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PDYN	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PHF20	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PLAGL2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	POFUT1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PPP1R16B	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GPCPD1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GSS	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HAO1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HCK	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ID1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	IDH3B	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	INSM1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ITCH	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FKBP1A	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GGTLC1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FOXS1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ITPA	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	JAG1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MAP1LC3A	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MAPRE1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KIF3B	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	TUBA1A	Fusion	TUBA1C--TUBA1A	chr12	49658967							0.0	0.0		0	14.0	TUBA1C	chr12	49658967.0	TUBA1A	chr12	49580616.0					KIRP-A4-8310			0	0	0	0	0	1	1
+Cancer Module				Copy Number	BPIFA1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	0
+Cancer Module				Copy Number	BPIFB2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	0
+Cancer Module				Copy Number	FER1L4	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	1	0
+Cosmic				Somatic Variant	ESD	Missense	p.Y262H	13	47345616	47345616.0	A	A	G	0.25	68.0	0.0	0.0		0								225.0	0.3778	1.0		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	OS9	Missense	p.A3V	12	58087952	58087952.0	C	C	T	0.2731	216.0	1.6e-05	0.0		0								192.0	0.1719	1.0		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	GFER	Missense	p.F186I	16	2035967	2035967.0	T	T	A	0.5974	154.0	0.0	0.0		0								130.0	0.7308	1.0		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	GFER	Missense	p.N175H	16	2035934	2035934.0	A	A	C	0.6011	183.0	0.0	0.0		0								110.0	0.6909	1.0		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	DDAH2	Missense	p.V129I	6	31696435	31696435.0	C	C	T	0.4211	38.0	8e-06	0.0		0								109.0	0.4679	1.0		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	TNIP2	Missense	p.A283V	4	2746482	2746482.0	G	G	A	0.449	98.0	3.3e-05	0.0		0								97.0	0.3918	1.0		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	IBTK	Missense	p.I1094L	6	82904254	82904254.0	T	T	G	0.4634	41.0	0.0	0.0		0								77.0	0.4026	1.0		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	NCOA6	Missense	p.R1067G	20	33330861	33330861.0	T	T	C	0.6271	303.0	0.0	0.0		0								37.0	0.7297	1.0		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	CLPTM1L	Missense	p.I433V	5	1323010	1323010.0	T	T	C	0.3167	120.0	0.0	0.0		0								33.0	0.4848	0.995		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	CUBN	Missense	p.C210R	10	17157562	17157562.0	A	A	G	0.3763	93.0	0.0	0.0		0								22.0	0.5909	0.9787		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	CXorf38	Missense	p.C103R	X	40506303	40506303.0	A	A	G	0.6667	21.0	0.0	0.0		0								9.0	1.0	0.9164		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	SNX25	Missense	p.E144K	4	186188140	186188140.0	G	G	A	0.4146	82.0	0.0	0.0		0								8.0	0.625	0.4458		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	NCKAP5	Missense	p.K145T	2	133721438	133721438.0	T	T	G	0.3804	92.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ADAMTS16	Missense	p.L838V	5	5240027	5240027.0	C	C	G	0.1062	113.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	RUFY1	Missense	p.E4G	5	178987050	178987050.0	A	A	G	0.5417	24.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	GSTA1	Missense	p.Y132H	6	52658943	52658943.0	A	A	G	0.3391	289.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	BAI1	Missense	p.E1260Q	8	143623373	143623373.0	G	G	C	0.1429	21.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	XYLT1	Nonsense	p.E903*	16	17202725	17202725.0	C	C	A	0.0636	110.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	APOL6	Missense	p.L174V	22	36055131	36055131.0	C	C	G	0.1231	65.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	C5orf42	Missense	p.V1836I	5	37181023	37181023.0	C	C	T	0.3684	57.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	GOLGB1	Missense	p.S436F	3	121433805	121433805.0	G	G	A	0.5085	59.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	HECTD2	Splice Site		10	93252242	93252243.0	-	-	T	0.4062	32.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	KLK14	Missense	p.D219G	19	51581412	51581412.0	T	T	C	0.0882	34.0	0.005017	1.0		0								0.0	0.0	0.0		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	ACMSD	Frameshift	p.F327fs	2	135659397	135659398.0	-	-	T	0.4375	32.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	SSFA2	Splice Site	p.Q34L	2	182778659	182778659.0	A	A	T	0.5405	37.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	0	1
+Cosmic				Copy Number	SIGLEC1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMC2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Rearrangement	MACC1	Fusion	MACC1--AC005062.2	chr7	20193816							0.0	0.0		0	6.0	MACC1	chr7	20193816.0	AC005062.2	chr7	20085184.0					KIRP-A4-8310			0	0	0	0	0	0	1
+Cosmic				Copy Number	SSTR4	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RRBP1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SDCBP2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CST2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ENTPD6	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ESF1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ADAM33	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	BPIFB4	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRRN4	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CHD6	Amplification		20	38046128	40359519.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	EMILIN3	Amplification		20	38046128	40359519.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SPTLC3	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SUN5	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TGM6	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SEL1L2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SIRPB2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SIRPD	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CSRP2BP	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C20orf194	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CST5	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CST9	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CSTL1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DHX35	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	BANF2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	APMAP	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PANK2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RALY	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PLCB4	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRND	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GZF1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FERMT1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MACROD2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MAVS	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	KIF16B	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NGEF	Deletion		2	233791608	233796475.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Rearrangement	PCDHAC1	Fusion	PCDHA4--PCDHAC1	chr5	140189157							0.0	0.0		0	26.0	PCDHA4	chr5	140189157.0	PCDHAC1	chr5	140358534.0					KIRP-A4-8310			0	0	0	0	0	0	1
+Cosmic				Copy Number	LPIN3	Amplification		20	38046128	40359519.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZHX3	Amplification		20	38046128	40359519.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RNF24	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ROMO1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SYNDIG1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SOGA1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SPAG4	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	STK35	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC32A1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC4A11	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC52A3	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TTLL9	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	UBOX5	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	VPS16	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	VSTM2L	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	VSX1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	XKR7	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF341	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TGIF2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TM9SF4	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM239	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLA2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RSPO4	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SCRT2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RPN2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	COX4I2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CPXM1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CST11	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CHMP4B	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM182A	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CENPB	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C20orf187	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C20orf196	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C20orf202	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C20orf24	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C20orf27	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C20orf78	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CDK5RAP1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CST8	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DTD1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DUSP15	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DYNLRB1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	EFCAB8	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ERGIC3	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DSN1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DEFB115	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CST9L	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CTNNBL1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DDRGK1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DEFB116	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DEFB118	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DEFB119	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DEFB121	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DEFB123	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DEFB124	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C20orf173	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C20orf144	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ACSS1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ACSS2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ADIG	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	BLCAP	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	AVP	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ANGPT4	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ARHGAP40	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM110A	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM182B	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NFS1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NKX2-2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NKX2-4	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NXT1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NDRG3	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MMP24	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NCOA6	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NAA20	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NANP	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NAPB	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PAX1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM83C	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PTPRA	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RAD21L1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RBBP9	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RBL1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ABHD12	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RIN2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PROKR2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRNT	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PDRG1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PET117	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PIGU	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	POLR3F	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	HM13	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	HSPA12B	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ISM1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GNRH2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GHRH	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FASTKD5	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FOXA2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FRG1B	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GDF5OS	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GFRA4	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GGT7	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MANBAL	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	KIAA1755	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FRMD7	Deletion		X	131216454	131216684.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	1
+Cosmic				Rearrangement	TUBA1C	Fusion	TUBA1C--TUBA1A	chr12	49658967							0.0	0.0		0	14.0	TUBA1C	chr12	49658967.0	TUBA1A	chr12	49580616.0					KIRP-A4-8310			0	0	0	0	0	0	1
+Cosmic				Rearrangement	SHISA9	Fusion	SHISA9--U91319.1	chr16	13297406							0.0	0.0		0	5.0	SHISA9	chr16	13297406.0	U91319.1	chr16	13444037.0					KIRP-A4-8310			0	0	0	0	0	0	1
+Cosmic				Rearrangement	LEPROT	Fusion	LEPROT--LEPR	chr1	65891061							0.0	0.0		0	9.0	LEPROT	chr1	65891061.0	LEPR	chr1	66031229.0					KIRP-A4-8310			0	0	0	0	0	0	1
+Cosmic				Rearrangement	ST7	Fusion	ST7-OT4--ST7	chr7	116595207							0.0	0.0		0	6.0	ST7-OT4	chr7	116595207.0	ST7	chr7	116739816.0					KIRP-A4-8310			0	0	0	0	0	0	1
+Cosmic				Rearrangement	PCDHAC2	Fusion	PCDHA4--PCDHAC2	chr5	140189157							0.0	0.0		0	26.0	PCDHA4	chr5	140189157.0	PCDHAC2	chr5	140358534.0					KIRP-A4-8310			0	0	0	0	0	0	1
+VUS				Somatic Variant	BRINP3	Missense	p.S470R	1	190068039	190068039.0	G	G	C	0.2303	152.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	0	0
+VUS				Somatic Variant	CLUH	Missense	p.H1149Q	17	2595388	2595388.0	G	G	T	0.7273	11.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-8310	KIRP-A4-8310-TP	KIRP-A4-8310-NB	0	0	0	0	0	0	0
+VUS				Copy Number	CNBD2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	BPIFB1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	BPIFB3	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	BPIFB6	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	MROH8	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	UQCC1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	SCP2D1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	BPIFA3	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	ANKEF1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	LAMP5	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	SNORA26	Amplification		20	38046128	40359519.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-644L1.2	Amplification		20	38046128	40359519.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1018P	Amplification		20	38046128	40359519.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP484	Amplification		20	38046128	40359519.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-511B24.6	Amplification		20	38046128	40359519.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1031J8.1	Amplification		20	38046128	40359519.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL615P	Amplification		20	38046128	40359519.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-191L6.2	Amplification		20	38046128	40359519.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-1J6.2	Amplification		20	38046128	40359519.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU2-52P	Amplification		20	38046128	40359519.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-101E14.3	Amplification		20	38046128	40359519.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL009050.1	Amplification		20	38046128	40359519.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-101E14.2	Amplification		20	38046128	40359519.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-379J5.5	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-388K2.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-410N8.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-410N8.3	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-410N8.4	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-352D3.2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-416N4.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-416N4.4	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-49G10.3	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-526K17.2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-125P18.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-359G22.2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-307O10.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-314N13.3	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-218C14.5	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-128M1.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-268G13.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-157E14.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-243J16.7	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-199O14.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-77C3.3	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-234K24.3	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-227D2.3	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-19D2.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-218C14.8	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-19D2.2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	AAR2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-322G13.7	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-97N19.2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP13-329D4.3	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-610C12.3	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-610C12.4	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-614O4.11	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-614O4.12	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-616B8.4	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-640H8.2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-673D20.3	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-684O24.5	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-686C3.7	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-694B14.5	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-697P8.3	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-705D16.3	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-705O1.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-718D20.3	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-726N1.2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-610C12.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-576H24.4	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-568F9.6	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-477O4.16	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP13-401N8.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-322G13.5	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-103J8.2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-333B15.4	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-410C9.2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-477O4.14	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-477O4.5	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-568F9.3	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-550H1.4	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-550H1.5	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-553F4.2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-553F4.6	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-564F22.5	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-564O4.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-119B16.2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-63M2.5	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-103J8.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP476	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL690P	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL839P	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL864P	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5-8SP7	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP474	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP475	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP477	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL638P	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP478	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP479	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP480	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP481	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP482	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP483	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL680P	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL607P	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-102J14.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL194P	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP271	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP69	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP74	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL116P	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL14P	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL156P	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL237P	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL594P	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL498P	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL511P	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL514P	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL547P	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL555P	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL561P	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU1-131P	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU1-23P	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-122P22.2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-937P	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6ATAC17P	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6ATAC34P	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-137P	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNY4P11	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-278O22.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU1-55P	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-278O22.2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-309K20.6	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-310O13.7	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-734P14.4	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-63M2.6	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-64K7.4	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-917P	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-759P	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-407P	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-384P	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-27P	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-278P	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-228P	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-192P	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1257P	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1166P	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-115P	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1159P	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1019P	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU4-40P	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU2-56P	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU105B	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU1-94P	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-734C18.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-753D10.3	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-737E23.2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD57	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD86	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD17	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD119	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD110	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	SNAP25-AS1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	SLX4IP	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	SNHG11	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	SNORA71D	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	SNHG17	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	SNORA60	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	SNORA71	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	SNORA71A	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	SNORA71B	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	SNORA71C	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	UBOX5-AS1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	XXyac-YX60D10.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	TSPY26P	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	TLDC2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	TGIF2-C20orf24	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	TMEM230	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	TMEM74B	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-738P15.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1184F4.5	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1068E13.7	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1069C8.2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1069C8.3	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1077I2.3	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1085F17.3	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1085F17.4	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1096J16.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1097P24.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1100I6.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1100I6.2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1119D9.4	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1125A11.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1125A11.4	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1164C1.2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1177M21.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1027G4.3	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1022P6.7	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1022P6.5	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-764O22.2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-742J24.2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP173	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-753D10.5	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-760C5.3	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-760C5.5	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-764O22.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-777D9.2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1022P6.4	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-779E11.3	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-785G19.5	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-788L20.3	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-796I8.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1002M8.4	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1004I9.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1178H5.2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1185K9.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1195D24.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	SDCBP2-AS1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-988G17.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-872K7.7	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-828H9.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-828K20.2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-839B4.8	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-850E9.3	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-859D4.3	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-860P4.2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-905G11.3	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-986I17.2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-968J1.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-971N18.3	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-974N19.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-977B1.11	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-977B1.7	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-984P4.4	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP185	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP140	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	CST13P	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	C20orf203	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	CCM2L	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	EBF4	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2308N23.2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-3216D2.5	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	DEFB122	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL121898.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL109618.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL109658.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL109754.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL109805.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL117333.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL117334.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL118509.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL121584.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL121588.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL121753.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL121756.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL121761.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL121761.2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL121893.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL121895.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL096677.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL050321.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL049647.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	ACTL10	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL049539.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL023913.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL031653.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL031655.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL031655.2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL035045.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL035252.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL121897.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL121899.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL121901.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	BPIFA2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	BPIFA4P	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	BPIFB9P	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL441988.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL132768.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL136090.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL136531.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL139429.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL158175.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL160175.1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	AP5S1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP111	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	PCED1A	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	NKX2-2-AS1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	NDUFAF5	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	NCOR1P1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR548O2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR644A	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR663A	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	MMP24-AS1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	PLCB1-IT1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	PLK1S1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR499A	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4755	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3193	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3192	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	HM13-AS1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	HM13-IT1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	ISM1-AS1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	FAM83C-AS1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	ITCH-AS1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	ITCH-IT1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	LZTS3	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	MACROD2-AS1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	MACROD2-IT1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	MGME1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR103A2	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1289-1	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1292	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1825	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00851	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00687	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00658	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00657	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00028	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00237	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00261	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00489	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00493	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00652	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00654	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00656	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Copy Number	snoR26	Amplification		20	455764	38032487.0						0.0	0.0		0												KIRP-A4-8310	TCGA-A4-8310-01		0	0	0	0	0	0	0
+VUS				Rearrangement	ST7-OT4	Fusion	ST7-OT4--ST7	chr7	116595207							0.0	0.0		0	6.0	ST7-OT4	chr7	116595207.0	ST7	chr7	116739816.0					KIRP-A4-8310			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-96H19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	37.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	47046173.0					KIRP-A4-8310			0	0	0	0	0	0	0
+VUS				Rearrangement	U91319.1	Fusion	SHISA9--U91319.1	chr16	13297406							0.0	0.0		0	5.0	SHISA9	chr16	13297406.0	U91319.1	chr16	13444037.0					KIRP-A4-8310			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-446N19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	37.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	47046173.0					KIRP-A4-8310			0	0	0	0	0	0	0
+VUS				Rearrangement	AC005062.2	Fusion	MACC1--AC005062.2	chr7	20193816							0.0	0.0		0	6.0	MACC1	chr7	20193816.0	AC005062.2	chr7	20085184.0					KIRP-A4-8310			0	0	0	0	0	0	0

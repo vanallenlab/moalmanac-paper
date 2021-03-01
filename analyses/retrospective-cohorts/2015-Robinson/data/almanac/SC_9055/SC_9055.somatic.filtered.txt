@@ -325,7 +325,7 @@ Copy Number	ZNF618			9	71080126	124801649.0														SC_9055	SC_9055-Tumor		
 Copy Number	ZNF616			19	52195934	54784353.0														SC_9055	SC_9055-Tumor		0
 Copy Number	ZNF615			19	52195934	54784353.0														SC_9055	SC_9055-Tumor		0
 Copy Number	ZNF614			19	52195934	54784353.0														SC_9055	SC_9055-Tumor		0
-Somatic Variant	ZNF613	Intron		19	52443679	52443695.0	CTCTGAAGTGGTAGATT	CTCTGAAGTGGTAGATT	-	0.3077	52.0									SC_9055	SC_9055-Tumor	SC_9055-Normal	0
+Somatic Variant	ZNF613	Intron		19	52443679	52443695.0	CTCTGAAGTGGTAGATT	CTCTGAAGTGGTAGATT	-	0.2759	58.0									SC_9055	SC_9055-Tumor	SC_9055-Normal	0
 Copy Number	ZNF613			19	52195934	54784353.0														SC_9055	SC_9055-Tumor		0
 Copy Number	ZNF611			19	52195934	54784353.0														SC_9055	SC_9055-Tumor		0
 Copy Number	ZNF610			19	52195934	54784353.0														SC_9055	SC_9055-Tumor		0
@@ -3994,6 +3994,7 @@ Copy Number	STK38L			12	26985716	27829534.0														SC_9055	SC_9055-Tumor		
 Copy Number	STK38			6	32007027	170892837.0														SC_9055	SC_9055-Tumor		0
 Copy Number	STK36			2	218938608	220505686.0														SC_9055	SC_9055-Tumor		0
 Rearrangement	STK35--AMACR	Fusion	STK35--AMACR	20	2082821							0.0	STK35	20	2082821.0	AMACR	5	34006004.0		SC_9055			0
+Somatic Variant	STK35	Silent	p.G2G	20	2082533	2082533.0	C	C	T	0.4255	47.0									SC_9055	SC_9055-Tumor	SC_9055-Normal	0
 Copy Number	STK35			20	68410	4855344.0														SC_9055	SC_9055-Tumor		0
 Copy Number	STK33			11	193913	16774443.0														SC_9055	SC_9055-Tumor		0
 Copy Number	STK32C			10	127724896	135027628.0														SC_9055	SC_9055-Tumor		0
@@ -5410,7 +5411,7 @@ Copy Number	SLC26A3			7	102249903	126249554.0														SC_9055	SC_9055-Tumor
 Copy Number	SLC26A2			5	139936859	159738932.0														SC_9055	SC_9055-Tumor		0
 Copy Number	SLC26A11			17	71202403	81052322.0														SC_9055	SC_9055-Tumor		0
 Copy Number	SLC26A10			12	52845864	58132029.0														SC_9055	SC_9055-Tumor		0
-Somatic Variant	SLC26A1	5'Flank		4	983122	983122.0	G	G	A	0.3928	639.0									SC_9055	SC_9055-Tumor	SC_9055-Normal	0
+Somatic Variant	SLC26A1	Silent	p.P535P	4	983122	983122.0	G	G	A	0.3928	639.0									SC_9055	SC_9055-Tumor	SC_9055-Normal	0
 Copy Number	SLC26A1			4	53385	995353.0														SC_9055	SC_9055-Tumor		0
 Copy Number	SLC25A6			X	200983	49202346.0														SC_9055	SC_9055-Tumor		0
 Copy Number	SLC25A53			X	68725988	153814547.0														SC_9055	SC_9055-Tumor		0
@@ -5519,7 +5520,6 @@ Copy Number	SLC18B1			6	32007027	170892837.0														SC_9055	SC_9055-Tumor	
 Copy Number	SLC18A3			10	48371557	50966640.0														SC_9055	SC_9055-Tumor		0
 Copy Number	SLC18A2			10	100995561	124351033.0														SC_9055	SC_9055-Tumor		0
 Copy Number	SLC18A1			8	7721059	33455035.0														SC_9055	SC_9055-Tumor		0
-Somatic Variant	SLC17A9	Intron		20	61584252	61584252.0	G	G	A	0.3846	13.0									SC_9055	SC_9055-Tumor	SC_9055-Normal	0
 Copy Number	SLC17A9			20	60551393	62904955.0														SC_9055	SC_9055-Tumor		0
 Copy Number	SLC17A8			12	58135856	109052697.0														SC_9055	SC_9055-Tumor		0
 Copy Number	SLC17A7			19	43766292	52133471.0														SC_9055	SC_9055-Tumor		0
@@ -14112,8 +14112,6 @@ Copy Number	RP11-145M4.2			1	46463473	64680617.0														SC_9055	SC_9055-Tu
 Copy Number	RP11-145M4.1			1	46463473	64680617.0														SC_9055	SC_9055-Tumor		0
 Copy Number	RP11-145H9.3			6	395009	30610794.0														SC_9055	SC_9055-Tumor		0
 Copy Number	RP11-145G20.1			4	70346630	190904705.0														SC_9055	SC_9055-Tumor		0
-Somatic Variant	RP11-145E5.5	Intron		9	21994290	21994290.0	G	G	A	0.0837	430.0									SC_9055	SC_9055-Tumor	SC_9055-Normal	0
-Somatic Variant	RP11-145E5.5	Intron		9	21994297	21994297.0	G	G	C	0.0885	418.0									SC_9055	SC_9055-Tumor	SC_9055-Normal	0
 Copy Number	RP11-145E5.5			9	19083043	27950671.0														SC_9055	SC_9055-Tumor		0
 Copy Number	RP11-145E17.2			9	136131743	137623511.0														SC_9055	SC_9055-Tumor		0
 Copy Number	RP11-145A3.2			1	206603572	235993719.0														SC_9055	SC_9055-Tumor		0
@@ -21145,7 +21143,6 @@ Copy Number	PCDHB14			5	139936859	159738932.0														SC_9055	SC_9055-Tumor
 Copy Number	PCDHB13			5	139936859	159738932.0														SC_9055	SC_9055-Tumor		0
 Copy Number	PCDHB12			5	139936859	159738932.0														SC_9055	SC_9055-Tumor		0
 Copy Number	PCDHB11			5	139936859	159738932.0														SC_9055	SC_9055-Tumor		0
-Somatic Variant	PCDHB10	5'Flank		5	140569102	140569102.0	G	G	A	0.4206	233.0									SC_9055	SC_9055-Tumor	SC_9055-Normal	0
 Copy Number	PCDHB10			5	139936859	159738932.0														SC_9055	SC_9055-Tumor		0
 Copy Number	PCDHB1			5	139936859	159738932.0														SC_9055	SC_9055-Tumor		0
 Copy Number	PCDHAC2			5	139936859	159738932.0														SC_9055	SC_9055-Tumor		0
@@ -21968,7 +21965,6 @@ Copy Number	ODF3L2			19	111598	4354128.0														SC_9055	SC_9055-Tumor		0
 Copy Number	ODF3L1			15	75248926	76580288.0														SC_9055	SC_9055-Tumor		0
 Copy Number	ODF3B			22	25115557	51237572.0														SC_9055	SC_9055-Tumor		0
 Copy Number	ODF3			11	193913	16774443.0														SC_9055	SC_9055-Tumor		0
-Somatic Variant	ODF2L	Intron		1	86826231	86826231.0	G	G	C	0.0682	44.0									SC_9055	SC_9055-Tumor	SC_9055-Normal	0
 Copy Number	ODF2L			1	67786129	120934637.0														SC_9055	SC_9055-Tumor		0
 Copy Number	ODF2			9	131185259	136031454.0														SC_9055	SC_9055-Tumor		0
 Copy Number	ODF1			8	35584049	134296556.0														SC_9055	SC_9055-Tumor		0
@@ -22559,7 +22555,6 @@ Copy Number	NEU3			11	67352714	76980116.0														SC_9055	SC_9055-Tumor		0
 Copy Number	NEU2			2	225635066	242815428.0														SC_9055	SC_9055-Tumor		0
 Copy Number	NEU1			6	30617738	31951145.0														SC_9055	SC_9055-Tumor		0
 Copy Number	NETO2			16	33647553	52502486.0														SC_9055	SC_9055-Tumor		0
-Somatic Variant	NETO1	Intron		18	70532823	70532823.0	C	C	A	0.2037	54.0									SC_9055	SC_9055-Tumor	SC_9055-Normal	0
 Copy Number	NETO1			18	25532325	77960817.0														SC_9055	SC_9055-Tumor		0
 Copy Number	NET1			10	94056	37433986.0														SC_9055	SC_9055-Tumor		0
 Copy Number	NES			1	155746274	159558500.0														SC_9055	SC_9055-Tumor		0
@@ -22960,7 +22955,6 @@ Copy Number	MYF5			12	58135856	109052697.0														SC_9055	SC_9055-Tumor		0
 Copy Number	MYEOV2			2	225635066	242815428.0														SC_9055	SC_9055-Tumor		0
 Copy Number	MYEOV			11	67352714	76980116.0														SC_9055	SC_9055-Tumor		0
 Copy Number	MYEF2			15	48429162	51397375.0														SC_9055	SC_9055-Tumor		0
-Somatic Variant	MYD88	Intron		3	38182052	38182052.0	G	G	A	0.0061	976.0									SC_9055	SC_9055-Tumor	SC_9055-Normal	0
 Copy Number	MYD88			3	14814384	46944282.0														SC_9055	SC_9055-Tumor		0
 Copy Number	MYCT1			6	32007027	170892837.0														SC_9055	SC_9055-Tumor		0
 Copy Number	MYCNUN			2	41629	23980971.0														SC_9055	SC_9055-Tumor		0
@@ -23026,6 +23020,7 @@ Copy Number	MUC17			7	99358606	100962315.0														SC_9055	SC_9055-Tumor		0
 Copy Number	MUC16			19	4357420	18971249.0														SC_9055	SC_9055-Tumor		0
 Copy Number	MUC15			11	16776653	31125316.0														SC_9055	SC_9055-Tumor		0
 Copy Number	MUC13			3	111923252	125648412.0														SC_9055	SC_9055-Tumor		0
+Somatic Variant	MUC12	Silent	p.H312H	7	100634351	100634351.0	C	C	T	0.5542	83.0									SC_9055	SC_9055-Tumor	SC_9055-Normal	0
 Copy Number	MUC12			7	99358606	100962315.0														SC_9055	SC_9055-Tumor		0
 Copy Number	MUC1			1	154227804	155491312.0														SC_9055	SC_9055-Tumor		0
 Copy Number	MTX3			5	72798944	87564542.0														SC_9055	SC_9055-Tumor		0
@@ -23826,7 +23821,6 @@ Copy Number	MIR5193			3	49728682	50326142.0														SC_9055	SC_9055-Tumor		
 Copy Number	MIR5192			2	49210127	89247114.0														SC_9055	SC_9055-Tumor		0
 Copy Number	MIR5191			1	161643865	206516362.0														SC_9055	SC_9055-Tumor		0
 Copy Number	MIR5190			18	11852110	14106410.0														SC_9055	SC_9055-Tumor		0
-Somatic Variant	MIR518F	RNA		19	54204547	54204547.0	G	G	A	0.2778	54.0									SC_9055	SC_9055-Tumor	SC_9055-Normal	0
 Copy Number	MIR518F			19	52195934	54784353.0														SC_9055	SC_9055-Tumor		0
 Copy Number	MIR518E			19	52195934	54784353.0														SC_9055	SC_9055-Tumor		0
 Copy Number	MIR518D			19	52195934	54784353.0														SC_9055	SC_9055-Tumor		0
@@ -26143,7 +26137,6 @@ Copy Number	LINC00483			17	38153836	49054584.0														SC_9055	SC_9055-Tumo
 Copy Number	LINC00482			17	71202403	81052322.0														SC_9055	SC_9055-Tumor		0
 Copy Number	LINC00479			21	42860442	48083468.0														SC_9055	SC_9055-Tumor		0
 Copy Number	LINC00478			21	10862667	22910280.0														SC_9055	SC_9055-Tumor		0
-Somatic Variant	LINC00477	lincRNA		12	24736684	24736684.0	C	C	A	0.1517	402.0									SC_9055	SC_9055-Tumor	SC_9055-Normal	0
 Copy Number	LINC00477			12	22824291	26878700.0														SC_9055	SC_9055-Tumor		0
 Copy Number	LINC00476			9	71080126	124801649.0														SC_9055	SC_9055-Tumor		0
 Copy Number	LINC00475			9	71080126	124801649.0														SC_9055	SC_9055-Tumor		0
@@ -26390,7 +26383,6 @@ Copy Number	LHFP			13	28562774	43474521.0														SC_9055	SC_9055-Tumor		0
 Copy Number	LHCGR			2	48722912	49196024.0														SC_9055	SC_9055-Tumor		0
 Copy Number	LHB			19	43766292	52133471.0														SC_9055	SC_9055-Tumor		0
 Copy Number	LGSN			6	32007027	170892837.0														SC_9055	SC_9055-Tumor		0
-Somatic Variant	LGR6	Intron		1	202276450	202276450.0	G	G	T	0.1176	374.0									SC_9055	SC_9055-Tumor	SC_9055-Normal	0
 Copy Number	LGR6			1	161643865	206516362.0														SC_9055	SC_9055-Tumor		0
 Copy Number	LGR5			12	58135856	109052697.0														SC_9055	SC_9055-Tumor		0
 Copy Number	LGR4			11	16776653	31125316.0														SC_9055	SC_9055-Tumor		0
@@ -27597,6 +27589,7 @@ Copy Number	IQCF2			3	50327903	62357344.0														SC_9055	SC_9055-Tumor		0
 Copy Number	IQCF1			3	50327903	62357344.0														SC_9055	SC_9055-Tumor		0
 Rearrangement	IQCE--SNX8	Fusion	IQCE--SNX8	7	2613122							0.0	IQCE	7	2613122.0	SNX8	7	2297438.0		SC_9055			0
 Copy Number	IQCE			7	195732	5949749.0														SC_9055	SC_9055-Tumor		0
+Somatic Variant	IQCD	Silent	p.A318A	12	113638394	113638394.0	C	C	T	0.0762	315.0									SC_9055	SC_9055-Tumor	SC_9055-Normal	0
 Copy Number	IQCD			12	109055936	133779461.0														SC_9055	SC_9055-Tumor		0
 Copy Number	IQCC			1	31896703	33363922.0														SC_9055	SC_9055-Tumor		0
 Copy Number	IQCB1			3	111923252	125648412.0														SC_9055	SC_9055-Tumor		0
@@ -28923,7 +28916,6 @@ Copy Number	GUSBP11			22	16282318	25010875.0														SC_9055	SC_9055-Tumor	
 Copy Number	GUSBP1			5	9630146	23527884.0														SC_9055	SC_9055-Tumor		0
 Copy Number	GUSB			7	57188861	76241132.0														SC_9055	SC_9055-Tumor		0
 Copy Number	GULP1			2	183888646	193059252.0														SC_9055	SC_9055-Tumor		0
-Somatic Variant	GUK1	Intron		1	228329362	228329362.0	A	A	G	0.2067	208.0									SC_9055	SC_9055-Tumor	SC_9055-Normal	0
 Copy Number	GUK1			1	206603572	235993719.0														SC_9055	SC_9055-Tumor		0
 Copy Number	GUF1			4	42577718	49052868.0														SC_9055	SC_9055-Tumor		0
 Copy Number	GUCY2GP			10	100995561	124351033.0														SC_9055	SC_9055-Tumor		0
@@ -30334,7 +30326,6 @@ Copy Number	FBXW4			10	100995561	124351033.0														SC_9055	SC_9055-Tumor	
 Copy Number	FBXW2			9	71080126	124801649.0														SC_9055	SC_9055-Tumor		0
 Copy Number	FBXW12			3	46945148	49720777.0														SC_9055	SC_9055-Tumor		0
 Copy Number	FBXW11			5	167881107	180795228.0														SC_9055	SC_9055-Tumor		0
-Somatic Variant	FBXW10	Intron		17	18678446	18678446.0	T	T	C	0.2303	152.0									SC_9055	SC_9055-Tumor	SC_9055-Normal	0
 Copy Number	FBXW10			17	17480343	20355707.0														SC_9055	SC_9055-Tumor		0
 Copy Number	FBXO9			6	32007027	170892837.0														SC_9055	SC_9055-Tumor		0
 Copy Number	FBXO8			4	70346630	190904705.0														SC_9055	SC_9055-Tumor		0
@@ -30847,7 +30838,6 @@ Copy Number	FABP2			4	70346630	190904705.0														SC_9055	SC_9055-Tumor		0
 Copy Number	FABP12			8	35584049	134296556.0														SC_9055	SC_9055-Tumor		0
 Copy Number	FABP1			2	49210127	89247114.0														SC_9055	SC_9055-Tumor		0
 Copy Number	FAAH2			X	49351815	57936856.0														SC_9055	SC_9055-Tumor		0
-Somatic Variant	FAAH	Intron		1	46877279	46877279.0	C	C	T	0.0117	341.0									SC_9055	SC_9055-Tumor	SC_9055-Normal	0
 Copy Number	FAAH			1	46463473	64680617.0														SC_9055	SC_9055-Tumor		0
 Copy Number	FA2H			16	71209646	90141882.0														SC_9055	SC_9055-Tumor		0
 Copy Number	F9			X	68725988	153814547.0														SC_9055	SC_9055-Tumor		0
@@ -34792,7 +34782,7 @@ Copy Number	CHD7			8	35584049	134296556.0														SC_9055	SC_9055-Tumor		0
 Copy Number	CHD6			20	30681821	44685552.0														SC_9055	SC_9055-Tumor		0
 Copy Number	CHD5			1	70010	12920128.0														SC_9055	SC_9055-Tumor		0
 Copy Number	CHD4			12	6135214	7087853.0														SC_9055	SC_9055-Tumor		0
-Somatic Variant	CHD3	Silent	p.T1728T	17	7811001	7811001.0	A	A	G	0.1082	194.0									SC_9055	SC_9055-Tumor	SC_9055-Normal	0
+Somatic Variant	CHD3	Silent	p.T1669T	17	7811001	7811001.0	A	A	G	0.1082	194.0									SC_9055	SC_9055-Tumor	SC_9055-Normal	0
 Copy Number	CHD3			17	4442272	10314266.0														SC_9055	SC_9055-Tumor		0
 Copy Number	CHD2			15	92638211	93595737.0														SC_9055	SC_9055-Tumor		0
 Copy Number	CHD1L			1	145209436	148337532.0														SC_9055	SC_9055-Tumor		0
@@ -35311,6 +35301,7 @@ Copy Number	CCL14			17	20361699	34800170.0														SC_9055	SC_9055-Tumor		0
 Copy Number	CCL13			17	20361699	34800170.0														SC_9055	SC_9055-Tumor		0
 Copy Number	CCL11			17	20361699	34800170.0														SC_9055	SC_9055-Tumor		0
 Copy Number	CCL1			17	20361699	34800170.0														SC_9055	SC_9055-Tumor		0
+Somatic Variant	CCKBR	Intron		11	6281326	6281327.0	-	-	C	0.1741	224.0									SC_9055	SC_9055-Tumor	SC_9055-Normal	0
 Copy Number	CCKBR			11	193913	16774443.0														SC_9055	SC_9055-Tumor		0
 Copy Number	CCKAR			4	997260	42554629.0														SC_9055	SC_9055-Tumor		0
 Copy Number	CCK			3	14814384	46944282.0														SC_9055	SC_9055-Tumor		0
@@ -36722,7 +36713,6 @@ Copy Number	BCOR			X	200983	49202346.0														SC_9055	SC_9055-Tumor		0
 Copy Number	BCO2			11	108536068	113131045.0														SC_9055	SC_9055-Tumor		0
 Copy Number	BCMO1			16	71209646	90141882.0														SC_9055	SC_9055-Tumor		0
 Copy Number	BCLAF1			6	32007027	170892837.0														SC_9055	SC_9055-Tumor		0
-Somatic Variant	BCL9L	5'UTR		11	118774015	118774015.0	C	C	T	0.1441	118.0									SC_9055	SC_9055-Tumor	SC_9055-Normal	0
 Copy Number	BCL9L			11	116619293	120531111.0														SC_9055	SC_9055-Tumor		0
 Copy Number	BCL9			1	145209436	148337532.0														SC_9055	SC_9055-Tumor		0
 Copy Number	BCL7C			16	30208424	33262511.0														SC_9055	SC_9055-Tumor		0
@@ -37034,6 +37024,7 @@ Copy Number	ATL3			11	61008756	64037811.0														SC_9055	SC_9055-Tumor		0
 Copy Number	ATL2			2	32865479	39997261.0														SC_9055	SC_9055-Tumor		0
 Copy Number	ATL1			14	39819470	81972587.0														SC_9055	SC_9055-Tumor		0
 Copy Number	ATIC			2	212248787	218762690.0														SC_9055	SC_9055-Tumor		0
+Somatic Variant	ATHL1	Silent	p.R122R	11	290496	290496.0	C	C	G	0.1297	293.0									SC_9055	SC_9055-Tumor	SC_9055-Normal	0
 Copy Number	ATHL1			11	193913	16774443.0														SC_9055	SC_9055-Tumor		0
 Copy Number	ATG9B			7	141794454	152357869.0														SC_9055	SC_9055-Tumor		0
 Copy Number	ATG9A			2	218938608	220505686.0														SC_9055	SC_9055-Tumor		0
@@ -39107,7 +39098,7 @@ Copy Number	ADARB1			21	42860442	48083468.0														SC_9055	SC_9055-Tumor		
 Copy Number	ADAR			1	154227804	155491312.0														SC_9055	SC_9055-Tumor		0
 Copy Number	ADAP2			17	20361699	34800170.0														SC_9055	SC_9055-Tumor		0
 Copy Number	ADAP1			7	195732	5949749.0														SC_9055	SC_9055-Tumor		0
-Somatic Variant	ADAMTSL5	Intron		19	1510832	1510833.0	-	-	C	0.2568	183.0									SC_9055	SC_9055-Tumor	SC_9055-Normal	0
+Somatic Variant	ADAMTSL5	Intron		19	1510832	1510833.0	-	-	C	0.2249	209.0									SC_9055	SC_9055-Tumor	SC_9055-Normal	0
 Copy Number	ADAMTSL5			19	111598	4354128.0														SC_9055	SC_9055-Tumor		0
 Copy Number	ADAMTSL4-AS1			1	149763075	151826043.0														SC_9055	SC_9055-Tumor		0
 Copy Number	ADAMTSL4			1	149763075	151826043.0														SC_9055	SC_9055-Tumor		0
@@ -39157,7 +39148,6 @@ Copy Number	ADAM20			14	39819470	81972587.0														SC_9055	SC_9055-Tumor		
 Copy Number	ADAM2			8	35584049	134296556.0														SC_9055	SC_9055-Tumor		0
 Copy Number	ADAM1A			12	109055936	133779461.0														SC_9055	SC_9055-Tumor		0
 Copy Number	ADAM19			5	139936859	159738932.0														SC_9055	SC_9055-Tumor		0
-Somatic Variant	ADAM18	Intron		8	39466552	39466552.0	G	G	T	0.5294	34.0									SC_9055	SC_9055-Tumor	SC_9055-Normal	0
 Copy Number	ADAM18			8	35584049	134296556.0														SC_9055	SC_9055-Tumor		0
 Copy Number	ADAM17			2	41629	23980971.0														SC_9055	SC_9055-Tumor		0
 Copy Number	ADAM15			1	154227804	155491312.0														SC_9055	SC_9055-Tumor		0

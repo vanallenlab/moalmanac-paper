@@ -1,0 +1,8 @@
+patient_id	feature_display	tested_subfeature	therapy_name	n_mut	n_wt	n_mut_tested	n_wt_tested	mut_ic50_median	mut_ic50_mean	mut_ic50_std	wt_ic50_median	wt_ic50_mean	wt_ic50_std	pvalue_mww	statistic
+Osteosarcoma-SJDOSTEOS002	CDK4 Amplification	CDK4	Palbociclib	59	1764	36	734	49.696	163.578	360.733	38.309	106.273	249.057	0.4	12116.0
+Osteosarcoma-SJDOSTEOS002	CDK4 Amplification	CDK4 Copy Number	Palbociclib	39	1784	23	747	82.802	238.396	435.829	37.669	104.967	247.125	0.01	5880.0
+Osteosarcoma-SJDOSTEOS002	CDK4 Amplification	CDK4 Copy Number Amplification	Palbociclib	34	1789	20	750	83.864	265.172	462.432	37.503	104.787	246.661	0.008	4877.0
+Osteosarcoma-SJDOSTEOS002	JAK3 p.G892R (Missense)	JAK3	Ruxolitinib	92	1731	58	670	125.284	170.224	156.01	126.74	195.163	267.172	0.952	19523.0
+Osteosarcoma-SJDOSTEOS002	JAK3 p.G892R (Missense)	JAK3 Somatic Variant	Ruxolitinib	67	1756	46	682	112.944	168.732	161.687	126.85	194.825	265.403	0.787	16059.0
+Osteosarcoma-SJDOSTEOS002	JAK3 p.G892R (Missense)	JAK3 Somatic Variant Missense	Ruxolitinib	66	1757	45	683	114.78	170.154	163.222	126.802	194.693	265.231	0.815	15688.0
+Osteosarcoma-SJDOSTEOS002	JAK3 p.G892R (Missense)	JAK3 Somatic Variant Missense p.G892R	Ruxolitinib	0	1823	0	728				126.74	193.176	260.077	nan	

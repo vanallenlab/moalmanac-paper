@@ -1,0 +1,7 @@
+patient_id	feature_display	tested_subfeature	therapy_name	n_mut	n_wt	n_mut_tested	n_wt_tested	mut_ic50_median	mut_ic50_mean	mut_ic50_std	wt_ic50_median	wt_ic50_mean	wt_ic50_std	pvalue_mww	statistic
+Osteosarcoma-OBM067	CDK4 Amplification	CDK4	Palbociclib	59	1764	36	734	49.696	163.578	360.733	38.309	106.273	249.057	0.4	12116.0
+Osteosarcoma-OBM067	CDK4 Amplification	CDK4 Copy Number	Palbociclib	39	1784	23	747	82.802	238.396	435.829	37.669	104.967	247.125	0.01	5880.0
+Osteosarcoma-OBM067	CDK4 Amplification	CDK4 Copy Number Amplification	Palbociclib	34	1789	20	750	83.864	265.172	462.432	37.503	104.787	246.661	0.008	4877.0
+Osteosarcoma-OBM067	MDM2 Amplification	MDM2	Nutlin-3a (-)	66	1757	39	734	121.141	239.692	357.29	126.012	287.773	700.91	0.916	14457.0
+Osteosarcoma-OBM067	MDM2 Amplification	MDM2 Copy Number	Nutlin-3a (-)	40	1783	20	753	114.054	305.17	461.13	126.066	284.82	692.852	0.705	7157.0
+Osteosarcoma-OBM067	MDM2 Amplification	MDM2 Copy Number Amplification	Nutlin-3a (-)	31	1792	16	757	103.238	313.575	509.807	126.066	284.75	691.147	0.975	6084.0

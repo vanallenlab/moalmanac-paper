@@ -1,0 +1,276 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Putatively Actionable	Putatively Actionable			Copy Number	AURKB	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		4	0	0	0	0	1	1
+Investigate Actionability	Investigate Actionability	Investigate Actionability	Investigate Actionability	Somatic Variant	PTEN	Frameshift	p.Q110fs	10	89692845	89692845.0	A	A	-	0.3089	123.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	3	1	1	1	1	0	1
+Biologically Relevant				Somatic Variant	TPX2	Missense	p.C747F	20	30388879	30388879.0	G	G	T	0.3333	60.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	1	0	0	0	0	1	2
+Cancer Hotspot				Somatic Variant	PARP1	Missense	p.E360V	1	226570817	226570817.0	T	T	A	0.4026	77.0	0.0	0.0		0								57.0	0.386	1.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	1	1	0	0	0	2
+Cancer Hotspot				Copy Number	MAP2K4	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	1	0	1	1	0	1
+Cancer Hotspot 3D				Somatic Variant	ITGAM	Missense	p.P726T	16	31335987	31335987.0	C	C	A	0.128	125.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	1	0	0	1	1
+Cancer Hotspot 3D				Somatic Variant	PTPRR	Missense	p.L164F	12	71139777	71139777.0	T	T	A	0.271	107.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	ALOX15B	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	1	0	0	1	1
+Cancer Gene Census				Copy Number	NCOR1	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	1	1	1	1
+Cancer Gene Census				Somatic Variant	ZFHX3	Missense	p.V1060G	16	72984405	72984405.0	A	A	C	0.5167	60.0	0.0	0.0		0								7.0	0.8571	0.5337		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	1	0	1	2
+Cancer Gene Census				Copy Number	PER1	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	GAS7	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	1	0	1	1
+Cancer Gene Census				Somatic Variant	NBEA	Missense	p.F1623C	13	35758158	35758158.0	T	T	G	0.3133	83.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	1	0	0	1
+Cancer Pathway				Somatic Variant	XRCC2	Missense	p.P209H	7	152345944	152345944.0	G	G	T	0.2078	77.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	1	1	2
+Cancer Pathway				Copy Number	UBB	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	PIK3R5	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	1	0	1
+Cancer Module				Somatic Variant	FBXO46	Missense	p.L326P	19	46215777	46215777.0	A	A	G	0.2785	79.0	0.0	0.0		0								19.0	0.3684	0.8038		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	LPIN2	Missense	p.E271G	18	2939488	2939488.0	T	T	C	0.4	35.0	0.0	0.0		0								10.0	0.3	0.6126		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	THSD7A	Missense	p.L493V	7	11582721	11582721.0	A	A	C	0.4532	139.0	0.0	0.0		0								3.0	0.6667	0.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	FBN3	Splice Site	p.D1071D	19	8183905	8183905.0	G	G	A	0.4167	24.0	2.5e-05	0.0		0								0.0	0.0	0.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	GCLC	Splice Site	p.S187N	6	53380907	53380907.0	C	C	T	0.2222	54.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	GCLC	Missense	p.F186L	6	53380911	53380911.0	A	A	G	0.2182	55.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	NEO1	Missense	p.P1246T	15	73581573	73581573.0	C	C	A	0.4262	61.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ARID4B	Missense	p.F1011I	1	235345203	235345203.0	A	A	T	0.3284	67.0	0.0	0.0		0								36.0	0.4722	0.997		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	DENND4B	Missense	p.L102P	1	153916546	153916546.0	A	A	G	0.2373	59.0	0.0	0.0		0								9.0	0.4444	0.1722		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	TTN	Missense	p.T26442A	2	179431535	179431535.0	T	T	C	0.6667	54.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	DLEC1	Insertion	p.204_204H>HH	3	38101279	38101280.0	-	-	CAT	0.4815	81.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	PIF1	Missense	p.F271L	15	65114469	65114469.0	A	A	T	0.2143	28.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	ARID5A	Missense	p.P7T	2	97215160	97215160.0	C	C	A	0.5752	113.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	SHB	Frameshift	p.S477fs	9	37919918	37919918.0	C	C	-	0.2636	129.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	SLC9A6	Missense	p.F426I	X	135098843	135098843.0	T	T	A	0.5636	55.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	1	1
+Cancer Module				Copy Number	DNAH9	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PFAS	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TEKT3	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNF286A	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNF624	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	COX10	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MYH3	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MYH8	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ELAC2	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GUCY2D	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PMP22	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RCVRN	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	STX8	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TNFRSF13B	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TRIM16	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TRPV2	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	VAMP2	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RPL26	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PIGL	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ADORA2B	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ALOX12B	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	C17orf59	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MYH1	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MYH2	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NDEL1	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	1	1
+Cosmic				Somatic Variant	TMED4	Missense	p.K65Q	7	44621390	44621390.0	T	T	G	0.4396	91.0	0.0	0.0		0								236.0	0.5551	1.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	SNX12	Missense	p.H143N	X	70280928	70280928.0	G	G	T	0.675	40.0	0.0	0.0		0								108.0	0.8148	1.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	EXOC1	Missense	p.L632P	4	56759888	56759888.0	T	T	C	0.3271	107.0	0.0	0.0		0								76.0	0.3553	1.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	DAK	Missense	p.T332A	11	61111339	61111339.0	A	A	G	0.3261	46.0	0.0	0.0		0								59.0	0.33899999999999997	0.9999		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	DAG1	Missense	p.L10P	3	49547996	49547996.0	T	T	C	0.2264	53.0	0.0	0.0		0								79.0	0.2658	0.9995		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	RAI2	Missense	p.K322T	X	17819166	17819166.0	T	T	G	0.0545	55.0	0.0	0.0		0								139.0	0.0791	0.8938		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ZNF597	Missense	p.L136I	16	3487293	3487293.0	A	A	T	0.5763	177.0	0.0	0.0		0								8.0	1.0	0.7812		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	USP46	Missense	p.Q173R	4	53492228	53492228.0	T	T	C	0.3059	170.0	0.0	0.0		0								7.0	0.7143	0.1413		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	SCRIB	Missense	p.D426E	8	144892982	144892982.0	A	A	T	0.3333	18.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	SUSD2	Missense	p.C115S	22	24579518	24579518.0	T	T	A	0.45	40.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	DNAH1	Missense	p.D252N	3	52361913	52361913.0	G	G	A	0.0368	136.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	CLEC18A	Missense	p.L88P	16	69988283	69988283.0	T	T	C	0.4645	338.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ZNF474	Missense	p.T24N	5	121487756	121487756.0	C	C	A	0.2674	86.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	DNAH8	Missense	p.E2756D	6	38863980	38863980.0	A	A	C	0.2391	92.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	USP13	Missense	p.I515N	3	179462840	179462840.0	T	T	A	0.4015	132.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	CLNK	Missense	p.N256H	4	10522421	10522421.0	T	T	G	0.3333	93.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	CCDC87	Missense	p.A354T	11	66359427	66359427.0	C	C	T	0.4154	65.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ANKRD13D	Missense	p.P32T	11	67058950	67058950.0	C	C	A	0.2593	27.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	KLHL11	Missense	p.K452E	17	40010765	40010765.0	T	T	C	0.45299999999999996	181.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	TLK2	Missense	p.H486Q	17	60663585	60663585.0	C	C	A	0.4926	544.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	DEFB118	Missense	p.V65F	20	29960794	29960794.0	G	G	T	0.2637	91.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	JPH3	Missense	p.G346S	16	87678517	87678517.0	G	G	A	0.4	60.0	3.3e-05	0.0		0								0.0	0.0	0.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	RABL6	Missense	p.D626N	9	139734263	139734263.0	G	G	A	0.4211	38.0	0.0	0.0		0								204.0	0.3775	1.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	ANTXR2	Frameshift	p.S172fs	4	80976344	80976344.0	C	C	-	0.3214	112.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	GPR137C	Missense	p.W283R	14	53099007	53099007.0	T	T	A	0.1869	107.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	C1orf112	Frameshift	p.V383fs	1	169798424	169798424.0	T	T	-	0.2386	88.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	CCSAP	Frameshift	p.S240fs	1	229461075	229461076.0	AG	AG	-	0.3068	88.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	PNPLA8	Frameshift	p.K297fs	7	108154603	108154603.0	T	T	-	0.2	95.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	CHCHD3	Frameshift	p.L145fs	7	132570441	132570442.0	-	-	G	0.2281	57.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	KIAA2026	Missense	p.E114G	9	6007447	6007447.0	T	T	C	0.3636	44.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	FAM135A	Missense	p.Y685C	6	71236101	71236101.0	A	A	G	0.3088	136.0	3.3e-05	0.0		0								0.0	0.0	0.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	0	1
+Cosmic				Copy Number	CDRT1	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MYH13	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CTC1	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TPRX1	Deletion		19	48303855	48312827.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	WDR16	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CDRT15	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CDRT4	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MFSD6L	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM211A	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	1
+Cosmic				Rearrangement	MACC1	Fusion	MACC1--AC005062.2	chr7	20256922							0.0	0.0		0	5.0	MACC1	chr7	20256922.0	AC005062.2	chr7	20085184.0					KIRP-B1-A657			0	0	0	0	0	0	1
+Cosmic				Copy Number	CDH26	Amplification		20	58552677	58569678.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PIRT	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RANGRF	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RNF222	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TBC1D26	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM107	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM220	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TTC19	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	USP43	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF18	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF287	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SPDYE4	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC25A35	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SCO1	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SHISA6	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZSWIM7	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ARHGEF15	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	AC129492.6	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ALOXE3	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ARHGAP44	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ODF4	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCDC144A	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCDC42	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CENPV	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MYH10	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MYH4	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MYOCD	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NTN1	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DHRS7C	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRT17P1	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GLP2R	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	HES7	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	HS3ST3A1	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	HS3ST3B1	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRBA2	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND6	Fusion	MT-ND6--MT-TE	chrM	14635							0.0	0.0		0	52.0	MT-ND6	chrM	14635.0	MT-TE	chrM	14733.0					KIRP-B1-A657			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND3	Fusion	MT-ND3--MT-ATP8	chrM	10110							0.0	0.0		0	10.0	MT-ND3	chrM	10110.0	MT-ATP8	chrM	8445.0					KIRP-B1-A657			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-ATP6--MT-CO1	chrM	9081							0.0	0.0		0	37.0	MT-ATP6	chrM	9081.0	MT-CO1	chrM	6557.0					KIRP-B1-A657			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-ATP6--MT-ATP8	chrM	8649							0.0	0.0		0	73.0	MT-ATP6	chrM	8649.0	MT-ATP8	chrM	8514.0					KIRP-B1-A657			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP8	Fusion	MT-ND3--MT-ATP8	chrM	10110							0.0	0.0		0	10.0	MT-ND3	chrM	10110.0	MT-ATP8	chrM	8445.0					KIRP-B1-A657			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CO1	Fusion	MT-ATP6--MT-CO1	chrM	9081							0.0	0.0		0	37.0	MT-ATP6	chrM	9081.0	MT-CO1	chrM	6557.0					KIRP-B1-A657			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP8	Fusion	MT-ATP6--MT-ATP8	chrM	8649							0.0	0.0		0	73.0	MT-ATP6	chrM	8649.0	MT-ATP8	chrM	8514.0					KIRP-B1-A657			0	0	0	0	0	0	1
+VUS				Somatic Variant	CERS5	Missense	p.N261S	12	50529605	50529605.0	T	T	C	0.2535	71.0	0.0	0.0		0								42.0	0.4524	0.9909		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	0	0
+VUS				Somatic Variant	CCDC178	Missense	p.D14N	18	30992013	30992013.0	C	C	T	0.3435	361.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	0	0
+VUS				Somatic Variant	PIM3	Missense	p.L146P	22	50355280	50355280.0	T	T	C	0.3929	28.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	0	0
+VUS				Somatic Variant	TBC1D31	Missense	p.N439Y	8	124154514	124154514.0	A	A	T	0.2997	297.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A657	KIRP-B1-A657-TP	KIRP-B1-A657-NB	0	0	0	0	0	0	0
+VUS				Copy Number	ADPRM	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	PIK3R6	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-385D13.3	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-138I1.2	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-138I1.3	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-138I1.4	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-214O1.1	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-214O1.2	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-214O1.3	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-219A15.1	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-219A15.2	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-219A15.4	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-385D13.1	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-401O9.3	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-131K5.1	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-401O9.4	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-471L13.2	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-477N12.3	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-488L1.1	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-55L4.1	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-55L4.2	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-565F19.2	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-565F19.3	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-565F19.4	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-131K5.2	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1096G20.5	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-599B13.3	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL620P	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL129P	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL442P	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL550P	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL601P	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL792P	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1090M7.1	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP436	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU11-2P	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1065P	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-314P	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-405P	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-799P	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-862P	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-43P	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-77H15.1	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-597M12.1	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-599B13.6	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD118	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	TBC1D27	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	TVP23C	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	TVP23C-CDRT4	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	USP32P1	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	SNORA74	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-599B13.7	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-628O18.1	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-640I15.1	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-680C21.1	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-799N11.1	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-849F2.4	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-849F2.5	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-849F2.7	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-849F2.8	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-849F2.9	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-849N15.1	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-849N15.4	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-85B7.2	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-85B7.4	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-92B11.3	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-92B11.4	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-963H4.3	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-963H4.5	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	RPL21P122	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC000003.1	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC093484.4	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC135178.1	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC135178.7	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	C17orf76-AS1	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	CDRT7	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	CDRT8	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC087501.1	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC022816.2	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC022596.6	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC022596.2	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC000003.2	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC002553.1	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC003664.1	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005224.2	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005284.1	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005304.1	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005324.6	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005324.7	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005358.1	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005358.3	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005375.1	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005701.1	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005703.2	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005703.3	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005725.1	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005772.2	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005863.1	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005863.2	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC013248.2	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC015922.5	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC015922.6	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	COX10-AS1	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-41I6.1	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-41I6.2	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	MAGOH2	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1269B	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1288	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3676	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4314	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4731	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR548H3	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR744	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00675	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00670	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00324	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-297N7.1	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-297N7.10	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-297N7.11	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-297N7.5	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-297N7.7	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-297N7.8	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-297N7.9	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-3157E16.1	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number	KRT16P2	Amplification		17	7897778	16840889.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Copy Number		Deletion		X	151150032	151150133.0						0.0	0.0		0												KIRP-B1-A657	TCGA-B1-A657-01		0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-96H19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	15.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	47046173.0					KIRP-B1-A657			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TA	Fusion	MT-TA--MT-TN	chrM	5604							0.0	0.0		0	13.0	MT-TA	chrM	5604.0	MT-TN	chrM	5708.0					KIRP-B1-A657			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-446N19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	15.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	47046173.0					KIRP-B1-A657			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TN	Fusion	MT-TA--MT-TN	chrM	5604							0.0	0.0		0	13.0	MT-TA	chrM	5604.0	MT-TN	chrM	5708.0					KIRP-B1-A657			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TE	Fusion	MT-ND6--MT-TE	chrM	14635							0.0	0.0		0	52.0	MT-ND6	chrM	14635.0	MT-TE	chrM	14733.0					KIRP-B1-A657			0	0	0	0	0	0	0
+VUS				Rearrangement	AC005062.2	Fusion	MACC1--AC005062.2	chr7	20256922							0.0	0.0		0	5.0	MACC1	chr7	20256922.0	AC005062.2	chr7	20085184.0					KIRP-B1-A657			0	0	0	0	0	0	0

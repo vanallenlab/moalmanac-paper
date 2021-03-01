@@ -1,0 +1,209 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Putatively Actionable			Putatively Actionable	Copy Number	MYC	Amplification		8	128750242	129162684.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		4	1	0	1	1	1	1
+Putatively Actionable	Putatively Actionable			Copy Number	CDKN2A	Deletion		9	21854378	22452162.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		4	1	0	1	1	1	1
+Investigate Actionability		Investigate Actionability	Investigate Actionability	Somatic Variant	TP53	Missense	p.C277F	17	7577108	7577108.0	C	C	A	0.3902	41.0	8e-06	0.0		0								297.0	0.9057	1.0		Osteosarcoma-WAD249	Osteosarcoma-WAD249-Tumor-SM-2RCBR	Osteosarcoma-WAD249-Normal-SM-2RCD7	3	2	2	1	1	1	2
+Biologically Relevant				Rearrangement	ARAF	Fusion	ARAF--DLK2	chrX	47422728							0.0	0.0		0	9.0	ARAF	chrX	47422728.0	DLK2	chr6	43422618.0					Osteosarcoma-WAD249			1	1	0	1	1	1	1
+Cancer Hotspot				Rearrangement	IRF4	Fusion	MTSS1--IRF4	chr8	125601861							0.0	0.0		0	6.0	MTSS1	chr8	125601861.0	IRF4	chr6	407455.0					Osteosarcoma-WAD249			0	1	0	1	0	1	1
+Cancer Hotspot 3D				Somatic Variant	ITPR2	Missense	p.R1408W	12	26749848	26749848.0	T	T	A	0.0727	110.0	0.0	0.0		0								27.0	0.1852	0.1853		Osteosarcoma-WAD249	Osteosarcoma-WAD249-Tumor-SM-2RCBR	Osteosarcoma-WAD249-Normal-SM-2RCD7	0	0	1	0	0	1	2
+Cancer Hotspot 3D				Rearrangement	PPIP5K2	Fusion	C5orf30--PPIP5K2	chr5	102601698							0.0	0.0		0	16.0	C5orf30	chr5	102601698.0	PPIP5K2	chr5	102491613.0					Osteosarcoma-WAD249			0	0	1	0	0	1	1
+Cancer Hotspot 3D				Rearrangement	TTK	Fusion	BCKDHB--TTK	chr6	80816606							0.0	0.0		0	10.0	BCKDHB	chr6	80816606.0	TTK	chr6	80732041.0					Osteosarcoma-WAD249			0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	ZNF572	Amplification		8	125601609	126061679.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	1	0	0	0	1
+Cancer Gene Census				Copy Number	HSP90AB1	Amplification		6	43642687	44922596.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	1	1	1	1
+Cancer Gene Census				Copy Number	APOBEC3B	Deletion		22	39357140	39385867.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	UBR5	Amplification		8	102211978	103326396.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	NFKBIE	Amplification		6	43642687	44922596.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	1	0	1	1
+Cancer Pathway				Copy Number	VEGFA	Amplification		6	43642687	44922596.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	CDKN2B	Deletion		9	21854378	22452162.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	TOP3B	Deletion		22	22312612	22569911.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	SRF	Amplification		6	43127274	43411822.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	1	0	1
+Cancer Pathway				Copy Number	IGLV8-61	Deletion		22	22312612	22569911.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	1	0	0
+Cancer Pathway				Copy Number	IGLV11-55	Deletion		22	22312612	22569911.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	1	0	0
+Cancer Pathway				Copy Number	IGLV4-60	Deletion		22	22312612	22569911.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	1	0	0
+Cancer Pathway				Copy Number	IGLV4-69	Deletion		22	22312612	22569911.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	1	0	0
+Cancer Pathway				Copy Number	IGLV10-54	Deletion		22	22312612	22569911.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGKV4-1	Fusion	IGKV4-1--IGKJ2	chr2	89185668							0.0	0.0		0	17.0	IGKV4-1	chr2	89185668.0	IGKJ2	chr2	89161074.0					Osteosarcoma-WAD249			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGKV4-1	Fusion	IGKV4-1--AC096579.7	chr2	89185668							0.0	0.0		0	102.0	IGKV4-1	chr2	89185668.0	AC096579.7	chr2	89161074.0					Osteosarcoma-WAD249			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGKV4-1	Fusion	IGKV4-1--AC096579.13	chr2	89185668							0.0	0.0		0	17.0	IGKV4-1	chr2	89185668.0	AC096579.13	chr2	89161074.0					Osteosarcoma-WAD249			0	0	0	0	1	0	0
+Cancer Module				Somatic Variant	ANLN	Missense	p.R935Q	7	36466558	36466558.0	G	G	A	0.0326	92.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WAD249	Osteosarcoma-WAD249-Tumor-SM-2RCBR	Osteosarcoma-WAD249-Normal-SM-2RCD7	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	CASR	Missense	p.V1027I	3	122003880	122003880.0	G	G	A	0.0448	67.0	8e-06	0.0		0								0.0	0.0	0.0		Osteosarcoma-WAD249	Osteosarcoma-WAD249-Tumor-SM-2RCBR	Osteosarcoma-WAD249-Normal-SM-2RCD7	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	PTPN22	Missense	p.K32E	1	114402076	114402076.0	T	T	C	0.0482	83.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WAD249	Osteosarcoma-WAD249-Tumor-SM-2RCBR	Osteosarcoma-WAD249-Normal-SM-2RCD7	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	C6orf1	Missense	p.M21I	6	34214883	34214883.0	C	C	T	0.0125	399.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WAD249	Osteosarcoma-WAD249-Tumor-SM-2RCBR	Osteosarcoma-WAD249-Normal-SM-2RCD7	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	FLNC	Missense	p.G1676E	7	128489460	128489460.0	G	G	A	0.04	100.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WAD249	Osteosarcoma-WAD249-Tumor-SM-2RCBR	Osteosarcoma-WAD249-Normal-SM-2RCD7	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ZNF646	Missense	p.R27Q	16	31087725	31087725.0	G	G	A	0.0256	156.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WAD249	Osteosarcoma-WAD249-Tumor-SM-2RCBR	Osteosarcoma-WAD249-Normal-SM-2RCD7	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	PEX5L	Missense	p.M6I	3	179754370	179754370.0	C	C	A	0.0346	260.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WAD249	Osteosarcoma-WAD249-Tumor-SM-2RCBR	Osteosarcoma-WAD249-Normal-SM-2RCD7	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	BMPR1B	Missense	p.A484T	4	96075765	96075765.0	G	G	A	0.0429	70.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WAD249	Osteosarcoma-WAD249-Tumor-SM-2RCBR	Osteosarcoma-WAD249-Normal-SM-2RCD7	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	NR1H3	Missense	p.K86R	11	47281984	47281984.0	A	A	G	0.0246	122.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WAD249	Osteosarcoma-WAD249-Tumor-SM-2RCBR	Osteosarcoma-WAD249-Normal-SM-2RCD7	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	PCCA	Nonsense	p.Q524*	13	100992440	100992440.0	C	C	T	0.3224	152.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WAD249	Osteosarcoma-WAD249-Tumor-SM-2RCBR	Osteosarcoma-WAD249-Normal-SM-2RCD7	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ARG2	Missense	p.P186A	14	68113394	68113394.0	C	C	G	0.0292	137.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WAD249	Osteosarcoma-WAD249-Tumor-SM-2RCBR	Osteosarcoma-WAD249-Normal-SM-2RCD7	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	PFKFB1	Splice Site	p.G431D	X	54960318	54960318.0	C	C	T	0.1395	43.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WAD249	Osteosarcoma-WAD249-Tumor-SM-2RCBR	Osteosarcoma-WAD249-Normal-SM-2RCD7	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	CAD	Missense	p.S884C	2	27455510	27455510.0	C	C	G	0.1786	112.0	0.0	0.0		0								99.0	0.6061	0.9998		Osteosarcoma-WAD249	Osteosarcoma-WAD249-Tumor-SM-2RCBR	Osteosarcoma-WAD249-Normal-SM-2RCD7	0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNF318	Amplification		6	43127274	43411822.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TMEM63B	Amplification		6	43642687	44922596.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CAPN11	Amplification		6	43642687	44922596.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MTSS1	Amplification		8	125601609	126061679.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ORM1	Deletion		9	117085162	117094030.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	MTSS1	Fusion	MTSS1--IRF4	chr8	125601861							0.0	0.0		0	6.0	MTSS1	chr8	125601861.0	IRF4	chr6	407455.0					Osteosarcoma-WAD249			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	CD83	Fusion	CD83--RANBP9	chr6	14118296							0.0	0.0		0	18.0	CD83	chr6	14118296.0	RANBP9	chr6	13659064.0					Osteosarcoma-WAD249			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	COL1A2	Fusion	MT-ND6--COL1A2	chrM	14377							0.0	0.0		0	22.0	MT-ND6	chrM	14377.0	COL1A2	chr7	94024244.0					Osteosarcoma-WAD249			0	0	0	0	0	1	1
+Cancer Module				Copy Number	NCALD	Amplification		8	102211978	103326396.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNF706	Amplification		8	102211978	103326396.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	BOP1	Amplification		8	145512524	145580940.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HSF1	Amplification		8	145512524	145580940.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC29A1	Amplification		6	43642687	44922596.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CDC5L	Amplification		6	43642687	44922596.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SQLE	Amplification		8	125601609	126061679.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KIAA0196	Amplification		8	125601609	126061679.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PTK7	Amplification		6	43127274	43411822.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CUL9	Amplification		6	43127274	43411822.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ALDH7A1	Deletion		5	125821126	125891959.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	C9orf53	Deletion		9	21854378	22452162.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	TRA2B	Fusion	TRA2B--CNGB3	chr3	185655613							0.0	0.0		0	29.0	TRA2B	chr3	185655613.0	CNGB3	chr8	87591091.0					Osteosarcoma-WAD249			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	SQLE	Fusion	SQLE--KIAA0196	chr8	126010888							0.0	0.0		0	16.0	SQLE	chr8	126010888.0	KIAA0196	chr8	126040949.0					Osteosarcoma-WAD249			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	DAAM2	Fusion	DAAM2--RPS10-NUDT3	chr6	39760241							0.0	0.0		0	8.0	DAAM2	chr6	39760241.0	RPS10-NUDT3	chr6	34263462.0					Osteosarcoma-WAD249			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	DAAM2	Fusion	DAAM2--NUDT3	chr6	39760241							0.0	0.0		0	8.0	DAAM2	chr6	39760241.0	NUDT3	chr6	34263462.0					Osteosarcoma-WAD249			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	C5orf30	Fusion	C5orf30--PPIP5K2	chr5	102601698							0.0	0.0		0	16.0	C5orf30	chr5	102601698.0	PPIP5K2	chr5	102491613.0					Osteosarcoma-WAD249			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	BOP1	Fusion	BOP1--KIAA0196	chr8	145512776							0.0	0.0		0	339.0	BOP1	chr8	145512776.0	KIAA0196	chr8	126061427.0					Osteosarcoma-WAD249			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	BCKDHB	Fusion	BCKDHB--TTK	chr6	80816606							0.0	0.0		0	10.0	BCKDHB	chr6	80816606.0	TTK	chr6	80732041.0					Osteosarcoma-WAD249			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	KIAA0196	Fusion	SQLE--KIAA0196	chr8	126010888							0.0	0.0		0	16.0	SQLE	chr8	126010888.0	KIAA0196	chr8	126040949.0					Osteosarcoma-WAD249			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	GPRASP2	Fusion	RP4-769N13.6--GPRASP2	chrX	101860581							0.0	0.0		0	8.0	RP4-769N13.6	chrX	101860581.0	GPRASP2	chrX	101968710.0					Osteosarcoma-WAD249			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	EYA1	Fusion	RP11-1102P16.1--EYA1	chr8	72447979							0.0	0.0		0	5.0	RP11-1102P16.1	chr8	72447979.0	EYA1	chr8	72268746.0					Osteosarcoma-WAD249			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	BOP1	Fusion	FAM49B--BOP1	chr8	130951854							0.0	0.0		0	9.0	FAM49B	chr8	130951854.0	BOP1	chr8	145500292.0					Osteosarcoma-WAD249			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	NUDT3	Fusion	DAAM2--NUDT3	chr6	39760241							0.0	0.0		0	8.0	DAAM2	chr6	39760241.0	NUDT3	chr6	34263462.0					Osteosarcoma-WAD249			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	RANBP9	Fusion	CD83--RANBP9	chr6	14118296							0.0	0.0		0	18.0	CD83	chr6	14118296.0	RANBP9	chr6	13659064.0					Osteosarcoma-WAD249			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	KIAA0196	Fusion	BOP1--KIAA0196	chr8	145512776							0.0	0.0		0	339.0	BOP1	chr8	145512776.0	KIAA0196	chr8	126061427.0					Osteosarcoma-WAD249			0	0	0	0	0	1	1
+Cancer Module				Copy Number	DEFA1	Deletion		8	6835040	6855525.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	1	0
+Cosmic				Somatic Variant	ANKMY2	Missense	p.P163L	7	16655412	16655412.0	G	G	A	0.2	85.0	6.6e-05	0.0		0								49.0	0.4286	0.9829		Osteosarcoma-WAD249	Osteosarcoma-WAD249-Tumor-SM-2RCBR	Osteosarcoma-WAD249-Normal-SM-2RCD7	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ZNF496	Missense	p.Q175H	1	247492034	247492034.0	C	C	G	0.0881	193.0	0.0	0.0		0								43.0	0.18600000000000003	0.552		Osteosarcoma-WAD249	Osteosarcoma-WAD249-Tumor-SM-2RCBR	Osteosarcoma-WAD249-Normal-SM-2RCD7	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	BBS9	Missense	p.L68F	7	33192404	33192404.0	G	G	T	0.057999999999999996	69.0	0.0	0.0		0								23.0	0.2174	0.1005		Osteosarcoma-WAD249	Osteosarcoma-WAD249-Tumor-SM-2RCBR	Osteosarcoma-WAD249-Normal-SM-2RCD7	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	LYST	Missense	p.D843E	1	235969907	235969907.0	G	G	C	0.0637	267.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WAD249	Osteosarcoma-WAD249-Tumor-SM-2RCBR	Osteosarcoma-WAD249-Normal-SM-2RCD7	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	MOGAT2	Missense	p.L181M	11	75439080	75439080.0	C	C	A	0.1264	87.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WAD249	Osteosarcoma-WAD249-Tumor-SM-2RCBR	Osteosarcoma-WAD249-Normal-SM-2RCD7	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ZIC5	Missense	p.R504H	13	100622419	100622419.0	C	C	T	0.1111	81.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WAD249	Osteosarcoma-WAD249-Tumor-SM-2RCBR	Osteosarcoma-WAD249-Normal-SM-2RCD7	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	UBR2	Nonsense	p.Q372*	6	42583760	42583760.0	C	C	T	0.0519	270.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WAD249	Osteosarcoma-WAD249-Tumor-SM-2RCBR	Osteosarcoma-WAD249-Normal-SM-2RCD7	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	TTBK1	Missense	p.V29M	6	43220606	43220606.0	G	G	A	0.0132	302.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WAD249	Osteosarcoma-WAD249-Tumor-SM-2RCBR	Osteosarcoma-WAD249-Normal-SM-2RCD7	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	RIC8B	Nonsense	p.S210*	12	107208970	107208970.0	C	C	A	0.025	120.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WAD249	Osteosarcoma-WAD249-Tumor-SM-2RCBR	Osteosarcoma-WAD249-Normal-SM-2RCD7	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	RABEP2	Splice Site		16	28920086	28920086.0	C	C	G	0.1608	143.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WAD249	Osteosarcoma-WAD249-Tumor-SM-2RCBR	Osteosarcoma-WAD249-Normal-SM-2RCD7	0	0	0	0	0	0	1
+Cosmic				Copy Number	AKNA	Deletion		9	117085162	117094030.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRAMEF4	Deletion		1	12907009	12943467.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRAMEF2	Deletion		1	12907009	12943467.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	HNRNPCL1	Deletion		1	12907009	12943467.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TCTE1	Amplification		6	43642687	44922596.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TTBK1	Amplification		6	43127274	43411822.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	UHRF1BP1	Fusion	UHRF1BP1--KIF6	chr6	34760071							0.0	0.0		0	11.0	UHRF1BP1	chr6	34760071.0	KIF6	chr6	39688587.0					Osteosarcoma-WAD249			0	0	0	0	0	0	1
+Cosmic				Rearrangement	CNGB3	Fusion	TRA2B--CNGB3	chr3	185655613							0.0	0.0		0	29.0	TRA2B	chr3	185655613.0	CNGB3	chr8	87591091.0					Osteosarcoma-WAD249			0	0	0	0	0	0	1
+Cosmic				Rearrangement	NAV3	Fusion	RP1-34H18.1--NAV3	chr12	77966046							0.0	0.0		0	6.0	RP1-34H18.1	chr12	77966046.0	NAV3	chr12	78334099.0					Osteosarcoma-WAD249			0	0	0	0	0	0	1
+Cosmic				Copy Number	SPATS1	Amplification		6	43642687	44922596.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	AARS2	Amplification		6	43642687	44922596.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ABCC10	Amplification		6	43127274	43411822.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC22A7	Amplification		6	43127274	43411822.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MTAP	Deletion		9	21854378	22452162.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	TANC1	Fusion	TANC1--CCDC148-AS1	chr2	159922483							0.0	0.0		0	10.0	TANC1	chr2	159922483.0	CCDC148-AS1	chr2	159034573.0					Osteosarcoma-WAD249			0	0	0	0	0	0	1
+Cosmic				Rearrangement	KIF6	Fusion	UHRF1BP1--KIF6	chr6	34760071							0.0	0.0		0	11.0	UHRF1BP1	chr6	34760071.0	KIF6	chr6	39688587.0					Osteosarcoma-WAD249			0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM75	Amplification		8	128750242	129162684.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SUPT3H	Amplification		6	44929238	45073995.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GRHL2	Amplification		8	102211978	103326396.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RRM2B	Amplification		8	102211978	103326396.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SCRT1	Amplification		8	145512524	145580940.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DGAT1	Amplification		8	145512524	145580940.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RUNX2	Amplification		6	45290364	45515294.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MRPS18A	Amplification		6	43642687	44922596.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RSPH9	Amplification		6	43642687	44922596.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C6orf223	Amplification		6	43642687	44922596.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM151B	Amplification		6	43642687	44922596.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC35B2	Amplification		6	43642687	44922596.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MRPL14	Amplification		6	43642687	44922596.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CRIP3	Amplification		6	43127274	43411822.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GRAMD3	Deletion		5	125821126	125891959.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	APOBEC3A	Deletion		22	39357140	39385867.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DEFA1B	Deletion		8	6835040	6855525.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GRAPL	Deletion		17	18964975	19091795.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DMRTA1	Deletion		9	21854378	22452162.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	RUNX2	Fusion	RUNX2--KLKP1	chr6	45480144							0.0	0.0		0	31.0	RUNX2	chr6	45480144.0	KLKP1	chr19	51391130.0					Osteosarcoma-WAD249			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND6	Fusion	MT-ND6--COL1A2	chrM	14377							0.0	0.0		0	22.0	MT-ND6	chrM	14377.0	COL1A2	chr7	94024244.0					Osteosarcoma-WAD249			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-ATP6--MT-ATP8	chrM	8651							0.0	0.0		0	21.0	MT-ATP6	chrM	8651.0	MT-ATP8	chrM	8459.0					Osteosarcoma-WAD249			0	0	0	0	0	0	1
+Cosmic				Rearrangement	FAM49B	Fusion	FAM49B--BOP1	chr8	130951854							0.0	0.0		0	9.0	FAM49B	chr8	130951854.0	BOP1	chr8	145500292.0					Osteosarcoma-WAD249			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP8	Fusion	MT-ATP6--MT-ATP8	chrM	8651							0.0	0.0		0	21.0	MT-ATP6	chrM	8651.0	MT-ATP8	chrM	8459.0					Osteosarcoma-WAD249			0	0	0	0	0	0	1
+Cosmic				Rearrangement	IGLL5	Fusion	IGLV3-21--IGLL5	chr22	23055682							0.0	0.0		0	18.0	IGLV3-21	chr22	23055682.0	IGLL5	chr22	23235965.0					Osteosarcoma-WAD249			0	0	0	0	0	0	1
+Cosmic				Rearrangement	LNP1	Fusion	CMSS1--LNP1	chr3	99536887							0.0	0.0		0	5.0	CMSS1	chr3	99536887.0	LNP1	chr3	100170563.0					Osteosarcoma-WAD249			0	0	0	0	0	0	1
+Cosmic				Rearrangement	DLK2	Fusion	ARAF--DLK2	chrX	47422728							0.0	0.0		0	9.0	ARAF	chrX	47422728.0	DLK2	chr6	43422618.0					Osteosarcoma-WAD249			0	0	0	0	0	0	1
+VUS				Copy Number	RP11-145E5.5	Deletion		9	21854378	22452162.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Rearrangement	CMSS1	Fusion	CMSS1--LNP1	chr3	99536887							0.0	0.0		0	5.0	CMSS1	chr3	99536887.0	LNP1	chr3	100170563.0					Osteosarcoma-WAD249			0	0	0	0	0	0	0
+VUS				Copy Number	RNU1-106P	Amplification		8	128750242	129162684.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU4-25P	Amplification		8	128750242	129162684.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1207	Amplification		8	128750242	129162684.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1208	Amplification		8	128750242	129162684.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	PVT1	Amplification		8	128750242	129162684.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1205	Amplification		8	128750242	129162684.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1410C5.5	Amplification		8	102211978	103326396.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-431C1.4	Amplification		8	102211978	103326396.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1562D12.1	Amplification		8	102211978	103326396.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1410C5.3	Amplification		8	102211978	103326396.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1930G5.3	Amplification		8	102211978	103326396.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1930G5.4	Amplification		8	102211978	103326396.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1410C5.2	Amplification		8	102211978	103326396.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	NACAP1	Amplification		8	102211978	103326396.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR5680	Amplification		8	102211978	103326396.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-431C1.5	Amplification		8	102211978	103326396.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL563P	Amplification		8	102211978	103326396.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-67P	Amplification		8	102211978	103326396.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1107E3.1	Amplification		8	102211978	103326396.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	GS1-393G12.12	Amplification		8	145512524	145580940.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	TMEM249	Amplification		8	145512524	145580940.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	SLC52A2	Amplification		8	145512524	145580940.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-244F24.1	Amplification		6	45290364	45515294.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-444E17.6	Amplification		6	43642687	44922596.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL133262.1	Amplification		6	43642687	44922596.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL109615.1	Amplification		6	43642687	44922596.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-261G23.5	Amplification		6	43642687	44922596.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-261G23.7	Amplification		6	43642687	44922596.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-302G2.5	Amplification		6	43642687	44922596.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-344J7.2	Amplification		6	43642687	44922596.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-449H6.1	Amplification		6	43642687	44922596.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1120P11.1	Amplification		6	43642687	44922596.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1120P11.3	Amplification		6	43642687	44922596.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4642	Amplification		6	43642687	44922596.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4647	Amplification		6	43642687	44922596.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4662B	Amplification		8	125601609	126061679.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1082L8.4	Amplification		8	125601609	126061679.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1082L8.3	Amplification		8	125601609	126061679.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1082L8.2	Amplification		8	125601609	126061679.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	KIAA0196-AS1	Amplification		8	125601609	126061679.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00964	Amplification		8	125601609	126061679.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-6D1.3	Amplification		8	125601609	126061679.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	DNPH1	Amplification		6	43127274	43411822.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-330M21.5	Amplification		6	43127274	43411822.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-517I3.1	Deletion		5	125821126	125891959.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-963P	Deletion		5	125821126	125891959.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD3B-2	Deletion		17	18964975	19091795.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-160E2.11	Deletion		17	18964975	19091795.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD3C	Deletion		17	18964975	19091795.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD3D	Deletion		17	18964975	19091795.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-160E2.17	Deletion		17	18964975	19091795.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC007952.4	Deletion		17	18964975	19091795.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC007952.1	Deletion		17	18964975	19091795.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC007952.5	Deletion		17	18964975	19091795.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD3B-1	Deletion		17	18964975	19091795.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-457L16.2	Deletion		17	18964975	19091795.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC007952.6	Deletion		17	18964975	19091795.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-160E2.19	Deletion		17	18964975	19091795.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-160E2.21	Deletion		17	18964975	19091795.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	CDKN2B-AS1	Deletion		9	21854378	22452162.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-408N14.1	Deletion		9	21854378	22452162.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-70L8.4	Deletion		9	21854378	22452162.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-149I2.4	Deletion		9	21854378	22452162.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGLV6-57	Deletion		22	22312612	22569911.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	LL22NC03-23C6.13	Deletion		22	22312612	22569911.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Copy Number	PRAMENP	Deletion		22	22312612	22569911.0						0.0	0.0		0												Osteosarcoma-WAD249	WAD249_T		0	0	0	0	0	0	0
+VUS				Rearrangement	RP4-769N13.6	Fusion	RP4-769N13.6--GPRASP2	chrX	101860581							0.0	0.0		0	8.0	RP4-769N13.6	chrX	101860581.0	GPRASP2	chrX	101968710.0					Osteosarcoma-WAD249			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-96H19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	10.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	47046173.0					Osteosarcoma-WAD249			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-1102P16.1	Fusion	RP11-1102P16.1--EYA1	chr8	72447979							0.0	0.0		0	5.0	RP11-1102P16.1	chr8	72447979.0	EYA1	chr8	72268746.0					Osteosarcoma-WAD249			0	0	0	0	0	0	0
+VUS				Rearrangement	RP1-34H18.1	Fusion	RP1-34H18.1--NAV3	chr12	77966046							0.0	0.0		0	6.0	RP1-34H18.1	chr12	77966046.0	NAV3	chr12	78334099.0					Osteosarcoma-WAD249			0	0	0	0	0	0	0
+VUS				Rearrangement	IGLV3-21	Fusion	IGLV3-21--IGLL5	chr22	23055682							0.0	0.0		0	18.0	IGLV3-21	chr22	23055682.0	IGLL5	chr22	23235965.0					Osteosarcoma-WAD249			0	0	0	0	0	0	0
+VUS				Rearrangement	IGLV3-21	Fusion	IGLV3-21--IGLJ1	chr22	23055682							0.0	0.0		0	7.0	IGLV3-21	chr22	23055682.0	IGLJ1	chr22	23235965.0					Osteosarcoma-WAD249			0	0	0	0	0	0	0
+VUS				Rearrangement	CCDC148-AS1	Fusion	TANC1--CCDC148-AS1	chr2	159922483							0.0	0.0		0	10.0	TANC1	chr2	159922483.0	CCDC148-AS1	chr2	159034573.0					Osteosarcoma-WAD249			0	0	0	0	0	0	0
+VUS				Rearrangement	KLKP1	Fusion	RUNX2--KLKP1	chr6	45480144							0.0	0.0		0	31.0	RUNX2	chr6	45480144.0	KLKP1	chr19	51391130.0					Osteosarcoma-WAD249			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-446N19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	10.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	47046173.0					Osteosarcoma-WAD249			0	0	0	0	0	0	0
+VUS				Rearrangement	IGLJ1	Fusion	IGLV3-21--IGLJ1	chr22	23055682							0.0	0.0		0	7.0	IGLV3-21	chr22	23055682.0	IGLJ1	chr22	23235965.0					Osteosarcoma-WAD249			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKJ2	Fusion	IGKV4-1--IGKJ2	chr2	89185668							0.0	0.0		0	17.0	IGKV4-1	chr2	89185668.0	IGKJ2	chr2	89161074.0					Osteosarcoma-WAD249			0	0	0	0	0	0	0
+VUS				Rearrangement	AC096579.7	Fusion	IGKV4-1--AC096579.7	chr2	89185668							0.0	0.0		0	102.0	IGKV4-1	chr2	89185668.0	AC096579.7	chr2	89161074.0					Osteosarcoma-WAD249			0	0	0	0	0	0	0
+VUS				Rearrangement	AC096579.13	Fusion	IGKV4-1--AC096579.13	chr2	89185668							0.0	0.0		0	17.0	IGKV4-1	chr2	89185668.0	AC096579.13	chr2	89161074.0					Osteosarcoma-WAD249			0	0	0	0	0	0	0
+VUS				Rearrangement	RPS10-NUDT3	Fusion	DAAM2--RPS10-NUDT3	chr6	39760241							0.0	0.0		0	8.0	DAAM2	chr6	39760241.0	RPS10-NUDT3	chr6	34263462.0					Osteosarcoma-WAD249			0	0	0	0	0	0	0

@@ -1,0 +1,13 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Cancer Hotspot 3D				Copy Number	HDAC3	Amplification		5	141005456	141006102						0.0	0.0		0												Osteosarcoma-LIG690	LIG690_T		0	0	1	0	0	0	1
+Cancer Pathway				Copy Number	MCM5	Amplification		22	35812149	35813059						0.0	0.0		0												Osteosarcoma-LIG690	LIG690_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	BSG	Amplification		19	580554	581843						0.0	0.0		0												Osteosarcoma-LIG690	LIG690_T		0	0	0	0	1	0	1
+Cosmic				Copy Number	USP17L2	Deletion		8	11994425	12043284						0.0	0.0		0												Osteosarcoma-LIG690	LIG690_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR11H1	Deletion		22	16281956	16450056						0.0	0.0		0												Osteosarcoma-LIG690	LIG690_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	POTEH	Deletion		22	16281956	16450056						0.0	0.0		0												Osteosarcoma-LIG690	LIG690_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM86B1	Deletion		8	11994425	12043284						0.0	0.0		0												Osteosarcoma-LIG690	LIG690_T		0	0	0	0	0	0	1
+VUS				Copy Number	LA16c-23H5.4	Deletion		22	16281956	16450056						0.0	0.0		0												Osteosarcoma-LIG690	LIG690_T		0	0	0	0	0	0	0
+VUS				Copy Number	LA16c-2F2.8	Deletion		22	16281956	16450056						0.0	0.0		0												Osteosarcoma-LIG690	LIG690_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC145124.1	Deletion		8	11994425	12043284						0.0	0.0		0												Osteosarcoma-LIG690	LIG690_T		0	0	0	0	0	0	0
+VUS				Copy Number	FAM66D	Deletion		8	11994425	12043284						0.0	0.0		0												Osteosarcoma-LIG690	LIG690_T		0	0	0	0	0	0	0
+VUS				Copy Number	GOLGA8EP	Deletion		15	23440358	23444808						0.0	0.0		0												Osteosarcoma-LIG690	LIG690_T		0	0	0	0	0	0	0

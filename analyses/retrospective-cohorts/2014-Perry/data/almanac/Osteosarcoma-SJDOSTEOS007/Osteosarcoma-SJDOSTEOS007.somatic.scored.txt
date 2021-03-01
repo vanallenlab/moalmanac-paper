@@ -1,0 +1,421 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Cancer Hotspot				Copy Number	FUBP1	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	1	0	1	0	1	1
+Cancer Hotspot				Copy Number	BCL10	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	1	0	1	0	0	1
+Cancer Hotspot 3D				Somatic Variant	ZIC1	Missense	p.E30K	3	147127987	147127987	G	G	A	0.0882	34.0	0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	Osteosarcoma-SJDOSTEOS007-Tumor	Osteosarcoma-SJDOSTEOS007-Normal	0	0	1	0	0	1	2
+Cancer Hotspot 3D				Copy Number	MAP2K5	Amplification		15	67680917	68503834						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	RAB30	Deletion		11	82549177	82922724						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	1	0	0	1	1
+Cancer Gene Census				Somatic Variant	MUC16	Missense	p.A453D	19	9090457	9090457	G	G	T	0.2222	117.0	0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	Osteosarcoma-SJDOSTEOS007-Tumor	Osteosarcoma-SJDOSTEOS007-Normal	0	0	0	1	0	1	2
+Cancer Gene Census				Somatic Variant	XPC	Missense	p.A665T	3	14197875	14197875	C	C	T	0.4375	96.0	0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	Osteosarcoma-SJDOSTEOS007-Tumor	Osteosarcoma-SJDOSTEOS007-Normal	0	0	0	1	0	1	2
+Cancer Gene Census				Copy Number	PDE4DIP	Amplification		1	144902825	144906789						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	CSMD3	Amplification		8	113236748	117669805						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	RPL5	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	RAD21	Amplification		8	117859487	119945791						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	EXT1	Amplification		8	117859487	119945791						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	CNTNAP2	Deletion		7	146804987	146829853						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	1	0	1	1
+Cancer Pathway				Copy Number	CDC7	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	PRKACB	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	PIAS1	Amplification		15	67680917	68503834						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	CAMK4	Deletion		5	106716704	110843383						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	1	1	1
+Cancer Pathway				Somatic Variant	CTNNA3	Missense	p.L217P	10	68979558	68979558	A	A	G	0.1026	39.0	0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	Osteosarcoma-SJDOSTEOS007-Tumor	Osteosarcoma-SJDOSTEOS007-Normal	0	0	0	0	1	0	2
+Cancer Pathway				Copy Number	CD160	Amplification		1	145681771	145747505						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	1	0	1
+Cancer Module				Somatic Variant	CDH15	Missense	p.L20V	16	89245839	89245839	T	T	G	0.0959	73.0	0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	Osteosarcoma-SJDOSTEOS007-Tumor	Osteosarcoma-SJDOSTEOS007-Normal	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ANGEL2	Missense	p.R33S	1	213186721	213186721	T	T	A	0.0658	76.0	0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	Osteosarcoma-SJDOSTEOS007-Tumor	Osteosarcoma-SJDOSTEOS007-Normal	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	HIST1H4B	Missense	p.D25H	6	26027408	26027408	C	C	G	0.4576	59.0	0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	Osteosarcoma-SJDOSTEOS007-Tumor	Osteosarcoma-SJDOSTEOS007-Normal	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	FLNC	Missense	p.G2320R	7	128494697	128494697	G	G	A	0.2273	22.0	0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	Osteosarcoma-SJDOSTEOS007-Tumor	Osteosarcoma-SJDOSTEOS007-Normal	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	HIATL1	Missense	p.L415F	9	97220722	97220722	G	G	C	0.2128	47.0	0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	Osteosarcoma-SJDOSTEOS007-Tumor	Osteosarcoma-SJDOSTEOS007-Normal	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	MAP1LC3A	Missense	p.D16G	20	33137828	33137828	A	A	G	0.0909	44.0	0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	Osteosarcoma-SJDOSTEOS007-Tumor	Osteosarcoma-SJDOSTEOS007-Normal	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ANKRD13A	Missense	p.E546K	12	110475222	110475222	G	G	A	0.1212	66.0	8e-06	0.0		0												Osteosarcoma-SJDOSTEOS007	Osteosarcoma-SJDOSTEOS007-Tumor	Osteosarcoma-SJDOSTEOS007-Normal	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	TPTE	Nonsense	p.Q390*	21	10920086	10920086	G	G	A	0.1905	42.0	0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	Osteosarcoma-SJDOSTEOS007-Tumor	Osteosarcoma-SJDOSTEOS007-Normal	0	0	0	0	0	1	1
+Cancer Module				Copy Number	TPTE	Deletion		21	10862372	10910651						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	BRDT	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CLCA2	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GBP2	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GBP1	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ABCA4	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	IFI44L	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GGH	Amplification		8	63939488	66621531						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PJA2	Deletion		5	106716704	110843383						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CDON	Deletion		11	125778240	125831252						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	XRCC1	Deletion		19	44030101	44059208						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PHIP	Deletion		6	79654765	79656202						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LRRC8C	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TMED5	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TGFBR3	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ARHGAP29	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TNFRSF11B	Amplification		8	117859487	119945791						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ELTD1	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GIPC2	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	IQCH	Amplification		15	67680917	68503834						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	WDR36	Deletion		5	106716704	110843383						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DHRS4	Deletion		14	24434719	24435342						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	IMMP2L	Missense	p.I72F	7	110603593	110603593	T	T	A	0.1905	21.0	0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	Osteosarcoma-SJDOSTEOS007-Tumor	Osteosarcoma-SJDOSTEOS007-Normal	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	DMRT2	Missense	p.P431S	9	1056878	1056878	C	C	T	0.0424	118.0	0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	Osteosarcoma-SJDOSTEOS007-Tumor	Osteosarcoma-SJDOSTEOS007-Normal	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	DMRT2	Missense	p.L464M	9	1056977	1056977	C	C	A	0.0723	83.0	0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	Osteosarcoma-SJDOSTEOS007-Tumor	Osteosarcoma-SJDOSTEOS007-Normal	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	DMRT2	Missense	p.S542L	9	1057212	1057212	C	C	T	0.0952	63.0	0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	Osteosarcoma-SJDOSTEOS007-Tumor	Osteosarcoma-SJDOSTEOS007-Normal	0	0	0	0	0	1	1
+Cancer Module				Copy Number	PDE7A	Amplification		8	66631273	66639788						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KIAA1107	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LRRC8D	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CNN3	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GTF2B	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	F3	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GCLM	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GFI1	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DR1	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GBP5	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ABCD3	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	BCAR3	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SNAI2	Amplification		8	49641349	49988056						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EFCAB1	Amplification		8	49641349	49988056						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MYBL1	Amplification		8	67064360	67835034						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	VCPIP1	Amplification		8	67064360	67835034						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EIF3H	Amplification		8	113236748	117669805						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TRPS1	Amplification		8	113236748	117669805						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ST6GALNAC5	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CTBS	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CYR61	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	IFI44	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LMO4	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LPHN2	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MCOLN3	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MSH4	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ACADM	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ODF2L	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RABGGTB	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PTGFR	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZZZ3	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DNAJC5B	Amplification		8	66646777	67040963						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TTPA	Amplification		8	63939488	66621531						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MTFR1	Amplification		8	63939488	66621531						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	STARD4	Deletion		5	106716704	110843383						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TSLP	Deletion		5	106716704	110843383						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC25A46	Deletion		5	106716704	110843383						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MAN2A1	Deletion		5	106716704	110843383						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EFNA5	Deletion		5	106716704	110843383						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FER	Deletion		5	106716704	110843383						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TDG	Deletion		12	104378275	104381120						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DDX25	Deletion		11	125778240	125831252						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TRIM14	Deletion		9	100861961	100872518						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	1	1
+Cosmic				Somatic Variant	ZNF804A	Missense	p.D368Y	2	185801225	185801225	G	G	T	0.1515	33.0	0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	Osteosarcoma-SJDOSTEOS007-Tumor	Osteosarcoma-SJDOSTEOS007-Normal	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	CDK5RAP2	Missense	p.I1644V	9	123169323	123169323	T	T	C	0.4667	30.0	0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	Osteosarcoma-SJDOSTEOS007-Tumor	Osteosarcoma-SJDOSTEOS007-Normal	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	OR4C16	Missense	p.C151S	11	55340055	55340055	G	G	C	0.1591	88.0	0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	Osteosarcoma-SJDOSTEOS007-Tumor	Osteosarcoma-SJDOSTEOS007-Normal	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	TCHH	Missense	p.E881Q	1	152083052	152083052	C	C	G	0.1088	239.0	0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	Osteosarcoma-SJDOSTEOS007-Tumor	Osteosarcoma-SJDOSTEOS007-Normal	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ADAMTS16	Missense	p.R878C	5	5242274	5242274	C	C	T	0.2083	48.0	1.7e-05	0.0		0												Osteosarcoma-SJDOSTEOS007	Osteosarcoma-SJDOSTEOS007-Tumor	Osteosarcoma-SJDOSTEOS007-Normal	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	OTOP2	Missense	p.R365C	17	72926823	72926823	C	C	T	0.6429	42.0	0.00010700000000000001	0.0		0												Osteosarcoma-SJDOSTEOS007	Osteosarcoma-SJDOSTEOS007-Tumor	Osteosarcoma-SJDOSTEOS007-Normal	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	FAM169B	Nonsense	p.Y73*	15	98995205	98995205	G	G	T	0.0667	45.0	0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	Osteosarcoma-SJDOSTEOS007-Tumor	Osteosarcoma-SJDOSTEOS007-Normal	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	KIF9	Missense	p.L661P	3	47278052	47278052	A	A	G	0.102	49.0	0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	Osteosarcoma-SJDOSTEOS007-Tumor	Osteosarcoma-SJDOSTEOS007-Normal	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	SHQ1	Nonsense	p.L359*	3	72842172	72842172	A	A	T	0.1538	26.0	0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	Osteosarcoma-SJDOSTEOS007-Tumor	Osteosarcoma-SJDOSTEOS007-Normal	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	CCDC158	Splice Site	p.E96G	4	77317423	77317423	T	T	C	0.1379	29.0	0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	Osteosarcoma-SJDOSTEOS007-Tumor	Osteosarcoma-SJDOSTEOS007-Normal	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	DLG2	Missense	p.H27Y	11	84245738	84245738	G	G	A	0.0784	51.0	0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	Osteosarcoma-SJDOSTEOS007-Tumor	Osteosarcoma-SJDOSTEOS007-Normal	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	KIAA1024	Missense	p.L467P	15	79749889	79749889	T	T	C	0.0938	32.0	0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	Osteosarcoma-SJDOSTEOS007-Tumor	Osteosarcoma-SJDOSTEOS007-Normal	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ZNF319	Missense	p.R326W	16	58031194	58031194	G	G	A	0.24	25.0	0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	Osteosarcoma-SJDOSTEOS007-Tumor	Osteosarcoma-SJDOSTEOS007-Normal	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ASB9	Missense	p.R234C	X	15266926	15266926	G	G	A	0.4	25.0	0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	Osteosarcoma-SJDOSTEOS007-Tumor	Osteosarcoma-SJDOSTEOS007-Normal	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	LRRIQ1	Missense	p.R1254H	12	85518051	85518051	G	G	A	0.4167	48.0	1.6e-05	0.0		0												Osteosarcoma-SJDOSTEOS007	Osteosarcoma-SJDOSTEOS007-Tumor	Osteosarcoma-SJDOSTEOS007-Normal	0	0	0	0	0	0	2
+Cosmic				Copy Number	GBP6	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	GBP4	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	HFM1	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	GBP3	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	SYDE2	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	COL24A1	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	CLCA1	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	PUS3	Deletion		11	125763428	125770415						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	RWDD3	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	DNASE2B	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	C11orf82	Deletion		11	82549177	82922724						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Somatic Variant	MRGPRX1	Frameshift	p.G233fs	11	18955634	18955634	C	C	-	0.2553	47.0	0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	Osteosarcoma-SJDOSTEOS007-Tumor	Osteosarcoma-SJDOSTEOS007-Normal	0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC44A3	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM69A	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	GBP7	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	EVI5	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	DNTTIP2	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCDC18	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	PKN2	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	MTF2	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC30A8	Amplification		8	117859487	119945791						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	ADHFE1	Amplification		8	67064360	67835034						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	TRIM55	Amplification		8	67064360	67835034						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	C8orf44	Amplification		8	67064360	67835034						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	SSX2IP	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	WDR63	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	USP33	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	RPF1	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	CLCA4	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRB1	Deletion		12	11505789	11508739						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Somatic Variant	VANGL2	Splice Site		1	160390339	160390339	T	T	C	0.0896	67.0	0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	Osteosarcoma-SJDOSTEOS007-Tumor	Osteosarcoma-SJDOSTEOS007-Normal	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	SENP7	Missense	p.D778Y	3	101058964	101058964	C	C	A	0.6667	3.0	0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	Osteosarcoma-SJDOSTEOS007-Tumor	Osteosarcoma-SJDOSTEOS007-Normal	0	0	0	0	0	0	1
+Cosmic				Copy Number	RNF115	Amplification		1	145681771	145747505						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	PDZK1	Amplification		1	145681771	145747505						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	RPAP2	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRRC8B	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	GLMN	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	FNBP1L	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	EPHX4	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCBL2	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM56	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF326	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF644	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	C1orf146	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	BTBD8	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	BARHL2	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	ALG14	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	MED30	Amplification		8	117859487	119945791						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	UTP23	Amplification		8	117859487	119945791						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	SAMD12	Amplification		8	117859487	119945791						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	C8orf22	Amplification		8	49641349	49988056						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	MCMDC2	Amplification		8	67064360	67835034						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	SGK3	Amplification		8	67064360	67835034						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	RRS1	Amplification		8	67064360	67835034						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	C8orf46	Amplification		8	67064360	67835034						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	CRH	Amplification		8	67064360	67835034						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	SPATA1	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	ST6GALNAC3	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNHIT6	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	TYW3	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	TTLL7	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	SAMD13	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC44A5	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	SH3GLB1	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	SEP15	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	GNG5	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	DDAH1	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	DNAJB4	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM73A	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	LHX8	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	LPAR3	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	MCOLN2	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	CLCA3P	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	AK5	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	ASB17	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	C1orf180	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	C1orf52	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	NEXN	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	HS2ST1	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	PIGK	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	ARMC1	Amplification		8	63939488	66621531						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	CYP7B1	Amplification		8	63939488	66621531						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	BHLHE22	Amplification		8	63939488	66621531						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	YTHDF3	Amplification		8	63939488	66621531						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	CALML4	Amplification		15	67680917	68503834						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	SKOR1	Amplification		15	67680917	68503834						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	C15orf61	Amplification		15	67680917	68503834						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	CLN6	Amplification		15	67680917	68503834						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	IGHV1OR21-1	Deletion		21	10862372	10910651						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM232	Deletion		5	106716704	110843383						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	FBXL17	Deletion		5	106716704	110843383						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	ANKRD42	Deletion		11	82549177	82922724						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	PCF11	Deletion		11	82549177	82922724						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRCP	Deletion		11	82549177	82922724						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	ETHE1	Deletion		19	44030101	44059208						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF575	Deletion		19	44030101	44059208						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	HYLS1	Deletion		11	125763428	125770415						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	1
+VUS				Somatic Variant	NPAP1	Missense	p.L369M	15	24922119	24922119	T	T	A	0.1905	21.0	0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	Osteosarcoma-SJDOSTEOS007-Tumor	Osteosarcoma-SJDOSTEOS007-Normal	0	0	0	0	0	0	0
+VUS				Copy Number	AARD	Amplification		8	117859487	119945791						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-561L24.3	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-827O9.1	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-86H7.7	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-86H7.6	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-78O9.1	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01057	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-943J3.1	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-943J3.2	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-57H12.6	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-57H12.5	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-57H12.3	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-57H12.2	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	MIR378G	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1033H22.2	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-210P	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	GBP1P1	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-639F20.1	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-665J23.1	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-665J23.2	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-665J23.4	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-717I23.3	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-621B10.8	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-620F22.2	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1007M22.2	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP123	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-148B18.4	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP272	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-148B18.3	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	ACTBP12	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL235P	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL440P	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-148B18.1	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL653P	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL692P	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL824P	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	AC093577.1	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-970P	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-695P	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP53	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RNU4-59P	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-125P	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	AL451010.1	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RBMXL1	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	MIR760	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-488P3.1	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-465K1.2	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	SNORA66	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD21	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-413E1.4	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-386I23.1	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-313A24.1	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-302M6.5	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-302M6.4	Amplification		1	89269822	95712262						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-654G14.1	Amplification		8	117859487	119945791						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RAD21-AS1	Amplification		8	117859487	119945791						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL826P	Amplification		8	117859487	119945791						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL228P	Amplification		8	117859487	119945791						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3610	Amplification		8	117859487	119945791						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	AC023590.1	Amplification		8	117859487	119945791						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1324P	Amplification		8	67064360	67835034						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	SNHG6	Amplification		8	67064360	67835034						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	C8orf44-SGK3	Amplification		8	67064360	67835034						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD87	Amplification		8	67064360	67835034						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-346I3.4	Amplification		8	67064360	67835034						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00967	Amplification		8	67064360	67835034						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	AC107890.1	Amplification		8	113236748	117669805						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-267L5.1	Amplification		8	113236748	117669805						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP276	Amplification		8	113236748	117669805						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	AC024996.1	Amplification		8	113236748	117669805						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-536K17.1	Amplification		8	113236748	117669805						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	MIR2053	Amplification		8	113236748	117669805						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	AF178030.2	Amplification		8	113236748	117669805						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	AF130343.1	Amplification		8	113236748	117669805						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00536	Amplification		8	113236748	117669805						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	AC103863.1	Amplification		8	113236748	117669805						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-67H2.1	Amplification		8	113236748	117669805						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-290M5.4	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-290M5.2	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-503P	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-622P	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-8P	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-183M13.1	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	TTLL7-IT1	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-170N11.1	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-131L23.1	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-131L23.2	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	UOX	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-147G16.1	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-339A11.2	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-115A15.1	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-651E10.4	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-339D23.1	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD45C	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-837I24.6	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-837I24.4	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-837I24.2	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-836J3.1	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-93N20.1	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-544H6.2	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1102E8.3	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-564M11.2	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-601K24.1	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-604K5.2	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-604K5.3	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1052I5.2	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1052I5.1	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-612B15.3	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1027O11.1	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-726F1.1	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-682C21.5	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-76N22.2	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-887A10.1	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-486G15.2	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-375A5.1	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-376N17.4	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-386I14.4	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD45B	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD45A	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-413G15.1	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-475O6.1	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-510C10.2	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-510C10.3	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-510C10.4	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-550H2.1	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-550H2.2	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-415A20.1	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL370P	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-161P	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	NEXN-AS1	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4423	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	AC093430.1	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	AC095030.1	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	AC096951.1	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	AC104169.1	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	AC104458.1	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	AC104837.1	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	AL035706.1	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	AL139139.1	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	AL356270.1	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	AL445464.1	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	AL590113.1	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	AL606519.1	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1102P	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP52	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP51	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP23	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP22	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP21	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP20	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL583P	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP247	Amplification		1	75229326	89252148						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	AC084082.3	Amplification		8	66646777	67040963						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2532N20.1	Amplification		8	66646777	67040963						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-32K4.1	Amplification		8	63939488	66621531						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1D12.2	Amplification		8	63939488	66621531						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-573J24.1	Amplification		8	63939488	66621531						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL135P	Amplification		8	63939488	66621531						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-579E24.1	Amplification		8	63939488	66621531						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	MIR124-2	Amplification		8	63939488	66621531						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1D12.1	Amplification		8	63939488	66621531						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP135	Amplification		8	63939488	66621531						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-579E24.2	Amplification		8	63939488	66621531						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-3046C4.1	Amplification		8	63939488	66621531						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-3025N20.3	Amplification		8	63939488	66621531						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-3025N20.2	Amplification		8	63939488	66621531						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-16E18.3	Amplification		8	63939488	66621531						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00966	Amplification		8	63939488	66621531						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-659E9.4	Amplification		8	63939488	66621531						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	YTHDF3-AS1	Amplification		8	63939488	66621531						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-21C4.1	Amplification		8	63939488	66621531						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-45K10.2	Amplification		8	63939488	66621531						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	IQCH-AS1	Amplification		15	67680917	68503834						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-34F13.2	Amplification		15	67680917	68503834						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1	Amplification		15	67680917	68503834						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-502I4.3	Amplification		15	67680917	68503834						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-34F13.3	Amplification		15	67680917	68503834						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-231G15.1	Deletion		5	106716704	110843383						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL782P	Deletion		5	106716704	110843383						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP230	Deletion		5	106716704	110843383						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	MIR548F3	Deletion		5	106716704	110843383						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	AC012603.1	Deletion		5	106716704	110843383						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	AC011366.3	Deletion		5	106716704	110843383						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	AC010468.2	Deletion		5	106716704	110843383						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-252I13.2	Deletion		5	106716704	110843383						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-231G15.2	Deletion		5	106716704	110843383						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2197I11.1	Deletion		5	106716704	110843383						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01023	Deletion		5	106716704	110843383						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-47P	Deletion		5	106716704	110843383						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-231G15.3	Deletion		5	106716704	110843383						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-551A13.2	Deletion		5	106716704	110843383						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-551A13.1	Deletion		5	106716704	110843383						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP122	Deletion		5	106716704	110843383						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-332L22.1	Deletion		5	106716704	110843383						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-499J9.1	Deletion		5	106716704	110843383						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2587M2.1	Deletion		5	106716704	110843383						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-727A23.4	Deletion		11	82549177	82922724						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-727A23.7	Deletion		11	82549177	82922724						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-113K21.4	Deletion		11	82549177	82922724						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-727A23.11	Deletion		11	82549177	82922724						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RAB30-AS1	Deletion		11	82549177	82922724						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	SNORA70E	Deletion		11	82549177	82922724						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-659G9.3	Deletion		11	82549177	82922724						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-727A23.5	Deletion		11	82549177	82922724						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	AC078819.1	Deletion		12	104378275	104381120						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-680F20.5	Deletion		11	125778240	125831252						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-680F20.6	Deletion		11	125778240	125831252						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-680F20.9	Deletion		11	125778240	125831252						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-680F20.4	Deletion		11	125778240	125831252						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-680F20.11	Deletion		11	125778240	125831252						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0
+VUS				Copy Number	L34079.3	Deletion		19	44030101	44059208						0.0	0.0		0												Osteosarcoma-SJDOSTEOS007	SJDOSTEOS007-1		0	0	0	0	0	0	0

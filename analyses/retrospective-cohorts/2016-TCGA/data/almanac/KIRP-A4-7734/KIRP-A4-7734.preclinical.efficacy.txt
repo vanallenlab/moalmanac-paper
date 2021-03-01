@@ -1,0 +1,8 @@
+patient_id	feature_display	tested_subfeature	therapy_name	n_mut	n_wt	n_mut_tested	n_wt_tested	mut_ic50_median	mut_ic50_mean	mut_ic50_std	wt_ic50_median	wt_ic50_mean	wt_ic50_std	pvalue_mww	statistic
+KIRP-A4-7734	EGFR Amplification	EGFR	Gefitinib	242	1581	138	614	18.934	31.922	42.565	27.148	45.733	64.802	0.0	50477.5
+KIRP-A4-7734	EGFR Amplification	EGFR Copy Number	Gefitinib	139	1684	81	671	20.562	31.526	45.523	26.523	44.607	63.077	0.004	32548.0
+KIRP-A4-7734	EGFR Amplification	EGFR Copy Number Amplification	Gefitinib	122	1701	72	680	18.048	31.884	47.851	26.493	44.396	62.721	0.003	29771.0
+KIRP-A4-7734	MET p.S1254R (Missense)	MET	SU11274	199	1624	123	801	58.163	79.735	81.446	42.785	68.665	76.237	0.129	45080.0
+KIRP-A4-7734	MET p.S1254R (Missense)	MET Somatic Variant	SU11274	88	1735	57	867	50.407	79.148	84.131	43.459	69.547	76.52	0.485	23347.0
+KIRP-A4-7734	MET p.S1254R (Missense)	MET Somatic Variant Missense	SU11274	74	1749	46	878	52.016	72.185	69.765	43.659	70.032	77.392	0.663	19425.0
+KIRP-A4-7734	MET p.S1254R (Missense)	MET Somatic Variant Missense p.S1254R	SU11274	0	1823	0	924				44.064	70.139	76.997	nan	

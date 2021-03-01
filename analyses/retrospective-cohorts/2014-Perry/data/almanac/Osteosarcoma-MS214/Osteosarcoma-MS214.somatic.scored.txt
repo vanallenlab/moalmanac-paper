@@ -1,0 +1,282 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Investigate Actionability	Investigate Actionability	Investigate Actionability	Investigate Actionability	Somatic Variant	PTEN	Nonsense	p.R233*	10	89717672	89717672.0	C	C	T	0.0385	78.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-MS214	Osteosarcoma-MS214-Tumor-SM-2RCBB	Osteosarcoma-MS214-Normal-SM-2RCCQ	3	2	1	1	1	0	2
+Biologically Relevant				Copy Number	FLCN	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		1	0	0	1	1	0	1
+Cancer Hotspot 3D				Copy Number	TRAP1	Deletion		16	3706021	3713815.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	ZNF98	Amplification		19	21718830	22576033.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	1	0	0	0	1
+Cancer Hotspot 3D				Rearrangement	PCDHA4	Fusion	PCDHA4--PCDHAC2	chr5	140189157							0.0	0.0		0	7.0	PCDHA4	chr5	140189157.0	PCDHAC2	chr5	140358534.0					Osteosarcoma-MS214			0	0	1	0	0	0	1
+Cancer Hotspot 3D				Rearrangement	PCDHA4	Fusion	PCDHA4--PCDHAC1	chr5	140189157							0.0	0.0		0	7.0	PCDHA4	chr5	140189157.0	PCDHAC1	chr5	140358534.0					Osteosarcoma-MS214			0	0	1	0	0	0	1
+Cancer Gene Census				Copy Number	NCOR1	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	1	1	1	1
+Cancer Gene Census				Somatic Variant	TRRAP	Missense	p.L1187I	7	98528424	98528424.0	C	C	A	0.209	67.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-MS214	Osteosarcoma-MS214-Tumor-SM-2RCBB	Osteosarcoma-MS214-Normal-SM-2RCCQ	0	0	0	1	0	0	1
+Cancer Gene Census				Copy Number	SPECC1	Amplification		17	19554608	20209647.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	1	0	0	1
+Cancer Gene Census				Copy Number	ZNF429	Amplification		19	21718830	22576033.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	1	0	0	1
+Cancer Pathway				Copy Number	KIR3DL1	Deletion		19	55350633	55370836.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	UBB	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	KIR3DL2	Deletion		19	55350633	55370836.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	1	0	1
+Cancer Pathway				Copy Number	TOP3A	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	1	0	1
+Cancer Pathway				Rearrangement	IGLV8-61	Fusion	IGLV8-61--IGLJ3	chr22	22453622							0.0	0.0		0	33.0	IGLV8-61	chr22	22453622.0	IGLJ3	chr22	23247171.0					Osteosarcoma-MS214			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGLV4-69	Fusion	IGLV4-69--IGLJ3	chr22	22385870							0.0	0.0		0	28.0	IGLV4-69	chr22	22385870.0	IGLJ3	chr22	23247168.0					Osteosarcoma-MS214			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGLV1-40	Fusion	IGLV1-40--IGLL5	chr22	22764613							0.0	0.0		0	218.0	IGLV1-40	chr22	22764613.0	IGLL5	chr22	23235963.0					Osteosarcoma-MS214			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGLV1-40	Fusion	IGLV1-40--IGLJ1	chr22	22764613							0.0	0.0		0	66.0	IGLV1-40	chr22	22764613.0	IGLJ1	chr22	23235963.0					Osteosarcoma-MS214			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGKV4-1	Fusion	IGKV4-1--AC096579.7	chr2	89185667							0.0	0.0		0	890.0	IGKV4-1	chr2	89185667.0	AC096579.7	chr2	89161075.0					Osteosarcoma-MS214			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGKV4-1	Fusion	IGKV4-1--AC096579.13	chr2	89185667							0.0	0.0		0	178.0	IGKV4-1	chr2	89185667.0	AC096579.13	chr2	89161075.0					Osteosarcoma-MS214			0	0	0	0	1	0	0
+Cancer Module				Somatic Variant	CENPF	Missense	p.A2096T	1	214819199	214819199.0	G	G	A	0.0441	68.0	4.9e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-MS214	Osteosarcoma-MS214-Tumor-SM-2RCBB	Osteosarcoma-MS214-Normal-SM-2RCCQ	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	CUX2	Missense	p.R773H	12	111758131	111758131.0	G	G	A	0.04	75.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-MS214	Osteosarcoma-MS214-Tumor-SM-2RCBB	Osteosarcoma-MS214-Normal-SM-2RCCQ	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ACAP1	Splice Site	p.A95A	17	7245647	7245647.0	G	G	A	0.0345	87.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-MS214	Osteosarcoma-MS214-Tumor-SM-2RCBB	Osteosarcoma-MS214-Normal-SM-2RCCQ	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	USP34	Missense	p.L1052I	2	61546322	61546322.0	G	G	T	0.0847	59.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-MS214	Osteosarcoma-MS214-Tumor-SM-2RCBB	Osteosarcoma-MS214-Normal-SM-2RCCQ	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	PARP8	Missense	p.G452V	5	50091178	50091178.0	G	G	T	0.0548	73.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-MS214	Osteosarcoma-MS214-Tumor-SM-2RCBB	Osteosarcoma-MS214-Normal-SM-2RCCQ	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	COMP	Deletion	p.SD566del	19	18896324	18896329.0	GTCGCT	GTCGCT	-	0.1354	384.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-MS214	Osteosarcoma-MS214-Tumor-SM-2RCBB	Osteosarcoma-MS214-Normal-SM-2RCCQ	0	0	0	0	0	1	1
+Cancer Module				Copy Number	DNAH11	Amplification		7	21659324	21951624.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KCNJ12	Amplification		17	20353034	21826550.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MAP2K3	Amplification		17	20353034	21826550.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LPA	Deletion		6	161032342	161067679.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MYO15A	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ALDH3A1	Amplification		17	19554608	20209647.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	AKAP10	Amplification		17	19554608	20209647.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PEMT	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MPRIP	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNF286A	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TNFRSF13B	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNF624	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TEKT3	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SHMT1	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SREBF1	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EPN2	Amplification		17	19186181	19481118.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DNASE1	Deletion		16	3706021	3713815.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DHRS4	Deletion		14	24428859	24435878.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ALDH3A2	Amplification		17	19554608	20209647.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MED9	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FLII	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PIGL	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NT5M	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TRIM16	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TRPV2	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ADORA2B	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ALKBH5	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DRG2	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	COPS3	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ATPAF2	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC47A1	Amplification		17	19186181	19481118.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	B9D1	Amplification		17	19186181	19481118.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MFAP4	Amplification		17	19186181	19481118.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MAPK7	Amplification		17	19186181	19481118.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GRAP	Amplification		17	18506667	18923996.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PRPSAP2	Amplification		17	18506667	18923996.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	USP22	Amplification		17	20353034	21826550.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CDCA7L	Amplification		7	21659324	21951624.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNF43	Amplification		19	21718830	22576033.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TM4SF5	Deletion		17	4688405	4689899.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MMP25	Deletion		16	3106782	3119608.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	IL32	Deletion		16	3106782	3119608.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	PRR16	Fusion	PRR16--CTD-2334D19.1	chr5	119800340							0.0	0.0		0	9.0	PRR16	chr5	119800340.0	CTD-2334D19.1	chr5	120125649.0					Osteosarcoma-MS214			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	ADRBK2	Fusion	ADRBK2--IGLVI-70	chr22	26100176							0.0	0.0		0	18.0	ADRBK2	chr22	26100176.0	IGLVI-70	chr22	22380648.0					Osteosarcoma-MS214			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	IGLJ3	Fusion	IGLV8-61--IGLJ3	chr22	22453622							0.0	0.0		0	33.0	IGLV8-61	chr22	22453622.0	IGLJ3	chr22	23247171.0					Osteosarcoma-MS214			0	0	0	0	0	1	0
+Cancer Module				Rearrangement	IGLJ3	Fusion	IGLV4-69--IGLJ3	chr22	22385870							0.0	0.0		0	28.0	IGLV4-69	chr22	22385870.0	IGLJ3	chr22	23247168.0					Osteosarcoma-MS214			0	0	0	0	0	1	0
+Cosmic				Somatic Variant	MYH15	Splice Site	p.E906V	3	108160106	108160106.0	T	T	A	0.2558	86.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-MS214	Osteosarcoma-MS214-Tumor-SM-2RCBB	Osteosarcoma-MS214-Normal-SM-2RCCQ	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	AARSD1	Missense	p.P195S	17	41108301	41108301.0	G	G	A	0.0308	130.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-MS214	Osteosarcoma-MS214-Tumor-SM-2RCBB	Osteosarcoma-MS214-Normal-SM-2RCCQ	0	0	0	0	0	0	1
+Cosmic				Copy Number	GLTPD2	Deletion		17	4688405	4689899.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RAI1	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CDRT1	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TBC1D26	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FBXW10	Amplification		17	18506667	18923996.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF100	Amplification		19	21718830	22576033.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM118A	Deletion		22	45723471	45724609.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	VMO1	Deletion		17	4688405	4689899.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ULK2	Amplification		17	19554608	20209647.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LLGL1	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM211A	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF287	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CDRT4	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SMCR8	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCDC144A	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TRIM16L	Amplification		17	18506667	18923996.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TBC1D28	Amplification		17	18506667	18923996.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM83G	Amplification		17	18506667	18923996.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCDC144NL	Amplification		17	20353034	21826550.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LGALS9B	Amplification		17	20353034	21826550.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF676	Amplification		19	21718830	22576033.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF208	Amplification		19	21718830	22576033.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	CHSY3	Fusion	CHSY3--HSPA8P4	chr5	129244053							0.0	0.0		0	10.0	CHSY3	chr5	129244053.0	HSPA8P4	chr5	129476585.0					Osteosarcoma-MS214			0	0	0	0	0	0	1
+Cosmic				Rearrangement	PCDHAC1	Fusion	PCDHA4--PCDHAC1	chr5	140189157							0.0	0.0		0	7.0	PCDHA4	chr5	140189157.0	PCDHAC1	chr5	140358534.0					Osteosarcoma-MS214			0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC47A2	Amplification		17	19554608	20209647.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRRC48	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRT17P1	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RASD1	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PLD6	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TOM1L2	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TTC19	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZSWIM7	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CENPV	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RNF112	Amplification		17	19186181	19481118.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC5A10	Amplification		17	18506667	18923996.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCDC144B	Amplification		17	18506667	18923996.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF286B	Amplification		17	18506667	18923996.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CDRT15L2	Amplification		17	20353034	21826550.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DHRS7B	Amplification		17	20353034	21826550.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C17orf51	Amplification		17	20353034	21826550.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C17orf103	Amplification		17	20353034	21826550.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM11	Amplification		17	20353034	21826550.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	UBBP4	Amplification		17	20353034	21826550.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM27L	Amplification		17	20353034	21826550.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF257	Amplification		19	21718830	22576033.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF729	Amplification		19	21718830	22576033.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KIR2DS4	Deletion		19	55350633	55370836.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND6	Fusion	MT-ND6--MT-TE	chrM	14616							0.0	0.0		0	22.0	MT-ND6	chrM	14616.0	MT-TE	chrM	14711.0					Osteosarcoma-MS214			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4	Fusion	MT-ND4--MT-ND4L	chrM	10839							0.0	0.0		0	32.0	MT-ND4	chrM	10839.0	MT-ND4L	chrM	10622.0					Osteosarcoma-MS214			0	0	0	0	0	0	1
+Cosmic				Rearrangement	RIMBP2	Fusion	RP11-662M24.2--RIMBP2	chr12	131112867							0.0	0.0		0	7.0	RP11-662M24.2	chr12	131112867.0	RIMBP2	chr12	131002462.0					Osteosarcoma-MS214			0	0	0	0	0	0	1
+Cosmic				Rearrangement	PCDHAC2	Fusion	PCDHA4--PCDHAC2	chr5	140189157							0.0	0.0		0	7.0	PCDHA4	chr5	140189157.0	PCDHAC2	chr5	140358534.0					Osteosarcoma-MS214			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4L	Fusion	MT-ND4--MT-ND4L	chrM	10839							0.0	0.0		0	32.0	MT-ND4	chrM	10839.0	MT-ND4L	chrM	10622.0					Osteosarcoma-MS214			0	0	0	0	0	0	1
+Cosmic				Rearrangement	IGLL5	Fusion	IGLV1-40--IGLL5	chr22	22764613							0.0	0.0		0	218.0	IGLV1-40	chr22	22764613.0	IGLL5	chr22	23235963.0					Osteosarcoma-MS214			0	0	0	0	0	0	1
+VUS				Copy Number	TVP23B	Amplification		17	18506667	18923996.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-311F12.2	Amplification		17	19554608	20209647.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-209D14.2	Amplification		17	19554608	20209647.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-209D14.4	Amplification		17	19554608	20209647.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-311F12.1	Amplification		17	19554608	20209647.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-78O7.2	Amplification		17	19554608	20209647.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-258P	Amplification		17	19554608	20209647.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC004702.2	Amplification		17	19554608	20209647.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1057P	Amplification		17	19554608	20209647.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-416I2.1	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-45M22.3	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-138I1.3	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-138I1.4	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-219A15.1	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-385D13.3	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-219A15.2	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	KRT16P2	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-219A15.4	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-138I1.2	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-258F1.1	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	GID4	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-385D13.1	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIEF2	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC002553.1	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1288	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR33B	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-314P	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-767P	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-799P	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-862P	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP436	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL792P	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL775P	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-178F10.1	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-178F10.3	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL620P	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL442P	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-253P7.1	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RAI1-AS1	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-77H15.1	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	MPRIP-AS1	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-45M22.5	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-45M22.4	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-524F11.2	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC055811.1	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC104024.2	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC104024.1	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC093484.4	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	TVP23C	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	TVP23C-CDRT4	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-524F11.1	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC022596.6	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC022596.2	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC015922.6	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC015922.5	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	USP32P1	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC005324.7	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC005324.6	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-468P	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-640I15.1	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-849N15.4	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-92B11.3	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-92B11.4	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-3157E16.1	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	SMCR2	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	SMCR5	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-405P	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORA74	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	C17orf76-AS1	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	TBC1D27	Amplification		17	15211729	18259547.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORA59B	Amplification		17	19186181	19481118.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1113L8.1	Amplification		17	19186181	19481118.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-135L13.4	Amplification		17	19186181	19481118.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	snoMe28S-Am2634	Amplification		17	19186181	19481118.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1180	Amplification		17	19186181	19481118.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC025627.7	Amplification		17	19186181	19481118.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-187M2.3	Amplification		17	19186181	19481118.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC004448.2	Amplification		17	19186181	19481118.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC004448.5	Amplification		17	19186181	19481118.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-187M2.1	Amplification		17	19186181	19481118.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	EPN2-AS1	Amplification		17	19186181	19481118.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-187M2.2	Amplification		17	19186181	19481118.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-815I9.4	Amplification		17	18506667	18923996.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2145A24.4	Amplification		17	18506667	18923996.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC090286.4	Amplification		17	18506667	18923996.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2145A24.3	Amplification		17	18506667	18923996.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	snoMBII-202	Amplification		17	18506667	18923996.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL627P	Amplification		17	18506667	18923996.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL639P	Amplification		17	18506667	18923996.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-822E23.8	Amplification		17	20353034	21826550.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-822E23.6	Amplification		17	20353034	21826550.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1178P	Amplification		17	20353034	21826550.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC126365.1	Amplification		17	20353034	21826550.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC138761.1	Amplification		17	20353034	21826550.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC138710.1	Amplification		17	20353034	21826550.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC087499.10	Amplification		17	20353034	21826550.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC087393.1	Amplification		17	20353034	21826550.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC087294.2	Amplification		17	20353034	21826550.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC025627.9	Amplification		17	20353034	21826550.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC015818.3	Amplification		17	20353034	21826550.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC008088.4	Amplification		17	20353034	21826550.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-822E23.2	Amplification		17	20353034	21826550.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-822E23.7	Amplification		17	20353034	21826550.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-434D2.7	Amplification		17	20353034	21826550.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-746M1.1	Amplification		17	20353034	21826550.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-344E13.3	Amplification		17	20353034	21826550.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-344E13.4	Amplification		17	20353034	21826550.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-381P6.1	Amplification		17	20353034	21826550.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1109M24.16	Amplification		17	20353034	21826550.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-283C24.1	Amplification		17	20353034	21826550.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1109M24.5	Amplification		17	20353034	21826550.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	NOS2P3	Amplification		17	20353034	21826550.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-434D2.11	Amplification		17	20353034	21826550.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-434D2.12	Amplification		17	20353034	21826550.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-434D2.3	Amplification		17	20353034	21826550.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	KRT16P3	Amplification		17	20353034	21826550.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL426P	Amplification		17	20353034	21826550.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-728E14.2	Amplification		17	20353034	21826550.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-728E14.3	Amplification		17	20353034	21826550.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-157B13.8	Amplification		19	21718830	22576033.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-157B13.7	Amplification		19	21718830	22576033.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC092364.2	Amplification		19	21718830	22576033.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC092364.4	Amplification		19	21718830	22576033.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-420K14.6	Amplification		19	21718830	22576033.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-420K14.8	Amplification		19	21718830	22576033.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC003973.5	Amplification		19	21718830	22576033.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-678G14.2	Amplification		19	21718830	22576033.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-678G14.3	Amplification		19	21718830	22576033.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-678G14.4	Amplification		19	21718830	22576033.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC003973.4	Amplification		19	21718830	22576033.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-473M20.7	Deletion		16	3106782	3119608.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU1-125P	Deletion		16	3106782	3119608.0						0.0	0.0		0												Osteosarcoma-MS214	MS214_T		0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-96H19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46848924							0.0	0.0		0	11.0	RP11-96H19.1	chr12	46848924.0	RP11-446N19.1	chr12	47046173.0					Osteosarcoma-MS214			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-662M24.2	Fusion	RP11-662M24.2--RIMBP2	chr12	131112867							0.0	0.0		0	7.0	RP11-662M24.2	chr12	131112867.0	RIMBP2	chr12	131002462.0					Osteosarcoma-MS214			0	0	0	0	0	0	0
+VUS				Rearrangement	IGLV3-21	Fusion	IGLV3-21--IGLJ2	chr22	23055678							0.0	0.0		0	19.0	IGLV3-21	chr22	23055678.0	IGLJ2	chr22	23241798.0					Osteosarcoma-MS214			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKV3-20	Fusion	IGKV3-20--IGKJ1	chr2	89442058							0.0	0.0		0	77.0	IGKV3-20	chr2	89442058.0	IGKJ1	chr2	89161435.0					Osteosarcoma-MS214			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKV3-11	Fusion	IGKV3-11--IGKJ4	chr2	89326668							0.0	0.0		0	29.0	IGKV3-11	chr2	89326668.0	IGKJ4	chr2	89160434.0					Osteosarcoma-MS214			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKV1-39	Fusion	IGKV1-39--IGKJ5	chr2	89619384							0.0	0.0		0	239.0	IGKV1-39	chr2	89619384.0	IGKJ5	chr2	89160117.0					Osteosarcoma-MS214			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKV1-39	Fusion	IGKV1-39--IGKJ2	chr2	89619384							0.0	0.0		0	65.0	IGKV1-39	chr2	89619384.0	IGKJ2	chr2	89161074.0					Osteosarcoma-MS214			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKV1-27	Fusion	IGKV1-27--IGKJ3	chr2	89512909							0.0	0.0		0	56.0	IGKV1-27	chr2	89512909.0	IGKJ3	chr2	89160770.0					Osteosarcoma-MS214			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-446N19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46848924							0.0	0.0		0	11.0	RP11-96H19.1	chr12	46848924.0	RP11-446N19.1	chr12	47046173.0					Osteosarcoma-MS214			0	0	0	0	0	0	0
+VUS				Rearrangement	CTD-2334D19.1	Fusion	PRR16--CTD-2334D19.1	chr5	119800340							0.0	0.0		0	9.0	PRR16	chr5	119800340.0	CTD-2334D19.1	chr5	120125649.0					Osteosarcoma-MS214			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TE	Fusion	MT-ND6--MT-TE	chrM	14616							0.0	0.0		0	22.0	MT-ND6	chrM	14616.0	MT-TE	chrM	14711.0					Osteosarcoma-MS214			0	0	0	0	0	0	0
+VUS				Rearrangement	IGLJ2	Fusion	IGLV3-21--IGLJ2	chr22	23055678							0.0	0.0		0	19.0	IGLV3-21	chr22	23055678.0	IGLJ2	chr22	23241798.0					Osteosarcoma-MS214			0	0	0	0	0	0	0
+VUS				Rearrangement	IGLJ1	Fusion	IGLV1-40--IGLJ1	chr22	22764613							0.0	0.0		0	66.0	IGLV1-40	chr22	22764613.0	IGLJ1	chr22	23235963.0					Osteosarcoma-MS214			0	0	0	0	0	0	0
+VUS				Rearrangement	AC096579.7	Fusion	IGKV4-1--AC096579.7	chr2	89185667							0.0	0.0		0	890.0	IGKV4-1	chr2	89185667.0	AC096579.7	chr2	89161075.0					Osteosarcoma-MS214			0	0	0	0	0	0	0
+VUS				Rearrangement	AC096579.13	Fusion	IGKV4-1--AC096579.13	chr2	89185667							0.0	0.0		0	178.0	IGKV4-1	chr2	89185667.0	AC096579.13	chr2	89161075.0					Osteosarcoma-MS214			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKJ1	Fusion	IGKV3-20--IGKJ1	chr2	89442058							0.0	0.0		0	77.0	IGKV3-20	chr2	89442058.0	IGKJ1	chr2	89161435.0					Osteosarcoma-MS214			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKJ4	Fusion	IGKV3-11--IGKJ4	chr2	89326668							0.0	0.0		0	29.0	IGKV3-11	chr2	89326668.0	IGKJ4	chr2	89160434.0					Osteosarcoma-MS214			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKJ5	Fusion	IGKV1-39--IGKJ5	chr2	89619384							0.0	0.0		0	239.0	IGKV1-39	chr2	89619384.0	IGKJ5	chr2	89160117.0					Osteosarcoma-MS214			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKJ2	Fusion	IGKV1-39--IGKJ2	chr2	89619384							0.0	0.0		0	65.0	IGKV1-39	chr2	89619384.0	IGKJ2	chr2	89161074.0					Osteosarcoma-MS214			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKJ3	Fusion	IGKV1-27--IGKJ3	chr2	89512909							0.0	0.0		0	56.0	IGKV1-27	chr2	89512909.0	IGKJ3	chr2	89160770.0					Osteosarcoma-MS214			0	0	0	0	0	0	0
+VUS				Rearrangement	HSPA8P4	Fusion	CHSY3--HSPA8P4	chr5	129244053							0.0	0.0		0	10.0	CHSY3	chr5	129244053.0	HSPA8P4	chr5	129476585.0					Osteosarcoma-MS214			0	0	0	0	0	0	0
+VUS				Rearrangement	IGLVI-70	Fusion	ADRBK2--IGLVI-70	chr22	26100176							0.0	0.0		0	18.0	ADRBK2	chr22	26100176.0	IGLVI-70	chr22	22380648.0					Osteosarcoma-MS214			0	0	0	0	0	0	0

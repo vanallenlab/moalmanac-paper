@@ -1,0 +1,133 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Putatively Actionable	Putatively Actionable			Copy Number	CDK4	Amplification		12	58087693	58145752.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		4	1	2	1	1	1	1
+Putatively Actionable	Putatively Actionable			Copy Number	MDM2	Amplification		12	69145560	69233881.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		4	0	0	1	1	1	1
+Investigate Actionability		Investigate Actionability		Somatic Variant	BCR	Missense	p.E555K	22	23603638	23603638.0	G	G	A	0.0894	123.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-OBM067	Osteosarcoma-OBM067-Tumor-SM-2RCBH	Osteosarcoma-OBM067-Normal-SM-2RCCW	2	0	0	1	1	1	2
+Biologically Relevant				Rearrangement	CDK4	Fusion	RAP1B--CDK4	chr12	69004823							0.0	0.0		0	29.0	RAP1B	chr12	69004823.0	CDK4	chr12	58143287.0					Osteosarcoma-OBM067			1	1	1	1	1	1	1
+Cancer Hotspot				Copy Number	ARID2	Amplification		12	45802888	47473037.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	1	0	1	0	1	1
+Cancer Hotspot				Somatic Variant	AXL	Missense	p.I573F	19	41758261	41758261.0	A	A	T	0.0606	66.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-OBM067	Osteosarcoma-OBM067-Tumor-SM-2RCBH	Osteosarcoma-OBM067-Normal-SM-2RCCW	0	1	0	0	0	1	1
+Cancer Hotspot 3D				Somatic Variant	TAF4B	Missense	p.V208I	18	23854651	23854651.0	G	G	A	0.0612	98.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-OBM067	Osteosarcoma-OBM067-Tumor-SM-2RCBH	Osteosarcoma-OBM067-Normal-SM-2RCCW	0	0	1	0	0	1	2
+Cancer Hotspot 3D				Copy Number	MAP2K5	Deletion		15	68040317	68041191.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	1	0	0	1	1
+Cancer Gene Census				Somatic Variant	FANCG	Missense	p.R485W	9	35075303	35075303.0	G	G	A	0.0278	108.0	0.000132	0.0		0								0.0	0.0	0.0		Osteosarcoma-OBM067	Osteosarcoma-OBM067-Tumor-SM-2RCBH	Osteosarcoma-OBM067-Normal-SM-2RCCW	0	0	0	1	1	1	2
+Cancer Gene Census				Somatic Variant	ZNF521	Missense	p.E1300D	18	22669435	22669435.0	C	C	G	0.0158	316.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-OBM067	Osteosarcoma-OBM067-Tumor-SM-2RCBH	Osteosarcoma-OBM067-Normal-SM-2RCCW	0	0	0	1	0	1	2
+Cancer Gene Census				Rearrangement	CCND2	Fusion	CCND2--RP11-500M8.7	chr12	4398156							0.0	0.0		0	40.0	CCND2	chr12	4398156.0	RP11-500M8.7	chr12	4771699.0					Osteosarcoma-OBM067			0	0	0	1	0	1	1
+Cancer Gene Census				Rearrangement	CCND2	Fusion	CCND2--RP11-234B24.6	chr12	4398156							0.0	0.0		0	34.0	CCND2	chr12	4398156.0	RP11-234B24.6	chr12	4771699.0					Osteosarcoma-OBM067			0	0	0	1	0	1	1
+Cancer Gene Census				Rearrangement	CCND2	Fusion	CCND2--NDUFA9	chr12	4398156							0.0	0.0		0	51.0	CCND2	chr12	4398156.0	NDUFA9	chr12	4771699.0					Osteosarcoma-OBM067			0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	ZNF521	Amplification		18	22048500	22672297.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	1	0	1	1
+Cancer Gene Census				Somatic Variant	NBEA	Missense	p.L793I	13	35716446	35716446.0	C	C	A	0.122	82.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-OBM067	Osteosarcoma-OBM067-Tumor-SM-2RCBH	Osteosarcoma-OBM067-Normal-SM-2RCCW	0	0	0	1	0	0	2
+Cancer Pathway				Somatic Variant	CAT	Missense	p.E101Q	11	34472597	34472597.0	G	G	C	0.0207	145.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-OBM067	Osteosarcoma-OBM067-Tumor-SM-2RCBH	Osteosarcoma-OBM067-Normal-SM-2RCCW	0	0	0	0	1	1	2
+Cancer Pathway				Rearrangement	RAP1B	Fusion	RAP1B--CDK4	chr12	69004823							0.0	0.0		0	29.0	RAP1B	chr12	69004823.0	CDK4	chr12	58143287.0					Osteosarcoma-OBM067			0	0	0	0	1	1	1
+Cancer Module				Somatic Variant	HSPG2	Nonsense	p.R1090*	1	22202156	22202156.0	G	G	A	0.0719	167.0	1.6e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-OBM067	Osteosarcoma-OBM067-Tumor-SM-2RCBH	Osteosarcoma-OBM067-Normal-SM-2RCCW	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	STAG3	Nonsense	p.E296*	7	99792950	99792950.0	G	G	T	0.0725	69.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-OBM067	Osteosarcoma-OBM067-Tumor-SM-2RCBH	Osteosarcoma-OBM067-Normal-SM-2RCCW	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	CABS1	Missense	p.V324I	4	71201726	71201726.0	G	G	A	0.0658	76.0	8.2e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-OBM067	Osteosarcoma-OBM067-Tumor-SM-2RCBH	Osteosarcoma-OBM067-Normal-SM-2RCCW	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	AKR1C3	Missense	p.M151T	10	5141523	5141523.0	T	T	C	0.1163	86.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-OBM067	Osteosarcoma-OBM067-Tumor-SM-2RCBH	Osteosarcoma-OBM067-Normal-SM-2RCCW	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	CHORDC1	Missense	p.E113Q	11	89944479	89944479.0	C	C	G	0.05	140.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-OBM067	Osteosarcoma-OBM067-Tumor-SM-2RCBH	Osteosarcoma-OBM067-Normal-SM-2RCCW	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	CHORDC1	Missense	p.R63T	11	89947327	89947327.0	C	C	G	0.0463	108.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-OBM067	Osteosarcoma-OBM067-Tumor-SM-2RCBH	Osteosarcoma-OBM067-Normal-SM-2RCCW	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	BMS1	Missense	p.R52W	10	43279996	43279996.0	C	C	T	0.0275	109.0	8.2e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-OBM067	Osteosarcoma-OBM067-Tumor-SM-2RCBH	Osteosarcoma-OBM067-Normal-SM-2RCCW	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SLC1A3	Missense	p.K196N	5	36677014	36677014.0	G	G	C	0.1304	23.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-OBM067	Osteosarcoma-OBM067-Tumor-SM-2RCBH	Osteosarcoma-OBM067-Normal-SM-2RCCW	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	PAPSS2	Missense	p.V325I	10	89487148	89487148.0	G	G	A	0.0345	87.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-OBM067	Osteosarcoma-OBM067-Tumor-SM-2RCBH	Osteosarcoma-OBM067-Normal-SM-2RCCW	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	DLST	Missense	p.A160D	14	75359573	75359573.0	C	C	A	0.087	69.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-OBM067	Osteosarcoma-OBM067-Tumor-SM-2RCBH	Osteosarcoma-OBM067-Normal-SM-2RCCW	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	MYRIP	Missense	p.R723H	3	40286004	40286004.0	G	G	A	0.0435	92.0	1.6e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-OBM067	Osteosarcoma-OBM067-Tumor-SM-2RCBH	Osteosarcoma-OBM067-Normal-SM-2RCCW	0	0	0	0	0	1	2
+Cancer Module				Rearrangement	LEPR	Fusion	LEPROT--LEPR	chr1	65891061							0.0	0.0		0	8.0	LEPROT	chr1	65891061.0	LEPR	chr1	66031229.0					Osteosarcoma-OBM067			0	0	0	0	0	1	1
+Cancer Module				Copy Number	MDM1	Amplification		12	68696148	68725253.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PSG5	Deletion		19	43673995	43709940.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CABYR	Amplification		18	21648869	22041137.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	AGAP2	Amplification		12	58087693	58145752.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC38A1	Amplification		12	45802888	47473037.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC38A2	Amplification		12	45802888	47473037.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RBM42	Deletion		19	36127808	36128708.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	NUP107	Fusion	NUP107--RP11-81H14.2	chr12	69085892							0.0	0.0		0	9.0	NUP107	chr12	69085892.0	RP11-81H14.2	chr12	68727444.0					Osteosarcoma-OBM067			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	NDUFA9	Fusion	NDUFA9--LRRN3	chr12	4778983							0.0	0.0		0	5.0	NDUFA9	chr12	4778983.0	LRRN3	chr7	110731437.0					Osteosarcoma-OBM067			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	LRRN3	Fusion	RP11-234B24.6--LRRN3	chr12	4778983							0.0	0.0		0	5.0	RP11-234B24.6	chr12	4778983.0	LRRN3	chr7	110731437.0					Osteosarcoma-OBM067			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	LRRN3	Fusion	NDUFA9--LRRN3	chr12	4778983							0.0	0.0		0	5.0	NDUFA9	chr12	4778983.0	LRRN3	chr7	110731437.0					Osteosarcoma-OBM067			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	NDUFA9	Fusion	CCND2--NDUFA9	chr12	4398156							0.0	0.0		0	51.0	CCND2	chr12	4398156.0	NDUFA9	chr12	4771699.0					Osteosarcoma-OBM067			0	0	0	0	0	1	1
+Cosmic				Somatic Variant	PKHD1	Missense	p.S1313R	6	51890669	51890669.0	G	G	C	0.0526	114.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-OBM067	Osteosarcoma-OBM067-Tumor-SM-2RCBH	Osteosarcoma-OBM067-Normal-SM-2RCCW	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	SLC28A2	Missense	p.I186F	15	45556188	45556188.0	A	A	T	0.0381	105.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-OBM067	Osteosarcoma-OBM067-Tumor-SM-2RCBH	Osteosarcoma-OBM067-Normal-SM-2RCCW	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	COL25A1	Missense	p.A65G	4	110222982	110222982.0	G	G	C	0.0916	131.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-OBM067	Osteosarcoma-OBM067-Tumor-SM-2RCBH	Osteosarcoma-OBM067-Normal-SM-2RCCW	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	WDR70	Missense	p.E72Q	5	37392140	37392140.0	G	G	C	0.0421	95.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-OBM067	Osteosarcoma-OBM067-Tumor-SM-2RCBH	Osteosarcoma-OBM067-Normal-SM-2RCCW	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	HELLS	Missense	p.G755R	10	96356631	96356631.0	G	G	C	0.0435	69.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-OBM067	Osteosarcoma-OBM067-Tumor-SM-2RCBH	Osteosarcoma-OBM067-Normal-SM-2RCCW	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	C12orf4	Missense	p.A83P	12	4643400	4643400.0	C	C	G	0.0667	105.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-OBM067	Osteosarcoma-OBM067-Tumor-SM-2RCBH	Osteosarcoma-OBM067-Normal-SM-2RCCW	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	GALNT6	Missense	p.L554V	12	51749685	51749685.0	G	G	C	0.0735	136.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-OBM067	Osteosarcoma-OBM067-Tumor-SM-2RCBH	Osteosarcoma-OBM067-Normal-SM-2RCCW	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	OS9	Missense	p.E141K	12	58089762	58089762.0	G	G	A	0.0729	439.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-OBM067	Osteosarcoma-OBM067-Tumor-SM-2RCBH	Osteosarcoma-OBM067-Normal-SM-2RCCW	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	SLC35E3	Missense	p.Q170E	12	69141815	69141815.0	C	C	G	0.0541	185.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-OBM067	Osteosarcoma-OBM067-Tumor-SM-2RCBH	Osteosarcoma-OBM067-Normal-SM-2RCCW	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	WDR70	Missense	p.R61T	5	37392108	37392108.0	G	G	C	0.1111	63.0	8e-06	0.0		0								0.0	0.0	0.0		Osteosarcoma-OBM067	Osteosarcoma-OBM067-Tumor-SM-2RCBH	Osteosarcoma-OBM067-Normal-SM-2RCCW	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	OSBPL1A	Missense	p.D860N	18	21746624	21746624.0	C	C	T	0.0209	431.0	8e-06	0.0		0								0.0	0.0	0.0		Osteosarcoma-OBM067	Osteosarcoma-OBM067-Tumor-SM-2RCBH	Osteosarcoma-OBM067-Normal-SM-2RCCW	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	LRRK2	Missense	p.C2024Y	12	40734218	40734218.0	G	G	A	0.0208	192.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-OBM067	Osteosarcoma-OBM067-Tumor-SM-2RCBH	Osteosarcoma-OBM067-Normal-SM-2RCCW	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	CLEC1A	Missense	p.R169C	12	10225950	10225950.0	G	G	A	0.033	91.0	1.6e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-OBM067	Osteosarcoma-OBM067-Tumor-SM-2RCBH	Osteosarcoma-OBM067-Normal-SM-2RCCW	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	TOPORS	Missense	p.D1007N	9	32541504	32541504.0	C	C	T	0.055	109.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-OBM067	Osteosarcoma-OBM067-Tumor-SM-2RCBH	Osteosarcoma-OBM067-Normal-SM-2RCCW	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	OSBPL1A	Missense	p.E858K	18	21746630	21746630.0	C	C	T	0.0198	404.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-OBM067	Osteosarcoma-OBM067-Tumor-SM-2RCBH	Osteosarcoma-OBM067-Normal-SM-2RCCW	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	ZNF625	Nonsense	p.E350*	19	12256183	12256183.0	C	C	A	0.0753	93.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-OBM067	Osteosarcoma-OBM067-Tumor-SM-2RCBH	Osteosarcoma-OBM067-Normal-SM-2RCCW	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	NCDN	Missense	p.R259W	1	36026527	36026527.0	C	C	T	0.0242	165.0	4.1e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-OBM067	Osteosarcoma-OBM067-Tumor-SM-2RCBH	Osteosarcoma-OBM067-Normal-SM-2RCCW	0	0	0	0	0	0	1
+Cosmic				Copy Number	PSG4	Deletion		19	43673995	43709940.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF419	Deletion		19	58002584	58005710.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC38A4	Amplification		12	45802888	47473037.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	USP17L2	Deletion		8	11968689	12041465.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PTCHD3	Deletion		10	27686971	27703431.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IMPACT	Amplification		18	21648869	22041137.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SCAF11	Amplification		12	45802888	47473037.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM86B1	Deletion		8	11968689	12041465.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	HRH4	Amplification		18	22048500	22672297.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TSPAN31	Amplification		12	58087693	58145752.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OS9	Amplification		12	58087693	58145752.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OSBPL1A	Amplification		18	21648869	22041137.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TTC39C	Amplification		18	21648869	22041137.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC35E3	Amplification		12	69145560	69233881.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ANO6	Amplification		12	45802888	47473037.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	AMIGO2	Amplification		12	45802888	47473037.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF705D	Deletion		8	11968689	12041465.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR4P4	Deletion		11	55370665	55407024.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR4C11	Deletion		11	55370665	55407024.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND6	Fusion	MT-ND6--MT-TE	chrM	14622							0.0	0.0		0	12.0	MT-ND6	chrM	14622.0	MT-TE	chrM	14717.0					Osteosarcoma-OBM067			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4	Fusion	MT-ND4--MT-ND4L	chrM	10898							0.0	0.0		0	30.0	MT-ND4	chrM	10898.0	MT-ND4L	chrM	10621.0					Osteosarcoma-OBM067			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND1	Fusion	MT-ND1--MT-TL1	chrM	3354							0.0	0.0		0	38.0	MT-ND1	chrM	3354.0	MT-TL1	chrM	3258.0					Osteosarcoma-OBM067			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-ATP6--MT-ATP8	chrM	8574							0.0	0.0		0	38.0	MT-ATP6	chrM	8574.0	MT-ATP8	chrM	8468.0					Osteosarcoma-OBM067			0	0	0	0	0	0	1
+Cosmic				Rearrangement	LEPROT	Fusion	LEPROT--LEPR	chr1	65891061							0.0	0.0		0	8.0	LEPROT	chr1	65891061.0	LEPR	chr1	66031229.0					Osteosarcoma-OBM067			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4L	Fusion	MT-ND4--MT-ND4L	chrM	10898							0.0	0.0		0	30.0	MT-ND4	chrM	10898.0	MT-ND4L	chrM	10621.0					Osteosarcoma-OBM067			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP8	Fusion	MT-ATP6--MT-ATP8	chrM	8574							0.0	0.0		0	38.0	MT-ATP6	chrM	8574.0	MT-ATP8	chrM	8468.0					Osteosarcoma-OBM067			0	0	0	0	0	0	1
+VUS				Copy Number	RP11-958F21.3	Amplification		18	22048500	22672297.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-449D8.5	Amplification		18	22048500	22672297.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-178F10.3	Amplification		18	22048500	22672297.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-178F10.2	Amplification		18	22048500	22672297.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-449D8.2	Amplification		18	22048500	22672297.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-449D8.1	Amplification		18	22048500	22672297.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-958F21.1	Amplification		18	22048500	22672297.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	0
+VUS				Copy Number	AGAP2-AS1	Amplification		12	58087693	58145752.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-571M6.8	Amplification		12	58087693	58145752.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-571M6.7	Amplification		12	58087693	58145752.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-178F10.1	Amplification		18	21648869	22041137.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU5A-6P	Amplification		18	21648869	22041137.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP452	Amplification		18	21648869	22041137.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL247P	Amplification		18	21648869	22041137.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-403A21.3	Amplification		18	21648869	22041137.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-435P	Amplification		18	21648869	22041137.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-799B12.4	Amplification		18	21648869	22041137.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-621L6.2	Amplification		18	21648869	22041137.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-799B12.2	Amplification		18	21648869	22041137.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-621L6.3	Amplification		18	21648869	22041137.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR320C2	Amplification		18	21648869	22041137.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2006O16.2	Amplification		18	22774872	22932360.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-611O2.1	Amplification		12	69145560	69233881.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC124890.1	Amplification		12	69145560	69233881.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-611O2.5	Amplification		12	69145560	69233881.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-81H14.2	Amplification		12	68696148	68725253.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-474P2.4	Amplification		12	45802888	47473037.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-474P2.2	Amplification		12	45802888	47473037.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-671P	Amplification		12	45802888	47473037.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-446N19.1	Amplification		12	45802888	47473037.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-352M15.1	Amplification		12	45802888	47473037.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL246P	Amplification		12	45802888	47473037.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-96H19.1	Amplification		12	45802888	47473037.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	0
+VUS				Copy Number	PCED1B	Amplification		12	45802888	47473037.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00938	Amplification		12	45802888	47473037.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	0
+VUS				Copy Number	FAM66D	Deletion		8	11968689	12041465.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC145124.1	Deletion		8	11968689	12041465.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC003005.4	Deletion		19	58002584	58005710.0						0.0	0.0		0												Osteosarcoma-OBM067	OBM067_T		0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-96H19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	15.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	47046173.0					Osteosarcoma-OBM067			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-234B24.6	Fusion	RP11-234B24.6--LRRN3	chr12	4778983							0.0	0.0		0	5.0	RP11-234B24.6	chr12	4778983.0	LRRN3	chr7	110731437.0					Osteosarcoma-OBM067			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-RNR1	Fusion	MT-RNR1--MT-TF	chrM	777							0.0	0.0		0	8.0	MT-RNR1	chrM	777.0	MT-TF	chrM	595.0					Osteosarcoma-OBM067			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-446N19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	15.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	47046173.0					Osteosarcoma-OBM067			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-81H14.2	Fusion	NUP107--RP11-81H14.2	chr12	69085892							0.0	0.0		0	9.0	NUP107	chr12	69085892.0	RP11-81H14.2	chr12	68727444.0					Osteosarcoma-OBM067			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TF	Fusion	MT-RNR1--MT-TF	chrM	777							0.0	0.0		0	8.0	MT-RNR1	chrM	777.0	MT-TF	chrM	595.0					Osteosarcoma-OBM067			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TE	Fusion	MT-ND6--MT-TE	chrM	14622							0.0	0.0		0	12.0	MT-ND6	chrM	14622.0	MT-TE	chrM	14717.0					Osteosarcoma-OBM067			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TL1	Fusion	MT-ND1--MT-TL1	chrM	3354							0.0	0.0		0	38.0	MT-ND1	chrM	3354.0	MT-TL1	chrM	3258.0					Osteosarcoma-OBM067			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-500M8.7	Fusion	CCND2--RP11-500M8.7	chr12	4398156							0.0	0.0		0	40.0	CCND2	chr12	4398156.0	RP11-500M8.7	chr12	4771699.0					Osteosarcoma-OBM067			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-234B24.6	Fusion	CCND2--RP11-234B24.6	chr12	4398156							0.0	0.0		0	34.0	CCND2	chr12	4398156.0	RP11-234B24.6	chr12	4771699.0					Osteosarcoma-OBM067			0	0	0	0	0	0	0

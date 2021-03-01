@@ -1,0 +1,185 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Putatively Actionable			Putatively Actionable	Copy Number	TP53	Deletion		17	7557761	7708963.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		4	1	1	1	1	1	1
+Putatively Actionable	Putatively Actionable			Copy Number	EGFR	Amplification		7	54610174	57189111.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		4	1	1	1	1	1	1
+Cancer Hotspot				Copy Number	IKZF1	Amplification		7	50443981	50800271.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	1	0	1	0	1	1
+Cancer Hotspot 3D				Copy Number	DDC	Amplification		7	50443981	50800271.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	BTNL3	Deletion		5	180409023	180424738.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	1	0	0	1	1
+Cancer Gene Census				Copy Number	ZNF479	Amplification		7	54610174	57189111.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	1	0	0	1
+Cancer Pathway				Rearrangement	MMP9	Fusion	MMP9--COL1A2	chr20	44642022							0.0	0.0		0	23.0	MMP9	chr20	44642022.0	COL1A2	chr7	94049935.0					Osteosarcoma-NCF101			0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	ATP1B2	Deletion		17	7557761	7708963.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	IGLC3	Amplification		22	23242908	23249081.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	1	0	0
+Cancer Pathway				Copy Number	IGLC2	Amplification		22	23242908	23249081.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	1	0	0
+Cancer Module				Somatic Variant	CNNM4	Missense	p.E745D	2	97475161	97475161.0	G	G	C	0.2903	62.0	0.0	0.0		0								33.0	0.303	0.9844		Osteosarcoma-NCF101	Osteosarcoma-NCF101-Tumor-SM-2RCBG	Osteosarcoma-NCF101-Normal-SM-2RCCV	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	PERP	Missense	p.V131E	6	138413369	138413369.0	A	A	T	0.1884	69.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-NCF101	Osteosarcoma-NCF101-Tumor-SM-2RCBG	Osteosarcoma-NCF101-Normal-SM-2RCCV	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	TRPM2	Missense	p.D1069N	21	45837868	45837868.0	G	G	A	0.1333	75.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-NCF101	Osteosarcoma-NCF101-Tumor-SM-2RCBG	Osteosarcoma-NCF101-Normal-SM-2RCCV	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	IVL	Missense	p.P549T	1	152883918	152883918.0	C	C	A	0.2468	77.0	8e-06	0.0		0								0.0	0.0	0.0		Osteosarcoma-NCF101	Osteosarcoma-NCF101-Tumor-SM-2RCBG	Osteosarcoma-NCF101-Normal-SM-2RCCV	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	CNNM4	Splice Site		2	97475056	97475056.0	G	G	A	0.2683	41.0	0.0	0.0		0								10.0	0.9	0.3077		Osteosarcoma-NCF101	Osteosarcoma-NCF101-Tumor-SM-2RCBG	Osteosarcoma-NCF101-Normal-SM-2RCCV	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	MGAM	Missense	p.A616V	7	141734529	141734529.0	C	C	T	0.3529	51.0	6.6e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-NCF101	Osteosarcoma-NCF101-Tumor-SM-2RCBG	Osteosarcoma-NCF101-Normal-SM-2RCCV	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	FMO5	Splice Site		1	146673087	146673087.0	C	C	A	0.0541	74.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-NCF101	Osteosarcoma-NCF101-Tumor-SM-2RCBG	Osteosarcoma-NCF101-Normal-SM-2RCCV	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	DLGAP1	Missense	p.R72H	18	3879854	3879854.0	C	C	T	0.0526	76.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-NCF101	Osteosarcoma-NCF101-Tumor-SM-2RCBG	Osteosarcoma-NCF101-Normal-SM-2RCCV	0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNF224	Deletion		19	44610297	44622977.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	WRAP53	Deletion		17	7557761	7708963.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ECE2	Amplification		3	183911285	184003079.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LANCL2	Amplification		7	54610174	57189111.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNF211	Amplification		19	58089173	58188161.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	NRIP1	Fusion	NRIP1--AF127936.7	chr21	16437066							0.0	0.0		0	5.0	NRIP1	chr21	16437066.0	AF127936.7	chr21	16230029.0					Osteosarcoma-NCF101			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	COL1A2	Fusion	MMP9--COL1A2	chr20	44642022							0.0	0.0		0	23.0	MMP9	chr20	44642022.0	COL1A2	chr7	94049935.0					Osteosarcoma-NCF101			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	LEPR	Fusion	LEPROT--LEPR	chr1	65891061							0.0	0.0		0	8.0	LEPROT	chr1	65891061.0	LEPR	chr1	66031229.0					Osteosarcoma-NCF101			0	0	0	0	0	1	1
+Cancer Module				Copy Number	GRB10	Amplification		7	50443981	50800271.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CLPS	Amplification		6	35755392	35765317.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ABCF3	Amplification		3	183911285	184003079.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ALG3	Amplification		3	183911285	184003079.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CRIP1	Amplification		14	105954767	106204432.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CCT6A	Amplification		7	54610174	57189111.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PSPH	Amplification		7	54610174	57189111.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PHKG1	Amplification		7	54610174	57189111.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SEC61G	Amplification		7	54610174	57189111.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HP	Deletion		16	72090286	72093337.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RBAK	Deletion		7	4780217	5800952.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RNF216	Deletion		7	4780217	5800952.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FSCN1	Deletion		7	4780217	5800952.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HDAC9	Deletion		7	16841145	18875397.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	AGR2	Deletion		7	16841145	18875397.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	AGR3	Deletion		7	16841145	18875397.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	AHR	Deletion		7	16841145	18875397.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	UNC5D	Deletion		8	35540813	35584299.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EFNB3	Deletion		17	7557761	7708963.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	RBM38	Fusion	RBM38--C4orf51	chr20	55968389							0.0	0.0		0	6.0	RBM38	chr20	55968389.0	C4orf51	chr4	146617711.0					Osteosarcoma-NCF101			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	GPRASP2	Fusion	RP4-769N13.6--GPRASP2	chrX	101860581							0.0	0.0		0	6.0	RP4-769N13.6	chrX	101860581.0	GPRASP2	chrX	101968710.0					Osteosarcoma-NCF101			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	TNIP3	Fusion	KIAA1109--TNIP3	chr4	123210347							0.0	0.0		0	5.0	KIAA1109	chr4	123210347.0	TNIP3	chr4	122082371.0					Osteosarcoma-NCF101			0	0	0	0	0	1	1
+Cancer Module				Copy Number	IGLJ3	Amplification		22	23242908	23249081.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	1	0
+Cosmic				Somatic Variant	TCHH	Missense	p.S1903F	1	152079985	152079985.0	G	G	A	0.0496	121.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-NCF101	Osteosarcoma-NCF101-Tumor-SM-2RCBG	Osteosarcoma-NCF101-Normal-SM-2RCCV	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	COL11A2	Missense	p.R151H	6	33156293	33156293.0	C	C	T	0.125	112.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-NCF101	Osteosarcoma-NCF101-Tumor-SM-2RCBG	Osteosarcoma-NCF101-Normal-SM-2RCCV	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	CATSPER1	Missense	p.R640H	11	65788290	65788290.0	C	C	T	0.2353	34.0	4.1e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-NCF101	Osteosarcoma-NCF101-Tumor-SM-2RCBG	Osteosarcoma-NCF101-Normal-SM-2RCCV	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	SEMA3E	Missense	p.E586K	7	83014729	83014729.0	C	C	T	0.0522	134.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-NCF101	Osteosarcoma-NCF101-Tumor-SM-2RCBG	Osteosarcoma-NCF101-Normal-SM-2RCCV	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	C16orf78	Missense	p.A23D	16	49407918	49407918.0	C	C	A	0.0507	138.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-NCF101	Osteosarcoma-NCF101-Tumor-SM-2RCBG	Osteosarcoma-NCF101-Normal-SM-2RCCV	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	LCE1A	Missense	p.G93E	1	152800226	152800226.0	G	G	A	0.1622	37.0	8e-06	0.0		0								0.0	0.0	0.0		Osteosarcoma-NCF101	Osteosarcoma-NCF101-Tumor-SM-2RCBG	Osteosarcoma-NCF101-Normal-SM-2RCCV	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	EVI5	Missense	p.T338A	1	93160896	93160896.0	T	T	C	0.027999999999999997	107.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-NCF101	Osteosarcoma-NCF101-Tumor-SM-2RCBG	Osteosarcoma-NCF101-Normal-SM-2RCCV	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	CASC1	Missense	p.K551N	12	25264832	25264832.0	C	C	G	0.0625	48.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-NCF101	Osteosarcoma-NCF101-Tumor-SM-2RCBG	Osteosarcoma-NCF101-Normal-SM-2RCCV	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	IL20RB	Nonsense	p.E75*	3	136701009	136701009.0	G	G	T	0.08	50.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-NCF101	Osteosarcoma-NCF101-Tumor-SM-2RCBG	Osteosarcoma-NCF101-Normal-SM-2RCCV	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	KRTAP21-1	Missense	p.S77Y	21	32127467	32127467.0	G	G	T	0.0394	127.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-NCF101	Osteosarcoma-NCF101-Tumor-SM-2RCBG	Osteosarcoma-NCF101-Normal-SM-2RCCV	0	0	0	0	0	0	1
+Cosmic				Copy Number	RADIL	Deletion		7	4780217	5800952.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DNAH2	Deletion		17	7557761	7708963.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF530	Amplification		19	58089173	58188161.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TNRC18	Deletion		7	4780217	5800952.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF134	Amplification		19	58089173	58188161.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FBXL18	Deletion		7	4780217	5800952.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRPS1L1	Deletion		7	16841145	18875397.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SUMF2	Amplification		7	54610174	57189111.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZSCAN4	Amplification		19	58089173	58188161.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PAPOLB	Deletion		7	4780217	5800952.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	KIAA1109	Fusion	KIAA1109--TNIP3	chr4	123210347							0.0	0.0		0	5.0	KIAA1109	chr4	123210347.0	TNIP3	chr4	122082371.0					Osteosarcoma-NCF101			0	0	0	0	0	0	1
+Cosmic				Copy Number	FIGNL1	Amplification		7	50443981	50800271.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CAMK2N2	Amplification		3	183911285	184003079.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	VWA5B2	Amplification		3	183911285	184003079.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C14orf80	Amplification		14	105954767	106204432.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM121	Amplification		14	105954767	106204432.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF827	Amplification		4	146601106	146791882.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C4orf51	Amplification		4	146601106	146791882.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	VOPP1	Amplification		7	54610174	57189111.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	VSTM2A	Amplification		7	54610174	57189111.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF713	Amplification		7	54610174	57189111.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MRPS17	Amplification		7	54610174	57189111.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NUPR1L	Amplification		7	54610174	57189111.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SEPT14	Amplification		7	54610174	57189111.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CHCHD2	Amplification		7	54610174	57189111.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FKBP9L	Amplification		7	54610174	57189111.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GBAS	Amplification		7	54610174	57189111.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF416	Amplification		19	58089173	58188161.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZIK1	Amplification		19	58089173	58188161.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DLG2	Deletion		11	83497481	84028438.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	UPF1	Deletion		19	18963544	18966303.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FOXK1	Deletion		7	4780217	5800952.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	WIPI2	Deletion		7	4780217	5800952.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ACTB	Deletion		7	4780217	5800952.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC29A4	Deletion		7	4780217	5800952.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MMD2	Deletion		7	4780217	5800952.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF225	Deletion		19	44610297	44622977.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SNX13	Deletion		7	16841145	18875397.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND6	Fusion	MT-ND6--MT-TE	chrM	14622							0.0	0.0		0	11.0	MT-ND6	chrM	14622.0	MT-TE	chrM	14717.0					Osteosarcoma-NCF101			0	0	0	0	0	0	1
+Cosmic				Rearrangement	LEPROT	Fusion	LEPROT--LEPR	chr1	65891061							0.0	0.0		0	8.0	LEPROT	chr1	65891061.0	LEPR	chr1	66031229.0					Osteosarcoma-NCF101			0	0	0	0	0	0	1
+Cosmic				Rearrangement	APCDD1	Fusion	APCDD1--RP11-674N23.1	chr18	10472058							0.0	0.0		0	22.0	APCDD1	chr18	10472058.0	RP11-674N23.1	chr18	8696119.0					Osteosarcoma-NCF101			0	0	0	0	0	0	1
+Cosmic				Rearrangement	C4orf51	Fusion	RBM38--C4orf51	chr20	55968389							0.0	0.0		0	6.0	RBM38	chr20	55968389.0	C4orf51	chr4	146617711.0					Osteosarcoma-NCF101			0	0	0	0	0	0	1
+VUS				Somatic Variant	ACTRT3	Missense	p.R309W	3	169485414	169485414.0	G	G	A	0.1129	124.0	8.2e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-NCF101	Osteosarcoma-NCF101-Tumor-SM-2RCBG	Osteosarcoma-NCF101-Normal-SM-2RCCV	0	0	0	0	0	0	0
+VUS				Copy Number	AP5Z1	Deletion		7	4780217	5800952.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	SPATA31A7	Amplification		9	65507380	65508445.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	RBAK-RBAKDN	Deletion		7	4780217	5800952.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Rearrangement	GSE1	Fusion	RP11-680G10.1--GSE1	chr16	85391249							0.0	0.0		0	8.0	RP11-680G10.1	chr16	85391249.0	GSE1	chr16	85667520.0					Osteosarcoma-NCF101			0	0	0	0	0	0	0
+VUS				Copy Number	IGLJ2	Amplification		22	23242908	23249081.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1091P	Amplification		7	50443981	50800271.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC018705.5	Amplification		7	50443981	50800271.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	CLPSL1	Amplification		6	35755392	35765317.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1224	Amplification		3	183911285	184003079.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHA1	Amplification		14	105954767	106204432.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHA2	Amplification		14	105954767	106204432.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHG1	Amplification		14	105954767	106204432.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-731F5.1	Amplification		14	105954767	106204432.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHG2	Amplification		14	105954767	106204432.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHG4	Amplification		14	105954767	106204432.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHE	Amplification		14	105954767	106204432.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-731F5.2	Amplification		14	105954767	106204432.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL928768.3	Amplification		14	105954767	106204432.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL928742.2	Amplification		14	105954767	106204432.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL928742.12	Amplification		14	105954767	106204432.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL928742.1	Amplification		14	105954767	106204432.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL901608.1	Amplification		14	105954767	106204432.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-181K12.2	Amplification		4	146601106	146791882.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1126P	Amplification		7	54610174	57189111.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC073136.1	Amplification		7	54610174	57189111.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-760D2.11	Amplification		7	54610174	57189111.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1125P	Amplification		7	54610174	57189111.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4283-1	Amplification		7	54610174	57189111.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	GS1-18A18.2	Amplification		7	54610174	57189111.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1052P	Amplification		7	54610174	57189111.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL816P	Amplification		7	54610174	57189111.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL64P	Amplification		7	54610174	57189111.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1335P	Amplification		7	54610174	57189111.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	GS1-18A18.1	Amplification		7	54610174	57189111.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-760D2.1	Amplification		7	54610174	57189111.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-745C15.2	Amplification		7	54610174	57189111.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-760D2.5	Amplification		7	54610174	57189111.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP13-492C18.2	Amplification		7	54610174	57189111.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-310H4.3	Amplification		7	54610174	57189111.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP13-580B18.1	Amplification		7	54610174	57189111.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-310H4.2	Amplification		7	54610174	57189111.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	EGFR-AS1	Amplification		7	54610174	57189111.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-310H4.1	Amplification		7	54610174	57189111.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-389P	Amplification		7	54610174	57189111.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC003682.16	Amplification		19	58089173	58188161.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	AP003305.1	Deletion		11	83497481	84028438.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-161C1.1	Deletion		7	4780217	5800952.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1275H24.2	Deletion		7	4780217	5800952.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC093620.5	Deletion		7	4780217	5800952.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC093376.1	Deletion		7	4780217	5800952.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC092171.4	Deletion		7	4780217	5800952.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1275H24.3	Deletion		7	4780217	5800952.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC006483.1	Deletion		7	4780217	5800952.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1275H24.1	Deletion		7	4780217	5800952.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNF216-IT1	Deletion		7	4780217	5800952.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	RBAKDN	Deletion		7	4780217	5800952.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	ZNF890P	Deletion		7	4780217	5800952.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC092171.2	Deletion		7	4780217	5800952.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNF216P1	Deletion		7	4780217	5800952.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR589	Deletion		7	4780217	5800952.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4656	Deletion		7	4780217	5800952.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-215P	Deletion		7	4780217	5800952.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC084219.4	Deletion		19	44610297	44622977.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC019117.2	Deletion		7	16841145	18875397.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC080080.1	Deletion		7	16841145	18875397.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC017060.1	Deletion		7	16841145	18875397.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC010082.2	Deletion		7	16841145	18875397.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC006482.1	Deletion		7	16841145	18875397.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC091697.1	Deletion		7	16841145	18875397.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC019117.1	Deletion		7	16841145	18875397.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1302-6	Deletion		7	16841145	18875397.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP266	Deletion		7	16841145	18875397.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC003075.4	Deletion		7	16841145	18875397.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-199F11.2	Deletion		17	7557761	7708963.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Copy Number	RPL29P2	Deletion		17	7557761	7708963.0						0.0	0.0		0												Osteosarcoma-NCF101	NCF101_T		0	0	0	0	0	0	0
+VUS				Rearrangement	RP4-769N13.6	Fusion	RP4-769N13.6--GPRASP2	chrX	101860581							0.0	0.0		0	6.0	RP4-769N13.6	chrX	101860581.0	GPRASP2	chrX	101968710.0					Osteosarcoma-NCF101			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-680G10.1	Fusion	RP11-680G10.1--GSE1	chr16	85391249							0.0	0.0		0	8.0	RP11-680G10.1	chr16	85391249.0	GSE1	chr16	85667520.0					Osteosarcoma-NCF101			0	0	0	0	0	0	0
+VUS				Rearrangement	CTC-786C10.1	Fusion	CTC-786C10.1--RP11-680G10.1	chr16	85205413							0.0	0.0		0	5.0	CTC-786C10.1	chr16	85205413.0	RP11-680G10.1	chr16	85391069.0					Osteosarcoma-NCF101			0	0	0	0	0	0	0
+VUS				Rearrangement	AF127936.7	Fusion	NRIP1--AF127936.7	chr21	16437066							0.0	0.0		0	5.0	NRIP1	chr21	16437066.0	AF127936.7	chr21	16230029.0					Osteosarcoma-NCF101			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TE	Fusion	MT-ND6--MT-TE	chrM	14622							0.0	0.0		0	11.0	MT-ND6	chrM	14622.0	MT-TE	chrM	14717.0					Osteosarcoma-NCF101			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-680G10.1	Fusion	CTC-786C10.1--RP11-680G10.1	chr16	85205413							0.0	0.0		0	5.0	CTC-786C10.1	chr16	85205413.0	RP11-680G10.1	chr16	85391069.0					Osteosarcoma-NCF101			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-674N23.1	Fusion	APCDD1--RP11-674N23.1	chr18	10472058							0.0	0.0		0	22.0	APCDD1	chr18	10472058.0	RP11-674N23.1	chr18	8696119.0					Osteosarcoma-NCF101			0	0	0	0	0	0	0

@@ -1,0 +1,299 @@
+patient_id	therapy	study-evidence-strongest	almanac-evidence-strongest	included-in-overlapping-strategy	strategy	study-gave-as-matched-therapy	study-citations-used-for-patient	comment-on-study-citation
+2	crizotinib		Guideline		MET inhibition	1	1	
+5	palbociclib		Guideline		CDK4/6 inhibition	1	2	
+5	nutlin-3		Preclinical		MDM2-p53 inhibition		2	
+7	gemcitabine					0	Not applicable	
+7	nab-paclitaxel					0	Not applicable	
+7	amg 510		Clinical trial		targets KRAS G12C		Not applicable	
+9	bevacizumab					1	3	
+9	amg 510		Clinical trial		targets KRAS G12C		3	
+15	palbociclib		Guideline		CDK4/6 inhibition	1	2	
+15	nutlin-3		Preclinical		MDM2-p53 inhibition		2	
+19	trametinib					1	4	
+19	pictilisib		Preclinical		PI3K/AKT/mTOR inhibition		4	
+19	amg 510		Clinical trial		targets KRAS G12C		4	
+20	bevacizumab					1	2,5,6	
+20	pictilisib		Preclinical		PI3K/AKT/mTOR inhibition		2,5,6	
+20	amg 510		Clinical trial		targets KRAS G12C		2,5,6	
+22	pertuzumab					1	7,8,9,10	
+22	trastuzumab					1	7,8,9,10	
+22	ado-trastuzumab emtansine		FDA-Approved		ER signaling inhibition		7,8,9,10	
+22	neratinib		Clinical evidence		ER signaling inhibition		7,8,9,10	
+23	cetuximab					1	11,12,13,14,15	
+23	vemurafenib					1	11,12,13,14,15	
+23	cetuximab + encorafenib		FDA-Approved		EGFR inhibition + B-RAF inhibition		11,12,13,14,15	
+23	mk-2206		Preclinical		PI3K/AKT/mTOR inhibition		11,12,13,14,15	
+26	OX40 agonist in clinical development					0	Not applicable	
+26	PD-L1 antagonist					0	Not applicable	
+26	pembrolizumab		Inferential		PD-1/PD-L1 inhibition		Not applicable	
+28	nivolumab					0	Not applicable	
+28	mk-2206		Preclinical		PI3K/AKT/mTOR inhibition		Not applicable	
+30	vemurafenib					1	1,4,1,5	
+30	dabrafenib + trametinib		FDA-Approved		B-RAF inhibition + MEK inhibition		1,4,1,5	
+33	pertuzumab					1	7,8,9,10	
+33	trastuzumab					1	7,8,9,10	
+33	palbociclib		Guideline		CDK4/6 inhibition		7,8,9,10	
+33	amg 510		Clinical trial		targets KRAS G12C		7,8,9,10	
+33	ado-trastuzumab emtansine		FDA-Approved		ER signaling inhibition		7,8,9,10	
+34	lenvatinib					1	2,5,6,1,6,1,7	
+34	nivolumab + pembrolizumab		Clinical evidence		PD-1/PD-L1 inhibition		2,5,6,1,6,1,7	
+34	epz015666		Preclinical		PRMT5 inhibition		2,5,6,1,6,1,7	
+34	erdafitinib		FDA-Approved		FGFR inhibition		2,5,6,1,6,1,7	
+34	niraparib		FDA-Approved		PARP inhibition		2,5,6,1,6,1,7	
+34	neratinib		Clinical evidence		ER signaling inhibition		2,5,6,1,6,1,7	
+39	bevacizumab					1	2,5,6	
+39	pictilisib		Preclinical		PI3K/AKT/mTOR inhibition		2,5,6	
+39	amg 510		Clinical trial		targets KRAS G12C		2,5,6	
+44	pertuzumab					1	7,8,9,10	
+44	trastuzumab					1	7,8,9,10	
+44	ceritinib		Preclinical		ALK inhibition		7,8,9,10	
+44	pictilisib		Preclinical		PI3K/AKT/mTOR inhibition		7,8,9,10	
+44	ado-trastuzumab emtansine		FDA-Approved		ER signaling inhibition		7,8,9,10	
+44	everolimus		Clinical evidence		PI3K/AKT/mTOR inhibition		7,8,9,10	
+44	palbociclib		Inferential		CDK4/6 inhibition		7,8,9,10	
+44	neratinib		Clinical evidence		ER signaling inhibition		7,8,9,10	
+47	pembrolizumab		FDA-Approved		PD-1/PD-L1 inhibition	1	1,8	
+47	olaparib		FDA-Approved		PARP inhibition		1,8	
+48	sorafenib					1	2,5,6	
+51	lenvatinib					1	1,6,1,7,1,9	
+51	olaparib		FDA-Approved		PARP inhibition	1	1,6,1,7,1,9	
+51	pembrolizumab		FDA-Approved		PD-1/PD-L1 inhibition		1,6,1,7,1,9	
+51	alpelisib		FDA-Approved		PI3K/AKT/mTOR inhibition		1,6,1,7,1,9	
+51	nutlin-3		Preclinical		MDM2-p53 inhibition		1,6,1,7,1,9	
+53	olaparib					1	19,20,21	
+53	sulindac					1	19,20,21	
+53	palbociclib		Guideline		CDK4/6 inhibition		19,20,21	
+53	bay 1895344		Clinical trial		ATR inhibition		19,20,21	
+53	nutlin-3		Preclinical		MDM2-p53 inhibition		19,20,21	
+59	bevacizumab					1	2,5,6	
+59	nutlin-3		Preclinical		MDM2-p53 inhibition		2,5,6	
+61	everolimus					1	2,2	
+61	trametinib					1	2,2	
+61	selumetinib		Preclinical		MEK inhibition		2,2	
+66	everolimus					1	2,5,6,1,6,1,7,2,3	
+66	lenvatinib					1	2,5,6,1,6,1,7,2,3	
+66	olaparib		FDA-Approved		PARP inhibition		2,5,6,1,6,1,7,2,3	
+66	pictilisib		Clinical trial		PI3K/AKT/mTOR inhibition		2,5,6,1,6,1,7,2,3	
+66	infigratinib		Preclinical		FGFR inhibition		2,5,6,1,6,1,7,2,3	
+70	pembrolizumab					1	1,8	
+70	sirolimus		Preclinical		PI3K/AKT/mTOR inhibition		1,8	
+72	trametinib					1	4	
+72	amg 510		Clinical trial		targets KRAS G12C		4	
+73	cabozantinib					1	1	
+73	epz015666		Preclinical		PRMT5 inhibition		1	
+73	ivosidenib		FDA-Approved		IDH1 inhibition		1	
+73	crizotinib		Guideline		MET inhibition		1	
+74	tamoxifen					1	4	
+74	trametinib					1	4	
+74	amg 510		Clinical trial		targets KRAS G12C		4	
+84	bevacizumab					1	2,5,6	
+84	sorafenib					1	2,5,6	
+86	dual p70S6K/Akt Inhibitor in clinical development					1	23,24,25	
+86	tamoxifen					1	23,24,25	
+86	pictilisib		Preclinical		PI3K/AKT/mTOR inhibition		23,24,25	
+88	bevacizumab					1	2,4,5,6	
+88	trametinib					1	2,4,5,6	
+88	bortezomib		Preclinical		Proteasome inhibition		2,4,5,6	
+89	lenvatinib					1	1,6,1,7	
+89	pemigatinib		FDA-Approved		FGFR inhibition		1,6,1,7	
+89	pembrolizumab		Inferential		PD-1/PD-L1 inhibition		1,6,1,7	
+91	Wee-1 inhibitor in clinical development					1	2,6,2,7	
+91	olaparib		Clinical evidence		PARP inhibition		2,6,2,7	
+92	ceritinib					1	28,29,30	
+92	everolimus					1	28,29,30	
+94	everolimus					1	1,9,2,3	
+94	olaparib		FDA-Approved		PARP inhibition	1	1,9,2,3	
+94	pictilisib		Preclinical		PI3K/AKT/mTOR inhibition		1,9,2,3	
+97	ceritinib					0	Not applicable	
+97	dasatinib					0	Not applicable	
+97	olaparib		FDA-Approved		PARP inhibition		Not applicable	
+99	palbociclib					1	2,4,2,0,2,1,31,32,33,34,35,36	
+99	sulindac					1	2,4,2,0,2,1,31,32,33,34,35,36	
+99	trametinib					1	2,4,2,0,2,1,31,32,33,34,35,36	
+99	amg 510		Clinical trial		targets KRAS G12C		2,4,2,0,2,1,31,32,33,34,35,36	
+101	everolimus					1	2	
+101	palbociclib		Inferential		CDK4/6 inhibition	1	2	
+101	epz015666		Preclinical		PRMT5 inhibition		2	
+102	nivolumab					1	2,1,8,3,1,3,2	
+102	palbociclib					1	2,1,8,3,1,3,2	
+102	epz015666		Preclinical		PRMT5 inhibition		2,1,8,3,1,3,2	
+105						0	2,5,6,2,3	
+105	everolimus					1	2,5,6,2,3	
+105	lenvatinib					1	2,5,6,2,3	
+105	azd8186		Preclinical		PI3K/AKT/mTOR inhibition		2,5,6,2,3	
+105	ruxolitinib		Preclinical		JAK inhibition		2,5,6,2,3	
+105	pictilisib		Preclinical		PI3K/AKT/mTOR inhibition		2,5,6,2,3	
+112	pembrolizumab					1	1,8	
+112	bosutinib		FDA-Approved		targets BCR-ABL		1,8	
+112	bortezomib		Preclinical		Proteasome inhibition		1,8	
+115	nivolumab					1	4,1,8,2,0,2,1,3,3,3,4	
+115	sulindac					1	4,1,8,2,0,2,1,3,3,3,4	
+115	trametinib					1	4,1,8,2,0,2,1,3,3,3,4	
+115	pictilisib		Preclinical		PI3K/AKT/mTOR inhibition		4,1,8,2,0,2,1,3,3,3,4	
+115	amg 510		Clinical trial		targets KRAS G12C		4,1,8,2,0,2,1,3,3,3,4	
+115	bay 1895344		Clinical trial		ATR inhibition		4,1,8,2,0,2,1,3,3,3,4	
+118	erlotinib					0	Not applicable	
+118	gemcitabine					0	Not applicable	
+118	amg 510		Clinical trial		targets KRAS G12C		Not applicable	
+119	vismodegib					1	3,7	
+119	epz015666		Preclinical		PRMT5 inhibition		3,7	
+119	durvalumab		Preclinical		PD-1/PD-L1 inhibition		3,7	
+120	cetuximab					1	4,11,12,13,3,8	
+120	trametinib					1	4,11,12,13,3,8	
+120	amg 510		Clinical trial		targets KRAS G12C		4,11,12,13,3,8	
+121	nivolumab					1	1,8	
+121	olaparib		Preclinical		PARP inhibition		1,8	
+121	neratinib		Clinical evidence		ER signaling inhibition		1,8	
+121	pembrolizumab		FDA-Approved		PD-1/PD-L1 inhibition		1,8	
+121	pictilisib		Preclinical		PI3K/AKT/mTOR inhibition		1,8	
+122	pertuzumab					1	7,8,9,10,3,9	
+122	trastuzumab					1	7,8,9,10,3,9	
+122	ado-trastuzumab emtansine		FDA-Approved		ER signaling inhibition		7,8,9,10,3,9	
+122	neratinib		Clinical evidence		ER signaling inhibition		7,8,9,10,3,9	
+122	amg 510		Clinical trial		targets KRAS G12C		7,8,9,10,3,9	
+123	cetuximab					0	Not applicable	
+123	pembrolizumab					0	Not applicable	
+123	selumetinib		Clinical evidence		MEK inhibition		Not applicable	
+123	cetuximab + encorafenib		FDA-Approved		EGFR inhibition + B-RAF inhibition		Not applicable	
+127	dual p70S6K/Akt Inhibitor in clinical development 					1	2,4,2,5	
+127	pictilisib		Preclinical		PI3K/AKT/mTOR inhibition		2,4,2,5	
+132	durvalumab					0	Not applicable	
+132	amg 510		Clinical trial		targets KRAS G12C		Not applicable	
+135	cabozantinib					1	1,4,0,4,1	
+135	osimertinib		FDA-Approved		EGFR inhibition	1	1,4,0,4,1	
+135	epz015666		Preclinical		PRMT5 inhibition		1,4,0,4,1	
+135	gefitinib		Clinical evidence		EGFR inhibition		1,4,0,4,1	
+135	crizotinib		Guideline		MET inhibition		1,4,0,4,1	
+140	bevacizumab					1	2,5,6,4,2	
+140	olaparib					1	2,5,6,4,2	
+140	danusertib		Preclinical		Aurora kinase inhibition		2,5,6,4,2	
+141	cabozantinib					1	1,1,8	
+141	nivolumab					1	1,1,8	
+141	epz015666		Preclinical		PRMT5 inhibition		1,1,8	
+141	crizotinib		Guideline		MET inhibition		1,1,8	
+141	nutlin-3		Preclinical		MDM2-p53 inhibition		1,1,8	
+141	pembrolizumab		Inferential		PD-1/PD-L1 inhibition		1,1,8	
+141	palbociclib		Guideline		CDK4/6 inhibition		1,1,8	
+152	pertuzumab					1	7,8,9,10	
+152	trastuzumab					1	7,8,9,10	
+152	ado-trastuzumab emtansine		FDA-Approved		ER signaling inhibition		7,8,9,10	
+155	nivolumab					1	1,8	
+155	azd8186		Preclinical		PI3K/AKT/mTOR inhibition		1,8	
+155	everolimus		Clinical evidence		PI3K/AKT/mTOR inhibition		1,8	
+155	enasidenib		FDA-Approved		IDH2 inhibition		1,8	
+155	pictilisib		Preclinical		PI3K/AKT/mTOR inhibition		1,8	
+155	pembrolizumab		FDA-Approved		PD-1/PD-L1 inhibition		1,8	
+155	epz015666		Preclinical		PRMT5 inhibition		1,8	
+156	pertuzumab					1	7,8,9,10	
+156	trastuzumab					1	7,8,9,10	
+156	ado-trastuzumab emtansine		FDA-Approved		ER signaling inhibition		7,8,9,10	
+157	BET Inhibitor in clinical development					1	4,3,4,4	
+157	palbociclib		Inferential		CDK4/6 inhibition		4,3,4,4	
+157	infigratinib		Preclinical		FGFR inhibition		4,3,4,4	
+162	pembrolizumab					1	1,8	
+163	lenvatinib					1	1,6,1,7	
+A001	crizotinib					1	4	
+A001	trametinib					1	4	
+A001	amg 510		Clinical trial		targets KRAS G12C		4	
+A001	mk-2206		Preclinical		PI3K/AKT/mTOR inhibition		4	
+A001	epz015666		Preclinical		PRMT5 inhibition		4	
+A003	carboplatin					1	4,5,4,6	
+A003	veliparib					1	4,5,4,6	
+A003	niraparib		FDA-Approved		PARP inhibition		4,5,4,6	
+A003	olaparib		FDA-Approved		PARP inhibition		4,5,4,6	
+A004	cetuximab					1	2	
+A004	palbociclib		Inferential		CDK4/6 inhibition	1	2	
+A004	danusertib		Preclinical		Aurora kinase inhibition		2	
+A004	gefitinib		Clinical evidence		EGFR inhibition		2	
+A004	epz015666		Preclinical		PRMT5 inhibition		2	
+A004	infigratinib		Preclinical		FGFR inhibition		2	
+A004	bay 1895344		Clinical trial		ATR inhibition		2	
+A004	durvalumab		Preclinical		PD-1/PD-L1 inhibition		2	
+A008	afatinib					1	2,5,6,7,8,9,10	
+A008	bevacizumab					1	2,5,6,7,8,9,10	
+A008	trastuzumab					1	2,5,6,7,8,9,10	
+A008	epz015666		Preclinical		PRMT5 inhibition		2,5,6,7,8,9,10	
+A008	ado-trastuzumab emtansine		FDA-Approved		ER signaling inhibition		2,5,6,7,8,9,10	
+A008	neratinib		Clinical evidence		ER signaling inhibition		2,5,6,7,8,9,10	
+A009	lenvatinib					1	2,5,6,1,6,1,7	
+A009	ramucirumab					1	2,5,6,1,6,1,7	
+A009	infigratinib		Preclinical		FGFR inhibition		2,5,6,1,6,1,7	
+A009	bortezomib		Preclinical		Proteasome inhibition		2,5,6,1,6,1,7	
+A010	everolimus					1	2,3,4,7	
+A010	fulvestrant					1	2,3,4,7	
+A011	everolimus					1	1,8,2,0,2,1,2,3,48,49,50	
+A011	pembrolizumab		FDA-Approved		PD-1/PD-L1 inhibition	1	1,8,2,0,2,1,2,3,48,49,50	
+A011	sulindac					1	1,8,2,0,2,1,2,3,48,49,50	
+A011	azd8186		Preclinical		PI3K/AKT/mTOR inhibition		1,8,2,0,2,1,2,3,48,49,50	
+A011	pictilisib		Preclinical		PI3K/AKT/mTOR inhibition		1,8,2,0,2,1,2,3,48,49,50	
+A012	bevacizumab					1	2,5,6	
+A016	pembrolizumab					1	1,8,5,1	
+A016	trametinib					1	1,8,5,1	
+A016	danusertib		Preclinical		Aurora kinase inhibition		1,8,5,1	
+A016	pictilisib		Preclinical		PI3K/AKT/mTOR inhibition		1,8,5,1	
+A016	bortezomib		Preclinical		Proteasome inhibition		1,8,5,1	
+A016	chemotherapy + pembrolizumab		Inferential		Chemotherapy + PD-1/PD-L1 inhibition		1,8,5,1	
+A018	pembrolizumab					1	1,8	
+A018	chemotherapy + pembrolizumab		Inferential		Chemotherapy + PD-1/PD-L1 inhibition		1,8	
+A021	everolimus					1	2,3,5,2	
+A021	exemestane					1	2,3,5,2	
+A021	pazopanib					1	2,3,5,2	
+A021	azd8186		Preclinical		PI3K/AKT/mTOR inhibition		2,3,5,2	
+A021	infigratinib		Preclinical		FGFR inhibition		2,3,5,2	
+A021	pictilisib		Preclinical		PI3K/AKT/mTOR inhibition		2,3,5,2	
+A024	everolimus					1	1,6,1,7,2,3	
+A024	pazopanib					1	1,6,1,7,2,3	
+A024	pictilisib		Preclinical		PI3K/AKT/mTOR inhibition		1,6,1,7,2,3	
+A024	bay 1895344		Clinical trial		ATR inhibition		1,6,1,7,2,3	
+A024	nutlin-3		Preclinical		MDM2-p53 inhibition		1,6,1,7,2,3	
+A024	infigratinib		Preclinical		FGFR inhibition		1,6,1,7,2,3	
+A026	everolimus					1	4,2,3	
+A026	trametinib					1	4,2,3	
+A026	amg 510		Clinical trial		targets KRAS G12C		4,2,3	
+A026	pictilisib		Preclinical		PI3K/AKT/mTOR inhibition		4,2,3	
+A032	cetuximab					1	11,12,13,14,15,3,8,53,54,55,56,57,58	
+A032	dabrafenib					1	11,12,13,14,15,3,8,53,54,55,56,57,58	
+A032	trametinib					1	11,12,13,14,15,3,8,53,54,55,56,57,58	
+A032	cetuximab + encorafenib		FDA-Approved		EGFR inhibition + B-RAF inhibition		11,12,13,14,15,3,8,53,54,55,56,57,58	
+A033	cabozantinib					1	2,5,6	
+A033	rucaparib		Preclinical		PARP inhibition		2,5,6	
+A034	everolimus					1	2,4,7	
+A034	fulvestrant					1	2,4,7	
+A034	palbociclib		Inferential		CDK4/6 inhibition	1	2,4,7	
+A034	pazopanib					1	2,4,7	
+A034	danusertib		Preclinical		Aurora kinase inhibition		2,4,7	
+A035	atezolizumab					1	2,5,6,16,17,18	
+A035	lenvatinib					1	2,5,6,16,17,18	
+A035	selpercatinib		FDA-Approved		RET inhibition		2,5,6,16,17,18	
+A037	nivolumab					1	4,1,8	
+A037	trametinib					1	4,1,8	
+A037	epz015666		Preclinical		PRMT5 inhibition		4,1,8	
+A037	azacitidine		Guideline		Hypomethylating agent chemotherapy		4,1,8	
+A037	amg 510		Clinical trial		targets KRAS G12C		4,1,8	
+A038	bevacizumab					1	2,5,6	
+A038	bortezomib		Preclinical		Proteasome inhibition		2,5,6	
+A040	bevacizumab					0	Not applicable	
+A040	gefitinib		Clinical evidence		EGFR inhibition		Not applicable	
+A040	osimertinib		FDA-Approved		EGFR inhibition		Not applicable	
+A041	anastrazole					1	7,8,9,10	
+A041	trastuzumab					1	7,8,9,10	
+A041	neratinib		Clinical evidence		ER signaling inhibition		7,8,9,10	
+A041	ado-trastuzumab emtansine		FDA-Approved		ER signaling inhibition		7,8,9,10	
+A042	Irinotecan					0	Not applicable	
+A042	bevacizumab					0	Not applicable	
+A042	denosumab					0	Not applicable	
+A042	bay 1895344		Clinical trial		ATR inhibition		Not applicable	
+A042	cetuximab + encorafenib		FDA-Approved		EGFR inhibition + B-RAF inhibition		Not applicable	
+A043	afatinib					1	4,2,0,2,1	
+A043	sulindac					1	4,2,0,2,1	
+A043	trametinib					1	4,2,0,2,1	
+A043	neratinib		Clinical evidence		ER signaling inhibition		4,2,0,2,1	
+A043	amg 510		Clinical trial		targets KRAS G12C		4,2,0,2,1	
+A044	cyclophosphamide					0	Not applicable	
+A044	dacarbazine					0	Not applicable	
+A044	vincristine					0	Not applicable	
+A044	everolimus		Clinical evidence		PI3K/AKT/mTOR inhibition		Not applicable	
+A045	bevacizumab					1	2,5,6	
+A045	trametinib					1	2,5,6	
+A045	amg 510		Clinical trial		targets KRAS G12C		2,5,6	
+A045	epz015666		Preclinical		PRMT5 inhibition		2,5,6	

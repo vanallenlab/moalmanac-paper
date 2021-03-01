@@ -1,0 +1,219 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Biologically Relevant				Somatic Variant	PDGFRB	Missense	p.L803F	5	149500823	149500823.0	G	G	A	0.0536	56.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-KWMR206	Osteosarcoma-KWMR206-Tumor-SM-2RCB7	Osteosarcoma-KWMR206-Normal-SM-2RCCM	1	0	0	1	1	1	2
+Cancer Hotspot				Copy Number	KMT2D	Deletion		12	49436229	49437608.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	1	0	1	0	0	1
+Cancer Hotspot 3D				Somatic Variant	FLNA	Missense	p.P1204L	X	153588552	153588552.0	G	G	A	0.0435	69.0	5e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-KWMR206	Osteosarcoma-KWMR206-Tumor-SM-2RCB7	Osteosarcoma-KWMR206-Normal-SM-2RCCM	0	0	1	1	0	1	2
+Cancer Hotspot 3D				Copy Number	ATP4A	Deletion		19	36051620	36053792.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	INPP4A	Amplification		2	99149590	99455002.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	SNRNP200	Amplification		2	96954149	97020378.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Rearrangement	STK24	Fusion	SENP5--STK24	chr3	196594944							0.0	0.0		0	11.0	SENP5	chr3	196594944.0	STK24	chr13	99127612.0					Osteosarcoma-KWMR206			0	0	1	0	0	1	1
+Cancer Gene Census				Copy Number	FANCG	Deletion		9	34250404	35108523.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	1	1	1	1
+Cancer Gene Census				Somatic Variant	MUC16	Missense	p.E4919K	19	9072691	9072691.0	C	C	T	0.3095	126.0	8e-06	0.0		0								0.0	0.0	0.0		Osteosarcoma-KWMR206	Osteosarcoma-KWMR206-Tumor-SM-2RCB7	Osteosarcoma-KWMR206-Normal-SM-2RCCM	0	0	0	1	0	1	2
+Cancer Gene Census				Somatic Variant	LCK	Missense	p.K246N	1	32742044	32742044.0	G	G	C	0.2143	42.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-KWMR206	Osteosarcoma-KWMR206-Tumor-SM-2RCB7	Osteosarcoma-KWMR206-Normal-SM-2RCCM	0	0	0	1	0	1	2
+Cancer Gene Census				Copy Number	DDIT3	Amplification		12	57881622	57913292.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	1	0	1	1
+Cancer Pathway				Copy Number	CREB3	Deletion		9	35366692	35748953.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	CDC20	Deletion		1	43827614	43831532.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	1	1	1
+Cancer Pathway				Rearrangement	UBE2D1	Fusion	IPMK--UBE2D1	chr10	59975906							0.0	0.0		0	13.0	IPMK	chr10	59975906.0	UBE2D1	chr10	60121098.0					Osteosarcoma-KWMR206			0	0	0	0	1	1	1
+Cancer Module				Somatic Variant	IL1R1	Missense	p.P392L	2	102791977	102791977.0	C	C	T	0.1901	668.0	0.0	0.0		0								179.0	0.1955	1.0		Osteosarcoma-KWMR206	Osteosarcoma-KWMR206-Tumor-SM-2RCB7	Osteosarcoma-KWMR206-Normal-SM-2RCCM	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ASPH	Missense	p.D290V	8	62550526	62550526.0	T	T	A	0.2727	33.0	0.0	0.0		0								111.0	0.1622	1.0		Osteosarcoma-KWMR206	Osteosarcoma-KWMR206-Tumor-SM-2RCB7	Osteosarcoma-KWMR206-Normal-SM-2RCCM	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SNX8	Missense	p.N227D	7	2304036	2304036.0	T	T	C	0.3333	48.0	0.0	0.0		0								110.0	0.2545	1.0		Osteosarcoma-KWMR206	Osteosarcoma-KWMR206-Tumor-SM-2RCB7	Osteosarcoma-KWMR206-Normal-SM-2RCCM	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	APTX	Missense	p.E200K	9	32984843	32984843.0	C	C	T	0.3143	70.0	0.0	0.0		0								28.0	0.3571	0.9788		Osteosarcoma-KWMR206	Osteosarcoma-KWMR206-Tumor-SM-2RCB7	Osteosarcoma-KWMR206-Normal-SM-2RCCM	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	LRP1	Missense	p.S4134C	12	57603613	57603613.0	C	C	G	0.0282	142.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-KWMR206	Osteosarcoma-KWMR206-Tumor-SM-2RCB7	Osteosarcoma-KWMR206-Normal-SM-2RCCM	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	CNTNAP5	Missense	p.C360F	2	125261888	125261888.0	G	G	T	0.2526	95.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-KWMR206	Osteosarcoma-KWMR206-Tumor-SM-2RCB7	Osteosarcoma-KWMR206-Normal-SM-2RCCM	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SNAI2	Missense	p.S251C	8	49831421	49831421.0	G	G	C	0.2095	210.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-KWMR206	Osteosarcoma-KWMR206-Tumor-SM-2RCB7	Osteosarcoma-KWMR206-Normal-SM-2RCCM	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	TBCK	Splice Site	p.D407fs	4	107157916	107157916.0	T	T	-	0.3611	72.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-KWMR206	Osteosarcoma-KWMR206-Tumor-SM-2RCB7	Osteosarcoma-KWMR206-Normal-SM-2RCCM	0	0	0	0	0	1	1
+Cancer Module				Copy Number	HLA-DRA	Amplification		6	32407476	32428114.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LRP1	Amplification		12	57561029	57677970.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ARHGEF25	Amplification		12	57926914	58009196.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ACTR1B	Amplification		2	97373294	98378913.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MRPL30	Amplification		2	99462942	99802969.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TPM2	Deletion		9	35366692	35748953.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CD72	Deletion		9	35366692	35748953.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DNAI1	Deletion		9	34250404	35108523.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC15A1	Deletion		13	99371239	99568007.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CNGA3	Amplification		2	98427341	99013970.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CNNM3	Amplification		2	97373294	98378913.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	COX5B	Amplification		2	97373294	98378913.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CNNM4	Amplification		2	97373294	98378913.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MAL	Amplification		2	95713452	95781200.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NCAPH	Amplification		2	96954149	97020378.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SHMT2	Amplification		12	57561029	57677970.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	R3HDM2	Amplification		12	57561029	57677970.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NXPH4	Amplification		12	57561029	57677970.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DCTN2	Amplification		12	57926914	58009196.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PIP4K2C	Amplification		12	57926914	58009196.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KIF5A	Amplification		12	57926914	58009196.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ORM2	Deletion		9	117092965	117094461.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TLN1	Deletion		9	35366692	35748953.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	UNC13B	Deletion		9	35366692	35748953.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TESK1	Deletion		9	35366692	35748953.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SIT1	Deletion		9	35366692	35748953.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RGP1	Deletion		9	35366692	35748953.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GALT	Deletion		9	34250404	35108523.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DCTN3	Deletion		9	34250404	35108523.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CCL21	Deletion		9	34250404	35108523.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CCL19	Deletion		9	34250404	35108523.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KIAA1045	Deletion		9	34250404	35108523.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	UBAP1	Deletion		9	34250404	35108523.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CNTFR	Deletion		9	34250404	35108523.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PIGO	Deletion		9	34250404	35108523.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SIGMAR1	Deletion		9	34250404	35108523.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ACO1	Deletion		9	32433474	32501189.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GRAP	Deletion		17	18944868	19093808.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MREG	Deletion		2	216809336	216810707.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	NOLC1	Fusion	NOLC1--RP11-215N21.1	chr10	103921682							0.0	0.0		0	6.0	NOLC1	chr10	103921682.0	RP11-215N21.1	chr10	109572664.0					Osteosarcoma-KWMR206			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	ATP5G2	Fusion	ATP5G2--GTSF1	chr12	54062932							0.0	0.0		0	514.0	ATP5G2	chr12	54062932.0	GTSF1	chr12	54858951.0					Osteosarcoma-KWMR206			0	0	0	0	0	1	1
+Cosmic				Somatic Variant	MED13	Splice Site	p.A272P	17	60111148	60111148.0	C	C	G	0.2639	72.0	0.0	0.0		0								13.0	0.2308	0.4784		Osteosarcoma-KWMR206	Osteosarcoma-KWMR206-Tumor-SM-2RCB7	Osteosarcoma-KWMR206-Normal-SM-2RCCM	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	IQGAP3	Nonsense	p.Q966*	1	156509326	156509326.0	G	G	A	0.3053	95.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-KWMR206	Osteosarcoma-KWMR206-Tumor-SM-2RCB7	Osteosarcoma-KWMR206-Normal-SM-2RCCM	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	SLC45A2	Missense	p.L391F	5	33947463	33947463.0	C	C	G	0.0602	83.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-KWMR206	Osteosarcoma-KWMR206-Tumor-SM-2RCB7	Osteosarcoma-KWMR206-Normal-SM-2RCCM	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	CD248	Missense	p.A610V	11	66082670	66082670.0	G	G	A	0.0294	102.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-KWMR206	Osteosarcoma-KWMR206-Tumor-SM-2RCB7	Osteosarcoma-KWMR206-Normal-SM-2RCCM	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	PROM2	Missense	p.R68H	2	95940536	95940536.0	G	G	A	0.0448	446.0	8e-06	0.0		0								0.0	0.0	0.0		Osteosarcoma-KWMR206	Osteosarcoma-KWMR206-Tumor-SM-2RCB7	Osteosarcoma-KWMR206-Normal-SM-2RCCM	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	SEMA4C	Missense	p.D811N	2	97526434	97526434.0	C	C	T	0.0264	606.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-KWMR206	Osteosarcoma-KWMR206-Tumor-SM-2RCB7	Osteosarcoma-KWMR206-Normal-SM-2RCCM	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	SEMA4C	Nonsense	p.G795*	2	97526482	97526482.0	C	C	A	0.0237	801.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-KWMR206	Osteosarcoma-KWMR206-Tumor-SM-2RCB7	Osteosarcoma-KWMR206-Normal-SM-2RCCM	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	IFRD1	Missense	p.L134P	7	112097085	112097085.0	T	T	C	0.0423	71.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-KWMR206	Osteosarcoma-KWMR206-Tumor-SM-2RCB7	Osteosarcoma-KWMR206-Normal-SM-2RCCM	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	BRF2	Missense	p.T43I	8	37707174	37707174.0	G	G	A	0.0337	89.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-KWMR206	Osteosarcoma-KWMR206-Tumor-SM-2RCB7	Osteosarcoma-KWMR206-Normal-SM-2RCCM	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	SEMA4C	Missense	p.G640S	2	97526947	97526947.0	C	C	T	0.0327	214.0	8e-06	0.0		0								0.0	0.0	0.0		Osteosarcoma-KWMR206	Osteosarcoma-KWMR206-Tumor-SM-2RCB7	Osteosarcoma-KWMR206-Normal-SM-2RCCM	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	KRTAP24-1	Missense	p.V14I	21	31655211	31655211.0	C	C	T	0.22	50.0	8e-06	0.0		0								0.0	0.0	0.0		Osteosarcoma-KWMR206	Osteosarcoma-KWMR206-Tumor-SM-2RCB7	Osteosarcoma-KWMR206-Normal-SM-2RCCM	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	SEMA4C	Missense	p.G795E	2	97526481	97526481.0	C	C	T	0.0214	793.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-KWMR206	Osteosarcoma-KWMR206-Tumor-SM-2RCB7	Osteosarcoma-KWMR206-Normal-SM-2RCCM	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	SEMA4C	Missense	p.A637T	2	97526956	97526956.0	C	C	T	0.0337	208.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-KWMR206	Osteosarcoma-KWMR206-Tumor-SM-2RCB7	Osteosarcoma-KWMR206-Normal-SM-2RCCM	0	0	0	0	0	0	1
+Cosmic				Copy Number	AKNA	Deletion		9	117092965	117094461.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	VWA3B	Amplification		2	98427341	99013970.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C9orf131	Deletion		9	34250404	35108523.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IQGAP3	Deletion		1	156509480	156542573.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCDC107	Deletion		9	35366692	35748953.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RUSC2	Deletion		9	35366692	35748953.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM166B	Deletion		9	35366692	35748953.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ARID3C	Deletion		9	34250404	35108523.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KIF24	Deletion		9	34250404	35108523.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FOXD4L1	Deletion		2	114252445	114258312.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAHD2B	Amplification		2	97373294	98378913.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ARHGAP9	Amplification		12	57881622	57913292.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PDZRN4	Amplification		12	41831495	41967944.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CA9	Deletion		9	35366692	35748953.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KIAA1161	Deletion		9	34250404	35108523.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	UNC50	Amplification		2	99149590	99455002.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MGAT4A	Amplification		2	99149590	99455002.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM131	Amplification		2	98382327	98422416.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZAP70	Amplification		2	97373294	98378913.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LMAN2L	Amplification		2	97373294	98378913.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FER1L5	Amplification		2	97373294	98378913.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM178B	Amplification		2	97373294	98378913.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SEMA4C	Amplification		2	97373294	98378913.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ANKRD39	Amplification		2	97373294	98378913.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ANKRD36	Amplification		2	97373294	98378913.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ANKRD23	Amplification		2	97373294	98378913.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SYT10	Amplification		12	33559472	33592709.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MRPS5	Amplification		2	95713452	95781200.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MITD1	Amplification		2	99462942	99802969.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TSGA10	Amplification		2	99462942	99802969.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LIPT1	Amplification		2	99462942	99802969.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ITPRIPL1	Amplification		2	96954149	97020378.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	STAC3	Amplification		12	57561029	57677970.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NDUFA4L2	Amplification		12	57561029	57677970.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MARS	Amplification		12	57881622	57913292.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MBD6	Amplification		12	57881622	57913292.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DTX3	Amplification		12	57926914	58009196.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ENHO	Deletion		9	34250404	35108523.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	STOML2	Deletion		9	34250404	35108523.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM205A	Deletion		9	34250404	35108523.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM219A	Deletion		9	34250404	35108523.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM214B	Deletion		9	34250404	35108523.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM205B	Deletion		9	34250404	35108523.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DNAJB5	Deletion		9	34250404	35108523.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCL27	Deletion		9	34250404	35108523.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	VCP	Deletion		9	34250404	35108523.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NUDT2	Deletion		9	34250404	35108523.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IL11RA	Deletion		9	34250404	35108523.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C9orf24	Deletion		9	34250404	35108523.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DDX58	Deletion		9	32433474	32501189.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ELOVL1	Deletion		1	43827614	43831532.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CBWD2	Deletion		2	114252445	114258312.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GRAPL	Deletion		17	18944868	19093808.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DOCK9	Deletion		13	99371239	99568007.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	SENP5	Fusion	SENP5--STK24	chr3	196594944							0.0	0.0		0	11.0	SENP5	chr3	196594944.0	STK24	chr13	99127612.0					Osteosarcoma-KWMR206			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND6	Fusion	MT-ND6--MT-TE	chrM	14486							0.0	0.0		0	34.0	MT-ND6	chrM	14486.0	MT-TE	chrM	14720.0					Osteosarcoma-KWMR206			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND5	Fusion	MT-ND5--MT-TL2	chrM	12458							0.0	0.0		0	6.0	MT-ND5	chrM	12458.0	MT-TL2	chrM	12286.0					Osteosarcoma-KWMR206			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4	Fusion	MT-ND4--MT-ND4L	chrM	10810							0.0	0.0		0	136.0	MT-ND4	chrM	10810.0	MT-ND4L	chrM	10756.0					Osteosarcoma-KWMR206			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-ATP6--MT-ATP8	chrM	8695							0.0	0.0		0	68.0	MT-ATP6	chrM	8695.0	MT-ATP8	chrM	8461.0					Osteosarcoma-KWMR206			0	0	0	0	0	0	1
+Cosmic				Rearrangement	IPMK	Fusion	IPMK--UBE2D1	chr10	59975906							0.0	0.0		0	13.0	IPMK	chr10	59975906.0	UBE2D1	chr10	60121098.0					Osteosarcoma-KWMR206			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4L	Fusion	MT-ND4--MT-ND4L	chrM	10810							0.0	0.0		0	136.0	MT-ND4	chrM	10810.0	MT-ND4L	chrM	10756.0					Osteosarcoma-KWMR206			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP8	Fusion	MT-ATP6--MT-ATP8	chrM	8695							0.0	0.0		0	68.0	MT-ATP6	chrM	8695.0	MT-ATP8	chrM	8461.0					Osteosarcoma-KWMR206			0	0	0	0	0	0	1
+Cosmic				Rearrangement	GTSF1	Fusion	ATP5G2--GTSF1	chr12	54062932							0.0	0.0		0	514.0	ATP5G2	chr12	54062932.0	GTSF1	chr12	54858951.0					Osteosarcoma-KWMR206			0	0	0	0	0	0	1
+VUS				Copy Number	KIAA1211L	Amplification		2	99149590	99455002.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	ARHGEF39	Deletion		9	35366692	35748953.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Rearrangement	GSE1	Fusion	RP11-680G10.1--GSE1	chr16	85391249							0.0	0.0		0	7.0	RP11-680G10.1	chr16	85391249.0	GSE1	chr16	85667520.0					Osteosarcoma-KWMR206			0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-46P	Amplification		2	99149590	99455002.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU4-84P	Amplification		2	99149590	99455002.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC109826.1	Amplification		2	99149590	99455002.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	COA5	Amplification		2	99149590	99455002.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC092675.1	Amplification		2	98427341	99013970.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC092675.3	Amplification		2	98427341	99013970.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC092675.4	Amplification		2	98427341	99013970.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-96P	Amplification		2	98427341	99013970.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3127	Amplification		2	97373294	98378913.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU4-8P	Amplification		2	97373294	98378913.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP101	Amplification		2	97373294	98378913.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL313P	Amplification		2	97373294	98378913.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-353K11.1	Amplification		2	97373294	98378913.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC159540.2	Amplification		2	97373294	98378913.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	ANKRD36B	Amplification		2	97373294	98378913.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC017099.3	Amplification		2	97373294	98378913.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC159540.1	Amplification		2	97373294	98378913.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC159540.3	Amplification		2	97373294	98378913.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC023158.1	Amplification		12	33559472	33592709.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-438D14.2	Amplification		12	33559472	33592709.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC103563.9	Amplification		2	95713452	95781200.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	C2ORF15	Amplification		2	99462942	99802969.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC021188.4	Amplification		2	96954149	97020378.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1228	Amplification		12	57561029	57677970.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-123K3.4	Amplification		12	57561029	57677970.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR616	Amplification		12	57881622	57913292.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL312P	Amplification		12	57881622	57913292.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-594P	Amplification		12	57881622	57913292.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-413B19.2	Amplification		12	41831495	41967944.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4667	Deletion		9	35366692	35748953.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	ATP8B5P	Deletion		9	35366692	35748953.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-331F9.4	Deletion		9	35366692	35748953.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-331F9.3	Deletion		9	35366692	35748953.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL22P	Deletion		9	35366692	35748953.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	RMRP	Deletion		9	35366692	35748953.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-195F19.9	Deletion		9	34250404	35108523.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL353662.4	Deletion		9	34250404	35108523.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-182N22.8	Deletion		9	34250404	35108523.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-195F19.30	Deletion		9	34250404	35108523.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-195F19.5	Deletion		9	34250404	35108523.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-296L22.8	Deletion		9	34250404	35108523.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	FLJ00273	Deletion		9	34250404	35108523.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	RPP25L	Deletion		9	34250404	35108523.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	FAM205CP	Deletion		9	34250404	35108523.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU2-50P	Deletion		9	34250404	35108523.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP24	Deletion		9	34250404	35108523.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	CNTFR-AS1	Deletion		9	34250404	35108523.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL338P	Deletion		9	34250404	35108523.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-160E2.19	Deletion		17	18944868	19093808.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-457L16.2	Deletion		17	18944868	19093808.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC007952.5	Deletion		17	18944868	19093808.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC007952.6	Deletion		17	18944868	19093808.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC007952.4	Deletion		17	18944868	19093808.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-160E2.11	Deletion		17	18944868	19093808.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-160E2.17	Deletion		17	18944868	19093808.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-160E2.21	Deletion		17	18944868	19093808.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC007952.1	Deletion		17	18944868	19093808.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD3D	Deletion		17	18944868	19093808.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD3A	Deletion		17	18944868	19093808.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD3B-2	Deletion		17	18944868	19093808.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD3B-1	Deletion		17	18944868	19093808.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD3C	Deletion		17	18944868	19093808.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	DOCK9-AS1	Deletion		13	99371239	99568007.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNHG14	Deletion		15	25419824	25429784.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD115-6	Deletion		15	25419824	25429784.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD115-5	Deletion		15	25419824	25429784.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD115-4	Deletion		15	25419824	25429784.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD115-3	Deletion		15	25419824	25429784.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD115-2	Deletion		15	25419824	25429784.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC093382.1	Deletion		2	216809336	216810707.0						0.0	0.0		0												Osteosarcoma-KWMR206	KWMR206_T		0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-680G10.1	Fusion	RP11-680G10.1--GSE1	chr16	85391249							0.0	0.0		0	7.0	RP11-680G10.1	chr16	85391249.0	GSE1	chr16	85667520.0					Osteosarcoma-KWMR206			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TA	Fusion	MT-TA--MT-TN	chrM	5638							0.0	0.0		0	13.0	MT-TA	chrM	5638.0	MT-TN	chrM	5689.0					Osteosarcoma-KWMR206			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-215N21.1	Fusion	NOLC1--RP11-215N21.1	chr10	103921682							0.0	0.0		0	6.0	NOLC1	chr10	103921682.0	RP11-215N21.1	chr10	109572664.0					Osteosarcoma-KWMR206			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TN	Fusion	MT-TA--MT-TN	chrM	5638							0.0	0.0		0	13.0	MT-TA	chrM	5638.0	MT-TN	chrM	5689.0					Osteosarcoma-KWMR206			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TE	Fusion	MT-ND6--MT-TE	chrM	14486							0.0	0.0		0	34.0	MT-ND6	chrM	14486.0	MT-TE	chrM	14720.0					Osteosarcoma-KWMR206			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TL2	Fusion	MT-ND5--MT-TL2	chrM	12458							0.0	0.0		0	6.0	MT-ND5	chrM	12458.0	MT-TL2	chrM	12286.0					Osteosarcoma-KWMR206			0	0	0	0	0	0	0

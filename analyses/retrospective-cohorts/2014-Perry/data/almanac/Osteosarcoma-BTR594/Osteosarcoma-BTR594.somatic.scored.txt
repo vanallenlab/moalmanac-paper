@@ -1,0 +1,799 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Biologically Relevant				Somatic Variant	RB1	Frameshift	p.V725fs	13	49037933	49037934.0	-	-	T	0.7475	99.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-BTR594	Osteosarcoma-BTR594-Tumor-SM-2RCAT	Osteosarcoma-BTR594-Normal-SM-2RCC9	1	1	1	1	1	1	1
+Biologically Relevant				Copy Number	NF1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		1	1	0	1	0	0	1
+Biologically Relevant				Copy Number	FLCN	Deletion		17	16842609	18141234.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		1	0	0	1	1	0	1
+Biologically Relevant				Copy Number	RAD51D	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		1	0	0	0	0	1	1
+Cancer Hotspot				Copy Number	MAP2K4	Deletion		17	11894080	12619143.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	1	0	1	1	0	1
+Cancer Hotspot				Copy Number	FOXP1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	1	0	1	0	1	1
+Cancer Hotspot				Copy Number	SUZ12	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	1	0	1	0	1	1
+Cancer Hotspot				Copy Number	EPHA3	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	1	0	1	0	0	1
+Cancer Hotspot				Somatic Variant	PTPRS	Missense	p.V364I	19	5244392	5244392.0	C	C	T	0.3455	55.0	2.5e-05	0.0		0								10.0	0.4	0.4852		Osteosarcoma-BTR594	Osteosarcoma-BTR594-Tumor-SM-2RCAT	Osteosarcoma-BTR594-Normal-SM-2RCC9	0	1	0	0	0	1	2
+Cancer Hotspot				Copy Number	PPP4R2	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	1	0	0	0	1	1
+Cancer Hotspot				Copy Number	PRDM14	Amplification		8	70964060	72965252.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	1	0	0	0	0	1
+Cancer Hotspot 3D				Copy Number	CCL7	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	LGALS9	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Somatic Variant	MRPL11	Missense	p.R142H	11	66204623	66204623.0	C	C	T	0.0531	113.0	8e-06	0.0		0								0.0	0.0	0.0		Osteosarcoma-BTR594	Osteosarcoma-BTR594-Tumor-SM-2RCAT	Osteosarcoma-BTR594-Normal-SM-2RCC9	0	0	1	0	0	0	2
+Cancer Hotspot 3D				Copy Number	ZNF572	Amplification		8	125716119	126194750.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	1	0	0	0	1
+Cancer Hotspot 3D				Copy Number	SUMO3	Amplification		21	45924411	46229285.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	1	0	0	0	1
+Cancer Gene Census				Copy Number	NCOA2	Amplification		8	70964060	72965252.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	1	1	1	1
+Cancer Gene Census				Copy Number	MITF	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	1	1	1	1
+Cancer Gene Census				Copy Number	NCOR1	Deletion		17	15640546	16594308.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	1	1	1	1
+Cancer Gene Census				Somatic Variant	MUC16	Missense	p.S836I	19	9089308	9089308.0	C	C	A	0.0913	241.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-BTR594	Osteosarcoma-BTR594-Tumor-SM-2RCAT	Osteosarcoma-BTR594-Normal-SM-2RCC9	0	0	0	1	0	1	2
+Cancer Gene Census				Copy Number	TRIM27	Amplification		6	28327112	28879747.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	DEK	Amplification		6	17760838	18264418.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	TAF15	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	1	0	1	1
+Cancer Gene Census				Rearrangement	TRIM27	Fusion	NUP153--TRIM27	chr6	17706508							0.0	0.0		0	112.0	NUP153	chr6	17706508.0	TRIM27	chr6	28879495.0					Osteosarcoma-BTR594			0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	ROBO2	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	1	0	0	1
+Cancer Gene Census				Rearrangement	CAMTA1	Fusion	CAMTA1--CAMTA1-IT1	chr1	7309686							0.0	0.0		0	8.0	CAMTA1	chr1	7309686.0	CAMTA1-IT1	chr1	7430142.0					Osteosarcoma-BTR594			0	0	0	1	0	0	1
+Cancer Pathway				Copy Number	NOS2	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	PSMD6	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	PSMD11	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	UBB	Deletion		17	15640546	16594308.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	TRAF4	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	1	0	1
+Cancer Module				Somatic Variant	NUP153	Missense	p.Q23K	6	17706552	17706552.0	G	G	T	0.8	290.0	0.0	0.0		0								117.0	0.8547	1.0		Osteosarcoma-BTR594	Osteosarcoma-BTR594-Tumor-SM-2RCAT	Osteosarcoma-BTR594-Normal-SM-2RCC9	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SRRM2	Missense	p.G1217R	16	2814178	2814178.0	G	G	C	0.2879	132.0	0.0	0.0		0								34.0	0.2647	0.9912		Osteosarcoma-BTR594	Osteosarcoma-BTR594-Tumor-SM-2RCAT	Osteosarcoma-BTR594-Normal-SM-2RCC9	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	NOL6	Missense	p.A215S	9	33469581	33469581.0	C	C	A	0.3689	122.0	0.0	0.0		0								10.0	0.7	0.5392		Osteosarcoma-BTR594	Osteosarcoma-BTR594-Tumor-SM-2RCAT	Osteosarcoma-BTR594-Normal-SM-2RCC9	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ADAMTS7	Missense	p.E389K	15	79082044	79082044.0	C	C	T	0.2353	34.0	8e-06	0.0		0								0.0	0.0	0.0		Osteosarcoma-BTR594	Osteosarcoma-BTR594-Tumor-SM-2RCAT	Osteosarcoma-BTR594-Normal-SM-2RCC9	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	C8A	Missense	p.G391R	1	57372414	57372414.0	G	G	C	0.3194	144.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-BTR594	Osteosarcoma-BTR594-Tumor-SM-2RCAT	Osteosarcoma-BTR594-Normal-SM-2RCC9	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SEZ6L	Missense	p.V866I	22	26747206	26747206.0	G	G	A	0.7361	72.0	1.6e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-BTR594	Osteosarcoma-BTR594-Tumor-SM-2RCAT	Osteosarcoma-BTR594-Normal-SM-2RCC9	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	RANGAP1	Missense	p.S506F	22	41645788	41645788.0	G	G	A	0.0424	118.0	8e-06	0.0		0								0.0	0.0	0.0		Osteosarcoma-BTR594	Osteosarcoma-BTR594-Tumor-SM-2RCAT	Osteosarcoma-BTR594-Normal-SM-2RCC9	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	MACF1	Missense	p.P6977L	1	39924794	39924794.0	C	C	T	0.2398	171.0	0.0	0.0		0								110.0	0.2818	1.0		Osteosarcoma-BTR594	Osteosarcoma-BTR594-Tumor-SM-2RCAT	Osteosarcoma-BTR594-Normal-SM-2RCC9	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	ARHGEF40	Missense	p.S397N	14	21543079	21543079.0	G	G	A	0.0341	88.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-BTR594	Osteosarcoma-BTR594-Tumor-SM-2RCAT	Osteosarcoma-BTR594-Normal-SM-2RCC9	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	AP2M1	Missense	p.G213W	3	183898950	183898950.0	G	G	T	0.1483	209.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-BTR594	Osteosarcoma-BTR594-Tumor-SM-2RCAT	Osteosarcoma-BTR594-Normal-SM-2RCC9	0	0	0	0	0	1	1
+Cancer Module				Copy Number	TPTE	Deletion		21	10862372	11098987.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SARM1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	NUP153	Fusion	NUP153--TRIM27	chr6	17706508							0.0	0.0		0	112.0	NUP153	chr6	17706508.0	TRIM27	chr6	28879495.0					Osteosarcoma-BTR594			0	0	0	0	0	1	1
+Cancer Module				Copy Number	MPRIP	Deletion		17	16842609	18141234.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TEKT3	Deletion		17	12852768	15497059.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FRMD4B	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RNF135	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SCAND3	Amplification		6	28327112	28879747.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZKSCAN3	Amplification		6	28327112	28879747.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TRPA1	Amplification		8	70964060	72965252.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HNF4G	Amplification		8	76465025	79588350.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PEX2	Amplification		8	76465025	79588350.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	COX10	Deletion		17	12852768	15497059.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TMF1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PDZRN3	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RYBP	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GBE1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ATXN7	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MAGI1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CCL15	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CCL14	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	WSB1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	VTN	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC13A2	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SSH2	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNF286A	Deletion		17	15640546	16594308.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNF624	Deletion		17	15640546	16594308.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	COL1A2	Fusion	MT-ND6--COL1A2	chrM	14361							0.0	0.0		0	9.0	MT-ND6	chrM	14361.0	COL1A2	chr7	94054428.0					Osteosarcoma-BTR594			0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZSCAN12	Amplification		6	28327112	28879747.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SCGN	Amplification		6	25594393	25984167.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC17A3	Amplification		6	25594393	25984167.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC17A2	Amplification		6	25594393	25984167.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC17A1	Amplification		6	25594393	25984167.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TPMT	Amplification		6	17760838	18264418.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KIF13A	Amplification		6	17760838	18264418.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TRAM1	Amplification		8	70964060	72965252.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LACTB2	Amplification		8	70964060	72965252.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EYA1	Amplification		8	70964060	72965252.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MSC	Amplification		8	70964060	72965252.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KIAA0196	Amplification		8	125716119	126194750.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SQLE	Amplification		8	125716119	126194750.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MTSS1	Amplification		8	125716119	126194750.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PKIA	Amplification		8	76465025	79588350.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SULF1	Amplification		8	70498340	70745160.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	COPS3	Deletion		17	16842609	18141234.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DRG2	Deletion		17	16842609	18141234.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MED9	Deletion		17	16842609	18141234.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ALKBH5	Deletion		17	16842609	18141234.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MYO15A	Deletion		17	16842609	18141234.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PEMT	Deletion		17	16842609	18141234.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TNFRSF13B	Deletion		17	16842609	18141234.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SREBF1	Deletion		17	16842609	18141234.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NT5M	Deletion		17	16842609	18141234.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ATPAF2	Deletion		17	16842609	18141234.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ELAC2	Deletion		17	12852768	15497059.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PMP22	Deletion		17	12852768	15497059.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MYO19	Deletion		17	34842292	35414216.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DHRS11	Deletion		17	34842292	35414216.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNHIT3	Deletion		17	34842292	35414216.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PROS1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PTPRG	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	THOC7	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ROBO1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ARL6IP5	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KBTBD8	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CNTN3	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	C3orf14	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CADPS	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CCL16	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CCL18	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	C17orf75	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CCL3	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CCL2	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CCL23	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CCL11	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CCL4	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CCL5	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CCL13	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ALDOC	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	BLMH	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CCL1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	AP2B1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RPL23A	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TP53I13	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TMEM98	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TMEM97	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	UNC119	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNF207	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TIAF1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC6A4	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CCT6B	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SDF2	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SPAG5	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CCL8	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CDK5R1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RHOT1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GOSR1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KIAA0100	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EVI2A	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EVI2B	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PHF12	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	OMG	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NUFIP2	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LYZL6	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CORO6	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CPD	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CRLF3	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ADORA2B	Deletion		17	15640546	16594308.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TRPV2	Deletion		17	15640546	16594308.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PIGL	Deletion		17	15640546	16594308.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	CALD1	Fusion	CALD1--LRGUK	chr7	134528722							0.0	0.0		0	17.0	CALD1	chr7	134528722.0	LRGUK	chr7	133906531.0					Osteosarcoma-BTR594			0	0	0	0	0	1	1
+Cosmic				Somatic Variant	STXBP3	Missense	p.D524E	1	109350059	109350059.0	C	C	G	0.1683	101.0	0.0	0.0		0								138.0	0.1014	1.0		Osteosarcoma-BTR594	Osteosarcoma-BTR594-Tumor-SM-2RCAT	Osteosarcoma-BTR594-Normal-SM-2RCC9	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	PCDH12	Missense	p.R614W	5	141335577	141335577.0	G	G	A	0.0357	84.0	1.6e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-BTR594	Osteosarcoma-BTR594-Tumor-SM-2RCAT	Osteosarcoma-BTR594-Normal-SM-2RCC9	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	PRRC2A	Missense	p.R1039Q	6	31599566	31599566.0	G	G	A	0.7778	18.0	4.3e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-BTR594	Osteosarcoma-BTR594-Tumor-SM-2RCAT	Osteosarcoma-BTR594-Normal-SM-2RCC9	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	SIGLEC8	Missense	p.V150M	19	51961194	51961194.0	C	C	T	0.1204	191.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-BTR594	Osteosarcoma-BTR594-Tumor-SM-2RCAT	Osteosarcoma-BTR594-Normal-SM-2RCC9	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	TMEM150B	Missense	p.A13P	19	55832368	55832368.0	C	C	G	0.0779	77.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-BTR594	Osteosarcoma-BTR594-Tumor-SM-2RCAT	Osteosarcoma-BTR594-Normal-SM-2RCC9	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	MAATS1	Missense	p.K313N	3	119449145	119449145.0	G	G	C	0.3368	193.0	0.0	0.0		0								4.0	0.75	0.0139		Osteosarcoma-BTR594	Osteosarcoma-BTR594-Tumor-SM-2RCAT	Osteosarcoma-BTR594-Normal-SM-2RCC9	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	MAST4	Splice Site		5	66441208	66441208.0	G	G	A	0.0682	44.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-BTR594	Osteosarcoma-BTR594-Tumor-SM-2RCAT	Osteosarcoma-BTR594-Normal-SM-2RCC9	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	PPFIBP2	Missense	p.H489N	11	7670127	7670127.0	C	C	A	0.0349	86.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-BTR594	Osteosarcoma-BTR594-Tumor-SM-2RCAT	Osteosarcoma-BTR594-Normal-SM-2RCC9	0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP10-1	Amplification		21	45924411	46229285.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP10-10	Amplification		21	45924411	46229285.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP10-5	Amplification		21	45924411	46229285.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SEZ6	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP10-3	Amplification		21	45924411	46229285.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP12-2	Amplification		21	45924411	46229285.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP10-4	Amplification		21	45924411	46229285.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRIG1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ATAD5	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	EFCAB5	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	ZFPM1	Fusion	ZC3H18--ZFPM1	chr16	88690470							0.0	0.0		0	18.0	ZC3H18	chr16	88690470.0	ZFPM1	chr16	88600092.0					Osteosarcoma-BTR594			0	0	0	0	0	0	1
+Cosmic				Copy Number	GPX6	Amplification		6	28327112	28879747.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP10-9	Amplification		21	45924411	46229285.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP10-12	Amplification		21	45924411	46229285.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP10-11	Amplification		21	45924411	46229285.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CDRT4	Deletion		17	12852768	15497059.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF830	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLFN12	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLFN11	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GAS2L2	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DHRS13	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NLE1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC17A4	Amplification		6	25594393	25984167.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRRC16A	Amplification		6	25594393	25984167.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLCO5A1	Amplification		8	70498340	70745160.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP12-3	Amplification		21	45924411	46229285.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP10-8	Amplification		21	45924411	46229285.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP10-7	Amplification		21	45924411	46229285.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP10-2	Amplification		21	45924411	46229285.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP10-6	Amplification		21	45924411	46229285.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRRC48	Deletion		17	16842609	18141234.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LLGL1	Deletion		17	16842609	18141234.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CDRT15	Deletion		17	12852768	15497059.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF654	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SUCLG2	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC25A26	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SHQ1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C17orf102	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLFN13	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC46A1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ABHD15	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FOXN1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FNDC8	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PIGS	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RDM1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CENPV	Deletion		17	15640546	16594308.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF287	Deletion		17	15640546	16594308.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GPX5	Amplification		6	28327112	28879747.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZSCAN23	Amplification		6	28327112	28879747.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TRIM38	Amplification		6	25594393	25984167.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	HIST1H2AA	Amplification		6	25594393	25984167.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	HIST1H2BA	Amplification		6	25594393	25984167.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KDM1B	Amplification		6	17760838	18264418.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NHLRC1	Amplification		6	17760838	18264418.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	XKR9	Amplification		8	70964060	72965252.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NSMCE2	Amplification		8	125716119	126194750.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RP11-383H13.1	Amplification		8	72967419	72984354.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZFHX4	Amplification		8	76465025	79588350.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TSPEAR	Amplification		21	45924411	46229285.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	UBE2G2	Amplification		21	45924411	46229285.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C21orf90	Amplification		21	45924411	46229285.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP12-1	Amplification		21	45924411	46229285.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP12-4	Amplification		21	45924411	46229285.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RAI1	Deletion		17	16842609	18141234.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PLD6	Deletion		17	16842609	18141234.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TOM1L2	Deletion		17	16842609	18141234.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RASD1	Deletion		17	16842609	18141234.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF595	Deletion		4	53133	60296.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	HS3ST3A1	Deletion		17	12852768	15497059.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ARHGAP44	Deletion		17	12852768	15497059.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	HS3ST3B1	Deletion		17	12852768	15497059.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PIGW	Deletion		17	34842292	35414216.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GGNBP2	Deletion		17	34842292	35414216.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LHX1	Deletion		17	34842292	35414216.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	AATF	Deletion		17	34842292	35414216.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MRM1	Deletion		17	34842292	35414216.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PROK2	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRICKLE2	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF717	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	VGLL3	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	UBA3	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SYNPR	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SNTN	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	POU1F1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FRG2C	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GPR27	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GXYLT2	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	HTR1F	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	EIF4E3	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	EBLN2	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ADAMTS9	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	EOGT	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM19A1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM19A4	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FEZF2	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LMOD3	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CADM2	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C3orf49	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C3orf38	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CHMP2B	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CGGBP1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF18	Deletion		17	11894080	12619143.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MYOCD	Deletion		17	11894080	12619143.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ADAP2	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C17orf50	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ANKRD13B	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C17orf66	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLFN14	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TNFAIP1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMIGD1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM199	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	AC003101.1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	UNC45B	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	UTP6	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM132E	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TLCD1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLFN5	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLFN12L	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TBC1D29	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TAOK1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SUZ12P	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SUPT6H	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SPACA3	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MMP28	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GIT1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IFT20	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KSR1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LIG3	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ERAL1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FLOT2	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RHBDL3	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RFFL	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PEX12	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NSRP1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NLK	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NEK8	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MYO1D	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MYO18A	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PIPOX	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RAB11FIP4	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RASL10B	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRRC37B	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RAB34	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PROCA1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CRYBA1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RP11-192H23.4	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZSWIM7	Deletion		17	15640546	16594308.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TBC1D26	Deletion		17	15640546	16594308.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM211A	Deletion		17	15640546	16594308.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TTC19	Deletion		17	15640546	16594308.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IGHV1OR21-1	Deletion		21	10862372	11098987.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	ZC3H18	Fusion	ZC3H18--ZFPM1	chr16	88690470							0.0	0.0		0	18.0	ZC3H18	chr16	88690470.0	ZFPM1	chr16	88600092.0					Osteosarcoma-BTR594			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND6	Fusion	MT-ND6--MT-TE	chrM	14479							0.0	0.0		0	43.0	MT-ND6	chrM	14479.0	MT-TE	chrM	14713.0					Osteosarcoma-BTR594			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND6	Fusion	MT-ND6--COL1A2	chrM	14361							0.0	0.0		0	9.0	MT-ND6	chrM	14361.0	COL1A2	chr7	94054428.0					Osteosarcoma-BTR594			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4	Fusion	MT-ND4--MT-ND4L	chrM	10839							0.0	0.0		0	18.0	MT-ND4	chrM	10839.0	MT-ND4L	chrM	10622.0					Osteosarcoma-BTR594			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CO3	Fusion	MT-CO3--MT-ATP6	chrM	9352							0.0	0.0		0	8.0	MT-CO3	chrM	9352.0	MT-ATP6	chrM	9198.0					Osteosarcoma-BTR594			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-ATP6--MT-ATP8	chrM	8638							0.0	0.0		0	51.0	MT-ATP6	chrM	8638.0	MT-ATP8	chrM	8480.0					Osteosarcoma-BTR594			0	0	0	0	0	0	1
+Cosmic				Rearrangement	CCDC64	Fusion	CCDC64--ATP6V0D2	chr12	120436540							0.0	0.0		0	7.0	CCDC64	chr12	120436540.0	ATP6V0D2	chr8	87163695.0					Osteosarcoma-BTR594			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4L	Fusion	MT-ND4--MT-ND4L	chrM	10839							0.0	0.0		0	18.0	MT-ND4	chrM	10839.0	MT-ND4L	chrM	10622.0					Osteosarcoma-BTR594			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-CO3--MT-ATP6	chrM	9352							0.0	0.0		0	8.0	MT-CO3	chrM	9352.0	MT-ATP6	chrM	9198.0					Osteosarcoma-BTR594			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP8	Fusion	MT-ATP6--MT-ATP8	chrM	8638							0.0	0.0		0	51.0	MT-ATP6	chrM	8638.0	MT-ATP8	chrM	8480.0					Osteosarcoma-BTR594			0	0	0	0	0	0	1
+Cosmic				Rearrangement	ATP6V0D2	Fusion	CCDC64--ATP6V0D2	chr12	120436540							0.0	0.0		0	7.0	CCDC64	chr12	120436540.0	ATP6V0D2	chr8	87163695.0					Osteosarcoma-BTR594			0	0	0	0	0	0	1
+Cosmic				Rearrangement	LRGUK	Fusion	CALD1--LRGUK	chr7	134528722							0.0	0.0		0	17.0	CALD1	chr7	134528722.0	LRGUK	chr7	133906531.0					Osteosarcoma-BTR594			0	0	0	0	0	0	1
+VUS				Copy Number	SLC35G3	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	COPRS	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU2-45P	Amplification		6	28327112	28879747.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL121932.1	Amplification		6	28327112	28879747.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL662890.1	Amplification		6	28327112	28879747.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL662890.3	Amplification		6	28327112	28879747.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	XXbac-BPG308K3.6	Amplification		6	28327112	28879747.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	XXbac-BPG308K3.5	Amplification		6	28327112	28879747.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1186N24.3	Amplification		6	28327112	28879747.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	HCG14	Amplification		6	28327112	28879747.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00533	Amplification		6	28327112	28879747.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	U91328.21	Amplification		6	25594393	25984167.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1102P16.1	Amplification		8	70964060	72965252.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1144P22.1	Amplification		8	70964060	72965252.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC104012.1	Amplification		8	70964060	72965252.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-326E22.1	Amplification		8	70964060	72965252.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-382J12.1	Amplification		8	70964060	72965252.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-333A23.4	Amplification		8	70964060	72965252.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC120194.1	Amplification		8	70964060	72965252.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU1-101P	Amplification		8	70964060	72965252.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-281N10.1	Amplification		8	70964060	72965252.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL19P	Amplification		8	70964060	72965252.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC099805.1	Amplification		8	70964060	72965252.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-6D1.3	Amplification		8	125716119	126194750.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4662B	Amplification		8	125716119	126194750.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	KIAA0196-AS1	Amplification		8	125716119	126194750.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1082L8.3	Amplification		8	125716119	126194750.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00964	Amplification		8	125716119	126194750.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1082L8.4	Amplification		8	125716119	126194750.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1082L8.2	Amplification		8	125716119	126194750.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	ZC2HC1A	Amplification		8	76465025	79588350.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-38H17.1	Amplification		8	76465025	79588350.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	ZFHX4-AS1	Amplification		8	76465025	79588350.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-706J10.2	Amplification		8	76465025	79588350.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-706J10.3	Amplification		8	76465025	79588350.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-91P17.1	Amplification		8	76465025	79588350.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-706J10.1	Amplification		8	76465025	79588350.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU2-54P	Amplification		8	76465025	79588350.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-594N15.3	Amplification		8	76465025	79588350.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-594N15.2	Amplification		8	76465025	79588350.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1220P	Amplification		8	76465025	79588350.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	hsa-mir-3149	Amplification		8	76465025	79588350.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-48D4.2	Amplification		8	76465025	79588350.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC016194.1	Amplification		8	76465025	79588350.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-115I9.1	Amplification		8	76465025	79588350.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC105242.1	Amplification		8	76465025	79588350.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-102F4.2	Amplification		8	70498340	70745160.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP29	Amplification		8	70498340	70745160.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-159H10.3	Amplification		8	70498340	70745160.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	TSPEAR-AS1	Amplification		21	45924411	46229285.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL773604.8	Amplification		21	45924411	46229285.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-416I2.1	Deletion		17	16842609	18141234.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	MPRIP-AS1	Deletion		17	16842609	18141234.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-258F1.1	Deletion		17	16842609	18141234.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-253P7.1	Deletion		17	16842609	18141234.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	GID4	Deletion		17	16842609	18141234.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-767P	Deletion		17	16842609	18141234.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL775P	Deletion		17	16842609	18141234.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-468P	Deletion		17	16842609	18141234.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR33B	Deletion		17	16842609	18141234.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	SMCR2	Deletion		17	16842609	18141234.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	SMCR5	Deletion		17	16842609	18141234.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC055811.1	Deletion		17	16842609	18141234.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC104024.2	Deletion		17	16842609	18141234.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC104024.1	Deletion		17	16842609	18141234.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-524F11.1	Deletion		17	16842609	18141234.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RAI1-AS1	Deletion		17	16842609	18141234.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-524F11.2	Deletion		17	16842609	18141234.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-45M22.3	Deletion		17	16842609	18141234.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-45M22.4	Deletion		17	16842609	18141234.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-45M22.5	Deletion		17	16842609	18141234.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC005224.2	Deletion		17	12852768	15497059.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC005304.1	Deletion		17	12852768	15497059.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC003664.1	Deletion		17	12852768	15497059.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR548H3	Deletion		17	12852768	15497059.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC022816.2	Deletion		17	12852768	15497059.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	TVP23C	Deletion		17	12852768	15497059.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-799P	Deletion		17	12852768	15497059.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC005375.1	Deletion		17	12852768	15497059.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	TVP23C-CDRT4	Deletion		17	12852768	15497059.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC013248.2	Deletion		17	12852768	15497059.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC005703.2	Deletion		17	12852768	15497059.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC005863.2	Deletion		17	12852768	15497059.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC005863.1	Deletion		17	12852768	15497059.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-131K5.1	Deletion		17	12852768	15497059.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC005772.2	Deletion		17	12852768	15497059.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC005703.3	Deletion		17	12852768	15497059.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4731	Deletion		17	12852768	15497059.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-214O1.3	Deletion		17	12852768	15497059.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-131K5.2	Deletion		17	12852768	15497059.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL792P	Deletion		17	12852768	15497059.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-488L1.1	Deletion		17	12852768	15497059.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-385D13.3	Deletion		17	12852768	15497059.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-385D13.1	Deletion		17	12852768	15497059.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	CDRT7	Deletion		17	12852768	15497059.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	CDRT8	Deletion		17	12852768	15497059.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-597M12.1	Deletion		17	12852768	15497059.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	COX10-AS1	Deletion		17	12852768	15497059.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-849N15.1	Deletion		17	12852768	15497059.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-849N15.4	Deletion		17	12852768	15497059.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORA74	Deletion		17	12852768	15497059.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL550P	Deletion		17	12852768	15497059.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-214O1.2	Deletion		17	12852768	15497059.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-214O1.1	Deletion		17	12852768	15497059.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR2909	Deletion		17	34842292	35414216.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP439	Deletion		17	34842292	35414216.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-445F12.2	Deletion		17	34842292	35414216.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-333J10.3	Deletion		17	34842292	35414216.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-268N12.3	Deletion		17	34842292	35414216.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-268N12.2	Deletion		17	34842292	35414216.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-3194G12.1	Deletion		17	34842292	35414216.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-3194G12.2	Deletion		17	34842292	35414216.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-75G16.3	Deletion		17	34842292	35414216.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-333J10.2	Deletion		17	34842292	35414216.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-445F12.1	Deletion		17	34842292	35414216.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-520D19.1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-47P18.1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-6B4.1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-460N16.1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL271P	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	PSMD6-AS2	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-47P18.2	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-520D19.2	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP61	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	PTPRG-AS1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	PRICKLE2-AS2	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-508O18.1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-654C22.2	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-62G11.2	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-543A18.1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	PRICKLE2-AS3	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	PRICKLE2-AS1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	PDZRN3-AS1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	THOC7-AS1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	SYNPR-AS1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL418P	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-88H12.2	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-85I21.1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-81N13.1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-803B1.8	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-789F5.1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-735B13.2	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL294P	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-488P	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL482P	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6ATAC6P	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-14D22.2	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-14D22.1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-142L1.1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-129B22.1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-19P	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU1-62P	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU2-28P	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-119P	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-873P	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-451B8.1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-787P	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU2-64P	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1129P	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-739P	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1270P	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-139P	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-217P	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-281P	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-386P	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-712P	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP136	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP135	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP134	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-154H23.3	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL647P	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-447M4.1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL751P	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-557P	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-444P10.1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-433A10.3	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-433A10.2	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-398A8.4	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-359D24.1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-354H21.2	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-354H21.1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-331K15.1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-314M24.1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-260O18.1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-245J9.5	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-245J9.4	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL863P	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-231I13.2	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-20B7.1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-159G9.5	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL92P	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-245J9.6	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP284	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	snoZ40	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	FOXP1-AS1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	FOXP1-IT1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC104331.1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC099545.1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC099326.1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC096971.1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC096922.1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00698	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00870	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00877	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00960	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00971	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00994	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC106827.2	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2013N24.2	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC107025.1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC133041.1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC132660.1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC134729.1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC136289.1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC128653.1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC139453.1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC117481.1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC117479.1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	ADAMTS9-AS1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC108696.1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC113171.1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	ADAMTS9-AS2	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC112219.1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2026G6.3	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	FAM86DP	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC134025.1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4795	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	CADM2-AS2	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	CADM2-AS1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	MAGI1-IT1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3923	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1284	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	MAGI1-AS1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC026877.1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4273	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR5688	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1324	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4444-1	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3136	Deletion		3	62240547	93596287.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-471L13.2	Deletion		17	11894080	12619143.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU11-2P	Deletion		17	11894080	12619143.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00670	Deletion		17	11894080	12619143.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RPL21P122	Deletion		17	11894080	12619143.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC005358.3	Deletion		17	11894080	12619143.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR744	Deletion		17	11894080	12619143.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-848P1.4	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	CCL15-CCL14	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-82O19.1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-848P1.2	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-848P1.3	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-848P1.5	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-848P1.9	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-443G13.2	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-40A13.1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP13-753N3.1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-837J1.2	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-837J1.4	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-466A19.1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-642M2.1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-68I3.2	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-68I3.11	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-686D22.9	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-686D22.8	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-686D22.5	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-686D22.4	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-640N20.9	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-68I3.5	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-640N20.8	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-640N20.6	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-640N20.1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-68I3.4	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-68I3.7	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-805L22.3	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-466A19.3	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-799D4.4	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-466A19.5	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-799D4.3	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-799D4.2	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-466A19.6	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-720N19.2	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-466A19.8	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-47L3.1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	ASIC2	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-68I3.10	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC061975.10	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC015849.12	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC015849.13	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC015849.16	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC015849.19	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC015849.2	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC024610.1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC024619.2	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC011193.1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC061975.8	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC069363.1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC084809.2	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC015688.3	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC010761.10	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC005549.1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC005549.2	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC005549.3	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC005562.1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC006050.2	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC010761.13	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC010761.14	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC010761.6	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC010761.8	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	Vault	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC010761.9	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD42A	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	SMURF2P1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC084809.3	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC116407.1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC116407.2	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	SH3GL1P1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	SGK494	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD42B	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD4A	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD4B	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD63	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC090616.2	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC091177.1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	TEFM	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	TBC1D3P5	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC104984.4	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	SPAG5-AS1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC104996.1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD7	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU4-34P	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP438	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP437	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	KRT18P55	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL79P	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL576P	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL45P	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL316P	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL138P	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1034P	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1134P	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1267P	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-66C13.4	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-41C23.1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-29G21.1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-161P9.5	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY4P13	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6ATAC7P	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-920P	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-840P	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	FAM222B	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-711P	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-298P	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP274	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-104J23.2	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4522	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4523	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4723	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4724	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4725	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4733	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR632	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR423	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	LRRC37BP1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	LYRM9	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RAD51L3-RFFL	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	PYY2	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	POLDIP2	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR144	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR193A	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	PPY2	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3184	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR365B	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-104J23.1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-990P	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-542B22.1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-218M11.1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-304I17.4	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-304I17.5	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-227G15.9	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-227G15.8	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-227G15.3	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-227G15.2	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-220C2.1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-218M11.6	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-218M11.3	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-218F4.1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-304I17.2	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-215E13.2	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-215E13.1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-507E2.1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2370N5.3	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-542B22.2	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-212E8.1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2008P7.1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-20B24.7	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-20B24.6	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-304I17.3	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-96E2.7	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-20B24.4	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-186H2.2	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-354P11.8	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-354P11.4	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-354P11.3	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-354P11.2	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-338L22.2	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-321A17.5	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-96E2.3	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-321A17.4	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-31I22.4	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-31I22.3	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-31I22.2	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-31I22.1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-186H2.3	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-296K13.4	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-96E2.2	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-271K11.5	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-20B24.5	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2008P7.8	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1094M14.10	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2349P21.6	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1094M14.11	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1094M14.12	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2008P7.9	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-142O6.1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-138P22.1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1094M14.14	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1094M14.5	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2350C19.1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2349P21.9	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2349P21.10	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2349P21.11	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2349P21.5	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1148O4.2	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-118G23.2	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2008P7.3	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-118G23.1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2350C19.2	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-192H23.6	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-19P22.8	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-173M1.4	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-19P22.5	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-173M1.8	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-17M24.1	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-192H23.8	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-17M24.2	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-192H23.7	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2008P7.10	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-192H23.5	Deletion		17	25621170	34433915.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC002553.1	Deletion		17	15640546	16594308.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-92B11.4	Deletion		17	15640546	16594308.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-77H15.1	Deletion		17	15640546	16594308.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC005324.6	Deletion		17	15640546	16594308.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC005324.7	Deletion		17	15640546	16594308.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-138I1.3	Deletion		17	15640546	16594308.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-862P	Deletion		17	15640546	16594308.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC015922.5	Deletion		17	15640546	16594308.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC093484.4	Deletion		17	15640546	16594308.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP436	Deletion		17	15640546	16594308.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-219A15.1	Deletion		17	15640546	16594308.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	C17orf76-AS1	Deletion		17	15640546	16594308.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1288	Deletion		17	15640546	16594308.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC015922.6	Deletion		17	15640546	16594308.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-138I1.4	Deletion		17	15640546	16594308.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL442P	Deletion		17	15640546	16594308.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-314P	Deletion		17	15640546	16594308.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-138I1.2	Deletion		17	15640546	16594308.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-3157E16.1	Deletion		17	15640546	16594308.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Copy Number	BAGE2	Deletion		21	10862372	11098987.0						0.0	0.0		0												Osteosarcoma-BTR594	BTR594_T		0	0	0	0	0	0	0
+VUS				Rearrangement	WI2-1896O14.1	Fusion	WI2-1896O14.1--RP11-353N4.1	chr1	144676874							0.0	0.0		0	14.0	WI2-1896O14.1	chr1	144676874.0	RP11-353N4.1	chr1	149590973.0					Osteosarcoma-BTR594			0	0	0	0	0	0	0
+VUS				Rearrangement	SMC5-AS1	Fusion	SMC5-AS1--MAMDC2-AS1	chr9	72831202							0.0	0.0		0	9.0	SMC5-AS1	chr9	72831202.0	MAMDC2-AS1	chr9	72728776.0					Osteosarcoma-BTR594			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-96H19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46848924							0.0	0.0		0	6.0	RP11-96H19.1	chr12	46848924.0	RP11-446N19.1	chr12	47046173.0					Osteosarcoma-BTR594			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-353N4.1	Fusion	WI2-1896O14.1--RP11-353N4.1	chr1	144676874							0.0	0.0		0	14.0	WI2-1896O14.1	chr1	144676874.0	RP11-353N4.1	chr1	149590973.0					Osteosarcoma-BTR594			0	0	0	0	0	0	0
+VUS				Rearrangement	MAMDC2-AS1	Fusion	SMC5-AS1--MAMDC2-AS1	chr9	72831202							0.0	0.0		0	9.0	SMC5-AS1	chr9	72831202.0	MAMDC2-AS1	chr9	72728776.0					Osteosarcoma-BTR594			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-446N19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46848924							0.0	0.0		0	6.0	RP11-96H19.1	chr12	46848924.0	RP11-446N19.1	chr12	47046173.0					Osteosarcoma-BTR594			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TE	Fusion	MT-ND6--MT-TE	chrM	14479							0.0	0.0		0	43.0	MT-ND6	chrM	14479.0	MT-TE	chrM	14713.0					Osteosarcoma-BTR594			0	0	0	0	0	0	0
+VUS				Rearrangement	CAMTA1-IT1	Fusion	CAMTA1--CAMTA1-IT1	chr1	7309686							0.0	0.0		0	8.0	CAMTA1	chr1	7309686.0	CAMTA1-IT1	chr1	7430142.0					Osteosarcoma-BTR594			0	0	0	0	0	0	0

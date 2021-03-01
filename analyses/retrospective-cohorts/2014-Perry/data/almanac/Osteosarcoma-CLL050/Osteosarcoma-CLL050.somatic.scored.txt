@@ -1,0 +1,88 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Cancer Hotspot				Somatic Variant	ATRX	Missense	p.H1027D	X	76937669	76937669	G	G	C	0.039	77.0	0.0	0.0		0												Osteosarcoma-CLL050	Osteosarcoma-CLL050-Tumor-SM-2RCAW	Osteosarcoma-CLL050-Normal-SM-2RCCC	0	1	0	1	0	1	2
+Cancer Hotspot 3D				Somatic Variant	DCC	Missense	p.D256V	18	50450146	50450146	A	A	T	0.1071	56.0	0.0	0.0		0												Osteosarcoma-CLL050	Osteosarcoma-CLL050-Tumor-SM-2RCAW	Osteosarcoma-CLL050-Normal-SM-2RCCC	0	0	1	1	1	0	2
+Cancer Hotspot 3D				Copy Number	PLG	Deletion		6	161027257	161123637						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	1	0	0	1	1
+Cancer Gene Census				Somatic Variant	RALGDS	Missense	p.P554S	9	135979661	135979661	G	G	A	0.4	95.0	0.0	0.0		0												Osteosarcoma-CLL050	Osteosarcoma-CLL050-Tumor-SM-2RCAW	Osteosarcoma-CLL050-Normal-SM-2RCCC	0	0	0	1	1	1	2
+Cancer Gene Census				Copy Number	BIRC3	Amplification		11	101936964	102221926						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	1	1	1	1
+Cancer Gene Census				Somatic Variant	CSMD3	Nonsense	p.R2442*	8	113331102	113331102	G	G	A	0.2222	81.0	0.0	0.0		0												Osteosarcoma-CLL050	Osteosarcoma-CLL050-Tumor-SM-2RCAW	Osteosarcoma-CLL050-Normal-SM-2RCCC	0	0	0	1	0	1	2
+Cancer Gene Census				Somatic Variant	LRP1B	Nonsense	p.W1665*	2	141598606	141598606	C	C	T	0.0588	85.0	0.0	0.0		0												Osteosarcoma-CLL050	Osteosarcoma-CLL050-Tumor-SM-2RCAW	Osteosarcoma-CLL050-Normal-SM-2RCCC	0	0	0	1	0	1	2
+Cancer Gene Census				Somatic Variant	SSX1	Missense	p.E179D	X	48125792	48125792	G	G	C	0.0379	581.0	0.0	0.0		0												Osteosarcoma-CLL050	Osteosarcoma-CLL050-Tumor-SM-2RCAW	Osteosarcoma-CLL050-Normal-SM-2RCCC	0	0	0	1	0	1	2
+Cancer Gene Census				Somatic Variant	CHD2	Splice Site		15	93510744	93510744	G	G	A	0.0656	61.0	0.0	0.0		0												Osteosarcoma-CLL050	Osteosarcoma-CLL050-Tumor-SM-2RCAW	Osteosarcoma-CLL050-Normal-SM-2RCCC	0	0	0	1	0	1	1
+Cancer Pathway				Copy Number	BIRC2	Amplification		11	101936964	102221926						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	MMP1	Amplification		11	102238785	102820139						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	1	1	1
+Cancer Module				Somatic Variant	APOB	Missense	p.K305N	2	21256380	21256380	C	C	G	0.0536	112.0	0.0	0.0		0												Osteosarcoma-CLL050	Osteosarcoma-CLL050-Tumor-SM-2RCAW	Osteosarcoma-CLL050-Normal-SM-2RCCC	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	CACHD1	Missense	p.D190A	1	65098359	65098359	A	A	C	0.0816	98.0	0.0	0.0		0												Osteosarcoma-CLL050	Osteosarcoma-CLL050-Tumor-SM-2RCAW	Osteosarcoma-CLL050-Normal-SM-2RCCC	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	PRDM10	Missense	p.R288W	11	129812425	129812425	G	G	A	0.0316	95.0	0.0	0.0		0												Osteosarcoma-CLL050	Osteosarcoma-CLL050-Tumor-SM-2RCAW	Osteosarcoma-CLL050-Normal-SM-2RCCC	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	LRP1	Missense	p.D3765N	12	57598990	57598990	G	G	A	0.0417	120.0	0.0	0.0		0												Osteosarcoma-CLL050	Osteosarcoma-CLL050-Tumor-SM-2RCAW	Osteosarcoma-CLL050-Normal-SM-2RCCC	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	NFATC1	Missense	p.R880W	18	77246832	77246832	C	C	T	0.0583	103.0	2.5e-05	0.0		0												Osteosarcoma-CLL050	Osteosarcoma-CLL050-Tumor-SM-2RCAW	Osteosarcoma-CLL050-Normal-SM-2RCCC	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	EFEMP2	Missense	p.R326H	11	65635525	65635525	C	C	T	0.08	50.0	0.00021400000000000002	0.0		0												Osteosarcoma-CLL050	Osteosarcoma-CLL050-Tumor-SM-2RCAW	Osteosarcoma-CLL050-Normal-SM-2RCCC	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	WDTC1	Nonsense	p.R401*	1	27624574	27624574	C	C	T	0.145	131.0	0.0	0.0		0												Osteosarcoma-CLL050	Osteosarcoma-CLL050-Tumor-SM-2RCAW	Osteosarcoma-CLL050-Normal-SM-2RCCC	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	CYTIP	Missense	p.K288N	2	158272405	158272405	C	C	A	0.1301	123.0	0.0	0.0		0												Osteosarcoma-CLL050	Osteosarcoma-CLL050-Tumor-SM-2RCAW	Osteosarcoma-CLL050-Normal-SM-2RCCC	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	GRM8	Missense	p.C535G	7	126173833	126173833	A	A	C	0.1154	156.0	0.0	0.0		0												Osteosarcoma-CLL050	Osteosarcoma-CLL050-Tumor-SM-2RCAW	Osteosarcoma-CLL050-Normal-SM-2RCCC	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	MKKS	Missense	p.T439S	20	10386292	10386292	G	G	C	0.0556	54.0	0.0	0.0		0												Osteosarcoma-CLL050	Osteosarcoma-CLL050-Tumor-SM-2RCAW	Osteosarcoma-CLL050-Normal-SM-2RCCC	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	HIRA	Missense	p.H22Y	22	19398275	19398275	G	G	A	0.0287	209.0	0.0	0.0		0												Osteosarcoma-CLL050	Osteosarcoma-CLL050-Tumor-SM-2RCAW	Osteosarcoma-CLL050-Normal-SM-2RCCC	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	AGTR2	Missense	p.R107T	X	115303853	115303853	G	G	C	0.0565	230.0	0.0	0.0		0												Osteosarcoma-CLL050	Osteosarcoma-CLL050-Tumor-SM-2RCAW	Osteosarcoma-CLL050-Normal-SM-2RCCC	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	CEACAM1	Missense	p.R358H	19	43023273	43023273	C	C	T	0.15	100.0	0.000371	0.0		0												Osteosarcoma-CLL050	Osteosarcoma-CLL050-Tumor-SM-2RCAW	Osteosarcoma-CLL050-Normal-SM-2RCCC	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SYNE2	Missense	p.E5322K	14	64628908	64628908	G	G	A	0.0408	147.0	8e-06	0.0		0												Osteosarcoma-CLL050	Osteosarcoma-CLL050-Tumor-SM-2RCAW	Osteosarcoma-CLL050-Normal-SM-2RCCC	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	PZP	Missense	p.K1449N	12	9303277	9303277	C	C	A	0.0517	58.0	0.0	0.0		0												Osteosarcoma-CLL050	Osteosarcoma-CLL050-Tumor-SM-2RCAW	Osteosarcoma-CLL050-Normal-SM-2RCCC	0	0	0	0	0	1	1
+Cancer Module				Copy Number	LPA	Deletion		6	161027257	161123637						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MMP27	Amplification		11	102238785	102820139						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MMP20	Amplification		11	102238785	102820139						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	C5AR1	Missense	p.P257T	19	47823803	47823803	C	C	A	0.0541	74.0	0.0	0.0		0												Osteosarcoma-CLL050	Osteosarcoma-CLL050-Tumor-SM-2RCAW	Osteosarcoma-CLL050-Normal-SM-2RCCC	0	0	0	0	0	1	1
+Cancer Module				Copy Number	MMP8	Amplification		11	102238785	102820139						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MMP3	Amplification		11	102238785	102820139						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PCDHB7	Amplification		5	140552165	140560273						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	THOC2	Missense	p.S1217F	X	122756988	122756988	G	G	A	0.2171	129.0	0.0	0.0		0												Osteosarcoma-CLL050	Osteosarcoma-CLL050-Tumor-SM-2RCAW	Osteosarcoma-CLL050-Normal-SM-2RCCC	0	0	0	0	0	1	1
+Cancer Module				Copy Number	MMP12	Amplification		11	102238785	102820139						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MMP7	Amplification		11	102238785	102820139						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MMP13	Amplification		11	102238785	102820139						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MMP10	Amplification		11	102238785	102820139						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ELMOD1	Amplification		11	106809934	107463436						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GUCY1A2	Amplification		11	106809934	107463436						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CSH2	Deletion		17	61949234	61974123						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GH2	Deletion		17	61949234	61974123						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NRXN3	Deletion		14	79423333	79454736						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	1	1
+Cosmic				Somatic Variant	JSRP1	Missense	p.A28V	19	2255231	2255231	G	G	A	0.2069	29.0	0.0	0.0		0												Osteosarcoma-CLL050	Osteosarcoma-CLL050-Tumor-SM-2RCAW	Osteosarcoma-CLL050-Normal-SM-2RCCC	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	GORASP2	Missense	p.L318P	2	171819391	171819391	T	T	C	0.0222	135.0	0.0	0.0		0												Osteosarcoma-CLL050	Osteosarcoma-CLL050-Tumor-SM-2RCAW	Osteosarcoma-CLL050-Normal-SM-2RCCC	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	CCDC36	Missense	p.S473Y	3	49294348	49294348	C	C	A	0.5102	196.0	0.0	0.0		0												Osteosarcoma-CLL050	Osteosarcoma-CLL050-Tumor-SM-2RCAW	Osteosarcoma-CLL050-Normal-SM-2RCCC	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	MED13L	Missense	p.A1549T	12	116421232	116421232	C	C	T	0.094	117.0	0.0	0.0		0												Osteosarcoma-CLL050	Osteosarcoma-CLL050-Tumor-SM-2RCAW	Osteosarcoma-CLL050-Normal-SM-2RCCC	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	CXorf67	Missense	p.G364R	X	51150958	51150958	G	G	C	0.0459	109.0	0.0	0.0		0												Osteosarcoma-CLL050	Osteosarcoma-CLL050-Tumor-SM-2RCAW	Osteosarcoma-CLL050-Normal-SM-2RCCC	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	MYO18B	Missense	p.V1622L	22	26298617	26298617	G	G	C	0.1053	19.0	0.0	0.0		0												Osteosarcoma-CLL050	Osteosarcoma-CLL050-Tumor-SM-2RCAW	Osteosarcoma-CLL050-Normal-SM-2RCCC	0	0	0	0	0	0	1
+Cosmic				Copy Number	KIAA1377	Amplification		11	101761758	101868626						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NAALADL2	Deletion		3	174814330	175521241						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PCDHB16	Amplification		5	140552165	140560273						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CWF19L2	Amplification		11	106809934	107463436						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2T11	Deletion		1	248755879	248790681						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	0	1
+Cosmic				Somatic Variant	PCDHA7	Frameshift	p.VP393fs	5	140215146	140215149	TTCC	TTCC	-	0.1685	178.0	0.0	0.0		0												Osteosarcoma-CLL050	Osteosarcoma-CLL050-Tumor-SM-2RCAW	Osteosarcoma-CLL050-Normal-SM-2RCCC	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	ODF2	Missense	p.D123A	9	131231595	131231595	A	A	C	0.151	192.0	0.0	0.0		0												Osteosarcoma-CLL050	Osteosarcoma-CLL050-Tumor-SM-2RCAW	Osteosarcoma-CLL050-Normal-SM-2RCCC	0	0	0	0	0	0	1
+Cosmic				Copy Number	ANGPTL5	Amplification		11	101761758	101868626						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	0	1
+Cosmic				Somatic Variant	OR1L1	Missense	p.P282A	9	125424838	125424838	C	C	G	0.1374	131.0	0.0	0.0		0												Osteosarcoma-CLL050	Osteosarcoma-CLL050-Tumor-SM-2RCAW	Osteosarcoma-CLL050-Normal-SM-2RCCC	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	PCF11	Missense	p.E1457Q	11	82893486	82893486	G	G	C	0.09300000000000001	43.0	0.0	0.0		0												Osteosarcoma-CLL050	Osteosarcoma-CLL050-Tumor-SM-2RCAW	Osteosarcoma-CLL050-Normal-SM-2RCCC	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	SCML1	Missense	p.T310M	X	17771451	17771451	C	C	T	0.0729	192.0	0.0	0.0		0												Osteosarcoma-CLL050	Osteosarcoma-CLL050-Tumor-SM-2RCAW	Osteosarcoma-CLL050-Normal-SM-2RCCC	0	0	0	0	0	0	1
+Cosmic				Copy Number	YAP1	Amplification		11	101936964	102221926						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C11orf70	Amplification		11	101936964	102221926						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM123	Amplification		11	102238785	102820139						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ALKBH8	Amplification		11	106809934	107463436						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CSH1	Deletion		17	61949234	61974123						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2T10	Deletion		1	248755879	248790681						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	0	1
+VUS				Copy Number	RP11-864G5.3	Amplification		11	101936964	102221926						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-952P	Amplification		11	101936964	102221926						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-732A21.2	Amplification		11	101936964	102221926						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-817J15.3	Amplification		11	102238785	102820139						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-817J15.2	Amplification		11	102238785	102820139						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-315O6.2	Amplification		11	102238785	102820139						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-315O6.1	Amplification		11	102238785	102820139						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-159P	Amplification		11	102238785	102820139						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	0	0
+VUS				Copy Number	WTAPP1	Amplification		11	102238785	102820139						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	0	0
+VUS				Copy Number	AP000619.5	Amplification		11	102238785	102820139						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	0	0
+VUS				Copy Number	AP000889.3	Amplification		11	106809934	107463436						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-819C21.1	Amplification		11	106809934	107463436						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-81D8.3	Deletion		6	161027257	161123637						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1317P	Deletion		3	174814330	175521241						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	0	0
+VUS				Copy Number	NAALADL2-AS3	Deletion		3	174814330	175521241						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	0	0
+VUS				Copy Number	NAALADL2-AS2	Deletion		3	174814330	175521241						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1233P	Deletion		3	174814330	175521241						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU4-91P	Deletion		3	174814330	175521241						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	0	0
+VUS				Copy Number	NAALADL2-AS1	Deletion		3	174814330	175521241						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4789	Deletion		3	174814330	175521241						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	0	0
+VUS				Copy Number	GTF2H2B	Deletion		5	69730492	69733671						0.0	0.0		0												Osteosarcoma-CLL050	CLL050_T		0	0	0	0	0	0	0

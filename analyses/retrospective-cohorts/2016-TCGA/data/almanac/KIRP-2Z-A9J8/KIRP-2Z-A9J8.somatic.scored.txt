@@ -1,0 +1,401 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Investigate Actionability	Investigate Actionability			Copy Number	FBXW7	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		2	1	1	1	0	0	1
+Cancer Hotspot				Somatic Variant	ERBB4	Missense	p.V298M	2	212578365	212578365.0	C	C	T	0.425	40.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-2Z-A9J8	KIRP-2Z-A9J8-TP	KIRP-2Z-A9J8-NB	0	1	0	1	1	1	1
+Cancer Hotspot				Copy Number	FAT1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	1	0	1	0	1	1
+Cancer Hotspot				Somatic Variant	CUL3	Nonsense	p.E211*	2	225378264	225378264.0	C	C	A	0.4231	208.0	0.0	0.0		0								128.0	0.0938	1.0		KIRP-2Z-A9J8	KIRP-2Z-A9J8-TP	KIRP-2Z-A9J8-NB	0	1	0	1	0	0	1
+Cancer Hotspot				Somatic Variant	CUL3	Frameshift	p.F21fs	2	225449664	225449664.0	A	A	-	0.3297	91.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-2Z-A9J8	KIRP-2Z-A9J8-TP	KIRP-2Z-A9J8-NB	0	1	0	1	0	0	1
+Cancer Hotspot 3D				Copy Number	SLC25A4	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	GUCY1B3	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	GRIA2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	FGG	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	ING2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Somatic Variant	DOT1L	Missense	p.P1182L	19	2223434	2223434.0	C	C	T	0.4848	33.0	0.0	0.0		0								22.0	0.6364	0.9947		KIRP-2Z-A9J8	KIRP-2Z-A9J8-TP	KIRP-2Z-A9J8-NB	0	0	1	0	0	0	1
+Cancer Hotspot 3D				Copy Number	ENPP6	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	1	0	0	0	1
+Cancer Hotspot 3D				Copy Number	RBM46	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	1	0	0	0	1
+Cancer Gene Census				Copy Number	CASP3	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	1	1	1	1
+Cancer Pathway				Copy Number	VEGFC	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	HMGB2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	1	1	1
+Cancer Pathway				Somatic Variant	ZFYVE9	Frameshift	p.M1130fs	1	52769546	52769547.0	-	-	A	0.4468	94.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-2Z-A9J8	KIRP-2Z-A9J8-TP	KIRP-2Z-A9J8-NB	0	0	0	0	1	0	1
+Cancer Pathway				Copy Number	PDGFC	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	1	0	1
+Cancer Module				Somatic Variant	RRAGA	Missense	p.L11M	9	19049688	19049688.0	C	C	A	0.40399999999999997	99.0	0.0	0.0		0								253.0	0.4585	1.0		KIRP-2Z-A9J8	KIRP-2Z-A9J8-TP	KIRP-2Z-A9J8-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	AP1S1	Splice Site		7	100802478	100802478.0	G	G	T	0.2609	23.0	0.0	0.0		0								212.0	0.8821	1.0		KIRP-2Z-A9J8	KIRP-2Z-A9J8-TP	KIRP-2Z-A9J8-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	DPF2	Missense	p.R77W	11	65108472	65108472.0	C	C	T	0.4746	59.0	0.0	0.0		0								80.0	0.525	1.0		KIRP-2Z-A9J8	KIRP-2Z-A9J8-TP	KIRP-2Z-A9J8-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	DIAPH2	Missense	p.S256R	X	96171470	96171470.0	A	A	C	0.7961	255.0	0.0	0.0		0								11.0	0.7273	0.9996		KIRP-2Z-A9J8	KIRP-2Z-A9J8-TP	KIRP-2Z-A9J8-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	GPRASP1	Missense	p.E396Q	X	101910027	101910027.0	G	G	C	0.8475	59.0	0.0	0.0		0								9.0	1.0	0.9976		KIRP-2Z-A9J8	KIRP-2Z-A9J8-TP	KIRP-2Z-A9J8-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	SLC14A2	Missense	p.L768F	18	43252937	43252937.0	C	C	T	0.35	60.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-2Z-A9J8	KIRP-2Z-A9J8-TP	KIRP-2Z-A9J8-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	NAAA	Splice Site		4	76841890	76841890.0	C	C	G	0.4219	128.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-2Z-A9J8	KIRP-2Z-A9J8-TP	KIRP-2Z-A9J8-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	RAPGEF3	Missense	p.A323T	12	48143247	48143247.0	C	C	T	0.1034	29.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-2Z-A9J8	KIRP-2Z-A9J8-TP	KIRP-2Z-A9J8-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	MICAL3	Missense	p.A739T	22	18368670	18368670.0	C	C	T	0.0508	59.0	5.7999999999999994e-05	0.0		0								0.0	0.0	0.0		KIRP-2Z-A9J8	KIRP-2Z-A9J8-TP	KIRP-2Z-A9J8-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	CAMSAP2	Frameshift	p.P852fs	1	200818453	200818453.0	A	A	-	0.4206	252.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-2Z-A9J8	KIRP-2Z-A9J8-TP	KIRP-2Z-A9J8-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	CCNG2	Missense	p.K177R	4	78082635	78082635.0	A	A	G	0.0333	180.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-2Z-A9J8	KIRP-2Z-A9J8-TP	KIRP-2Z-A9J8-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	NIPBL	Frameshift	p.SIDQSV1042fs	5	36995727	36995743.0	GTATAGATCAATCAGTG	GTATAGATCAATCAGTG	-	0.2895	114.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-2Z-A9J8	KIRP-2Z-A9J8-TP	KIRP-2Z-A9J8-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	SLX4	Missense	p.D185A	16	3656681	3656681.0	T	T	G	0.4225	71.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-2Z-A9J8	KIRP-2Z-A9J8-TP	KIRP-2Z-A9J8-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	NCBP2	Missense	p.T34A	3	196666228	196666228.0	T	T	C	0.3333	69.0	8e-06	0.0		0								0.0	0.0	0.0		KIRP-2Z-A9J8	KIRP-2Z-A9J8-TP	KIRP-2Z-A9J8-NB	0	0	0	0	0	1	1
+Cancer Module				Copy Number	NEIL3	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MAP9	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LRBA	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KLKB1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KIAA0922	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PALLD	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TLR3	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TKTL2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ETFDH	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ANXA10	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	AGA	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PDLIM3	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SORBS2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SH3RF1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SCRG1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SAP30	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RPS3A	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SPOCK3	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TDO2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	UFSP2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TRIM2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TMEM144	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TLR2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TLL1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	F11	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DDX60	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CTSO	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CPE	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CLCN3	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FAM198B	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HAND2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GUCY1A3	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GPM6A	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GLRB	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GLRA3	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FGB	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FGA	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ASB5	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ACSL1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HPGD	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MARCH1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KLHL2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	IRF2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PET112	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NPY5R	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NPY2R	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NPY1R	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NEK1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MLF1IP	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DPYSL4	Deletion		10	134021870	134026212.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MSMO1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	1	0
+Cosmic				Somatic Variant	CLK4	Splice Site		5	178043950	178043950.0	C	C	G	0.3015	199.0	0.0	0.0		0								77.0	0.7143	1.0		KIRP-2Z-A9J8	KIRP-2Z-A9J8-TP	KIRP-2Z-A9J8-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	WDR90	Missense	p.H475D	16	703789	703789.0	C	C	G	0.4013	152.0	0.0	0.0		0								20.0	0.35	0.9797		KIRP-2Z-A9J8	KIRP-2Z-A9J8-TP	KIRP-2Z-A9J8-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	ZNF236	Missense	p.R1287G	18	74637348	74637348.0	C	C	G	0.4512	82.0	0.0	0.0		0								13.0	0.3077	0.8936		KIRP-2Z-A9J8	KIRP-2Z-A9J8-TP	KIRP-2Z-A9J8-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	CRB2	Missense	p.A1037S	9	126135919	126135919.0	G	G	T	0.6667	3.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-2Z-A9J8	KIRP-2Z-A9J8-TP	KIRP-2Z-A9J8-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	OC90	Frameshift	p.F291fs	8	133044287	133044287.0	A	A	-	0.5513	78.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-2Z-A9J8	KIRP-2Z-A9J8-TP	KIRP-2Z-A9J8-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	FAM110C	Frameshift	p.Q128fs	2	46002	46003.0	-	-	T	0.4615	39.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-2Z-A9J8	KIRP-2Z-A9J8-TP	KIRP-2Z-A9J8-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	ANKRD33	Missense	p.F22L	12	52282036	52282036.0	C	C	A	0.4568	81.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-2Z-A9J8	KIRP-2Z-A9J8-TP	KIRP-2Z-A9J8-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	THSD7B	Missense	p.A1255T	2	138378260	138378260.0	G	G	A	0.037000000000000005	108.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-2Z-A9J8	KIRP-2Z-A9J8-TP	KIRP-2Z-A9J8-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	TOP1MT	Missense	p.R143C	8	144406750	144406750.0	G	G	A	0.0612	49.0	5.7999999999999994e-05	0.0		0								0.0	0.0	0.0		KIRP-2Z-A9J8	KIRP-2Z-A9J8-TP	KIRP-2Z-A9J8-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	STAP1	Missense	p.L24I	4	68424597	68424597.0	C	C	A	0.3373	83.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-2Z-A9J8	KIRP-2Z-A9J8-TP	KIRP-2Z-A9J8-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	TTYH3	Frameshift	p.-406fs	7	2696131	2696132.0	-	-	TCGT	0.4167	24.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-2Z-A9J8	KIRP-2Z-A9J8-TP	KIRP-2Z-A9J8-NB	0	0	0	0	0	0	1
+Cosmic				Copy Number	DCHS2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DDX60L	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCDC110	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM149A	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RNF175	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRSS48	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	WDR17	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C4orf45	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CYP4V2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	KIAA1430	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Rearrangement	WWOX	Fusion	RP11-319G9.5--WWOX	chr16	79030253							0.0	0.0		0	7.0	RP11-319G9.5	chr16	79030253.0	WWOX	chr16	79245505.0					KIRP-2Z-A9J8			0	0	0	0	0	0	1
+Cosmic				Copy Number	WWC2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TIGD4	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DCLK2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CEP44	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CDKN2AIP	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FHDC1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CBR4	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ADAM29	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C4orf27	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PPID	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NAF1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RP11-389E17.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SPCS3	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SPATA4	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SNX25	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SH3D19	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SFRP2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RXFP1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RWDD4	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	STOX2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TRIM61	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TRIM60	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM192	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM154	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	AADAT	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	HELT	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DCTD	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CLDN24	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CLDN22	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM160A1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GALNT7	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GALNTL6	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FSTL5	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FNIP2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FBXO8	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C4orf47	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C4orf46	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ARFIP1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ANKRD37	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RAPGEF2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MFAP3L	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MAB21L2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRP2BP	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRAT	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MTNR1A	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PLRG1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MND1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	STK32C	Deletion		10	134021870	134026212.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	1
+Cosmic				Rearrangement	SHISA9	Fusion	SHISA9--U91319.1	chr16	13297406							0.0	0.0		0	38.0	SHISA9	chr16	13297406.0	U91319.1	chr16	13444037.0					KIRP-2Z-A9J8			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND6	Fusion	MT-ND6--MT-ND5	chrM	14175							0.0	0.0		0	13.0	MT-ND6	chrM	14175.0	MT-ND5	chrM	14084.0					KIRP-2Z-A9J8			0	0	0	0	0	0	1
+Cosmic				Rearrangement	FAM65B	Fusion	RP11-367G6.3--FAM65B	chr6	25042079							0.0	0.0		0	10.0	RP11-367G6.3	chr6	25042079.0	FAM65B	chr6	24876045.0					KIRP-2Z-A9J8			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND5	Fusion	MT-ND6--MT-ND5	chrM	14175							0.0	0.0		0	13.0	MT-ND6	chrM	14175.0	MT-ND5	chrM	14084.0					KIRP-2Z-A9J8			0	0	0	0	0	0	1
+VUS				Copy Number	TMA16	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	ASIC5	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	PRIMPOL	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00401	Amplification		13	69662672	70052464.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00383	Amplification		13	69662672	70052464.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-327O17.2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-367N14.2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-366M4.3	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-366M4.13	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-364P22.2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-364P22.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-344G13.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-340B18.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-335L23.5	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-335L23.4	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNY4P17	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-372K14.2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-326I11.5	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-326I11.4	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-326I11.3	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-322J23.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-313E19.2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-310I9.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-308K2.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-301L8.2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-367N14.3	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-376O6.2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-290F5.2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-386B13.3	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-487E13.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-483A20.3	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-475B2.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-461L13.5	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-461L13.4	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-461L13.3	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-461L13.2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-460H9.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-45I20.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-440I14.3	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-440I14.2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-436A7.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-424M21.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-404J23.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-402C9.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-386B13.4	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-294O2.2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-290F5.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-497K21.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-287F9.2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-171N4.3	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-171N4.2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-171N4.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-164P12.4	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-164P12.3	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-162G9.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-161D15.3	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-161D15.2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-161D15.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-154F14.2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-153M7.5	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-153M7.3	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-148L24.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-140M13.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-138B4.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-138A23.2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1336O20.2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-130F10.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-11N5.3	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-171N4.4	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-188P17.2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-18D7.2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-21G20.3	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-285C1.2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-27G13.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-279O9.4	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-248N22.2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-248N22.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-242J7.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-237D3.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-234O6.2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-219C20.3	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-18D7.3	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-218F10.3	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-217E13.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-217C7.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-215A19.2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-205M3.3	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-18H21.3	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-18H21.2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-18H21.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-489G11.3	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-502M1.2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-10K16.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-97E7.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD79	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD73A	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD73	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RPPH1-3P	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP13-577H12.2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP13-487K5.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRAPPC11	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	WWC2-AS1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	TENM3	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-97E7.2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-92A5.2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-503L23.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-91J3.3	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-6E9.4	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-6C14.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-696F12.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-665C14.2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-635L1.3	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-626E13.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-624A4.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-610P16.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-610J23.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-598D14.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-597D13.9	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-597D13.8	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-597D13.7	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-588K22.2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-565A3.2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-565A3.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-563E2.2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-540E16.2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-51M24.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-6E9.5	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-701P16.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-701P16.2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-768B22.2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-91J3.2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-87F15.2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-806K15.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-798M19.6	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-798M19.3	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-789C1.2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-789C1.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-781M16.2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-765K14.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-701P16.4	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-73G16.3	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-73G16.2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-73G16.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-739P1.2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-731D1.4	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-717H13.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-714G18.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-701P16.5	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-11N5.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	WWC2-AS2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	F11-AS1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	FAM218A	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	FAM92A1P2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC093788.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC099339.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC097467.2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC097455.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC095064.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC093874.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC093844.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC093824.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC093817.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC093700.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC105914.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC079340.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC079298.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC079233.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC079080.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC078881.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC020703.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC013477.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005150.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC105316.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC106860.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC106878.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC131094.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC114798.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC110813.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC110794.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC110771.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC108865.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC108211.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC108142.1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-158P	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	HAND2-AS1	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP173	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP172	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP171	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP170	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP169	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP168	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL776P	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL446P	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL419P	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL28P	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL253P	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP67	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP35	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP188	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP136	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP13	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP105	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU1-45P	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU2-34P	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU2-44P	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-128P	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6ATAC13P	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-853P	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-668P	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-582P	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-479P	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-335P	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-284P	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1336P	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1285P	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU2-66P	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1282P	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1196P	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1096P	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1055P	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1053P	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU4-87P	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU4-79P	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU4-64P	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3945	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3688-2	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3140	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1305	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00290	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	HSP90AA6P	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4276	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4453	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4455	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR578	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR548T	Amplification		4	151169300	188763651.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Copy Number		Deletion		X	47793051	47795085.0						0.0	0.0		0												KIRP-2Z-A9J8	TCGA-2Z-A9J8-01		0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-96H19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	27.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	47046173.0					KIRP-2Z-A9J8			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-367G6.3	Fusion	RP11-367G6.3--FAM65B	chr6	25042079							0.0	0.0		0	10.0	RP11-367G6.3	chr6	25042079.0	FAM65B	chr6	24876045.0					KIRP-2Z-A9J8			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-319G9.5	Fusion	RP11-319G9.5--WWOX	chr16	79030253							0.0	0.0		0	7.0	RP11-319G9.5	chr16	79030253.0	WWOX	chr16	79245505.0					KIRP-2Z-A9J8			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TA	Fusion	MT-TA--MT-TN	chrM	5604							0.0	0.0		0	14.0	MT-TA	chrM	5604.0	MT-TN	chrM	5708.0					KIRP-2Z-A9J8			0	0	0	0	0	0	0
+VUS				Rearrangement	U91319.1	Fusion	SHISA9--U91319.1	chr16	13297406							0.0	0.0		0	38.0	SHISA9	chr16	13297406.0	U91319.1	chr16	13444037.0					KIRP-2Z-A9J8			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-446N19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	27.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	47046173.0					KIRP-2Z-A9J8			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TN	Fusion	MT-TA--MT-TN	chrM	5604							0.0	0.0		0	14.0	MT-TA	chrM	5604.0	MT-TN	chrM	5708.0					KIRP-2Z-A9J8			0	0	0	0	0	0	0

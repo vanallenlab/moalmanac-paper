@@ -1,0 +1,499 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Biologically Relevant				Copy Number	ATM	Deletion		11	108137646	108150587.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		1	1	0	1	1	1	1
+Biologically Relevant				Copy Number	PDGFB	Amplification		22	39447827	40284004.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		1	0	0	1	1	1	1
+Biologically Relevant				Copy Number	RAD51B	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		1	0	0	1	0	1	1
+Biologically Relevant				Copy Number	MLH3	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		1	0	0	0	1	0	1
+Cancer Hotspot				Somatic Variant	SMAD4	Missense	p.A118V	18	48575159	48575159.0	C	C	T	0.2778	54.0	0.0	0.0		0								255.0	0.3098	1.0		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	2	2	1	1	0	2
+Cancer Hotspot				Somatic Variant	CREBBP	Nonsense	p.Q2202*	16	3778444	3778444.0	G	G	A	0.1923	26.0	0.0	0.0		0								199.0	0.2714	0.9999		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	1	1	1	1	0	2
+Cancer Hotspot				Somatic Variant	PLK2	Frameshift	p.I651fs	5	57750517	57750518.0	-	-	C	0.4528	53.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	1	1	0	0	1	1
+Cancer Hotspot				Copy Number	PGR	Deletion		11	99690025	101000053.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	1	1	0	0	0	1
+Cancer Hotspot				Somatic Variant	IKZF1	Nonsense	p.E304*	7	50467675	50467675.0	G	G	T	0.2381	21.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	1	0	1	0	1	1
+Cancer Hotspot				Somatic Variant	CARD11	Missense	p.E473K	7	2974188	2974188.0	C	C	T	0.275	40.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	1	0	1	0	0	2
+Cancer Hotspot 3D				Somatic Variant	ANK1	Splice Site	p.D766H	8	41559662	41559662.0	C	C	G	0.1778	45.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	0	1	1	0	1	2
+Cancer Hotspot 3D				Copy Number	PDXP	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	LGALS1	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Somatic Variant	SMARCC2	Missense	p.L144M	12	56578690	56578690.0	G	G	T	0.1061	66.0	0.0	0.0		0								174.0	0.1609	0.998		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	0	1	0	0	0	2
+Cancer Hotspot 3D				Copy Number	PLEKHH1	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	1	0	0	0	1
+Cancer Hotspot 3D				Copy Number	ACOT4	Amplification		14	74041360	74765024.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	1	0	0	0	1
+Cancer Hotspot 3D				Copy Number	AHSA1	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	1	0	0	0	1
+Cancer Hotspot 3D				Copy Number	RGS6	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	1	0	0	0	1
+Cancer Gene Census				Somatic Variant	CSMD3	Missense	p.D3600G	8	113243803	113243803.0	T	T	C	0.2056	107.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	0	0	1	0	1	2
+Cancer Gene Census				Somatic Variant	DDX10	Missense	p.L481V	11	108590554	108590554.0	C	C	G	0.4762	21.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	0	0	1	0	1	2
+Cancer Gene Census				Somatic Variant	DDX10	Missense	p.P494R	11	108590594	108590594.0	C	C	G	0.4762	21.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	0	0	1	0	1	2
+Cancer Gene Census				Copy Number	MYH9	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	DDX10	Deletion		11	108180635	108594441.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	SALL4	Amplification		20	50406309	50803862.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	1	0	0	1
+Cancer Gene Census				Copy Number	GPHN	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	1	0	0	1
+Cancer Gene Census				Rearrangement	MALT1	Fusion	ZNF532--MALT1	chr18	56601846							0.0	0.0		0	11.0	ZNF532	chr18	56601846.0	MALT1	chr18	56381315.0					Osteosarcoma-TOS090			0	0	0	1	0	0	1
+Cancer Pathway				Somatic Variant	CD40	Missense	p.R90W	20	44751260	44751260.0	C	C	T	0.1099	91.0	8e-06	0.0		0								157.0	0.1529	0.9986		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	0	0	0	1	1	2
+Cancer Pathway				Rearrangement	MMP9	Fusion	MMP9--COL1A2	chr20	44642046							0.0	0.0		0	10.0	MMP9	chr20	44642046.0	COL1A2	chr7	94043553.0					Osteosarcoma-TOS090			0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	ATF4	Amplification		22	39447827	40284004.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	PGF	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	FOS	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	TGFB3	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	ACTN1	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	TAB1	Amplification		22	39447827	40284004.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	RAC2	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	PSMD1	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	KIR2DL3	Deletion		19	55262849	55264223.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	KIR2DL1	Amplification		19	55281051	55290366.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	1	0	1
+Cancer Module				Somatic Variant	APP	Missense	p.G322S	21	27372399	27372399.0	C	C	T	0.4902	51.0	0.0	0.0		0								1408.0	0.0938	1.0		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	IGFBP4	Missense	p.I146F	17	38609323	38609323.0	A	A	T	0.4194	31.0	0.0	0.0		0								1235.0	0.4842	1.0		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	VPS36	Missense	p.G238D	13	53000128	53000128.0	C	C	T	0.3556	45.0	0.0	0.0		0								93.0	0.3333	1.0		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	EYA2	Missense	p.G354R	20	45801377	45801377.0	G	G	C	0.1119	134.0	0.0	0.0		0								96.0	0.125	0.9867		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	PEG3	Missense	p.D811N	19	57327379	57327379.0	C	C	T	0.2418	91.0	1.6e-05	0.0		0								11.0	0.2727	0.2864		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	MARCO	Missense	p.S45P	2	119726771	119726771.0	T	T	C	0.5946	37.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	GPR39	Missense	p.V126M	2	133174991	133174991.0	G	G	A	0.3333	24.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SULT1B1	Missense	p.S118Y	4	70615461	70615461.0	G	G	T	0.375	72.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	PDE8B	Missense	p.A535S	5	76707951	76707951.0	G	G	T	0.1682	107.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	CD22	Missense	p.S19T	19	35823470	35823470.0	T	T	A	0.19699999999999998	66.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	CACNB3	Missense	p.V290I	12	49220275	49220275.0	G	G	A	0.1429	28.0	2.5e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ALPK2	Missense	p.G382D	18	56246863	56246863.0	C	C	T	0.5556	36.0	8e-06	0.0		0								5.0	0.6	0.2749		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	HYDIN	Missense	p.R5070Q	16	70841640	70841640.0	C	C	T	0.5	74.0	0.000124	0.0		0								0.0	0.0	0.0		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	DUSP4	Missense	p.G9E	8	29203021	29203021.0	C	C	T	0.2368	76.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	0	0	0	0	1	1
+Cancer Module				Copy Number	APOL1	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EXPH5	Deletion		11	108180635	108594441.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	SPARCL1	Fusion	RP11-742B18.1--SPARCL1	chr4	88594142							0.0	0.0		0	6.0	RP11-742B18.1	chr4	88594142.0	SPARCL1	chr4	88420737.0					Osteosarcoma-TOS090			0	0	0	0	0	1	1
+Cancer Module				Copy Number	CNTN5	Deletion		11	99690025	101000053.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SP110	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	IL2RB	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GPR55	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HTR2B	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ECEL1	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	VRTN	Amplification		14	74765999	75143707.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GSTZ1	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ALKBH1	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SYNGR1	Amplification		22	39447827	40284004.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	APOBEC3G	Amplification		22	39447827	40284004.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CYTH4	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CARD10	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	APOL3	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GCAT	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SH3BP1	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SP140L	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SP140	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	C15orf57	Fusion	C15orf57--CBX3	chr15	40854971							0.0	0.0		0	11.0	C15orf57	chr15	40854971.0	CBX3	chr7	26241389.0					Osteosarcoma-TOS090			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	ALG6	Fusion	TMEM14A--ALG6	chr6	52546712							0.0	0.0		0	17.0	TMEM14A	chr6	52546712.0	ALG6	chr1	63871988.0					Osteosarcoma-TOS090			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	EYA1	Fusion	RP11-1102P16.1--EYA1	chr8	72447979							0.0	0.0		0	16.0	RP11-1102P16.1	chr8	72447979.0	EYA1	chr8	72268746.0					Osteosarcoma-TOS090			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	COL1A2	Fusion	MMP9--COL1A2	chr20	44642046							0.0	0.0		0	10.0	MMP9	chr20	44642046.0	COL1A2	chr7	94043553.0					Osteosarcoma-TOS090			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	LEPR	Fusion	LEPROT--LEPR	chr1	65895731							0.0	0.0		0	5.0	LEPROT	chr1	65895731.0	LEPR	chr1	66031229.0					Osteosarcoma-TOS090			0	0	0	0	0	1	1
+Cancer Module				Copy Number	ACOT2	Amplification		14	74035693	74040546.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LTBP2	Amplification		14	74765999	75143707.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EIF2B2	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DLST	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	IFT43	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NRXN3	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RPS6KL1	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	VASH1	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SNW1	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ANGEL1	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SPTLC2	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TMED10	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	BATF	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KIAA0247	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RDH11	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZFP36L1	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZFYVE1	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ADAM20	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DPF3	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PSEN1	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ATP6V1D	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SRSF5	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EIF2S1	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC8A3	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ARG2	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EXD2	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC10A1	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ALDH6A1	Amplification		14	74041360	74765024.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NTNG1	Amplification		1	107599263	107979671.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PRMT6	Amplification		1	107599263	107979671.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RPL3	Amplification		22	39447827	40284004.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MGAT3	Amplification		22	39447827	40284004.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MICALL1	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SSTR3	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EIF3D	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TXN2	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NCF4	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MPST	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CSF2RB	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NOL12	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	C22orf23	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CDC42EP1	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GALR3	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MFNG	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TST	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LGALS2	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	H1F0	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KCTD17	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	POLR2F	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TRIP12	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ALPI	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ALPPL2	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SP100	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	COPS7B	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ITM2C	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NCL	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CAB39	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PTMA	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PDE6D	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CHRND	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PIP	Deletion		7	142828958	142881778.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	TMEM14A	Fusion	TMEM14A--ALG6	chr6	52546712							0.0	0.0		0	17.0	TMEM14A	chr6	52546712.0	ALG6	chr1	63871988.0					Osteosarcoma-TOS090			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	NRIP1	Fusion	NRIP1--AF127936.7	chr21	16437066							0.0	0.0		0	7.0	NRIP1	chr21	16437066.0	AF127936.7	chr21	16230029.0					Osteosarcoma-TOS090			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	MID1	Fusion	RP11-120D5.1--MID1	chrX	10878163							0.0	0.0		0	10.0	RP11-120D5.1	chrX	10878163.0	MID1	chrX	10535643.0					Osteosarcoma-TOS090			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	CBX3	Fusion	C15orf57--CBX3	chr15	40854971							0.0	0.0		0	11.0	C15orf57	chr15	40854971.0	CBX3	chr7	26241389.0					Osteosarcoma-TOS090			0	0	0	0	0	1	1
+Cosmic				Somatic Variant	BCS1L	Missense	p.S262C	2	219527298	219527298.0	C	C	G	0.2692	52.0	0.0	0.0		0								69.0	0.3333	0.9998		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	DCHS2	Missense	p.E2105K	4	155158126	155158126.0	C	C	T	0.1613	155.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	BPIFB4	Missense	p.D602V	20	31695610	31695610.0	A	A	T	0.2	30.0	8e-06	0.0		0								0.0	0.0	0.0		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	PRAMEF2	Missense	p.H219Y	1	12919915	12919915.0	C	C	T	0.5328	122.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	SDK1	Missense	p.P1367L	7	4169700	4169700.0	C	C	T	0.1143	35.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	NLRP11	Nonsense	p.R89*	19	56329276	56329276.0	G	G	A	0.614	57.0	1.6e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	CEP152	Nonsense	p.C791*	15	49054777	49054777.0	A	A	T	0.5135	37.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ZNF385B	Missense	p.S148F	2	180383319	180383319.0	G	G	A	0.3676	68.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	NAT6	Missense	p.R22P	3	50334896	50334896.0	C	C	G	0.4	95.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	CCDC147	Missense	p.D593H	10	106159220	106159220.0	G	G	C	0.3226	31.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	RHOT2	Missense	p.E471D	16	722711	722711.0	G	G	C	0.125	40.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	RHOT2	Missense	p.D497N	16	722787	722787.0	G	G	A	0.2	70.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	SOGA1	Missense	p.E1101K	20	35431297	35431297.0	C	C	T	0.3333	9.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	TMPRSS3	Missense	p.S420R	21	43795914	43795914.0	T	T	G	0.1962	158.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	OR6C74	Missense	p.N93K	12	55641350	55641350.0	C	C	A	0.1628	258.0	9.9e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	DAPP1	Missense	p.L114F	4	100761563	100761563.0	G	G	C	0.2353	34.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	GPR97	Nonsense	p.R206*	16	57713212	57713212.0	C	C	T	0.1633	98.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	GPR179	Missense	p.G676E	17	36489144	36489144.0	C	C	T	0.4074	27.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ANKRD29	Missense	p.D43N	18	21229052	21229052.0	C	C	T	0.2162	37.0	8e-06	0.0		0								0.0	0.0	0.0		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	GDAP2	Missense	p.R432H	1	118424452	118424452.0	C	C	T	0.1136	44.0	6.6e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	SFI1	Missense	p.R658C	22	32002324	32002324.0	C	C	T	0.2439	41.0	1.7e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	TRIOBP	Missense	p.F1082L	22	38121809	38121809.0	T	T	G	0.11900000000000001	168.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	SPERT	Missense	p.P63H	13	46287456	46287456.0	C	C	A	0.3077	65.0	4.1e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	0	0	0	0	0	1
+Cosmic				Copy Number	APOBEC3H	Amplification		22	39447827	40284004.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	APOL4	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ABCD4	Amplification		14	74765999	75143707.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SAMD15	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	MOCS1	Fusion	RP11-328M4.2--MOCS1	chr6	41513738							0.0	0.0		0	9.0	RP11-328M4.2	chr6	41513738.0	MOCS1	chr6	39895194.0					Osteosarcoma-TOS090			0	0	0	0	0	0	1
+Cosmic				Rearrangement	NAV3	Fusion	RP1-34H18.1--NAV3	chr12	77966046							0.0	0.0		0	5.0	RP1-34H18.1	chr12	77966046.0	NAV3	chr12	78334099.0					Osteosarcoma-TOS090			0	0	0	0	0	0	1
+Cosmic				Copy Number	TTLL5	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PAPLN	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZFYVE26	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C1QTNF6	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FOXRED2	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TRIOBP	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM118A	Deletion		22	45723471	45724609.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZFP64	Amplification		20	50406309	50803862.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ESRRB	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FLVCR2	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NEK9	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	JDP2	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ISM2	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IRF2BPL	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C14orf178	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TTC9	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MAP3K9	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ADAM21	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	HEATR4	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GALNT16	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF410	Amplification		14	74041360	74765024.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	COQ6	Amplification		14	74041360	74765024.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM161B	Amplification		14	74041360	74765024.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CACNA1I	Amplification		22	39447827	40284004.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMPRSS6	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	APOL2	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ALPP	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FBXO36	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ARMC9	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C2orf57	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRB1	Deletion		12	11505789	11508739.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	CHSY3	Fusion	CHSY3--HSPA8P4	chr5	129244053							0.0	0.0		0	18.0	CHSY3	chr5	129244053.0	HSPA8P4	chr5	129476585.0					Osteosarcoma-TOS090			0	0	0	0	0	0	1
+Cosmic				Copy Number	SYNDIG1L	Amplification		14	74765999	75143707.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ISCA2	Amplification		14	74765999	75143707.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NPC2	Amplification		14	74765999	75143707.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FCF1	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	POMT2	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NGB	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NOXRED1	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KIAA1737	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GPATCH2L	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PROX2	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ADCK1	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZDHHC22	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	YLPM1	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLIRP	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM63C	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMED8	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ACYP1	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C14orf1	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C14orf166B	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PIGH	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RDH12	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PLEK2	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PLEKHD1	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ACOT1	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM229B	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RBM25	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MED6	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NUMB	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MPP5	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PCNX	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	VTI1B	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DCAF5	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DCAF4	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	COX16	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM71D	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SYNJ2BP	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC39A9	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SMOC1	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ERH	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SIPA1L1	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	VSX2	Amplification		14	74041360	74765024.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PTGR2	Amplification		14	74041360	74765024.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ACOT6	Amplification		14	74041360	74765024.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ENTPD5	Amplification		14	74041360	74765024.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DNAL1	Amplification		14	74041360	74765024.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PNMA1	Amplification		14	74041360	74765024.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LIN52	Amplification		14	74041360	74765024.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	APOBEC3F	Amplification		22	39447827	40284004.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ENTHD1	Amplification		22	39447827	40284004.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CBX7	Amplification		22	39447827	40284004.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RPS19BP1	Amplification		22	39447827	40284004.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	EIF3L	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ELFN2	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CACNG2	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PVALB	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GGA1	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TEX33	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IFT27	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ANKRD54	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MBD3L2	Amplification		19	7049133	7051885.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ANKS1B	Deletion		12	99793159	99898669.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ARHGAP42	Deletion		11	99690025	101000053.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM133	Deletion		11	99690025	101000053.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SPATA3	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC16A14	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	B3GNT7	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NPPC	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DIS3L2	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NMUR1	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C11orf65	Deletion		11	108180635	108594441.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KDELC2	Deletion		11	108180635	108594441.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TAS2R39	Deletion		7	142828958	142881778.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DLG2	Deletion		11	83770106	84246098.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	ZNF532	Fusion	ZNF532--MALT1	chr18	56601846							0.0	0.0		0	11.0	ZNF532	chr18	56601846.0	MALT1	chr18	56381315.0					Osteosarcoma-TOS090			0	0	0	0	0	0	1
+Cosmic				Rearrangement	SATB2	Fusion	SATB2--AC093590.1	chr2	200298061							0.0	0.0		0	11.0	SATB2	chr2	200298061.0	AC093590.1	chr2	200493787.0					Osteosarcoma-TOS090			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND6	Fusion	MT-ND6--MT-TE	chrM	14622							0.0	0.0		0	5.0	MT-ND6	chrM	14622.0	MT-TE	chrM	14717.0					Osteosarcoma-TOS090			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-ATP6--MT-ATP8	chrM	8675							0.0	0.0		0	35.0	MT-ATP6	chrM	8675.0	MT-ATP8	chrM	8457.0					Osteosarcoma-TOS090			0	0	0	0	0	0	1
+Cosmic				Rearrangement	LEPROT	Fusion	LEPROT--LEPR	chr1	65895731							0.0	0.0		0	5.0	LEPROT	chr1	65895731.0	LEPR	chr1	66031229.0					Osteosarcoma-TOS090			0	0	0	0	0	0	1
+Cosmic				Rearrangement	ELF2	Fusion	ELF2--BRINP3	chr4	140037803							0.0	0.0		0	87.0	ELF2	chr4	140037803.0	BRINP3	chr1	190203607.0					Osteosarcoma-TOS090			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP8	Fusion	MT-ATP6--MT-ATP8	chrM	8675							0.0	0.0		0	35.0	MT-ATP6	chrM	8675.0	MT-ATP8	chrM	8457.0					Osteosarcoma-TOS090			0	0	0	0	0	0	1
+VUS				Somatic Variant	TENM4	Missense	p.S1078R	11	78440593	78440593.0	G	G	C	0.0933	75.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TOS090	Osteosarcoma-TOS090-Tumor-SM-2RCBN	Osteosarcoma-TOS090-Normal-SM-2RCD3	0	0	0	0	0	0	0
+VUS				Copy Number	CCDC176	Amplification		14	74041360	74765024.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	ZC2HC1C	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4709	Amplification		14	74765999	75143707.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2207P18.1	Amplification		14	74765999	75143707.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2207P18.2	Amplification		14	74765999	75143707.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	AREL1	Amplification		14	74765999	75143707.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-449M8.9	Amplification		14	74765999	75143707.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-449M8.6	Amplification		14	74765999	75143707.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL603P	Amplification		20	50406309	50803862.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1112F19.2	Amplification		20	50406309	50803862.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-6P	Amplification		20	50406309	50803862.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-347P	Amplification		20	50406309	50803862.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL587P	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-488C13.5	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-488C13.4	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-361H10.3	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-463C8.4	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP17	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-332E19.2	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	FKSG61	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-488C13.6	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-488C13.7	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-316E14.6	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-516J2.1	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-7F17.3	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-7F17.4	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-7F17.5	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-7F17.7	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-950C14.3	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-950C14.7	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-99E15.2	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-293M10.2	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-293M10.6	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-187O7.3	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL747P	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP387	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP388	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1260A	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU4ATAC14P	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-689P	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL356P	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-293M10.5	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-232C2.1	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-232C2.2	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-270M14.4	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-270M14.5	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-293M10.1	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL137P	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-232C2.3	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC007375.1	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC008045.1	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC008372.1	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC016543.1	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	VIPAS39	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORA7	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC007956.1	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC007182.6	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC007056.1	Amplification		14	75149747	79270418.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-109N23.4	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-921P	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-240K6.3	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-261D10.2	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1012A1.4	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC004817.1	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-659P	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL224P	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL369P	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL213P	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL586P	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL683P	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	ACTN1-AS1	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR5694	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL77P	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL108P	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU2-51P	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC005477.1	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-419P	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL706P	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-72M17.1	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP6-91H8.3	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	ADAM20P1	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP6-91H8.2	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP6-91H8.1	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP6-65G23.3	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2566J3.1	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2540L5.6	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2540L5.5	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP6-65G23.1	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2325P2.4	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2325P2.3	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP6-114E22.1	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-862P13.1	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	C14orf169	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-414A15.11	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-414A15.2	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	CCDC177	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-514A23.2	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-647C14.2	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-647C14.3	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-643G16.4	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-718G2.5	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP6-91H8.5	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	ADAM21P1	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	SYNJ2BP-COX16	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD56B	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-363J20.1	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-486O13.4	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-363J20.2	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-486O13.2	Amplification		14	66974994	74010611.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-414A15.10	Amplification		14	74041360	74765024.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL530P	Amplification		14	74041360	74765024.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1021I20.6	Amplification		14	74041360	74765024.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1021I20.4	Amplification		14	74041360	74765024.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-240P	Amplification		14	74041360	74765024.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-693M11.3	Amplification		14	74041360	74765024.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1021I20.1	Amplification		14	74041360	74765024.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1021I20.2	Amplification		14	74041360	74765024.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1021I20.5	Amplification		14	74041360	74765024.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	ELMSAN1	Amplification		14	74041360	74765024.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC005519.4	Amplification		14	74041360	74765024.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4505	Amplification		14	74041360	74765024.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC005484.5	Amplification		14	74041360	74765024.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL031590.1	Amplification		22	39447827	40284004.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-333H23.8	Amplification		22	39447827	40284004.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIEF1	Amplification		22	39447827	40284004.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-742C19.12	Amplification		22	39447827	40284004.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD83B	Amplification		22	39447827	40284004.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD83A	Amplification		22	39447827	40284004.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1104E15.6	Amplification		22	39447827	40284004.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD43	Amplification		22	39447827	40284004.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP210	Amplification		22	39447827	40284004.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1119A7.17	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1170K4.7	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1177I5.3	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1119A7.14	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL385P	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	Z83844.1	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	BX470187.1	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1119A7.10	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTA-833B7.2	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1039K5.17	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL349P	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	CITF22-24E5.1	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP214	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-633O19__A.1	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR659	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	LL22NC01-81G9.3	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-151B14.6	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-900P	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-293L6.1	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-63G5.5	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR658	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL022314.1	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-63G5.8	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-63G5.7	Amplification		22	36536996	38363974.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP115	Deletion		11	99690025	101000053.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL222P	Deletion		11	99690025	101000053.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2383M3.1	Deletion		11	99690025	101000053.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC015600.1	Deletion		11	99690025	101000053.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	AP001925.1	Deletion		11	108137646	108150587.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC068134.6	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC017104.2	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC017104.6	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC010149.4	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC105461.1	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD20	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC068134.8	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC105344.2	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC098823.3	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC017104.1	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC009950.2	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD82	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC012507.3	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC012507.4	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	PRSS56	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY4P19	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR562	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-223I10.1	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4777	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL834P	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-964P	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00471	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1471	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU1-93P	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-613P	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-451P	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-268P	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	MGC4771	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	FBXO36-IT1	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU2-22P	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	C2orf72	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL499P	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-690I21.2	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	ECEL1P2	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1027P	Deletion		2	230655588	233392407.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	AP005718.1	Deletion		11	108180635	108594441.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	TRGV5	Deletion		7	38388706	38393684.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	TRGV4	Deletion		7	38388706	38393684.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Copy Number	AP003305.1	Deletion		11	83770106	84246098.0						0.0	0.0		0												Osteosarcoma-TOS090	TOS090_T		0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-742B18.1	Fusion	RP11-742B18.1--SPARCL1	chr4	88594142							0.0	0.0		0	6.0	RP11-742B18.1	chr4	88594142.0	SPARCL1	chr4	88420737.0					Osteosarcoma-TOS090			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-328M4.2	Fusion	RP11-328M4.2--MOCS1	chr6	41513738							0.0	0.0		0	9.0	RP11-328M4.2	chr6	41513738.0	MOCS1	chr6	39895194.0					Osteosarcoma-TOS090			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-167H9.4	Fusion	RP11-167H9.4--RP11-167H9.6	chr3	149757046							0.0	0.0		0	7.0	RP11-167H9.4	chr3	149757046.0	RP11-167H9.6	chr3	149956722.0					Osteosarcoma-TOS090			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-120D5.1	Fusion	RP11-120D5.1--MID1	chrX	10878163							0.0	0.0		0	10.0	RP11-120D5.1	chrX	10878163.0	MID1	chrX	10535643.0					Osteosarcoma-TOS090			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-1102P16.1	Fusion	RP11-1102P16.1--EYA1	chr8	72447979							0.0	0.0		0	16.0	RP11-1102P16.1	chr8	72447979.0	EYA1	chr8	72268746.0					Osteosarcoma-TOS090			0	0	0	0	0	0	0
+VUS				Rearrangement	RP1-34H18.1	Fusion	RP1-34H18.1--NAV3	chr12	77966046							0.0	0.0		0	5.0	RP1-34H18.1	chr12	77966046.0	NAV3	chr12	78334099.0					Osteosarcoma-TOS090			0	0	0	0	0	0	0
+VUS				Rearrangement	CTC-786C10.1	Fusion	CTC-786C10.1--RP11-680G10.1	chr16	85205413							0.0	0.0		0	12.0	CTC-786C10.1	chr16	85205413.0	RP11-680G10.1	chr16	85391069.0					Osteosarcoma-TOS090			0	0	0	0	0	0	0
+VUS				Rearrangement	AC093590.1	Fusion	SATB2--AC093590.1	chr2	200298061							0.0	0.0		0	11.0	SATB2	chr2	200298061.0	AC093590.1	chr2	200493787.0					Osteosarcoma-TOS090			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-167H9.6	Fusion	RP11-167H9.4--RP11-167H9.6	chr3	149757046							0.0	0.0		0	7.0	RP11-167H9.4	chr3	149757046.0	RP11-167H9.6	chr3	149956722.0					Osteosarcoma-TOS090			0	0	0	0	0	0	0
+VUS				Rearrangement	AF127936.7	Fusion	NRIP1--AF127936.7	chr21	16437066							0.0	0.0		0	7.0	NRIP1	chr21	16437066.0	AF127936.7	chr21	16230029.0					Osteosarcoma-TOS090			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TE	Fusion	MT-ND6--MT-TE	chrM	14622							0.0	0.0		0	5.0	MT-ND6	chrM	14622.0	MT-TE	chrM	14717.0					Osteosarcoma-TOS090			0	0	0	0	0	0	0
+VUS				Rearrangement	BRINP3	Fusion	ELF2--BRINP3	chr4	140037803							0.0	0.0		0	87.0	ELF2	chr4	140037803.0	BRINP3	chr1	190203607.0					Osteosarcoma-TOS090			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-680G10.1	Fusion	CTC-786C10.1--RP11-680G10.1	chr16	85205413							0.0	0.0		0	12.0	CTC-786C10.1	chr16	85205413.0	RP11-680G10.1	chr16	85391069.0					Osteosarcoma-TOS090			0	0	0	0	0	0	0
+VUS				Rearrangement	HSPA8P4	Fusion	CHSY3--HSPA8P4	chr5	129244053							0.0	0.0		0	18.0	CHSY3	chr5	129244053.0	HSPA8P4	chr5	129476585.0					Osteosarcoma-TOS090			0	0	0	0	0	0	0

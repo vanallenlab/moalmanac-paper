@@ -603,6 +603,7 @@ Copy Number	ZNF236			18	67692086	74980860.0														SC_9104	SC_9104-Tumor		
 Copy Number	ZNF235			19	43766292	45297540.0														SC_9104	SC_9104-Tumor		0
 Copy Number	ZNF234			19	43766292	45297540.0														SC_9104	SC_9104-Tumor		0
 Copy Number	ZNF233			19	43766292	45297540.0														SC_9104	SC_9104-Tumor		0
+Somatic Variant	ZNF232	Silent	p.G165G	17	5012611	5012611.0	T	T	C	0.0098	509.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	ZNF232			17	2996292	7492996.0														SC_9104	SC_9104-Tumor		0
 Copy Number	ZNF230			19	43766292	45297540.0														SC_9104	SC_9104-Tumor		0
 Copy Number	ZNF23			16	71209646	74444934.0														SC_9104	SC_9104-Tumor		0
@@ -1482,7 +1483,7 @@ Copy Number	VBP1			X	123480631	155240076.0														SC_9104	SC_9104-Tumor		0
 Copy Number	VAX2			2	65561909	75933779.0														SC_9104	SC_9104-Tumor		0
 Copy Number	VAX1			10	89693010	124365695.0														SC_9104	SC_9104-Tumor		0
 Copy Number	VAV3-AS1			1	78340751	108507493.0														SC_9104	SC_9104-Tumor		0
-Somatic Variant	VAV3	Intron		1	108116057	108116060.0	ACAA	ACAA	-	0.2902	193.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
+Somatic Variant	VAV3	Intron		1	108116057	108116060.0	ACAA	ACAA	-	0.2642	212.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	VAV3			1	78340751	108507493.0														SC_9104	SC_9104-Tumor		0
 Copy Number	VAV2			9	131904833	141016451.0														SC_9104	SC_9104-Tumor		0
 Copy Number	VAV1			19	5693475	8173124.0														SC_9104	SC_9104-Tumor		0
@@ -1507,7 +1508,8 @@ Copy Number	VAMP2			17	7792420	8647929.0														SC_9104	SC_9104-Tumor		0
 Copy Number	VAMP1			12	3647873	11286843.0														SC_9104	SC_9104-Tumor		0
 Copy Number	VAC14-AS1			16	70497177	70863735.0														SC_9104	SC_9104-Tumor		0
 Copy Number	VAC14			16	70497177	70863735.0														SC_9104	SC_9104-Tumor		0
-Somatic Variant	Unknown	IGR		17	41795744	41795746.0	TCT	TCT	-	0.413	46.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
+Somatic Variant	Unknown	IGR		6	117198355	117198359.0	GCCCC	GCCCC	-	0.0342	117.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
+Somatic Variant	Unknown	IGR		17	41795744	41795746.0	TCT	TCT	-	0.3725	51.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	UXT			X	18768072	49298020.0														SC_9104	SC_9104-Tumor		0
 Copy Number	UXS1			2	100035411	110373646.0														SC_9104	SC_9104-Tumor		0
 Copy Number	UVSSA			4	87340	49034734.0														SC_9104	SC_9104-Tumor		0
@@ -1919,6 +1921,7 @@ Copy Number	TYROBP			19	33499088	40370534.0														SC_9104	SC_9104-Tumor		
 Copy Number	TYRO3			15	40512962	43851132.0														SC_9104	SC_9104-Tumor		0
 Copy Number	TYR			11	68822822	92498255.0														SC_9104	SC_9104-Tumor		0
 Copy Number	TYMS			18	163455	8406162.0														SC_9104	SC_9104-Tumor		0
+Somatic Variant	TYMP	Silent	p.A77A	22	50967751	50967751.0	G	G	A	0.3443	819.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	TYMP			22	50280828	51237572.0														SC_9104	SC_9104-Tumor		0
 Copy Number	TYK2			19	8174274	24310784.0														SC_9104	SC_9104-Tumor		0
 Copy Number	TXNRD3NB			3	125691015	143708685.0														SC_9104	SC_9104-Tumor		0
@@ -2100,7 +2103,6 @@ Copy Number	TTC28-AS1			22	25023588	39355693.0														SC_9104	SC_9104-Tumo
 Copy Number	TTC28			22	25023588	39355693.0														SC_9104	SC_9104-Tumor		0
 Copy Number	TTC27			2	31135210	33824290.0														SC_9104	SC_9104-Tumor		0
 Copy Number	TTC26			7	105516328	141762502.0														SC_9104	SC_9104-Tumor		0
-Somatic Variant	TTC25	RNA		17	40095233	40095233.0	G	G	A	0.0125	400.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	TTC25			17	36533670	43517594.0														SC_9104	SC_9104-Tumor		0
 Copy Number	TTC24			1	156237471	159043291.0														SC_9104	SC_9104-Tumor		0
 Copy Number	TTC23L			5	26886194	37371081.0														SC_9104	SC_9104-Tumor		0
@@ -2984,6 +2986,7 @@ Copy Number	TMEM232			5	74639791	110409345.0														SC_9104	SC_9104-Tumor	
 Copy Number	TMEM231			16	74452198	90038330.0														SC_9104	SC_9104-Tumor		0
 Copy Number	TMEM230			20	3899445	23966419.0														SC_9104	SC_9104-Tumor		0
 Copy Number	TMEM229B			14	50262664	106110440.0														SC_9104	SC_9104-Tumor		0
+Somatic Variant	TMEM229A	Silent	p.Q193Q	7	123672479	123672479.0	C	C	T	0.0192	260.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	TMEM229A			7	105516328	141762502.0														SC_9104	SC_9104-Tumor		0
 Copy Number	TMEM225			11	119155812	134257555.0														SC_9104	SC_9104-Tumor		0
 Copy Number	TMEM223			11	62489416	62620507.0														SC_9104	SC_9104-Tumor		0
@@ -3368,7 +3371,6 @@ Copy Number	TGDS			13	74289664	95768257.0														SC_9104	SC_9104-Tumor		0
 Copy Number	TG			8	124701188	144621492.0														SC_9104	SC_9104-Tumor		0
 Copy Number	TFRC			3	195477985	197765540.0														SC_9104	SC_9104-Tumor		0
 Copy Number	TFR2			7	93516745	105429156.0														SC_9104	SC_9104-Tumor		0
-Somatic Variant	TFPT	Intron		19	54611759	54611759.0	A	A	G	0.008	623.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	TFPT			19	54265684	54722709.0														SC_9104	SC_9104-Tumor		0
 Copy Number	TFPI2			7	93516745	105429156.0														SC_9104	SC_9104-Tumor		0
 Copy Number	TFPI2			7	72430441	93516210.0														SC_9104	SC_9104-Tumor		0
@@ -3454,8 +3456,6 @@ Copy Number	TEN1			17	48355103	81052322.0														SC_9104	SC_9104-Tumor		0
 Copy Number	TELO2			16	112695	2098756.0														SC_9104	SC_9104-Tumor		0
 Copy Number	TEKT5			16	5139259	14969113.0														SC_9104	SC_9104-Tumor		0
 Copy Number	TEKT4			2	90229531	99787117.0														SC_9104	SC_9104-Tumor		0
-Somatic Variant	TEKT3	5'UTR		17	15207332	15207332.0	G	G	C	0.3985	389.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
-Somatic Variant	TEKT3	5'UTR		17	15207469	15207469.0	G	G	T	0.3631	168.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	TEKT3			17	15212137	16612949.0														SC_9104	SC_9104-Tumor		0
 Copy Number	TEKT3			17	15134399	15207471.0														SC_9104	SC_9104-Tumor		0
 Copy Number	TEKT2			1	17272103	75805317.0														SC_9104	SC_9104-Tumor		0
@@ -4173,7 +4173,6 @@ Copy Number	SSBP2			5	74639791	110409345.0														SC_9104	SC_9104-Tumor		0
 Copy Number	SSBP1			7	105516328	141762502.0														SC_9104	SC_9104-Tumor		0
 Copy Number	SSB			2	169313130	174131480.0														SC_9104	SC_9104-Tumor		0
 Copy Number	SS18L2			3	33614846	42793519.0														SC_9104	SC_9104-Tumor		0
-Somatic Variant	SS18L1	Intron		20	60733984	60733984.0	T	T	G	0.07200000000000001	125.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	SS18L1			20	60699836	61522509.0														SC_9104	SC_9104-Tumor		0
 Copy Number	SS18			18	22902153	29432628.0														SC_9104	SC_9104-Tumor		0
 Copy Number	SRXN1			20	68410	2446467.0														SC_9104	SC_9104-Tumor		0
@@ -4335,7 +4334,6 @@ Copy Number	SPICE1			3	101284839	125313646.0														SC_9104	SC_9104-Tumor	
 Copy Number	SPIC			12	96388605	133779461.0														SC_9104	SC_9104-Tumor		0
 Copy Number	SPIB			19	50482501	52132331.0														SC_9104	SC_9104-Tumor		0
 Copy Number	SPI1			11	46430258	47772844.0														SC_9104	SC_9104-Tumor		0
-Somatic Variant	SPHKAP	Intron		2	228973662	228973662.0	G	G	A	0.0197	203.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	SPHKAP			2	227663456	241402931.0														SC_9104	SC_9104-Tumor		0
 Copy Number	SPHK2			19	45314605	49539159.0														SC_9104	SC_9104-Tumor		0
 Copy Number	SPHK1			17	48355103	81052322.0														SC_9104	SC_9104-Tumor		0
@@ -4457,6 +4455,7 @@ Copy Number	SPACA4			19	45314605	49539159.0														SC_9104	SC_9104-Tumor		
 Copy Number	SPACA3			17	25621463	36347083.0														SC_9104	SC_9104-Tumor		0
 Copy Number	SPACA1			6	84799202	105406163.0														SC_9104	SC_9104-Tumor		0
 Copy Number	SPA17			11	119155812	134257555.0														SC_9104	SC_9104-Tumor		0
+Somatic Variant	SP9	Silent	p.L145L	2	175201248	175201248.0	G	G	A	0.0123	408.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	SP9			2	175111545	175432803.0														SC_9104	SC_9104-Tumor		0
 Copy Number	SP8			7	6854478	40117722.0														SC_9104	SC_9104-Tumor		0
 Copy Number	SP7			12	38715017	56575865.0														SC_9104	SC_9104-Tumor		0
@@ -4591,7 +4590,6 @@ Copy Number	SNRNP40			1	17272103	75805317.0														SC_9104	SC_9104-Tumor		
 Copy Number	SNRNP35			12	96388605	133779461.0														SC_9104	SC_9104-Tumor		0
 Copy Number	SNRNP27			2	65561909	75933779.0														SC_9104	SC_9104-Tumor		0
 Copy Number	SNRNP25			16	97559	112052.0														SC_9104	SC_9104-Tumor		0
-Somatic Variant	SNRNP200	Intron		2	96942734	96942734.0	A	A	G	0.013000000000000001	462.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	SNRNP200			2	90229531	99787117.0														SC_9104	SC_9104-Tumor		0
 Copy Number	SNRK-AS1			3	42794211	49722319.0														SC_9104	SC_9104-Tumor		0
 Copy Number	SNRK			3	42794211	49722319.0														SC_9104	SC_9104-Tumor		0
@@ -5291,7 +5289,7 @@ Copy Number	SLC44A3			1	78340751	108507493.0														SC_9104	SC_9104-Tumor	
 Copy Number	SLC44A2			19	8174274	24310784.0														SC_9104	SC_9104-Tumor		0
 Copy Number	SLC44A1			9	106857835	116116620.0														SC_9104	SC_9104-Tumor		0
 Copy Number	SLC43A3			11	47774656	60971094.0														SC_9104	SC_9104-Tumor		0
-Somatic Variant	SLC43A2	Silent	p.I71I	17	1494964	1494964.0	G	G	A	0.3288	146.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
+Somatic Variant	SLC43A2	Silent	p.I208I	17	1494964	1494964.0	G	G	A	0.3288	146.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	SLC43A2			17	69529	2233921.0														SC_9104	SC_9104-Tumor		0
 Copy Number	SLC43A1			11	47774656	60971094.0														SC_9104	SC_9104-Tumor		0
 Copy Number	SLC41A3			3	125691015	143708685.0														SC_9104	SC_9104-Tumor		0
@@ -5426,7 +5424,7 @@ Copy Number	SLC26A3			7	105516328	141762502.0														SC_9104	SC_9104-Tumor
 Copy Number	SLC26A2			5	110411774	158588632.0														SC_9104	SC_9104-Tumor		0
 Copy Number	SLC26A11			17	48355103	81052322.0														SC_9104	SC_9104-Tumor		0
 Copy Number	SLC26A10			12	57627689	62148807.0														SC_9104	SC_9104-Tumor		0
-Somatic Variant	SLC26A1	5'Flank		4	983638	983638.0	G	G	A	0.069	174.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
+Somatic Variant	SLC26A1	Silent	p.F363F	4	983638	983638.0	G	G	A	0.069	174.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	SLC26A1			4	87340	49034734.0														SC_9104	SC_9104-Tumor		0
 Copy Number	SLC25A53			X	101624659	107417853.0														SC_9104	SC_9104-Tumor		0
 Copy Number	SLC25A52			18	22902153	29432628.0														SC_9104	SC_9104-Tumor		0
@@ -5955,7 +5953,6 @@ Copy Number	SEMA3E			7	72430441	93516210.0														SC_9104	SC_9104-Tumor		0
 Copy Number	SEMA3D			7	72430441	93516210.0														SC_9104	SC_9104-Tumor		0
 Copy Number	SEMA3C			7	72430441	93516210.0														SC_9104	SC_9104-Tumor		0
 Copy Number	SEMA3B-AS1			3	50255802	100174772.0														SC_9104	SC_9104-Tumor		0
-Somatic Variant	SEMA3B	RNA		3	50308795	50308795.0	A	A	G	0.013000000000000001	463.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	SEMA3B			3	50255802	100174772.0														SC_9104	SC_9104-Tumor		0
 Copy Number	SEMA3A			7	72430441	93516210.0														SC_9104	SC_9104-Tumor		0
 Copy Number	SELV			19	33499088	40370534.0														SC_9104	SC_9104-Tumor		0
@@ -6173,6 +6170,7 @@ Copy Number	SBSPON			8	70501378	79588100.0														SC_9104	SC_9104-Tumor		0
 Copy Number	SBSN			19	33499088	40370534.0														SC_9104	SC_9104-Tumor		0
 Copy Number	SBP1			6	32011097	35748988.0														SC_9104	SC_9104-Tumor		0
 Copy Number	SBNO2			19	111598	2408630.0														SC_9104	SC_9104-Tumor		0
+Somatic Variant	SBNO1	Intron		12	123782813	123782818.0	TTTTCT	TTTTCT	-	0.0449	89.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	SBNO1			12	96388605	133779461.0														SC_9104	SC_9104-Tumor		0
 Copy Number	SBK3			19	55668678	56223958.0														SC_9104	SC_9104-Tumor		0
 Copy Number	SBK2			19	55668678	56223958.0														SC_9104	SC_9104-Tumor		0
@@ -15155,7 +15153,7 @@ Copy Number	ROM1			11	61630543	62488897.0														SC_9104	SC_9104-Tumor		0
 Copy Number	ROGDI			16	2293227	5123259.0														SC_9104	SC_9104-Tumor		0
 Copy Number	ROCK2			2	3428436	18758163.0														SC_9104	SC_9104-Tumor		0
 Copy Number	ROCK1			18	18564498	20516925.0														SC_9104	SC_9104-Tumor		0
-Somatic Variant	ROBO4	Silent	p.H498H	11	124763766	124763766.0	G	G	A	0.3407	408.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
+Somatic Variant	ROBO4	Silent	p.H498H	11	124763766	124763766.0	G	G	A	0.3399	409.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	ROBO4			11	119155812	134257555.0														SC_9104	SC_9104-Tumor		0
 Copy Number	ROBO3			11	119155812	134257555.0														SC_9104	SC_9104-Tumor		0
 Copy Number	ROBO2			3	50255802	100174772.0														SC_9104	SC_9104-Tumor		0
@@ -18977,7 +18975,6 @@ Copy Number	REPS1			6	122720977	161026239.0														SC_9104	SC_9104-Tumor		
 Copy Number	REPIN1			7	144074285	158935239.0														SC_9104	SC_9104-Tumor		0
 Copy Number	REP15			12	26276103	28123016.0														SC_9104	SC_9104-Tumor		0
 Copy Number	RENBP			X	123480631	155240076.0														SC_9104	SC_9104-Tumor		0
-Somatic Variant	REN	Intron		1	204125800	204125800.0	C	C	T	0.084	357.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	REN			1	196857340	205085013.0														SC_9104	SC_9104-Tumor		0
 Copy Number	REM2			14	22970647	24429214.0														SC_9104	SC_9104-Tumor		0
 Copy Number	REM1			20	24524215	31434578.0														SC_9104	SC_9104-Tumor		0
@@ -19411,7 +19408,7 @@ Copy Number	PYDC2			3	145788661	195452155.0														SC_9104	SC_9104-Tumor		
 Copy Number	PYDC1			16	29466253	46617571.0														SC_9104	SC_9104-Tumor		0
 Copy Number	PYCRL			8	144623593	146279545.0														SC_9104	SC_9104-Tumor		0
 Copy Number	PYCR2			1	207737385	249212564.0														SC_9104	SC_9104-Tumor		0
-Somatic Variant	PYCR1	Intron		17	79893807	79893808.0	-	-	CTCCTATCAGCTGTACACT	0.0761	92.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
+Somatic Variant	PYCR1	Intron		17	79893807	79893808.0	-	-	CTCCTATCAGCTGTACACT	0.0642	109.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	PYCR1			17	48355103	81052322.0														SC_9104	SC_9104-Tumor		0
 Copy Number	PYCARD			16	29466253	46617571.0														SC_9104	SC_9104-Tumor		0
 Copy Number	PXT1			6	35773861	41011439.0														SC_9104	SC_9104-Tumor		0
@@ -19473,7 +19470,6 @@ Copy Number	PTPRR			12	71095105	72667339.0														SC_9104	SC_9104-Tumor		0
 Copy Number	PTPRR			12	62696703	71078565.0														SC_9104	SC_9104-Tumor		0
 Copy Number	PTPRQ			12	72680736	93881438.0														SC_9104	SC_9104-Tumor		0
 Copy Number	PTPRO			12	14578409	16189315.0														SC_9104	SC_9104-Tumor		0
-Somatic Variant	PTPRN2	Intron		7	157367112	157367112.0	G	G	A	0.0189	212.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	PTPRN2			7	144074285	158935239.0														SC_9104	SC_9104-Tumor		0
 Copy Number	PTPRN			2	213403256	223786150.0														SC_9104	SC_9104-Tumor		0
 Copy Number	PTPRM			18	163455	8406162.0														SC_9104	SC_9104-Tumor		0
@@ -19562,7 +19558,7 @@ Copy Number	PTCRA			6	42641933	43593603.0														SC_9104	SC_9104-Tumor		0
 Copy Number	PTCHD4			6	43594149	64423606.0														SC_9104	SC_9104-Tumor		0
 Copy Number	PTCHD3P1			10	94056	33215039.0														SC_9104	SC_9104-Tumor		0
 Copy Number	PTCHD3			10	94056	33215039.0														SC_9104	SC_9104-Tumor		0
-Somatic Variant	PTCHD2	Intron		1	11593796	11593797.0	-	-	CACACGCACG	0.038	79.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
+Somatic Variant	PTCHD2	5'UTR		1	11593796	11593797.0	-	-	CACACGCACG	0.0341	88.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	PTCHD2			1	6533236	12980235.0														SC_9104	SC_9104-Tumor		0
 Copy Number	PTCHD1			X	18768072	49298020.0														SC_9104	SC_9104-Tumor		0
 Copy Number	PTCH2			1	17272103	75805317.0														SC_9104	SC_9104-Tumor		0
@@ -20307,7 +20303,6 @@ Copy Number	PNISR			6	84799202	105406163.0														SC_9104	SC_9104-Tumor		0
 Copy Number	PNCK			X	123480631	155240076.0														SC_9104	SC_9104-Tumor		0
 Copy Number	PMVK			1	152659654	156236471.0														SC_9104	SC_9104-Tumor		0
 Copy Number	PMS2P4			7	57188861	72420032.0														SC_9104	SC_9104-Tumor		0
-Somatic Variant	PMS2P3	RNA		7	75157132	75157132.0	G	G	A	0.2979	292.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	PMS2P3			7	72430441	93516210.0														SC_9104	SC_9104-Tumor		0
 Copy Number	PMS2			7	195732	6737550.0														SC_9104	SC_9104-Tumor		0
 Copy Number	PMS1			2	190608202	199011688.0														SC_9104	SC_9104-Tumor		0
@@ -20937,7 +20932,6 @@ Copy Number	PCOLCE2			3	125691015	143708685.0														SC_9104	SC_9104-Tumor
 Copy Number	PCOLCE-AS1			7	93516745	105429156.0														SC_9104	SC_9104-Tumor		0
 Copy Number	PCOLCE			7	93516745	105429156.0														SC_9104	SC_9104-Tumor		0
 Copy Number	PCNXL4			14	50262664	106110440.0														SC_9104	SC_9104-Tumor		0
-Somatic Variant	PCNXL3	IGR		11	65403019	65403019.0	G	G	A	0.0085	705.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	PCNXL3			11	64502701	65978732.0														SC_9104	SC_9104-Tumor		0
 Copy Number	PCNXL2			1	207737385	249212564.0														SC_9104	SC_9104-Tumor		0
 Rearrangement	PCNX--TOMM20L	Fusion	PCNX--TOMM20L	14	71462642							0.0	PCNX	14	71462642.0	TOMM20L	14	58874044.0		SC_9104			0
@@ -21068,7 +21062,6 @@ Copy Number	PBX2P1			3	125691015	143708685.0														SC_9104	SC_9104-Tumor	
 Copy Number	PBX2			6	32011097	35748988.0														SC_9104	SC_9104-Tumor		0
 Copy Number	PBX1			1	161954068	165180015.0														SC_9104	SC_9104-Tumor		0
 Rearrangement	PBRM1--ACSL4	Fusion	PBRM1--ACSL4	3	52712516							0.0	PBRM1	3	52712516.0	ACSL4	X	108872808.0		SC_9104			0
-Somatic Variant	PBRM1	Silent	p.A48A	3	52712608	52712608.0	G	G	T	0.0222	270.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	PBRM1			3	50255802	100174772.0														SC_9104	SC_9104-Tumor		0
 Copy Number	PBOV1			6	122720977	161026239.0														SC_9104	SC_9104-Tumor		0
 Copy Number	PBLD			10	67680377	71969443.0														SC_9104	SC_9104-Tumor		0
@@ -21323,7 +21316,7 @@ Copy Number	OSER1			20	39690132	44879935.0														SC_9104	SC_9104-Tumor		0
 Copy Number	OSCP1			1	17272103	75805317.0														SC_9104	SC_9104-Tumor		0
 Copy Number	OSCAR			19	54265684	54722709.0														SC_9104	SC_9104-Tumor		0
 Copy Number	OSBPL9			1	17272103	75805317.0														SC_9104	SC_9104-Tumor		0
-Somatic Variant	OSBPL8	Intron		12	76844581	76844586.0	CAAAAA	CAAAAA	-	0.0301	133.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
+Somatic Variant	OSBPL8	Intron		12	76844581	76844586.0	CAAAAA	CAAAAA	-	0.0267	150.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	OSBPL8			12	72680736	93881438.0														SC_9104	SC_9104-Tumor		0
 Copy Number	OSBPL7			17	45518082	48156923.0														SC_9104	SC_9104-Tumor		0
 Copy Number	OSBPL6			2	178494292	179255946.0														SC_9104	SC_9104-Tumor		0
@@ -21787,7 +21780,6 @@ Copy Number	OFCC1			6	5404936	12165363.0														SC_9104	SC_9104-Tumor		0
 Copy Number	ODF4			17	7792420	8647929.0														SC_9104	SC_9104-Tumor		0
 Copy Number	ODF3L2			19	111598	2408630.0														SC_9104	SC_9104-Tumor		0
 Copy Number	ODF3L1			15	74373078	85681136.0														SC_9104	SC_9104-Tumor		0
-Somatic Variant	ODF3B	IGR		22	50967751	50967751.0	G	G	A	0.3447	818.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	ODF3B			22	50280828	51237572.0														SC_9104	SC_9104-Tumor		0
 Copy Number	ODF2L			1	78340751	108507493.0														SC_9104	SC_9104-Tumor		0
 Rearrangement	ODF2--MALAT1	Fusion	ODF2--MALAT1	9	131261405							0.0	ODF2	9	131261405.0	MALAT1	11	65270108.0		SC_9104			0
@@ -22404,7 +22396,6 @@ Copy Number	NELL1			11	19077951	26587407.0														SC_9104	SC_9104-Tumor		0
 Copy Number	NELFE			6	12292744	31950282.0														SC_9104	SC_9104-Tumor		0
 Copy Number	NELFCD			20	48808610	60697849.0														SC_9104	SC_9104-Tumor		0
 Copy Number	NELFB			9	131904833	141016451.0														SC_9104	SC_9104-Tumor		0
-Somatic Variant	NELFA	5'UTR		4	2010694	2010694.0	G	G	A	0.0097	517.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	NELFA			4	87340	49034734.0														SC_9104	SC_9104-Tumor		0
 Copy Number	NEK9			14	50262664	106110440.0														SC_9104	SC_9104-Tumor		0
 Copy Number	NEK8			17	25621463	36347083.0														SC_9104	SC_9104-Tumor		0
@@ -22564,7 +22555,6 @@ Copy Number	NCAPD2			12	3647873	11286843.0														SC_9104	SC_9104-Tumor		0
 Copy Number	NCAN			19	8174274	24310784.0														SC_9104	SC_9104-Tumor		0
 Copy Number	NCAM2			21	10862667	27945261.0														SC_9104	SC_9104-Tumor		0
 Copy Number	NCAM1-AS1			11	94564707	115049497.0														SC_9104	SC_9104-Tumor		0
-Somatic Variant	NCAM1	Intron		11	113073092	113073092.0	T	T	C	0.3355	152.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	NCAM1			11	94564707	115049497.0														SC_9104	SC_9104-Tumor		0
 Copy Number	NCALD			8	97157754	121824085.0														SC_9104	SC_9104-Tumor		0
 Copy Number	NBR2			17	36533670	43517594.0														SC_9104	SC_9104-Tumor		0
@@ -22663,7 +22653,7 @@ Copy Number	NACC1			19	8174274	24310784.0														SC_9104	SC_9104-Tumor		0
 Copy Number	NACAP1			8	97157754	121824085.0														SC_9104	SC_9104-Tumor		0
 Copy Number	NACAD			7	44044828	45148838.0														SC_9104	SC_9104-Tumor		0
 Copy Number	NACA2			17	48355103	81052322.0														SC_9104	SC_9104-Tumor		0
-Somatic Variant	NACA	Intron		12	57112071	57112071.0	A	A	G	0.1446	83.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
+Somatic Variant	NACA	Silent	p.T1081T	12	57112071	57112071.0	A	A	G	0.1446	83.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	NACA			12	56578722	57537583.0														SC_9104	SC_9104-Tumor		0
 Copy Number	NABP2			12	56578722	57537583.0														SC_9104	SC_9104-Tumor		0
 Copy Number	NABP1			2	190608202	199011688.0														SC_9104	SC_9104-Tumor		0
@@ -22847,7 +22837,6 @@ Copy Number	MUC5B			11	1020734	1856691.0														SC_9104	SC_9104-Tumor		0
 Copy Number	MUC5AC			11	1020734	1856691.0														SC_9104	SC_9104-Tumor		0
 Copy Number	MUC4			3	195477985	197765540.0														SC_9104	SC_9104-Tumor		0
 Copy Number	MUC4			3	195453443	195475937.0														SC_9104	SC_9104-Tumor		0
-Somatic Variant	MUC3A	3'UTR		7	100610322	100610322.0	C	C	T	0.0097	723.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	MUC3A			7	93516745	105429156.0														SC_9104	SC_9104-Tumor		0
 Copy Number	MUC22			6	12292744	31950282.0														SC_9104	SC_9104-Tumor		0
 Copy Number	MUC21			6	12292744	31950282.0														SC_9104	SC_9104-Tumor		0
@@ -22859,6 +22848,7 @@ Copy Number	MUC17			7	93516745	105429156.0														SC_9104	SC_9104-Tumor		0
 Copy Number	MUC16			19	8174274	24310784.0														SC_9104	SC_9104-Tumor		0
 Copy Number	MUC15			11	19077951	26587407.0														SC_9104	SC_9104-Tumor		0
 Copy Number	MUC13			3	101284839	125313646.0														SC_9104	SC_9104-Tumor		0
+Somatic Variant	MUC12	Silent	p.A977A	7	100636346	100636346.0	C	C	A	0.057999999999999996	69.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	MUC12			7	93516745	105429156.0														SC_9104	SC_9104-Tumor		0
 Copy Number	MUC1			1	152659654	156236471.0														SC_9104	SC_9104-Tumor		0
 Copy Number	MTX3			5	74639791	110409345.0														SC_9104	SC_9104-Tumor		0
@@ -23201,7 +23191,6 @@ Copy Number	MOGAT3			7	93516745	105429156.0														SC_9104	SC_9104-Tumor		
 Copy Number	MOGAT2			11	68822822	92498255.0														SC_9104	SC_9104-Tumor		0
 Copy Number	MOGAT1			2	213403256	223786150.0														SC_9104	SC_9104-Tumor		0
 Copy Number	MOG			6	12292744	31950282.0														SC_9104	SC_9104-Tumor		0
-Somatic Variant	MOCS3	Silent	p.P156P	20	49575847	49575847.0	G	G	A	0.0074	811.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	MOCS3			20	48808610	60697849.0														SC_9104	SC_9104-Tumor		0
 Copy Number	MOCS2			5	52096956	52979053.0														SC_9104	SC_9104-Tumor		0
 Copy Number	MOCS1			6	35773861	41011439.0														SC_9104	SC_9104-Tumor		0
@@ -25130,7 +25119,7 @@ Copy Number	MANBA			4	82065486	129770324.0														SC_9104	SC_9104-Tumor		0
 Copy Number	MAN2C1			15	74373078	85681136.0														SC_9104	SC_9104-Tumor		0
 Copy Number	MAN2B2			4	87340	49034734.0														SC_9104	SC_9104-Tumor		0
 Copy Number	MAN2B1			19	8174274	24310784.0														SC_9104	SC_9104-Tumor		0
-Somatic Variant	MAN2A2	Intron		15	91449757	91449757.0	C	C	-	0.3107	206.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
+Somatic Variant	MAN2A2	Intron		15	91449757	91449757.0	C	C	-	0.2922	219.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	MAN2A2			15	90623063	100340459.0														SC_9104	SC_9104-Tumor		0
 Copy Number	MAN2A1			5	74639791	110409345.0														SC_9104	SC_9104-Tumor		0
 Copy Number	MAN1C1			1	17272103	75805317.0														SC_9104	SC_9104-Tumor		0
@@ -25223,7 +25212,6 @@ Copy Number	MACROD2			20	3899445	23966419.0														SC_9104	SC_9104-Tumor		
 Copy Number	MACROD1			11	62620867	64124568.0														SC_9104	SC_9104-Tumor		0
 Rearrangement	MACF1--SDC3	Fusion	MACF1--SDC3	1	39924162							0.0	MACF1	1	39924162.0	SDC3	1	31346224.0		SC_9104			0
 Rearrangement	MACF1--RAP1A	Fusion	MACF1--RAP1A	1	39926466							0.0	MACF1	1	39926466.0	RAP1A	1	112251771.0		SC_9104			0
-Somatic Variant	MACF1	Intron		1	39879019	39879019.0	T	T	A	0.0842	95.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	MACF1			1	17272103	75805317.0														SC_9104	SC_9104-Tumor		0
 Copy Number	MACC1-AS1			7	6854478	40117722.0														SC_9104	SC_9104-Tumor		0
 Copy Number	MACC1			7	6854478	40117722.0														SC_9104	SC_9104-Tumor		0
@@ -26251,7 +26239,6 @@ Copy Number	LFNG			7	195732	6737550.0														SC_9104	SC_9104-Tumor		0
 Copy Number	LEUTX			19	33499088	40370534.0														SC_9104	SC_9104-Tumor		0
 Copy Number	LETMD1			12	38715017	56575865.0														SC_9104	SC_9104-Tumor		0
 Copy Number	LETM2			8	30511117	42694526.0														SC_9104	SC_9104-Tumor		0
-Somatic Variant	LETM1	Silent	p.G138G	4	1843254	1843254.0	G	G	A	0.0143	350.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	LETM1			4	87340	49034734.0														SC_9104	SC_9104-Tumor		0
 Copy Number	LEPROTL1			8	22414423	30437915.0														SC_9104	SC_9104-Tumor		0
 Copy Number	LEPROT			1	17272103	75805317.0														SC_9104	SC_9104-Tumor		0
@@ -26399,7 +26386,6 @@ Copy Number	LAMB4			7	105516328	141762502.0														SC_9104	SC_9104-Tumor		
 Copy Number	LAMB3			1	207737385	249212564.0														SC_9104	SC_9104-Tumor		0
 Copy Number	LAMB2			3	42794211	49722319.0														SC_9104	SC_9104-Tumor		0
 Copy Number	LAMB1			7	105516328	141762502.0														SC_9104	SC_9104-Tumor		0
-Somatic Variant	LAMA5	5'UTR		20	60942310	60942310.0	C	C	T	0.2808	146.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	LAMA5			20	60699836	61522509.0														SC_9104	SC_9104-Tumor		0
 Copy Number	LAMA4			6	111685183	116265590.0														SC_9104	SC_9104-Tumor		0
 Copy Number	LAMA3			18	20529678	22807663.0														SC_9104	SC_9104-Tumor		0
@@ -26785,7 +26771,6 @@ Copy Number	KLF10			8	97157754	121824085.0														SC_9104	SC_9104-Tumor		0
 Copy Number	KLF1			19	8174274	24310784.0														SC_9104	SC_9104-Tumor		0
 Copy Number	KLC4			6	42641933	43593603.0														SC_9104	SC_9104-Tumor		0
 Copy Number	KLC3			19	45314605	49539159.0														SC_9104	SC_9104-Tumor		0
-Somatic Variant	KLC2	Silent	p.E313E	11	66031420	66031420.0	G	G	A	0.01	498.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	KLC2			11	65983736	67399885.0														SC_9104	SC_9104-Tumor		0
 Copy Number	KLC1			14	50262664	106110440.0														SC_9104	SC_9104-Tumor		0
 Copy Number	KLB			4	87340	49034734.0														SC_9104	SC_9104-Tumor		0
@@ -28095,7 +28080,6 @@ Copy Number	HSPA9			5	110411774	158588632.0														SC_9104	SC_9104-Tumor		
 Copy Number	HSPA8			11	119155812	134257555.0														SC_9104	SC_9104-Tumor		0
 Copy Number	HSPA6			1	161276713	161496382.0														SC_9104	SC_9104-Tumor		0
 Copy Number	HSPA5			9	127636045	128509934.0														SC_9104	SC_9104-Tumor		0
-Somatic Variant	HSPA4L	Intron		4	128751787	128751787.0	A	A	T	0.0361	194.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	HSPA4L			4	82065486	129770324.0														SC_9104	SC_9104-Tumor		0
 Copy Number	HSPA4			5	110411774	158588632.0														SC_9104	SC_9104-Tumor		0
 Copy Number	HSPA2			14	50262664	106110440.0														SC_9104	SC_9104-Tumor		0
@@ -29973,8 +29957,8 @@ Copy Number	FLOT1			6	12292744	31950282.0														SC_9104	SC_9104-Tumor		0
 Copy Number	FLNC			7	105516328	141762502.0														SC_9104	SC_9104-Tumor		0
 Copy Number	FLNB-AS1			3	50255802	100174772.0														SC_9104	SC_9104-Tumor		0
 Copy Number	FLNB			3	50255802	100174772.0														SC_9104	SC_9104-Tumor		0
-Somatic Variant	FLNA	Silent	p.Y2461Y	X	153578066	153578066.0	G	G	A	0.035	143.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
-Somatic Variant	FLNA	Silent	p.P2277P	X	153580021	153580021.0	G	G	A	0.1957	138.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
+Somatic Variant	FLNA	Silent	p.Y2501Y	X	153578066	153578066.0	G	G	A	0.035	143.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
+Somatic Variant	FLNA	Silent	p.P2317P	X	153580021	153580021.0	G	G	A	0.1957	138.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	FLNA			X	123480631	155240076.0														SC_9104	SC_9104-Tumor		0
 Copy Number	FLJ45079			17	48355103	81052322.0														SC_9104	SC_9104-Tumor		0
 Copy Number	FLJ30594			2	3428436	18758163.0														SC_9104	SC_9104-Tumor		0
@@ -29994,7 +29978,6 @@ Copy Number	FLI1			11	119155812	134257555.0														SC_9104	SC_9104-Tumor		
 Copy Number	FLG2			1	148582540	152648826.0														SC_9104	SC_9104-Tumor		0
 Copy Number	FLG-AS1			1	148582540	152648826.0														SC_9104	SC_9104-Tumor		0
 Copy Number	FLG			1	148582540	152648826.0														SC_9104	SC_9104-Tumor		0
-Somatic Variant	FLCN	Intron		17	17124705	17124705.0	C	C	A	0.0443	813.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	FLCN			17	16638957	17801990.0														SC_9104	SC_9104-Tumor		0
 Copy Number	FLAD1			1	152659654	156236471.0														SC_9104	SC_9104-Tumor		0
 Copy Number	FKTN			9	106857835	116116620.0														SC_9104	SC_9104-Tumor		0
@@ -30051,7 +30034,6 @@ Copy Number	FHAD1			1	13910597	16785387.0														SC_9104	SC_9104-Tumor		0
 Copy Number	FH			1	207737385	249212564.0														SC_9104	SC_9104-Tumor		0
 Copy Number	FGR			1	17272103	75805317.0														SC_9104	SC_9104-Tumor		0
 Copy Number	FGL2			7	72430441	93516210.0														SC_9104	SC_9104-Tumor		0
-Somatic Variant	FGL1	Intron		8	17726255	17726255.0	A	A	G	0.0145	275.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	FGL1			8	12043034	21848430.0														SC_9104	SC_9104-Tumor		0
 Copy Number	FGGY			1	17272103	75805317.0														SC_9104	SC_9104-Tumor		0
 Copy Number	FGG			4	155458633	157771570.0														SC_9104	SC_9104-Tumor		0
@@ -30226,11 +30208,11 @@ Copy Number	FBXO15			18	67692086	74980860.0														SC_9104	SC_9104-Tumor		
 Copy Number	FBXO11			2	42282162	58468450.0														SC_9104	SC_9104-Tumor		0
 Rearrangement	FBXO10--ARPC4-TTLL3	Fusion	FBXO10--ARPC4-TTLL3	9	37576208							0.0	FBXO10	9	37576208.0	ARPC4-TTLL3	3	9839343.0		SC_9104			0
 Copy Number	FBXO10			9	35090279	39887068.0														SC_9104	SC_9104-Tumor		0
-Somatic Variant	FBXL8	IGR		16	67196961	67196961.0	C	C	T	0.0136	295.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	FBXL8			16	66757727	67709958.0														SC_9104	SC_9104-Tumor		0
 Copy Number	FBXL7			5	140833	26885976.0														SC_9104	SC_9104-Tumor		0
 Copy Number	FBXL6			8	144623593	146279545.0														SC_9104	SC_9104-Tumor		0
 Copy Number	FBXL5			4	87340	49034734.0														SC_9104	SC_9104-Tumor		0
+Somatic Variant	FBXL4	Intron		6	99322329	99322333.0	AAACA	AAACA	-	0.0209	191.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	FBXL4			6	84799202	105406163.0														SC_9104	SC_9104-Tumor		0
 Copy Number	FBXL3			13	74289664	95768257.0														SC_9104	SC_9104-Tumor		0
 Copy Number	FBXL22			15	50475104	65748711.0														SC_9104	SC_9104-Tumor		0
@@ -30826,7 +30808,6 @@ Copy Number	ESX1			X	101624659	107417853.0														SC_9104	SC_9104-Tumor		0
 Copy Number	ESRRG			1	207737385	249212564.0														SC_9104	SC_9104-Tumor		0
 Copy Number	ESRRB			14	50262664	106110440.0														SC_9104	SC_9104-Tumor		0
 Copy Number	ESRRAP2			13	21563445	73401258.0														SC_9104	SC_9104-Tumor		0
-Somatic Variant	ESRRA	5'Flank		11	64070987	64070987.0	C	C	T	0.0145	345.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	ESRRA			11	62620867	64124568.0														SC_9104	SC_9104-Tumor		0
 Copy Number	ESRP2			16	67719620	69973318.0														SC_9104	SC_9104-Tumor		0
 Copy Number	ESRP1			8	95653678	96281419.0														SC_9104	SC_9104-Tumor		0
@@ -31167,7 +31148,6 @@ Copy Number	EIF2AK3			2	88328084	89399827.0														SC_9104	SC_9104-Tumor		
 Copy Number	EIF2AK2			2	36583768	42281449.0														SC_9104	SC_9104-Tumor		0
 Rearrangement	EIF2AK1--SRSF11	Fusion	EIF2AK1--SRSF11	7	6094177							0.0	EIF2AK1	7	6094177.0	SRSF11	1	70715635.0		SC_9104			0
 Copy Number	EIF2AK1			7	195732	6737550.0														SC_9104	SC_9104-Tumor		0
-Somatic Variant	EIF2A	Intron		3	150282076	150282076.0	A	A	T	0.1176	68.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	EIF2A			3	145788661	195452155.0														SC_9104	SC_9104-Tumor		0
 Rearrangement	EIF1B--EIF1	Fusion	EIF1B--EIF1	3	40351463							0.0	EIF1B	3	40351463.0	EIF1	17	39846030.0		SC_9104			0
 Copy Number	EIF1B			3	33614846	42793519.0														SC_9104	SC_9104-Tumor		0
@@ -31528,7 +31508,6 @@ Copy Number	DPCR1			6	12292744	31950282.0														SC_9104	SC_9104-Tumor		0
 Copy Number	DPCD			10	89693010	124365695.0														SC_9104	SC_9104-Tumor		0
 Copy Number	DPAGT1			11	118260622	119149425.0														SC_9104	SC_9104-Tumor		0
 Copy Number	DOT1L			19	111598	2408630.0														SC_9104	SC_9104-Tumor		0
-Somatic Variant	DOPEY2	Silent	p.L125L	21	37572683	37572683.0	G	G	A	0.0127	394.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	DOPEY2			21	28210599	39817546.0														SC_9104	SC_9104-Tumor		0
 Copy Number	DOPEY1			6	82950205	84772713.0														SC_9104	SC_9104-Tumor		0
 Copy Number	DONSON			21	28210599	39817546.0														SC_9104	SC_9104-Tumor		0
@@ -32073,6 +32052,7 @@ Copy Number	DCDC2B			1	17272103	75805317.0														SC_9104	SC_9104-Tumor		0
 Copy Number	DCDC2			6	12292744	31950282.0														SC_9104	SC_9104-Tumor		0
 Copy Number	DCDC1			11	27016711	46419495.0														SC_9104	SC_9104-Tumor		0
 Copy Number	DCD			12	38715017	56575865.0														SC_9104	SC_9104-Tumor		0
+Somatic Variant	DCC	Intron		18	50937258	50937259.0	-	-	TG	0.8571	35.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	DCC			18	50589831	55104178.0														SC_9104	SC_9104-Tumor		0
 Copy Number	DCBLD2			3	50255802	100174772.0														SC_9104	SC_9104-Tumor		0
 Copy Number	DCBLD1			6	116325163	117896517.0														SC_9104	SC_9104-Tumor		0
@@ -32408,7 +32388,7 @@ Copy Number	CTGF			6	122720977	161026239.0														SC_9104	SC_9104-Tumor		0
 Copy Number	CTF1			16	29466253	46617571.0														SC_9104	SC_9104-Tumor		0
 Copy Number	CTDSPL2			15	43904224	50366384.0														SC_9104	SC_9104-Tumor		0
 Copy Number	CTDSPL			3	33614846	42793519.0														SC_9104	SC_9104-Tumor		0
-Somatic Variant	CTDSP2	5'UTR		12	58240271	58240275.0	GGGCT	GGGCT	-	0.0385	78.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
+Somatic Variant	CTDSP2	5'UTR		12	58240271	58240275.0	GGGCT	GGGCT	-	0.0341	88.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	CTDSP2			12	57627689	62148807.0														SC_9104	SC_9104-Tumor		0
 Copy Number	CTDSP1			2	213403256	223786150.0														SC_9104	SC_9104-Tumor		0
 Copy Number	CTDP1			18	76755464	77960817.0														SC_9104	SC_9104-Tumor		0
@@ -34004,7 +33984,6 @@ Copy Number	CSN1S2AP			4	69513103	73931132.0														SC_9104	SC_9104-Tumor	
 Copy Number	CSN1S1			4	69513103	73931132.0														SC_9104	SC_9104-Tumor		0
 Copy Number	CSMD3			8	97157754	121824085.0														SC_9104	SC_9104-Tumor		0
 Copy Number	CSMD2			1	17272103	75805317.0														SC_9104	SC_9104-Tumor		0
-Somatic Variant	CSMD1	Intron		8	3265413	3265413.0	G	G	A	0.0223	224.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	CSMD1			8	117026	11853762.0														SC_9104	SC_9104-Tumor		0
 Copy Number	CSK			15	74373078	85681136.0														SC_9104	SC_9104-Tumor		0
 Copy Number	CSHL1			17	48355103	81052322.0														SC_9104	SC_9104-Tumor		0
@@ -34061,7 +34040,6 @@ Copy Number	CRTAM			11	119155812	134257555.0														SC_9104	SC_9104-Tumor	
 Copy Number	CRTAC1			10	89693010	124365695.0														SC_9104	SC_9104-Tumor		0
 Copy Number	CROT			7	72430441	93516210.0														SC_9104	SC_9104-Tumor		0
 Copy Number	CROCCP2			1	16915558	17266590.0														SC_9104	SC_9104-Tumor		0
-Somatic Variant	CROCC	Intron		1	17282050	17282050.0	G	G	A	0.0197	203.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	CROCC			1	16915558	17266590.0														SC_9104	SC_9104-Tumor		0
 Copy Number	CROCC			1	17272103	75805317.0														SC_9104	SC_9104-Tumor		0
 Copy Number	CRNN			1	148582540	152648826.0														SC_9104	SC_9104-Tumor		0
@@ -34081,7 +34059,6 @@ Copy Number	CRISP1			6	43594149	64423606.0														SC_9104	SC_9104-Tumor		0
 Copy Number	CRIPT			2	42282162	58468450.0														SC_9104	SC_9104-Tumor		0
 Copy Number	CRIPAK			4	87340	49034734.0														SC_9104	SC_9104-Tumor		0
 Copy Number	CRIP3			6	42641933	43593603.0														SC_9104	SC_9104-Tumor		0
-Somatic Variant	CRIP2	5'Flank		14	105936493	105936493.0	C	C	T	0.0135	446.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	CRIP2			14	50262664	106110440.0														SC_9104	SC_9104-Tumor		0
 Copy Number	CRIP1			14	50262664	106110440.0														SC_9104	SC_9104-Tumor		0
 Copy Number	CRIM1			2	36583768	42281449.0														SC_9104	SC_9104-Tumor		0
@@ -35385,7 +35362,6 @@ Copy Number	CCDC155			19	49619731	50462159.0														SC_9104	SC_9104-Tumor	
 Copy Number	CCDC154			16	112695	2098756.0														SC_9104	SC_9104-Tumor		0
 Copy Number	CCDC153			11	118260622	119149425.0														SC_9104	SC_9104-Tumor		0
 Copy Number	CCDC152			5	37392224	50689446.0														SC_9104	SC_9104-Tumor		0
-Somatic Variant	CCDC151	5'Flank		19	11546981	11546981.0	G	G	A	0.0162	371.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	CCDC151			19	8174274	24310784.0														SC_9104	SC_9104-Tumor		0
 Copy Number	CCDC150			2	190608202	199011688.0														SC_9104	SC_9104-Tumor		0
 Copy Number	CCDC15			11	119155812	134257555.0														SC_9104	SC_9104-Tumor		0
@@ -35474,7 +35450,6 @@ Copy Number	CBR3-AS1			21	28210599	39817546.0														SC_9104	SC_9104-Tumor
 Copy Number	CBR3			21	28210599	39817546.0														SC_9104	SC_9104-Tumor		0
 Copy Number	CBR1			21	28210599	39817546.0														SC_9104	SC_9104-Tumor		0
 Copy Number	CBLN4			20	48808610	60697849.0														SC_9104	SC_9104-Tumor		0
-Somatic Variant	CBLN3	Intron		14	24897618	24897618.0	G	G	A	0.032	250.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	CBLN3			14	24435628	50256293.0														SC_9104	SC_9104-Tumor		0
 Copy Number	CBLN2			18	67692086	74980860.0														SC_9104	SC_9104-Tumor		0
 Copy Number	CBLN1			16	46629584	50367610.0														SC_9104	SC_9104-Tumor		0
@@ -36167,7 +36142,7 @@ Copy Number	C19orf40			19	29699067	33487128.0														SC_9104	SC_9104-Tumor
 Copy Number	C19orf38			19	8174274	24310784.0														SC_9104	SC_9104-Tumor		0
 Copy Number	C19orf35			19	111598	2408630.0														SC_9104	SC_9104-Tumor		0
 Copy Number	C19orf33			19	33499088	40370534.0														SC_9104	SC_9104-Tumor		0
-Somatic Variant	C19orf26	Intron		19	1235569	1235570.0	-	-	A	0.2788	104.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
+Somatic Variant	C19orf26	Intron		19	1235569	1235570.0	-	-	A	0.2479	117.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	C19orf26			19	111598	2408630.0														SC_9104	SC_9104-Tumor		0
 Copy Number	C19orf25			19	111598	2408630.0														SC_9104	SC_9104-Tumor		0
 Copy Number	C19orf24			19	111598	2408630.0														SC_9104	SC_9104-Tumor		0
@@ -36768,7 +36743,7 @@ Copy Number	BANF2			20	3899445	23966419.0														SC_9104	SC_9104-Tumor		0
 Copy Number	BANF1			11	64502701	65978732.0														SC_9104	SC_9104-Tumor		0
 Copy Number	BAMBI			10	94056	33215039.0														SC_9104	SC_9104-Tumor		0
 Copy Number	BAK1			6	32011097	35748988.0														SC_9104	SC_9104-Tumor		0
-Somatic Variant	BAIAP3	Silent	p.C1021C	16	1398118	1398118.0	C	C	T	0.0103	580.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
+Somatic Variant	BAIAP3	Silent	p.C1092C	16	1398118	1398118.0	C	C	T	0.0103	580.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	BAIAP3			16	112695	2098756.0														SC_9104	SC_9104-Tumor		0
 Copy Number	BAIAP2L2			22	25023588	39355693.0														SC_9104	SC_9104-Tumor		0
 Copy Number	BAIAP2L1			7	93516745	105429156.0														SC_9104	SC_9104-Tumor		0
@@ -36958,7 +36933,6 @@ Copy Number	ATP2B2			3	367749	16638560.0														SC_9104	SC_9104-Tumor		0
 Copy Number	ATP2B1			12	72680736	93881438.0														SC_9104	SC_9104-Tumor		0
 Copy Number	ATP2A3			17	2996292	7492996.0														SC_9104	SC_9104-Tumor		0
 Copy Number	ATP2A2			12	96388605	133779461.0														SC_9104	SC_9104-Tumor		0
-Somatic Variant	ATP2A1	Silent	p.T589T	16	28911904	28911904.0	G	G	A	0.0168	238.0									SC_9104	SC_9104-Tumor	SC_9104-Normal	0
 Copy Number	ATP2A1			16	28394804	29465055.0														SC_9104	SC_9104-Tumor		0
 Copy Number	ATP1B4			X	118215467	119694495.0														SC_9104	SC_9104-Tumor		0
 Copy Number	ATP1B3-AS1			3	125691015	143708685.0														SC_9104	SC_9104-Tumor		0

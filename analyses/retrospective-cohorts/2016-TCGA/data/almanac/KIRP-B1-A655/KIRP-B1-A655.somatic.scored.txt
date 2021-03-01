@@ -1,0 +1,136 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Investigate Actionability		Investigate Actionability	Investigate Actionability	Somatic Variant	TP53	Missense	p.H193P	17	7578271	7578271.0	T	T	G	0.2453	106.0	0.0	0.0		0								31.0	0.4839	0.9514		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	3	2	2	1	1	1	2
+Cancer Hotspot				Somatic Variant	MGA	Missense	p.R1085T	15	42005518	42005518.0	G	G	C	0.3143	70.0	0.0	0.0		0								10.0	0.5	0.4049		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	1	0	0	0	1	2
+Cancer Hotspot 3D				Somatic Variant	FLNB	Missense	p.H1600R	3	58121740	58121740.0	A	A	G	0.0339	118.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	1	0	0	1	1
+Cancer Hotspot 3D				Somatic Variant	RGS6	Frameshift	p.V202fs	14	72939649	72939649.0	C	C	-	0.4599	137.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	1	0	0	0	1
+Cancer Gene Census				Somatic Variant	CSF3R	Insertion	p.147_148insR	1	36939407	36939408.0	-	-	GTC	0.3692	65.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	1	1	1	1
+Cancer Gene Census				Somatic Variant	DDR2	Missense	p.N121K	1	162724591	162724591.0	T	T	G	0.3857	70.0	0.0	0.0		0								4.0	0.75	0.0259		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	1	0	1	2
+Cancer Gene Census				Somatic Variant	NFATC2	Frameshift	p.H649fs	20	50051812	50051813.0	GC	GC	-	0.2963	81.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	1	0	0	1
+Cancer Gene Census				Somatic Variant	ARHGAP5	Frameshift	p.Y258fs	14	32560648	32560648.0	A	A	-	0.5245	143.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	1	0	0	1
+Cancer Pathway				Somatic Variant	ICAM1	Missense	p.I492K	19	10395839	10395839.0	T	T	A	0.3571	70.0	0.0	0.0		0								342.0	0.4561	1.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	1	1	2
+Cancer Pathway				Rearrangement	GRIP1	Fusion	RP11-123O10.4--GRIP1	chr12	67462830							0.0	0.0		0	18.0	RP11-123O10.4	chr12	67462830.0	GRIP1	chr12	66990707.0					KIRP-B1-A655			0	0	0	0	1	0	1
+Cancer Module				Somatic Variant	RPS8	Missense	p.L58V	1	45242407	45242407.0	C	C	G	0.4286	28.0	0.0	0.0		0								2475.0	0.4137	1.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	RHOB	Missense	p.E29G	2	20647312	20647312.0	A	A	G	0.3026	76.0	0.0	0.0		0								408.0	0.3309	1.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SNX9	Missense	p.F488L	6	158358486	158358486.0	C	C	A	0.2568	74.0	0.0	0.0		0								162.0	0.4321	1.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	TLN1	Missense	p.E2451A	9	35698339	35698339.0	T	T	G	0.0952	42.0	0.0	0.0		0								313.0	0.0799	0.9991		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	HEATR6	Missense	p.P1145Q	17	58121036	58121036.0	G	G	T	0.2235	179.0	0.0	0.0		0								47.0	0.1489	0.9937		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	RASGRP1	Missense	p.Y421C	15	38798102	38798102.0	T	T	C	0.3387	62.0	0.0	0.0		0								10.0	0.5	0.4672		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	DNAH5	Missense	p.I1955R	5	13839483	13839483.0	A	A	C	0.34	50.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SLC39A4	Missense	p.P255H	8	145640398	145640398.0	G	G	T	0.4	35.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	MYOM2	Missense	p.E293Q	8	2020508	2020508.0	G	G	C	0.3077	26.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	CLASRP	Missense	p.A560V	19	45571284	45571284.0	C	C	T	0.0253	158.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	LOXL2	Missense	p.P237L	8	23198538	23198538.0	G	G	A	0.3333	36.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	HIST1H2BJ	Missense	p.T89I	6	27100264	27100264.0	G	G	A	0.3548	31.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	C10orf12	Missense	p.N1005H	10	98744160	98744160.0	A	A	C	0.3214	56.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SSTR3	Missense	p.Y417H	22	37602594	37602594.0	A	A	G	0.2143	14.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	F8	Missense	p.F1010V	X	154159037	154159037.0	A	A	C	0.0455	66.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	TCEAL4	Missense	p.T130A	X	102841991	102841991.0	A	A	G	0.4595	148.0	0.0	0.0		0								472.0	0.8835	1.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	PCYT2	Splice Site		17	79865647	79865647.0	A	A	G	0.3043	46.0	0.0	0.0		0								6.0	1.0	0.0931		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	TTN	Missense	p.D9080N	2	179577514	179577514.0	C	C	T	0.2923	65.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	STARD3	Frameshift	p.GYL125fs	17	37814678	37814685.0	TGGCTACC	TGGCTACC	-	0.25	44.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	SMEK2	Frameshift	p.F466fs	2	55806886	55806886.0	A	A	-	0.3387	62.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	SLC25A12	Frameshift	p.HFGHNR136fs	2	172700922	172700937.0	CGGTTATGCCCAAAAT	CGGTTATGCCCAAAAT	-	0.1053	95.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	LRRFIP1	Splice Site	p.E378V	2	238666100	238666100.0	A	A	T	0.2879	198.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	ADAMTS6	Missense	p.G120R	5	64766709	64766709.0	C	C	T	0.2667	75.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	POU6F2	Frameshift	p.L633fs	7	39504216	39504216.0	A	A	-	0.2432	37.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	GCK	Missense	p.R358P	7	44185276	44185276.0	C	C	G	0.3667	60.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	NPR2	Frameshift	p.D445fs	9	35800822	35800822.0	C	C	-	0.2609	69.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	CACNA1A	Frameshift	p.F621fs	19	13418985	13418985.0	A	A	-	0.3274	113.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	1	1
+Cancer Module				Rearrangement	LEPR	Fusion	LEPROT--LEPR	chr1	65891061							0.0	0.0		0	31.0	LEPROT	chr1	65891061.0	LEPR	chr1	66031229.0					KIRP-B1-A655			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	CTSC	Fusion	CTSC--RAB38	chr11	88033698							0.0	0.0		0	5.0	CTSC	chr11	88033698.0	RAB38	chr11	87883123.0					KIRP-B1-A655			0	0	0	0	0	1	1
+Cancer Module				Copy Number	MTR	Deletion		1	236979411	236979471.0						0.0	0.0		0												KIRP-B1-A655	TCGA-B1-A655-01		0	0	0	0	0	1	1
+Cosmic				Somatic Variant	ATP13A2	Missense	p.L716M	1	17318334	17318334.0	G	G	T	0.25	56.0	0.0	0.0		0								106.0	0.434	1.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	UBTD2	Missense	p.E69K	5	171661228	171661228.0	C	C	T	0.35	80.0	0.0	0.0		0								68.0	0.4265	1.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ALPK3	Missense	p.D1155V	15	85400827	85400827.0	A	A	T	0.2885	52.0	0.0	0.0		0								71.0	0.507	0.9999		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	C10orf11	Missense	p.R134G	10	77818509	77818509.0	A	A	G	0.1538	78.0	0.0	0.0		0								142.0	0.4366	0.9998		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ENPP3	Missense	p.N744T	6	132059234	132059234.0	A	A	C	0.3788	66.0	0.0	0.0		0								39.0	0.4615	0.9997		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	HMCN1	Missense	p.I947S	1	185953350	185953350.0	T	T	G	0.0517	58.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	CACNA1H	Missense	p.H1938N	16	1268594	1268594.0	C	C	A	0.3205	78.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	BRWD1	Nonsense	p.S214*	21	40665927	40665927.0	G	G	T	0.359	78.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ZKSCAN2	Missense	p.E170D	16	25266603	25266603.0	C	C	G	0.2432	37.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	GUF1	Missense	p.I243T	4	44688034	44688034.0	T	T	C	0.2778	36.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	KCNK16	Missense	p.L140I	6	39285639	39285639.0	G	G	T	0.1321	53.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ATP6V0A4	Missense	p.L794M	7	138394418	138394418.0	G	G	T	0.0365	137.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ADAMTS14	Missense	p.W919L	10	72513573	72513573.0	G	G	T	0.2121	33.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	LONRF2	Missense	p.A665V	2	100903452	100903452.0	G	G	A	0.0816	98.0	2.5e-05	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	SMC6	Missense	p.I512F	2	17896324	17896324.0	T	T	A	0.4167	60.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	RPIA	Missense	p.F262L	2	89037541	89037541.0	T	T	G	0.0957	94.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	SERPINA12	Missense	p.F180C	14	94964196	94964196.0	A	A	C	0.4933	75.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	DISP2	Missense	p.P789A	15	40660678	40660678.0	C	C	G	0.2931	58.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	RFPL3	Missense	p.Y17N	22	32754194	32754194.0	T	T	A	0.2687	134.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	RFPL3	Missense	p.Y17F	22	32754195	32754195.0	A	A	T	0.2687	134.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	IL1RAPL1	Missense	p.K528T	X	29973429	29973429.0	A	A	C	0.4862	109.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	CEP152	Splice Site	p.G441fs	15	49074426	49074426.0	C	C	-	0.3846	26.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	PLEKHG2	Missense	p.G653D	19	39913652	39913652.0	G	G	A	0.061	82.0	2.5e-05	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	CYP4X1	Frameshift	p.H57fs	1	47489659	47489659.0	A	A	-	0.3235	68.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	VPRBP	Splice Site		3	51452313	51452313.0	T	T	G	0.0909	66.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	PKD2	Missense	p.E308Q	4	88996109	88996109.0	G	G	C	0.2083	72.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	SCIN	Frameshift	p.S484fs	7	12680013	12680013.0	T	T	-	0.3864	44.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	TTC39B	Splice Site	p.G204R	9	15190552	15190552.0	C	C	G	0.0909	55.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	GALNT6	Frameshift	p.F306fs	12	51758036	51758036.0	A	A	-	0.3265	98.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	BTBD7	Missense	p.P346T	14	93760330	93760330.0	G	G	T	0.0545	55.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	DDX26B	Missense	p.A481S	X	134706893	134706893.0	G	G	T	0.0208	192.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	0	1
+Cosmic				Rearrangement	CDRT4	Fusion	TVP23C-CDRT4--CDRT4	chr17	15449099							0.0	0.0		0	6.0	TVP23C-CDRT4	chr17	15449099.0	CDRT4	chr17	15343599.0					KIRP-B1-A655			0	0	0	0	0	0	1
+Cosmic				Rearrangement	CDRT4	Fusion	TVP23C--CDRT4	chr17	15449099							0.0	0.0		0	6.0	TVP23C	chr17	15449099.0	CDRT4	chr17	15343599.0					KIRP-B1-A655			0	0	0	0	0	0	1
+Cosmic				Rearrangement	TMEM135	Fusion	RP11-736K20.6--TMEM135	chr11	86669068							0.0	0.0		0	13.0	RP11-736K20.6	chr11	86669068.0	TMEM135	chr11	86778736.0					KIRP-B1-A655			0	0	0	0	0	0	1
+Cosmic				Copy Number	PHEX	Amplification		X	22053146	22294814.0						0.0	0.0		0												KIRP-B1-A655	TCGA-B1-A655-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF645	Amplification		X	22053146	22294814.0						0.0	0.0		0												KIRP-B1-A655	TCGA-B1-A655-01		0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND5	Fusion	MT-ND5--MT-RNR2	chrM	12537							0.0	0.0		0	225.0	MT-ND5	chrM	12537.0	MT-RNR2	chrM	1678.0					KIRP-B1-A655			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND5	Fusion	MT-ND5--MT-ND4	chrM	13673							0.0	0.0		0	323.0	MT-ND5	chrM	13673.0	MT-ND4	chrM	11037.0					KIRP-B1-A655			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND5	Fusion	MT-ND5--MT-ND2	chrM	14077							0.0	0.0		0	65.0	MT-ND5	chrM	14077.0	MT-ND2	chrM	5359.0					KIRP-B1-A655			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND5	Fusion	MT-ND5--MT-CO1	chrM	13154							0.0	0.0		0	227.0	MT-ND5	chrM	13154.0	MT-CO1	chrM	6440.0					KIRP-B1-A655			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND5	Fusion	MT-ND5--MT-ATP8	chrM	14066							0.0	0.0		0	138.0	MT-ND5	chrM	14066.0	MT-ATP8	chrM	8437.0					KIRP-B1-A655			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4	Fusion	MT-ND4--MT-RNR2	chrM	10968							0.0	0.0		0	318.0	MT-ND4	chrM	10968.0	MT-RNR2	chrM	1707.0					KIRP-B1-A655			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4	Fusion	MT-ND4--MT-ND1	chrM	10972							0.0	0.0		0	119.0	MT-ND4	chrM	10972.0	MT-ND1	chrM	3322.0					KIRP-B1-A655			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4	Fusion	MT-ND4--MT-CO1	chrM	10968							0.0	0.0		0	435.0	MT-ND4	chrM	10968.0	MT-CO1	chrM	6557.0					KIRP-B1-A655			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4	Fusion	MT-ND4--MT-ATP8	chrM	11991							0.0	0.0		0	184.0	MT-ND4	chrM	11991.0	MT-ATP8	chrM	8452.0					KIRP-B1-A655			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4	Fusion	MT-ND4--MT-ATP6	chrM	10850							0.0	0.0		0	250.0	MT-ND4	chrM	10850.0	MT-ATP6	chrM	9044.0					KIRP-B1-A655			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CYB	Fusion	MT-CYB--MT-ND4	chrM	15517							0.0	0.0		0	175.0	MT-CYB	chrM	15517.0	MT-ND4	chrM	11528.0					KIRP-B1-A655			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CYB	Fusion	MT-CYB--MT-ATP8	chrM	15537							0.0	0.0		0	70.0	MT-CYB	chrM	15537.0	MT-ATP8	chrM	8458.0					KIRP-B1-A655			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CYB	Fusion	MT-CYB--MT-ATP6	chrM	15408							0.0	0.0		0	121.0	MT-CYB	chrM	15408.0	MT-ATP6	chrM	8933.0					KIRP-B1-A655			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CO2	Fusion	MT-CO2--MT-RNR2	chrM	8136							0.0	0.0		0	109.0	MT-CO2	chrM	8136.0	MT-RNR2	chrM	1696.0					KIRP-B1-A655			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CO2	Fusion	MT-CO2--MT-CO1	chrM	7936							0.0	0.0		0	143.0	MT-CO2	chrM	7936.0	MT-CO1	chrM	6474.0					KIRP-B1-A655			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CO1	Fusion	MT-CO1--MT-RNR2	chrM	6524							0.0	0.0		0	389.0	MT-CO1	chrM	6524.0	MT-RNR2	chrM	1695.0					KIRP-B1-A655			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-ATP6--MT-RNR2	chrM	8647							0.0	0.0		0	237.0	MT-ATP6	chrM	8647.0	MT-RNR2	chrM	2398.0					KIRP-B1-A655			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-ATP6--MT-CO2	chrM	8689							0.0	0.0		0	61.0	MT-ATP6	chrM	8689.0	MT-CO2	chrM	7726.0					KIRP-B1-A655			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-ATP6--MT-CO1	chrM	8684							0.0	0.0		0	165.0	MT-ATP6	chrM	8684.0	MT-CO1	chrM	5937.0					KIRP-B1-A655			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-ATP6--MT-ATP8	chrM	8820							0.0	0.0		0	146.0	MT-ATP6	chrM	8820.0	MT-ATP8	chrM	8444.0					KIRP-B1-A655			0	0	0	0	0	0	1
+Cosmic				Rearrangement	LEPROT	Fusion	LEPROT--LEPR	chr1	65891061							0.0	0.0		0	31.0	LEPROT	chr1	65891061.0	LEPR	chr1	66031229.0					KIRP-B1-A655			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4	Fusion	MT-ND5--MT-ND4	chrM	13673							0.0	0.0		0	323.0	MT-ND5	chrM	13673.0	MT-ND4	chrM	11037.0					KIRP-B1-A655			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND2	Fusion	MT-ND5--MT-ND2	chrM	14077							0.0	0.0		0	65.0	MT-ND5	chrM	14077.0	MT-ND2	chrM	5359.0					KIRP-B1-A655			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CO1	Fusion	MT-ND5--MT-CO1	chrM	13154							0.0	0.0		0	227.0	MT-ND5	chrM	13154.0	MT-CO1	chrM	6440.0					KIRP-B1-A655			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP8	Fusion	MT-ND5--MT-ATP8	chrM	14066							0.0	0.0		0	138.0	MT-ND5	chrM	14066.0	MT-ATP8	chrM	8437.0					KIRP-B1-A655			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND1	Fusion	MT-ND4--MT-ND1	chrM	10972							0.0	0.0		0	119.0	MT-ND4	chrM	10972.0	MT-ND1	chrM	3322.0					KIRP-B1-A655			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CO1	Fusion	MT-ND4--MT-CO1	chrM	10968							0.0	0.0		0	435.0	MT-ND4	chrM	10968.0	MT-CO1	chrM	6557.0					KIRP-B1-A655			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP8	Fusion	MT-ND4--MT-ATP8	chrM	11991							0.0	0.0		0	184.0	MT-ND4	chrM	11991.0	MT-ATP8	chrM	8452.0					KIRP-B1-A655			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-ND4--MT-ATP6	chrM	10850							0.0	0.0		0	250.0	MT-ND4	chrM	10850.0	MT-ATP6	chrM	9044.0					KIRP-B1-A655			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4	Fusion	MT-CYB--MT-ND4	chrM	15517							0.0	0.0		0	175.0	MT-CYB	chrM	15517.0	MT-ND4	chrM	11528.0					KIRP-B1-A655			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP8	Fusion	MT-CYB--MT-ATP8	chrM	15537							0.0	0.0		0	70.0	MT-CYB	chrM	15537.0	MT-ATP8	chrM	8458.0					KIRP-B1-A655			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-CYB--MT-ATP6	chrM	15408							0.0	0.0		0	121.0	MT-CYB	chrM	15408.0	MT-ATP6	chrM	8933.0					KIRP-B1-A655			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CO1	Fusion	MT-CO2--MT-CO1	chrM	7936							0.0	0.0		0	143.0	MT-CO2	chrM	7936.0	MT-CO1	chrM	6474.0					KIRP-B1-A655			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CO2	Fusion	MT-ATP6--MT-CO2	chrM	8689							0.0	0.0		0	61.0	MT-ATP6	chrM	8689.0	MT-CO2	chrM	7726.0					KIRP-B1-A655			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CO1	Fusion	MT-ATP6--MT-CO1	chrM	8684							0.0	0.0		0	165.0	MT-ATP6	chrM	8684.0	MT-CO1	chrM	5937.0					KIRP-B1-A655			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP8	Fusion	MT-ATP6--MT-ATP8	chrM	8820							0.0	0.0		0	146.0	MT-ATP6	chrM	8820.0	MT-ATP8	chrM	8444.0					KIRP-B1-A655			0	0	0	0	0	0	1
+Cosmic				Rearrangement	RAB38	Fusion	CTSC--RAB38	chr11	88033698							0.0	0.0		0	5.0	CTSC	chr11	88033698.0	RAB38	chr11	87883123.0					KIRP-B1-A655			0	0	0	0	0	0	1
+VUS				Somatic Variant	ERLIN1	Missense	p.T116S	10	101935785	101935785.0	G	G	C	0.3523	88.0	0.0	0.0		0								61.0	0.4754	1.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	0	0
+VUS				Somatic Variant	CCDC171	Missense	p.L667P	9	15729747	15729747.0	T	T	C	0.3077	104.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	0	0
+VUS				Somatic Variant	AMER3	Nonsense	p.R197*	2	131520234	131520234.0	C	C	T	0.125	32.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A655	KIRP-B1-A655-TP	KIRP-B1-A655-NB	0	0	0	0	0	0	0
+VUS				Copy Number	PHEX-AS1	Amplification		X	22053146	22294814.0						0.0	0.0		0												KIRP-B1-A655	TCGA-B1-A655-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL436P	Amplification		X	22053146	22294814.0						0.0	0.0		0												KIRP-B1-A655	TCGA-B1-A655-01		0	0	0	0	0	0	0
+VUS				Rearrangement	TVP23C-CDRT4	Fusion	TVP23C-CDRT4--CDRT4	chr17	15449099							0.0	0.0		0	6.0	TVP23C-CDRT4	chr17	15449099.0	CDRT4	chr17	15343599.0					KIRP-B1-A655			0	0	0	0	0	0	0
+VUS				Rearrangement	TVP23C	Fusion	TVP23C--CDRT4	chr17	15449099							0.0	0.0		0	6.0	TVP23C	chr17	15449099.0	CDRT4	chr17	15343599.0					KIRP-B1-A655			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-96H19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46848924							0.0	0.0		0	20.0	RP11-96H19.1	chr12	46848924.0	RP11-446N19.1	chr12	47046173.0					KIRP-B1-A655			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-736K20.6	Fusion	RP11-736K20.6--TMEM135	chr11	86669068							0.0	0.0		0	13.0	RP11-736K20.6	chr11	86669068.0	TMEM135	chr11	86778736.0					KIRP-B1-A655			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-123O10.4	Fusion	RP11-123O10.4--GRIP1	chr12	67462830							0.0	0.0		0	18.0	RP11-123O10.4	chr12	67462830.0	GRIP1	chr12	66990707.0					KIRP-B1-A655			0	0	0	0	0	0	0
+VUS				Rearrangement	MTATP6P1	Fusion	MTATP6P1--hsa-mir-6723	chr1	569483							0.0	0.0		0	21.0	MTATP6P1	chr1	569483.0	hsa-mir-6723	chr1	567668.0					KIRP-B1-A655			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TA	Fusion	MT-TA--MT-TN	chrM	5604							0.0	0.0		0	15.0	MT-TA	chrM	5604.0	MT-TN	chrM	5708.0					KIRP-B1-A655			0	0	0	0	0	0	0
+VUS				Rearrangement	HMCN2	Fusion	HMCN2--MAP3K14-AS1	chr9	133286039							0.0	0.0		0	24.0	HMCN2	chr9	133286039.0	MAP3K14-AS1	chr17	43345376.0					KIRP-B1-A655			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-446N19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46848924							0.0	0.0		0	20.0	RP11-96H19.1	chr12	46848924.0	RP11-446N19.1	chr12	47046173.0					KIRP-B1-A655			0	0	0	0	0	0	0
+VUS				Rearrangement	hsa-mir-6723	Fusion	MTATP6P1--hsa-mir-6723	chr1	569483							0.0	0.0		0	21.0	MTATP6P1	chr1	569483.0	hsa-mir-6723	chr1	567668.0					KIRP-B1-A655			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TN	Fusion	MT-TA--MT-TN	chrM	5604							0.0	0.0		0	15.0	MT-TA	chrM	5604.0	MT-TN	chrM	5708.0					KIRP-B1-A655			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-RNR2	Fusion	MT-ND5--MT-RNR2	chrM	12537							0.0	0.0		0	225.0	MT-ND5	chrM	12537.0	MT-RNR2	chrM	1678.0					KIRP-B1-A655			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-RNR2	Fusion	MT-ND4--MT-RNR2	chrM	10968							0.0	0.0		0	318.0	MT-ND4	chrM	10968.0	MT-RNR2	chrM	1707.0					KIRP-B1-A655			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-RNR2	Fusion	MT-CO2--MT-RNR2	chrM	8136							0.0	0.0		0	109.0	MT-CO2	chrM	8136.0	MT-RNR2	chrM	1696.0					KIRP-B1-A655			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-RNR2	Fusion	MT-CO1--MT-RNR2	chrM	6524							0.0	0.0		0	389.0	MT-CO1	chrM	6524.0	MT-RNR2	chrM	1695.0					KIRP-B1-A655			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-RNR2	Fusion	MT-ATP6--MT-RNR2	chrM	8647							0.0	0.0		0	237.0	MT-ATP6	chrM	8647.0	MT-RNR2	chrM	2398.0					KIRP-B1-A655			0	0	0	0	0	0	0
+VUS				Rearrangement	MAP3K14-AS1	Fusion	HMCN2--MAP3K14-AS1	chr9	133286039							0.0	0.0		0	24.0	HMCN2	chr9	133286039.0	MAP3K14-AS1	chr17	43345376.0					KIRP-B1-A655			0	0	0	0	0	0	0

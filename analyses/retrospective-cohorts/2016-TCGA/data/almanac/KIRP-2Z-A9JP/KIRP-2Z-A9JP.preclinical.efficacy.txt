@@ -1,0 +1,5 @@
+patient_id	feature_display	tested_subfeature	therapy_name	n_mut	n_wt	n_mut_tested	n_wt_tested	mut_ic50_median	mut_ic50_mean	mut_ic50_std	wt_ic50_median	wt_ic50_mean	wt_ic50_std	pvalue_mww	statistic
+KIRP-2Z-A9JP	PIK3CB p.S4G (Missense)	PIK3CB	AZD8186	103	1720	53	699	24.511	41.566	69.483	24.504	55.733	99.902	0.34	19977.5
+KIRP-2Z-A9JP	PIK3CB p.S4G (Missense)	PIK3CB Somatic Variant	AZD8186	59	1764	27	725	23.455	39.922	51.289	24.584	55.286	99.396	0.631	10321.0
+KIRP-2Z-A9JP	PIK3CB p.S4G (Missense)	PIK3CB Somatic Variant Missense	AZD8186	53	1770	25	727	23.422	36.218	49.669	24.781	55.371	99.304	0.376	10034.0
+KIRP-2Z-A9JP	PIK3CB p.S4G (Missense)	PIK3CB Somatic Variant Missense p.S4G	AZD8186	0	1823	0	752				24.508	54.734	98.1	nan	

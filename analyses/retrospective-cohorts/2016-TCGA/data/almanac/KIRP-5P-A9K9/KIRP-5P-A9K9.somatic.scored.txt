@@ -1,0 +1,129 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Investigate Actionability	Investigate Actionability			Somatic Variant	ATM	Missense	p.N1293S	11	108155085	108155085.0	A	A	G	0.4429	70.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	3	1	0	1	1	1	2
+Investigate Actionability	Investigate Actionability			Somatic Variant	MLH3	Nonsense	p.K3*	14	75516352	75516352.0	T	T	A	0.4792	48.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	2	0	0	0	1	0	1
+Cancer Hotspot				Somatic Variant	KDR	Missense	p.R961W	4	55961059	55961059.0	G	G	A	0.44299999999999995	79.0	6.6e-05	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	1	1	1	0	1	2
+Cancer Hotspot				Somatic Variant	TCF7L2	Deletion	p.E29del	10	114710595	114710597.0	AGG	AGG	-	0.3585	212.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	1	0	1	1	0	1
+Cancer Hotspot 3D				Copy Number	FKBP5	Deletion		6	35689574	35689719.0						0.0	0.0		0												KIRP-5P-A9K9	TCGA-5P-A9K9-01		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Somatic Variant	AP5B1	Missense	p.D512E	11	65546428	65546428.0	G	G	C	0.1591	88.0	3.3e-05	0.0		0								16.0	0.3125	0.2799		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	1	0	0	0	1
+Cancer Gene Census				Somatic Variant	BCORL1	Missense	p.P1396S	X	129162717	129162717.0	C	C	T	0.5556	171.0	0.0	0.0		0								28.0	0.8929	1.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	1	0	1	1
+Cancer Gene Census				Somatic Variant	NKX2-1	Insertion	p.240_241insGGG	14	36986875	36986876.0	-	-	GCCCCCGCC	0.0889	90.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	1	0	1	1
+Cancer Gene Census				Somatic Variant	BAP1	Missense	p.L101P	3	52442047	52442047.0	A	A	G	0.4359	195.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	1	0	0	1
+Cancer Pathway				Somatic Variant	DOCK1	Deletion	p.E1693del	10	129237368	129237370.0	AGG	AGG	-	0.4578	166.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	1	1	1
+Cancer Module				Somatic Variant	SLC30A9	Missense	p.T463S	4	42072678	42072678.0	C	C	G	0.2319	69.0	0.0	0.0		0								75.0	0.16	0.9997		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SLC24A3	Missense	p.V395M	20	19665864	19665864.0	G	G	A	0.2946	129.0	0.000436	0.0		0								5.0	0.6	0.0325		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	RIMS1	Missense	p.R136C	6	72806812	72806812.0	C	C	T	0.1736	121.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ACADS	Missense	p.D175N	12	121175690	121175690.0	G	G	A	0.275	120.0	0.0	0.0		0								157.0	0.3949	1.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	THOC1	Missense	p.S643N	18	214672	214672.0	C	C	T	0.4918	61.0	0.0	0.0		0								40.0	0.675	1.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	ABCC6	Missense	p.L1025P	16	16259712	16259712.0	A	A	G	0.3333	186.0	0.0	0.0		0								36.0	0.3611	0.9990000000000001		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	CSGALNACT2	Missense	p.L467I	10	43678760	43678760.0	T	T	A	0.3762	202.0	0.0	0.0		0								25.0	0.52	0.9933		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	ATG2A	Missense	p.R804Q	11	64675316	64675316.0	C	C	T	0.5	42.0	2.5e-05	0.0		0								14.0	0.8571	0.9514		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	MAPK8IP3	Missense	p.D1126E	16	1817708	1817708.0	C	C	G	0.2875	80.0	0.0	0.0		0								25.0	0.44	0.9389		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	PZP	Splice Site		12	9346672	9346672.0	C	C	A	0.3525	139.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	MACF1	Deletion	p.K3751del	1	39818709	39818711.0	AAG	AAG	-	0.3053	95.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	CYP11B2	Missense	p.A279S	8	143995799	143995799.0	C	C	A	0.3719	121.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	CYP2B6	Deletion	p.L44del	19	41497337	41497339.0	CTT	CTT	-	0.3651	63.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	SI	Missense	p.Q930R	3	164748603	164748603.0	T	T	C	0.1552	174.0	0.000396	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	COL1A2	Splice Site	p.S1318S	7	94058742	94058742.0	T	T	G	0.4286	56.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	HPS1	Missense	p.E88Q	10	100195165	100195165.0	C	C	G	0.4098	61.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	CTSA	Missense	p.N131S	20	44520943	44520943.0	A	A	G	0.3571	168.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	HSPB11	Frameshift	p.S144fs	1	54387332	54387332.0	A	A	-	0.2992	254.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	RGL1	Missense	p.L64I	1	183775566	183775566.0	C	C	A	0.3611	72.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	HTR2B	Frameshift	p.SE8fs	2	231988454	231988457.0	CAGA	CAGA	-	0.5385	65.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	PURG	Nonsense	p.E291*	8	30889428	30889428.0	C	C	A	0.2697	89.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	NUDT5	Deletion	p.S10del	10	12228261	12228263.0	AGA	AGA	-	0.243	107.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	ZFP91	Deletion	p.K442del	11	58384785	58384787.0	AGA	AGA	-	0.55	60.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	OPCML	Missense	p.V167G	11	132398981	132398981.0	A	A	C	0.1966	117.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	PTPRO	Missense	p.L896F	12	15713185	15713185.0	C	C	T	0.3368	95.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	ADCY4	Deletion	p.F685del	14	24792652	24792654.0	GAA	GAA	-	0.4697	66.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	UACA	Deletion	p.K853del	15	70960463	70960465.0	TCT	TCT	-	0.5571	70.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	ADCY7	Deletion	p.K830del	16	50345979	50345981.0	GAA	GAA	-	0.2308	39.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	TLE2	Deletion	p.E31del	19	3028733	3028735.0	TTC	TTC	-	0.5125	80.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	C19orf53	Deletion	p.K60del	19	13888886	13888888.0	GAA	GAA	-	0.1835	109.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	GMIP	Frameshift	p.P468fs	19	19746455	19746456.0	GG	GG	-	0.2059	68.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	F8	Deletion	p.F672del	X	154176069	154176071.0	AGA	AGA	-	0.5315	111.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	COLQ	Missense	p.D342E	3	15498015	15498015.0	G	G	C	0.1842	38.0	1.6e-05	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	1	1
+Cancer Module				Copy Number	CACNA1C	Amplification		12	2120558	3999365.0						0.0	0.0		0												KIRP-5P-A9K9	TCGA-5P-A9K9-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FKBP4	Amplification		12	2120558	3999365.0						0.0	0.0		0												KIRP-5P-A9K9	TCGA-5P-A9K9-01		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	ANKRD26	Fusion	ACBD5--ANKRD26	chr10	27520677							0.0	0.0		0	28.0	ACBD5	chr10	27520677.0	ANKRD26	chr10	27284076.0					KIRP-5P-A9K9			0	0	0	0	0	1	1
+Cancer Module				Copy Number	TEAD4	Amplification		12	2120558	3999365.0						0.0	0.0		0												KIRP-5P-A9K9	TCGA-5P-A9K9-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TULP3	Amplification		12	2120558	3999365.0						0.0	0.0		0												KIRP-5P-A9K9	TCGA-5P-A9K9-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NRIP2	Amplification		12	2120558	3999365.0						0.0	0.0		0												KIRP-5P-A9K9	TCGA-5P-A9K9-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FOXM1	Amplification		12	2120558	3999365.0						0.0	0.0		0												KIRP-5P-A9K9	TCGA-5P-A9K9-01		0	0	0	0	0	1	1
+Cosmic				Somatic Variant	ATP8B2	Missense	p.A212V	1	154305120	154305120.0	C	C	T	0.4037	109.0	0.0	0.0		0								19.0	0.5789	0.9709		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	RFX6	Missense	p.D529N	6	117245861	117245861.0	G	G	A	0.32	125.0	8e-06	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	PCNXL4	Missense	p.D828N	14	60591371	60591371.0	G	G	A	0.5802	81.0	1.6e-05	0.0		0								27.0	0.7778	1.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	UNC5CL	Missense	p.G466R	6	40996273	40996273.0	C	C	G	0.2131	61.0	0.0	0.0		0								95.0	0.3579	0.9998		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	NCLN	Missense	p.E133Q	19	3193303	3193303.0	G	G	C	0.3125	16.0	0.0	0.0		0								40.0	0.825	0.9846		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	KCNH6	Missense	p.P168S	17	61607730	61607730.0	C	C	T	0.2985	201.0	0.0	0.0		0								10.0	0.3	0.3535		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	OTUD7A	Missense	p.K231N	15	31819471	31819471.0	T	T	A	0.2419	62.0	0.0	0.0		0								2.0	1.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	YTHDC2	Missense	p.V726A	5	112891792	112891792.0	T	T	C	0.1489	235.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	CATSPER1	Frameshift	p.S326fs	11	65792873	65792874.0	AG	AG	-	0.1364	66.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	FNIP1	Missense	p.S209R	5	131044912	131044912.0	T	T	G	0.4364	55.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	SFRP5	Deletion	p.K228del	10	99527541	99527543.0	CTT	CTT	-	0.3662	71.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	TRAF3IP1	Frameshift	p.N375fs	2	239247063	239247064.0	AT	AT	-	0.2353	323.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	TRIM52	Deletion	p.E152del	5	180687359	180687361.0	TTC	TTC	-	0.1429	105.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	TMTC1	Missense	p.P296S	12	29904651	29904651.0	G	G	A	0.2424	66.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	ERN2	Missense	p.S199T	16	23716462	23716462.0	C	C	G	0.3033	211.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	OTX1	Deletion	p.K111del	2	63282711	63282713.0	AAG	AAG	-	0.1798	267.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	FBLN7	Missense	p.C222G	2	112939447	112939447.0	T	T	G	0.381	42.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	OLA1	Deletion	p.G195del	2	175006576	175006578.0	CTC	CTC	-	0.281	153.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	VEPH1	Missense	p.T381S	3	157082287	157082287.0	G	G	C	0.4262	61.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	HIST1H3A	Missense	p.G45S	6	26020850	26020850.0	G	G	A	0.2405	79.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	ZNF12	Frameshift	p.K3fs	7	6744796	6744796.0	T	T	-	0.3958	96.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	XPO7	Frameshift	p.L576fs	8	21845307	21845308.0	CT	CT	-	0.3168	101.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	ZCCHC7	Deletion	p.P483del	9	37357078	37357080.0	CTC	CTC	-	0.3564	101.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	SURF4	Deletion	p.K267del	9	136230378	136230380.0	CTT	CTT	-	0.5824	91.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	OR8B8	Missense	p.A3T	11	124310975	124310975.0	C	C	T	0.6	15.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	PTPRQ	Splice Site	p.ETG1423del	12	80943506	80943523.0	TGAAACAGGTAACTAACG	TGAAACAGGTAACTAACG	-	0.0312	160.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	OR4N5	Deletion	p.S93del	14	20612170	20612172.0	CTC	CTC	-	0.4308	65.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	ZNF747	Missense	p.A106T	16	30545545	30545545.0	C	C	T	0.3063	111.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	HIPK4	Deletion	p.K399del	19	40886701	40886703.0	CTT	CTT	-	0.1923	52.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	PHKA1	Deletion	p.695_696TT>T	X	71840625	71840627.0	GTT	GTT	-	0.36	50.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	HS6ST2	Frameshift	p.A48fs	X	132092490	132092490.0	G	G	-	0.6154	78.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	0	1
+Cosmic				Copy Number	TSPAN9	Amplification		12	2120558	3999365.0						0.0	0.0		0												KIRP-5P-A9K9	TCGA-5P-A9K9-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PARP11	Amplification		12	2120558	3999365.0						0.0	0.0		0												KIRP-5P-A9K9	TCGA-5P-A9K9-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ITFG2	Amplification		12	2120558	3999365.0						0.0	0.0		0												KIRP-5P-A9K9	TCGA-5P-A9K9-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	EFCAB4B	Amplification		12	2120558	3999365.0						0.0	0.0		0												KIRP-5P-A9K9	TCGA-5P-A9K9-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRMT8	Amplification		12	2120558	3999365.0						0.0	0.0		0												KIRP-5P-A9K9	TCGA-5P-A9K9-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RMND1	Deletion		6	151766807	151768135.0						0.0	0.0		0												KIRP-5P-A9K9	TCGA-5P-A9K9-01		0	0	0	0	0	0	1
+Cosmic				Rearrangement	SHISA9	Fusion	SHISA9--U91319.1	chr16	13297406							0.0	0.0		0	6.0	SHISA9	chr16	13297406.0	U91319.1	chr16	13444037.0					KIRP-5P-A9K9			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4	Fusion	MT-ND4--MT-ATP8	chrM	11578							0.0	0.0		0	17.0	MT-ND4	chrM	11578.0	MT-ATP8	chrM	8514.0					KIRP-5P-A9K9			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-ATP6--MT-ATP8	chrM	8640							0.0	0.0		0	43.0	MT-ATP6	chrM	8640.0	MT-ATP8	chrM	8511.0					KIRP-5P-A9K9			0	0	0	0	0	0	1
+Cosmic				Rearrangement	ACBD5	Fusion	ACBD5--ANKRD26	chr10	27520677							0.0	0.0		0	28.0	ACBD5	chr10	27520677.0	ANKRD26	chr10	27284076.0					KIRP-5P-A9K9			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP8	Fusion	MT-ND4--MT-ATP8	chrM	11578							0.0	0.0		0	17.0	MT-ND4	chrM	11578.0	MT-ATP8	chrM	8514.0					KIRP-5P-A9K9			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP8	Fusion	MT-ATP6--MT-ATP8	chrM	8640							0.0	0.0		0	43.0	MT-ATP6	chrM	8640.0	MT-ATP8	chrM	8511.0					KIRP-5P-A9K9			0	0	0	0	0	0	1
+VUS				Somatic Variant	TLDC1	Deletion	p.E105del	16	84529358	84529360.0	CTC	CTC	-	0.1062	113.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	0	0
+VUS				Somatic Variant	FAM227B	Frameshift	p.N220fs	15	49860530	49860530.0	T	T	-	0.5833	24.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K9	KIRP-5P-A9K9-TP	KIRP-5P-A9K9-NB	0	0	0	0	0	0	0
+VUS				Copy Number	RHNO1	Amplification		12	2120558	3999365.0						0.0	0.0		0												KIRP-5P-A9K9	TCGA-5P-A9K9-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-885B4.2	Amplification		12	2120558	3999365.0						0.0	0.0		0												KIRP-5P-A9K9	TCGA-5P-A9K9-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-174P	Amplification		12	2120558	3999365.0						0.0	0.0		0												KIRP-5P-A9K9	TCGA-5P-A9K9-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-166P	Amplification		12	2120558	3999365.0						0.0	0.0		0												KIRP-5P-A9K9	TCGA-5P-A9K9-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-253E3.3	Amplification		12	2120558	3999365.0						0.0	0.0		0												KIRP-5P-A9K9	TCGA-5P-A9K9-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-476M19.2	Amplification		12	2120558	3999365.0						0.0	0.0		0												KIRP-5P-A9K9	TCGA-5P-A9K9-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-476M19.3	Amplification		12	2120558	3999365.0						0.0	0.0		0												KIRP-5P-A9K9	TCGA-5P-A9K9-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-664D1.1	Amplification		12	2120558	3999365.0						0.0	0.0		0												KIRP-5P-A9K9	TCGA-5P-A9K9-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-885B4.1	Amplification		12	2120558	3999365.0						0.0	0.0		0												KIRP-5P-A9K9	TCGA-5P-A9K9-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-816N1.6	Amplification		12	2120558	3999365.0						0.0	0.0		0												KIRP-5P-A9K9	TCGA-5P-A9K9-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005841.1	Amplification		12	2120558	3999365.0						0.0	0.0		0												KIRP-5P-A9K9	TCGA-5P-A9K9-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-816N1.7	Amplification		12	2120558	3999365.0						0.0	0.0		0												KIRP-5P-A9K9	TCGA-5P-A9K9-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1063M23.1	Amplification		12	2120558	3999365.0						0.0	0.0		0												KIRP-5P-A9K9	TCGA-5P-A9K9-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1063M23.2	Amplification		12	2120558	3999365.0						0.0	0.0		0												KIRP-5P-A9K9	TCGA-5P-A9K9-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1096D14.6	Amplification		12	2120558	3999365.0						0.0	0.0		0												KIRP-5P-A9K9	TCGA-5P-A9K9-01		0	0	0	0	0	0	0
+VUS				Copy Number	TSPAN9-IT1	Amplification		12	2120558	3999365.0						0.0	0.0		0												KIRP-5P-A9K9	TCGA-5P-A9K9-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1315P	Amplification		12	2120558	3999365.0						0.0	0.0		0												KIRP-5P-A9K9	TCGA-5P-A9K9-01		0	0	0	0	0	0	0
+VUS				Copy Number	CBX3P4	Amplification		12	2120558	3999365.0						0.0	0.0		0												KIRP-5P-A9K9	TCGA-5P-A9K9-01		0	0	0	0	0	0	0
+VUS				Copy Number	CACNA1C-AS1	Amplification		12	2120558	3999365.0						0.0	0.0		0												KIRP-5P-A9K9	TCGA-5P-A9K9-01		0	0	0	0	0	0	0
+VUS				Copy Number	CACNA1C-IT3	Amplification		12	2120558	3999365.0						0.0	0.0		0												KIRP-5P-A9K9	TCGA-5P-A9K9-01		0	0	0	0	0	0	0
+VUS				Copy Number	CACNA1C-IT2	Amplification		12	2120558	3999365.0						0.0	0.0		0												KIRP-5P-A9K9	TCGA-5P-A9K9-01		0	0	0	0	0	0	0
+VUS				Copy Number	CACNA1C-IT1	Amplification		12	2120558	3999365.0						0.0	0.0		0												KIRP-5P-A9K9	TCGA-5P-A9K9-01		0	0	0	0	0	0	0
+VUS				Copy Number	CACNA1C-AS4	Amplification		12	2120558	3999365.0						0.0	0.0		0												KIRP-5P-A9K9	TCGA-5P-A9K9-01		0	0	0	0	0	0	0
+VUS				Copy Number	CACNA1C-AS3	Amplification		12	2120558	3999365.0						0.0	0.0		0												KIRP-5P-A9K9	TCGA-5P-A9K9-01		0	0	0	0	0	0	0
+VUS				Copy Number	CACNA1C-AS2	Amplification		12	2120558	3999365.0						0.0	0.0		0												KIRP-5P-A9K9	TCGA-5P-A9K9-01		0	0	0	0	0	0	0
+VUS				Copy Number		Amplification		X	8190024	8401929.0						0.0	0.0		0												KIRP-5P-A9K9	TCGA-5P-A9K9-01		0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-96H19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	23.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	47046173.0					KIRP-5P-A9K9			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKV1-33	Fusion	IGKV1-33--IGKJ2	chr2	89567759							0.0	0.0		0	27.0	IGKV1-33	chr2	89567759.0	IGKJ2	chr2	89161074.0					KIRP-5P-A9K9			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKV1-33	Fusion	IGKV1-33--AC096579.13	chr2	89567759							0.0	0.0		0	27.0	IGKV1-33	chr2	89567759.0	AC096579.13	chr2	89161074.0					KIRP-5P-A9K9			0	0	0	0	0	0	0
+VUS				Rearrangement	U91319.1	Fusion	SHISA9--U91319.1	chr16	13297406							0.0	0.0		0	6.0	SHISA9	chr16	13297406.0	U91319.1	chr16	13444037.0					KIRP-5P-A9K9			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-446N19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	23.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	47046173.0					KIRP-5P-A9K9			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKJ2	Fusion	IGKV1-33--IGKJ2	chr2	89567759							0.0	0.0		0	27.0	IGKV1-33	chr2	89567759.0	IGKJ2	chr2	89161074.0					KIRP-5P-A9K9			0	0	0	0	0	0	0
+VUS				Rearrangement	AC096579.13	Fusion	IGKV1-33--AC096579.13	chr2	89567759							0.0	0.0		0	27.0	IGKV1-33	chr2	89567759.0	AC096579.13	chr2	89161074.0					KIRP-5P-A9K9			0	0	0	0	0	0	0

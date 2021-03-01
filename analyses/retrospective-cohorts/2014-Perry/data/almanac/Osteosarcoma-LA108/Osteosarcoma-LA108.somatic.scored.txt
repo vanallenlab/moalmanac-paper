@@ -1,0 +1,221 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Putatively Actionable	Putatively Actionable			Copy Number	CCNE1	Amplification		19	29698203	31048323.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		4	0	0	1	1	1	1
+Investigate Actionability	Investigate Actionability			Rearrangement	RUNX1	Fusion	HDAC7--RUNX1	chr12	48213550							0.0	0.0		0	44.0	HDAC7	chr12	48213550.0	RUNX1	chr21	36953227.0					Osteosarcoma-LA108			3	1	0	1	1	1	1
+Biologically Relevant				Copy Number	FLCN	Amplification		17	17034679	17724087.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		1	0	0	1	1	0	1
+Cancer Hotspot 3D				Somatic Variant	EPHB2	Missense	p.R447H	1	23208888	23208888.0	G	G	A	0.0294	136.0	3.3e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-LA108	Osteosarcoma-LA108-Tumor-SM-2RCBA	Osteosarcoma-LA108-Normal-SM-2RCCP	0	0	1	0	0	1	2
+Cancer Hotspot 3D				Copy Number	UQCRFS1	Amplification		19	29698203	31048323.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Rearrangement	SLIT2	Fusion	SLIT2--SLIT2-IT1	chr4	20270504							0.0	0.0		0	5.0	SLIT2	chr4	20270504.0	SLIT2-IT1	chr4	20396152.0					Osteosarcoma-LA108			0	0	1	0	0	1	1
+Cancer Hotspot 3D				Rearrangement	RPS6KA3	Fusion	RPS6KA3--NF2	chrX	20284682							0.0	0.0		0	10.0	RPS6KA3	chrX	20284682.0	NF2	chr22	30090741.0					Osteosarcoma-LA108			0	0	1	0	0	1	1
+Cancer Hotspot 3D				Somatic Variant	SYT14	Missense	p.C51F	1	210187068	210187068.0	G	G	T	0.1688	160.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-LA108	Osteosarcoma-LA108-Tumor-SM-2RCBA	Osteosarcoma-LA108-Normal-SM-2RCCP	0	0	1	0	0	0	2
+Cancer Gene Census				Somatic Variant	TPR	Nonsense	p.S1490*	1	186306182	186306182.0	G	G	C	0.1932	264.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-LA108	Osteosarcoma-LA108-Tumor-SM-2RCBA	Osteosarcoma-LA108-Normal-SM-2RCCP	0	0	0	1	1	1	2
+Cancer Gene Census				Rearrangement	TPR	Fusion	C1orf27--TPR	chr1	186345106							0.0	0.0		0	18.0	C1orf27	chr1	186345106.0	TPR	chr1	186316590.0					Osteosarcoma-LA108			0	0	0	1	1	1	1
+Cancer Gene Census				Rearrangement	FANCC	Fusion	ADAM17--FANCC	chr2	9695638							0.0	0.0		0	86.0	ADAM17	chr2	9695638.0	FANCC	chr9	97876992.0					Osteosarcoma-LA108			0	0	0	1	1	1	1
+Cancer Gene Census				Rearrangement	NF2	Fusion	RPS6KA3--NF2	chrX	20284682							0.0	0.0		0	10.0	RPS6KA3	chrX	20284682.0	NF2	chr22	30090741.0					Osteosarcoma-LA108			0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	SPECC1	Amplification		17	19186181	20209647.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	1	0	0	1
+Cancer Gene Census				Copy Number	ROBO2	Deletion		3	77526313	81810918.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	1	0	0	1
+Cancer Gene Census				Rearrangement	ROBO2	Fusion	ROBO2--CADM2	chr3	77147491							0.0	0.0		0	95.0	ROBO2	chr3	77147491.0	CADM2	chr3	85851197.0					Osteosarcoma-LA108			0	0	0	1	0	0	1
+Cancer Gene Census				Copy Number	KTN1	Deletion		14	56119316	56120040.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	1	0	0	1
+Cancer Pathway				Copy Number	TOP3A	Amplification		17	17726580	18259547.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	1	0	1
+Cancer Module				Somatic Variant	SLC14A2	Missense	p.T876I	18	43262348	43262348.0	C	C	T	0.0175	342.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-LA108	Osteosarcoma-LA108-Tumor-SM-2RCBA	Osteosarcoma-LA108-Normal-SM-2RCCP	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	PCDH8	Missense	p.G738V	13	53420359	53420359.0	C	C	A	0.0968	31.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-LA108	Osteosarcoma-LA108-Tumor-SM-2RCBA	Osteosarcoma-LA108-Normal-SM-2RCCP	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	PIBF1	Missense	p.K119I	13	73369499	73369499.0	A	A	T	0.4444	9.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-LA108	Osteosarcoma-LA108-Tumor-SM-2RCBA	Osteosarcoma-LA108-Normal-SM-2RCCP	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	RYR1	Missense	p.E2329A	19	38989842	38989842.0	A	A	C	0.15	80.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-LA108	Osteosarcoma-LA108-Tumor-SM-2RCBA	Osteosarcoma-LA108-Normal-SM-2RCCP	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	GBP5	Missense	p.D306V	1	89730601	89730601.0	T	T	A	0.3247	77.0	8e-06	0.0		0								0.0	0.0	0.0		Osteosarcoma-LA108	Osteosarcoma-LA108-Tumor-SM-2RCBA	Osteosarcoma-LA108-Normal-SM-2RCCP	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	FLII	Missense	p.R474W	17	18154755	18154755.0	G	G	A	0.0526	666.0	4.1e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-LA108	Osteosarcoma-LA108-Tumor-SM-2RCBA	Osteosarcoma-LA108-Normal-SM-2RCCP	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	BRIX1	Missense	p.R266W	5	34925334	34925334.0	C	C	T	0.2308	13.0	0.00031299999999999996	0.0		0								0.0	0.0	0.0		Osteosarcoma-LA108	Osteosarcoma-LA108-Tumor-SM-2RCBA	Osteosarcoma-LA108-Normal-SM-2RCCP	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	APPBP2	Splice Site		17	58556508	58556508.0	C	C	G	0.2349	149.0	0.0	0.0		0								16.0	0.75	0.5456		Osteosarcoma-LA108	Osteosarcoma-LA108-Tumor-SM-2RCBA	Osteosarcoma-LA108-Normal-SM-2RCCP	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	PTPN9	Splice Site		15	75809706	75809706.0	C	C	T	0.2769	65.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-LA108	Osteosarcoma-LA108-Tumor-SM-2RCBA	Osteosarcoma-LA108-Normal-SM-2RCCP	0	0	0	0	0	1	1
+Cancer Module				Copy Number	KCNJ12	Amplification		17	20796453	21320208.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MAP2K3	Amplification		17	20796453	21320208.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LPA	Deletion		6	161027257	161067679.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MYO15A	Amplification		17	17726580	18259547.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GBE1	Deletion		3	77526313	81810918.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MPRIP	Amplification		17	17034679	17724087.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PEMT	Amplification		17	17034679	17724087.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SHMT1	Amplification		17	17726580	18259547.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EPN2	Amplification		17	19186181	20209647.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ALDH3A1	Amplification		17	19186181	20209647.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	CTSC	Fusion	CTSC--RAB38	chr11	88029301							0.0	0.0		0	7.0	CTSC	chr11	88029301.0	RAB38	chr11	87883123.0					Osteosarcoma-LA108			0	0	0	0	0	1	1
+Cancer Module				Copy Number	C19orf12	Amplification		19	29698203	31048323.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NT5M	Amplification		17	17034679	17724087.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MED9	Amplification		17	17034679	17724087.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SREBF1	Amplification		17	17034679	17724087.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	COPS3	Amplification		17	17034679	17724087.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ALKBH5	Amplification		17	17726580	18259547.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ATPAF2	Amplification		17	17726580	18259547.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DRG2	Amplification		17	17726580	18259547.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FLII	Amplification		17	17726580	18259547.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC47A1	Amplification		17	19186181	20209647.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	AKAP10	Amplification		17	19186181	20209647.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MAPK7	Amplification		17	19186181	20209647.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MFAP4	Amplification		17	19186181	20209647.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ALDH3A2	Amplification		17	19186181	20209647.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	B9D1	Amplification		17	19186181	20209647.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	USP22	Amplification		17	20796453	21320208.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GRAP	Amplification		17	18770343	18939645.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PRPSAP2	Amplification		17	18770343	18939645.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TNFRSF13B	Amplification		17	16875077	17030419.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DEFA5	Deletion		8	6835040	6914471.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DEFA3	Deletion		8	6835040	6914471.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ROBO1	Deletion		3	77526313	81810918.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MAGI2	Deletion		7	78118826	78151214.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	HDAC7	Fusion	HDAC7--RUNX1	chr12	48213550							0.0	0.0		0	44.0	HDAC7	chr12	48213550.0	RUNX1	chr21	36953227.0					Osteosarcoma-LA108			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	DSCR4	Fusion	DSCR4--DSCR4-IT1	chr21	39492401							0.0	0.0		0	10.0	DSCR4	chr21	39492401.0	DSCR4-IT1	chr21	39379128.0					Osteosarcoma-LA108			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	ADAM17	Fusion	ADAM17--FANCC	chr2	9695638							0.0	0.0		0	86.0	ADAM17	chr2	9695638.0	FANCC	chr9	97876992.0					Osteosarcoma-LA108			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	MCU	Fusion	YWHAQ--MCU	chr2	9770288							0.0	0.0		0	138.0	YWHAQ	chr2	9770288.0	MCU	chr10	74594117.0					Osteosarcoma-LA108			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	PDXK	Fusion	RRP1--PDXK	chr21	45209643							0.0	0.0		0	173.0	RRP1	chr21	45209643.0	PDXK	chr21	45173464.0					Osteosarcoma-LA108			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	MID1	Fusion	RP11-120D5.1--MID1	chrX	11074056							0.0	0.0		0	5.0	RP11-120D5.1	chrX	11074056.0	MID1	chrX	10535643.0					Osteosarcoma-LA108			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	PRPSAP2	Fusion	C17orf76-AS1--PRPSAP2	chr17	16344444							0.0	0.0		0	10.0	C17orf76-AS1	chr17	16344444.0	PRPSAP2	chr17	18775896.0					Osteosarcoma-LA108			0	0	0	0	0	1	1
+Cancer Module				Copy Number	DEFA1	Deletion		8	6835040	6914471.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	1	0
+Cosmic				Somatic Variant	RPRD2	Missense	p.V1067I	1	150444623	150444623.0	G	G	A	0.1968	188.0	8e-06	0.0		0								123.0	0.2439	1.0		Osteosarcoma-LA108	Osteosarcoma-LA108-Tumor-SM-2RCBA	Osteosarcoma-LA108-Normal-SM-2RCCP	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	GNPTG	Missense	p.A160V	16	1412274	1412274.0	C	C	T	0.5294	51.0	0.000297	0.0		0								104.0	0.3654	1.0		Osteosarcoma-LA108	Osteosarcoma-LA108-Tumor-SM-2RCBA	Osteosarcoma-LA108-Normal-SM-2RCCP	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	NHLRC1	Missense	p.E222D	6	18122172	18122172.0	C	C	A	0.25	48.0	0.0	0.0		0								15.0	0.2667	0.5551		Osteosarcoma-LA108	Osteosarcoma-LA108-Tumor-SM-2RCBA	Osteosarcoma-LA108-Normal-SM-2RCCP	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	WDR63	Missense	p.P533L	1	85573760	85573760.0	C	C	T	0.4231	26.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-LA108	Osteosarcoma-LA108-Tumor-SM-2RCBA	Osteosarcoma-LA108-Normal-SM-2RCCP	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	STRBP	Missense	p.M373R	9	125910077	125910077.0	A	A	C	0.375	8.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-LA108	Osteosarcoma-LA108-Tumor-SM-2RCBA	Osteosarcoma-LA108-Normal-SM-2RCCP	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ANKS4B	Missense	p.Q355H	16	21261952	21261952.0	G	G	T	0.5	44.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-LA108	Osteosarcoma-LA108-Tumor-SM-2RCBA	Osteosarcoma-LA108-Normal-SM-2RCCP	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ZNF575	Missense	p.A174T	19	44039621	44039621.0	G	G	A	0.0833	36.0	8e-06	0.0		0								0.0	0.0	0.0		Osteosarcoma-LA108	Osteosarcoma-LA108-Tumor-SM-2RCBA	Osteosarcoma-LA108-Normal-SM-2RCCP	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	OR52E4	Missense	p.R264H	11	5906313	5906313.0	G	G	A	0.4148	135.0	6.6e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-LA108	Osteosarcoma-LA108-Tumor-SM-2RCBA	Osteosarcoma-LA108-Normal-SM-2RCCP	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	OR5M1	Missense	p.R135S	11	56380574	56380574.0	C	C	A	0.4118	68.0	1.7e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-LA108	Osteosarcoma-LA108-Tumor-SM-2RCBA	Osteosarcoma-LA108-Normal-SM-2RCCP	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	TPRN	Deletion	p.E533del	9	140093564	140093566.0	CCT	CCT	-	0.1579	19.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-LA108	Osteosarcoma-LA108-Tumor-SM-2RCBA	Osteosarcoma-LA108-Normal-SM-2RCCP	0	0	0	0	0	0	1
+Cosmic				Copy Number	SMCR8	Amplification		17	17726580	18259547.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NAALADL2	Deletion		3	174814330	174974569.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LLGL1	Amplification		17	17726580	18259547.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ULK2	Amplification		17	19186181	20209647.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC5A10	Amplification		17	18770343	18939645.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM83G	Amplification		17	18770343	18939645.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FBXW10	Amplification		17	18630619	18709132.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	NRD1	Fusion	NRD1--NBPF13P	chr1	52343947							0.0	0.0		0	16.0	NRD1	chr1	52343947.0	NBPF13P	chr1	146585853.0					Osteosarcoma-LA108			0	0	0	0	0	0	1
+Cosmic				Rearrangement	CHSY3	Fusion	CHSY3--HSPA8P4	chr5	129244053							0.0	0.0		0	12.0	CHSY3	chr5	129244053.0	HSPA8P4	chr5	129476585.0					Osteosarcoma-LA108			0	0	0	0	0	0	1
+Cosmic				Rearrangement	NRD1	Fusion	RP11-337C18.8--NRD1	chr1	146646164							0.0	0.0		0	9.0	RP11-337C18.8	chr1	146646164.0	NRD1	chr1	52293541.0					Osteosarcoma-LA108			0	0	0	0	0	0	1
+Cosmic				Rearrangement	NRD1	Fusion	RP11-337C18.10--NRD1	chr1	146646164							0.0	0.0		0	9.0	RP11-337C18.10	chr1	146646164.0	NRD1	chr1	52293541.0					Osteosarcoma-LA108			0	0	0	0	0	0	1
+Cosmic				Rearrangement	SWT1	Fusion	IVNS1ABP--SWT1	chr1	185265829							0.0	0.0		0	20.0	IVNS1ABP	chr1	185265829.0	SWT1	chr1	185159681.0					Osteosarcoma-LA108			0	0	0	0	0	0	1
+Cosmic				Copy Number	POP4	Amplification		19	29698203	31048323.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF536	Amplification		19	29698203	31048323.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	VSTM2B	Amplification		19	29698203	31048323.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PLEKHF1	Amplification		19	29698203	31048323.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RAI1	Amplification		17	17034679	17724087.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PLD6	Amplification		17	17034679	17724087.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RASD1	Amplification		17	17034679	17724087.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TOM1L2	Amplification		17	17726580	18259547.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRRC48	Amplification		17	17726580	18259547.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCDC144B	Amplification		17	18506667	18544917.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TBC1D28	Amplification		17	18506667	18544917.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC47A2	Amplification		17	19186181	20209647.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RNF112	Amplification		17	19186181	20209647.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCDC144NL	Amplification		17	20796453	21320208.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM11	Amplification		17	20796453	21320208.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C17orf103	Amplification		17	20796453	21320208.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DHRS7B	Amplification		17	20796453	21320208.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TRIM16L	Amplification		17	18630619	18709132.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DEFA1B	Deletion		8	6835040	6914471.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DLG2	Deletion		11	84245361	84246098.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MSR1	Deletion		8	15967342	16022012.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	YWHAQ	Fusion	YWHAQ--MCU	chr2	9770288							0.0	0.0		0	138.0	YWHAQ	chr2	9770288.0	MCU	chr10	74594117.0					Osteosarcoma-LA108			0	0	0	0	0	0	1
+Cosmic				Rearrangement	TLK2	Fusion	TLK2--RP11-178C3.2	chr17	60558567							0.0	0.0		0	18.0	TLK2	chr17	60558567.0	RP11-178C3.2	chr17	58050196.0					Osteosarcoma-LA108			0	0	0	0	0	0	1
+Cosmic				Rearrangement	TLK2	Fusion	TLK2--RP11-178C3.1	chr17	60558567							0.0	0.0		0	18.0	TLK2	chr17	60558567.0	RP11-178C3.1	chr17	58050196.0					Osteosarcoma-LA108			0	0	0	0	0	0	1
+Cosmic				Rearrangement	RRP1	Fusion	RRP1--PDXK	chr21	45209643							0.0	0.0		0	173.0	RRP1	chr21	45209643.0	PDXK	chr21	45173464.0					Osteosarcoma-LA108			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-ATP6--MT-ATP8	chrM	8624							0.0	0.0		0	7.0	MT-ATP6	chrM	8624.0	MT-ATP8	chrM	8398.0					Osteosarcoma-LA108			0	0	0	0	0	0	1
+Cosmic				Rearrangement	IVNS1ABP	Fusion	IVNS1ABP--SWT1	chr1	185265829							0.0	0.0		0	20.0	IVNS1ABP	chr1	185265829.0	SWT1	chr1	185159681.0					Osteosarcoma-LA108			0	0	0	0	0	0	1
+Cosmic				Rearrangement	C1orf27	Fusion	C1orf27--TPR	chr1	186345106							0.0	0.0		0	18.0	C1orf27	chr1	186345106.0	TPR	chr1	186316590.0					Osteosarcoma-LA108			0	0	0	0	0	0	1
+Cosmic				Rearrangement	CADM2	Fusion	ROBO2--CADM2	chr3	77147491							0.0	0.0		0	95.0	ROBO2	chr3	77147491.0	CADM2	chr3	85851197.0					Osteosarcoma-LA108			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP8	Fusion	MT-ATP6--MT-ATP8	chrM	8624							0.0	0.0		0	7.0	MT-ATP6	chrM	8624.0	MT-ATP8	chrM	8398.0					Osteosarcoma-LA108			0	0	0	0	0	0	1
+Cosmic				Rearrangement	TTC39A	Fusion	LINC00662--TTC39A	chr19	28283908							0.0	0.0		0	13.0	LINC00662	chr19	28283908.0	TTC39A	chr1	51771748.0					Osteosarcoma-LA108			0	0	0	0	0	0	1
+Cosmic				Rearrangement	RAB38	Fusion	CTSC--RAB38	chr11	88029301							0.0	0.0		0	7.0	CTSC	chr11	88029301.0	RAB38	chr11	87883123.0					Osteosarcoma-LA108			0	0	0	0	0	0	1
+VUS				Copy Number	URI1	Amplification		19	29698203	31048323.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	TVP23B	Amplification		17	18630619	18709132.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL340P	Amplification		19	29698203	31048323.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-448F2.4	Amplification		19	29698203	31048323.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-32O4.2	Amplification		19	29698203	31048323.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-525D6.5	Amplification		19	29698203	31048323.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-525D6.2	Amplification		19	29698203	31048323.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-525D6.1	Amplification		19	29698203	31048323.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC005597.1	Amplification		19	29698203	31048323.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-45M22.3	Amplification		17	17034679	17724087.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-524F11.2	Amplification		17	17034679	17724087.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-524F11.1	Amplification		17	17034679	17724087.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-45M22.5	Amplification		17	17034679	17724087.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	RAI1-AS1	Amplification		17	17034679	17724087.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-253P7.1	Amplification		17	17034679	17724087.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-767P	Amplification		17	17034679	17724087.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-468P	Amplification		17	17034679	17724087.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL775P	Amplification		17	17034679	17724087.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR33B	Amplification		17	17034679	17724087.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-45M22.4	Amplification		17	17034679	17724087.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	SMCR2	Amplification		17	17034679	17724087.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	SMCR5	Amplification		17	17034679	17724087.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC055811.1	Amplification		17	17034679	17724087.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-178F10.3	Amplification		17	17726580	18259547.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-178F10.1	Amplification		17	17726580	18259547.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIEF2	Amplification		17	17726580	18259547.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	GID4	Amplification		17	17726580	18259547.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-258F1.1	Amplification		17	17726580	18259547.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL639P	Amplification		17	18506667	18544917.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC004448.2	Amplification		17	19186181	20209647.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-311F12.2	Amplification		17	19186181	20209647.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-311F12.1	Amplification		17	19186181	20209647.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1113L8.1	Amplification		17	19186181	20209647.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORA59B	Amplification		17	19186181	20209647.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-209D14.4	Amplification		17	19186181	20209647.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1057P	Amplification		17	19186181	20209647.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-258P	Amplification		17	19186181	20209647.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-209D14.2	Amplification		17	19186181	20209647.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-135L13.4	Amplification		17	19186181	20209647.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-78O7.2	Amplification		17	19186181	20209647.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	snoMe28S-Am2634	Amplification		17	19186181	20209647.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2104P17.1	Amplification		17	19186181	20209647.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1180	Amplification		17	19186181	20209647.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC025627.7	Amplification		17	19186181	20209647.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-187M2.2	Amplification		17	19186181	20209647.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC004702.2	Amplification		17	19186181	20209647.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-187M2.3	Amplification		17	19186181	20209647.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC004448.5	Amplification		17	19186181	20209647.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-187M2.1	Amplification		17	19186181	20209647.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	EPN2-AS1	Amplification		17	19186181	20209647.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-746M1.1	Amplification		17	20796453	21320208.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-344E13.3	Amplification		17	20796453	21320208.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-381P6.1	Amplification		17	20796453	21320208.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1178P	Amplification		17	20796453	21320208.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC087393.1	Amplification		17	20796453	21320208.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC087294.2	Amplification		17	20796453	21320208.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL426P	Amplification		17	20796453	21320208.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC090286.4	Amplification		17	18770343	18939645.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	snoMBII-202	Amplification		17	18770343	18939645.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-416I2.1	Amplification		17	16875077	17030419.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC104024.2	Amplification		17	16875077	17030419.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC104024.1	Amplification		17	16875077	17030419.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	MPRIP-AS1	Amplification		17	16875077	17030419.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number		Deletion		5	70369802	70379069.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	NAALADL2-AS3	Deletion		3	174814330	174974569.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	NAALADL2-AS2	Deletion		3	174814330	174974569.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL647P	Deletion		3	77526313	81810918.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3923	Deletion		3	77526313	81810918.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL751P	Deletion		3	77526313	81810918.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU2-28P	Deletion		3	77526313	81810918.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-217P	Deletion		3	77526313	81810918.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP61	Deletion		3	77526313	81810918.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-520D19.2	Deletion		3	77526313	81810918.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC134729.1	Deletion		3	77526313	81810918.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-142L1.1	Deletion		3	77526313	81810918.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-314M24.1	Deletion		3	77526313	81810918.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-354H21.1	Deletion		3	77526313	81810918.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-354H21.2	Deletion		3	77526313	81810918.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-47P18.1	Deletion		3	77526313	81810918.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-47P18.2	Deletion		3	77526313	81810918.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-6B4.1	Deletion		3	77526313	81810918.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-520D19.1	Deletion		3	77526313	81810918.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC117479.1	Deletion		3	77526313	81810918.0						0.0	0.0		0												Osteosarcoma-LA108	LA108_T		0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-96H19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	6.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	47046173.0					Osteosarcoma-LA108			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-337C18.8	Fusion	RP11-337C18.8--NRD1	chr1	146646164							0.0	0.0		0	9.0	RP11-337C18.8	chr1	146646164.0	NRD1	chr1	52293541.0					Osteosarcoma-LA108			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-337C18.10	Fusion	RP11-337C18.10--NRD1	chr1	146646164							0.0	0.0		0	9.0	RP11-337C18.10	chr1	146646164.0	NRD1	chr1	52293541.0					Osteosarcoma-LA108			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-120D5.1	Fusion	RP11-120D5.1--MID1	chrX	11074056							0.0	0.0		0	5.0	RP11-120D5.1	chrX	11074056.0	MID1	chrX	10535643.0					Osteosarcoma-LA108			0	0	0	0	0	0	0
+VUS				Rearrangement	LINC00662	Fusion	LINC00662--TTC39A	chr19	28283908							0.0	0.0		0	13.0	LINC00662	chr19	28283908.0	TTC39A	chr1	51771748.0					Osteosarcoma-LA108			0	0	0	0	0	0	0
+VUS				Rearrangement	CTC-786C10.1	Fusion	CTC-786C10.1--RP11-680G10.1	chr16	85205413							0.0	0.0		0	9.0	CTC-786C10.1	chr16	85205413.0	RP11-680G10.1	chr16	85391069.0					Osteosarcoma-LA108			0	0	0	0	0	0	0
+VUS				Rearrangement	C17orf76-AS1	Fusion	C17orf76-AS1--PRPSAP2	chr17	16344444							0.0	0.0		0	10.0	C17orf76-AS1	chr17	16344444.0	PRPSAP2	chr17	18775896.0					Osteosarcoma-LA108			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-178C3.2	Fusion	TLK2--RP11-178C3.2	chr17	60558567							0.0	0.0		0	18.0	TLK2	chr17	60558567.0	RP11-178C3.2	chr17	58050196.0					Osteosarcoma-LA108			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-178C3.1	Fusion	TLK2--RP11-178C3.1	chr17	60558567							0.0	0.0		0	18.0	TLK2	chr17	60558567.0	RP11-178C3.1	chr17	58050196.0					Osteosarcoma-LA108			0	0	0	0	0	0	0
+VUS				Rearrangement	SLIT2-IT1	Fusion	SLIT2--SLIT2-IT1	chr4	20270504							0.0	0.0		0	5.0	SLIT2	chr4	20270504.0	SLIT2-IT1	chr4	20396152.0					Osteosarcoma-LA108			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-446N19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	6.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	47046173.0					Osteosarcoma-LA108			0	0	0	0	0	0	0
+VUS				Rearrangement	NBPF13P	Fusion	NRD1--NBPF13P	chr1	52343947							0.0	0.0		0	16.0	NRD1	chr1	52343947.0	NBPF13P	chr1	146585853.0					Osteosarcoma-LA108			0	0	0	0	0	0	0
+VUS				Rearrangement	DSCR4-IT1	Fusion	DSCR4--DSCR4-IT1	chr21	39492401							0.0	0.0		0	10.0	DSCR4	chr21	39492401.0	DSCR4-IT1	chr21	39379128.0					Osteosarcoma-LA108			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-680G10.1	Fusion	CTC-786C10.1--RP11-680G10.1	chr16	85205413							0.0	0.0		0	9.0	CTC-786C10.1	chr16	85205413.0	RP11-680G10.1	chr16	85391069.0					Osteosarcoma-LA108			0	0	0	0	0	0	0
+VUS				Rearrangement	HSPA8P4	Fusion	CHSY3--HSPA8P4	chr5	129244053							0.0	0.0		0	12.0	CHSY3	chr5	129244053.0	HSPA8P4	chr5	129476585.0					Osteosarcoma-LA108			0	0	0	0	0	0	0

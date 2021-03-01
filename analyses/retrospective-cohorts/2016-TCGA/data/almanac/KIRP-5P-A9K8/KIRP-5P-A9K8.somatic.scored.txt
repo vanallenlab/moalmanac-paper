@@ -1,0 +1,142 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Biologically Relevant				Copy Number	AKT1	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		1	1	0	1	1	1	1
+Cancer Hotspot 3D				Rearrangement	MECOM	Fusion	MECOM--RP11-641D5.1	chr3	169381124							0.0	0.0		0	39.0	MECOM	chr3	169381124.0	RP11-641D5.1	chr3	169201750.0					KIRP-5P-A9K8			0	0	1	1	1	1	1
+Cancer Hotspot 3D				Copy Number	ADSSL1	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	1	0	0	0	1
+Cancer Gene Census				Somatic Variant	ZNF521	Missense	p.A847T	18	22805343	22805343.0	C	C	T	0.0714	98.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K8	KIRP-5P-A9K8-TP	KIRP-5P-A9K8-NB	0	0	0	1	0	1	1
+Cancer Pathway				Copy Number	XRCC3	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	TRAF3	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	1	1	1
+Cancer Module				Somatic Variant	DNAH5	Nonsense	p.R2639*	5	13794140	13794140.0	G	G	A	0.2883	111.0	4.1e-05	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K8	KIRP-5P-A9K8-TP	KIRP-5P-A9K8-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	FOXG1	Missense	p.P69Q	14	29236691	29236691.0	C	C	A	0.0702	57.0	7.2e-05	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K8	KIRP-5P-A9K8-TP	KIRP-5P-A9K8-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	IL32	Missense	p.F163L	16	3119278	3119278.0	C	C	A	0.0701	157.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K8	KIRP-5P-A9K8-TP	KIRP-5P-A9K8-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	TXNIP	Frameshift	p.EK165fs	1	145440061	145440064.0	AAAG	AAAG	-	0.4444	36.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K8	KIRP-5P-A9K8-TP	KIRP-5P-A9K8-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	MTR	Nonsense	p.Q6*	1	236959019	236959019.0	C	C	T	0.1163	43.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K8	KIRP-5P-A9K8-TP	KIRP-5P-A9K8-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	IGF2R	Missense	p.A2126S	6	160510194	160510194.0	G	G	T	0.0411	73.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K8	KIRP-5P-A9K8-TP	KIRP-5P-A9K8-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	RALGAPB	Missense	p.R757H	20	37163753	37163753.0	G	G	A	0.5075	67.0	8e-06	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K8	KIRP-5P-A9K8-TP	KIRP-5P-A9K8-NB	0	0	0	0	0	1	1
+Cancer Module				Copy Number	AHNAK2	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MOK	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TNFAIP2	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TECPR2	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	APOPT1	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CRIP1	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MTA1	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MARK3	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	JAG2	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	INF2	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SIVA1	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PPP1R13B	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	BRF1	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CKB	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CINP	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	C14orf2	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CRIP2	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PACS2	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KLC1	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EIF5	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	1	1
+Cosmic				Somatic Variant	OR2M7	Missense	p.A162V	1	248487386	248487386.0	G	G	A	0.0543	92.0	4.1e-05	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K8	KIRP-5P-A9K8-TP	KIRP-5P-A9K8-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	HIST1H2BG	Missense	p.E114Q	6	26216532	26216532.0	C	C	G	0.25	72.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K8	KIRP-5P-A9K8-TP	KIRP-5P-A9K8-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	CCDC57	Missense	p.A743D	17	80115637	80115637.0	G	G	T	0.0882	34.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K8	KIRP-5P-A9K8-TP	KIRP-5P-A9K8-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	DEFB110	Missense	p.Q41K	6	49986773	49986773.0	G	G	T	0.5231	65.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K8	KIRP-5P-A9K8-TP	KIRP-5P-A9K8-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	WDR59	Missense	p.N162S	16	74976685	74976685.0	T	T	C	0.0617	81.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K8	KIRP-5P-A9K8-TP	KIRP-5P-A9K8-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	TEX11	Missense	p.D52N	X	70099888	70099888.0	C	C	T	0.1167	60.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K8	KIRP-5P-A9K8-TP	KIRP-5P-A9K8-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	LONP2	Missense	p.P283S	16	48295458	48295458.0	C	C	T	0.0205	195.0	1.6e-05	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K8	KIRP-5P-A9K8-TP	KIRP-5P-A9K8-NB	0	0	0	0	0	0	1
+Cosmic				Copy Number	ASPG	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	EXOC3L4	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF839	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C14orf79	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	AMN	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRSS21	Amplification		16	2855025	2887327.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZG16B	Amplification		16	2855025	2887327.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZFYVE21	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RD3L	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RCOR1	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZBTB42	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	WDR20	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TRMT61A	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM179	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TDRD9	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CDCA4	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CDC42BPB	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C14orf80	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C14orf180	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C14orf144	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	BTBD6	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	BAG5	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ANKRD9	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PLD4	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NUDT14	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	KIF26A	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GPR132	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	1
+Cosmic				Rearrangement	SAMD5	Fusion	SAMD5--RP11-307P5.1	chr6	147830523							0.0	0.0		0	5.0	SAMD5	chr6	147830523.0	RP11-307P5.1	chr6	148054865.0					KIRP-5P-A9K8			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-ATP6--MT-ATP8	chrM	8682							0.0	0.0		0	29.0	MT-ATP6	chrM	8682.0	MT-ATP8	chrM	8464.0					KIRP-5P-A9K8			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	RP11-728F11.3--MT-ATP6	chr11	117691414							0.0	0.0		0	16.0	RP11-728F11.3	chr11	117691414.0	MT-ATP6	chrM	8544.0					KIRP-5P-A9K8			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP8	Fusion	MT-ATP6--MT-ATP8	chrM	8682							0.0	0.0		0	29.0	MT-ATP6	chrM	8682.0	MT-ATP8	chrM	8464.0					KIRP-5P-A9K8			0	0	0	0	0	0	1
+VUS				Somatic Variant	SUCO	Missense	p.G898V	1	172558934	172558934.0	G	G	T	0.131	84.0	0.0	0.0		0								43.0	0.1628	0.8131		KIRP-5P-A9K8	KIRP-5P-A9K8-TP	KIRP-5P-A9K8-NB	0	0	0	0	0	0	0
+VUS				Somatic Variant	RP11-762I7.5	Missense	p.N476S	12	56182870	56182870.0	T	T	C	0.1	50.0	4.9e-05	0.0		0								0.0	0.0	0.0		KIRP-5P-A9K8	KIRP-5P-A9K8-TP	KIRP-5P-A9K8-NB	0	0	0	0	0	0	0
+VUS				Copy Number	PRSS41	Amplification		16	2855025	2887327.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	PRSS30P	Amplification		16	2855025	2887327.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-260M19.2	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-736N17.4	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-661D19.3	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-614O9.1	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-600F24.7	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-521B24.5	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-521B24.3	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-45P15.4	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-44N21.4	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-44N21.1	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-365N19.2	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-260M19.1	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-73M18.10	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-160P	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-684P	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-244P	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1316P	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU4-68P	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL634P	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL546P	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RAP2CP1	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-736N17.8	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-73M18.11	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	TEX22	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD51	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	SNORA28	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-982M15.8	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-982M15.7	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-982M15.6	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-982M15.5	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-982M15.2	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-894P9.2	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-894P9.1	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-73M18.9	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-73M18.8	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-73M18.7	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-73M18.6	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-73M18.2	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	CEP170B	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL161669.1	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL139300.1	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL137229.1	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL136001.1	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL117209.1	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL049840.1	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2134A5.3	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00605	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4710	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4309	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR203	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00677	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00638	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00637	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2134A5.4	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-3051D23.4	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-3051D23.3	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-3051D23.1	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2555C10.3	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2223O18.1	Deletion		14	102649451	105988038.0						0.0	0.0		0												KIRP-5P-A9K8	TCGA-5P-A9K8-01		0	0	0	0	0	0	0
+VUS				Rearrangement	SMC5-AS1	Fusion	SMC5-AS1--MAMDC2-AS1	chr9	72831202							0.0	0.0		0	19.0	SMC5-AS1	chr9	72831202.0	MAMDC2-AS1	chr9	72703410.0					KIRP-5P-A9K8			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-96H19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	47.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	47046173.0					KIRP-5P-A9K8			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-728F11.3	Fusion	RP11-728F11.3--MT-ATP6	chr11	117691414							0.0	0.0		0	16.0	RP11-728F11.3	chr11	117691414.0	MT-ATP6	chrM	8544.0					KIRP-5P-A9K8			0	0	0	0	0	0	0
+VUS				Rearrangement	MAMDC2-AS1	Fusion	SMC5-AS1--MAMDC2-AS1	chr9	72831202							0.0	0.0		0	19.0	SMC5-AS1	chr9	72831202.0	MAMDC2-AS1	chr9	72703410.0					KIRP-5P-A9K8			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-307P5.1	Fusion	SAMD5--RP11-307P5.1	chr6	147830523							0.0	0.0		0	5.0	SAMD5	chr6	147830523.0	RP11-307P5.1	chr6	148054865.0					KIRP-5P-A9K8			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-446N19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	47.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	47046173.0					KIRP-5P-A9K8			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-641D5.1	Fusion	MECOM--RP11-641D5.1	chr3	169381124							0.0	0.0		0	39.0	MECOM	chr3	169381124.0	RP11-641D5.1	chr3	169201750.0					KIRP-5P-A9K8			0	0	0	0	0	0	0

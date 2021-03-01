@@ -1,0 +1,401 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Investigate Actionability	Investigate Actionability			Somatic Variant	TSC2	Missense	p.H593R	16	2120518	2120518	A	A	G	0.1045	67.0	0.0	0.0		0												Osteosarcoma-JNS538	Osteosarcoma-JNS538-Tumor-SM-2RCB5	Osteosarcoma-JNS538-Normal-SM-2RCCK	2	0	0	1	1	1	2
+Investigate Actionability	Investigate Actionability		Investigate Actionability	Somatic Variant	BRIP1	Missense	p.E1071D	17	59761194	59761194	T	T	G	0.024	292.0	0.0	0.0		0												Osteosarcoma-JNS538	Osteosarcoma-JNS538-Tumor-SM-2RCB5	Osteosarcoma-JNS538-Normal-SM-2RCCK	2	0	0	1	0	1	1
+Cancer Hotspot 3D				Copy Number	SLIT2	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	2	0	0	1	1
+Cancer Hotspot 3D				Copy Number	ACP1	Amplification		2	41356	3198189						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Somatic Variant	KCNH5	Missense	p.A790V	14	63174824	63174824	G	G	A	0.0316	95.0	0.0	0.0		0												Osteosarcoma-JNS538	Osteosarcoma-JNS538-Tumor-SM-2RCB5	Osteosarcoma-JNS538-Normal-SM-2RCCK	0	0	1	0	0	0	1
+Cancer Gene Census				Copy Number	MUC4	Amplification		3	195451301	195476187						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	N4BP2	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	1	0	1	1
+Cancer Gene Census				Somatic Variant	COL2A1	Missense	p.R904H	12	48373316	48373316	C	C	T	0.2899	69.0	4.9e-05	0.0		0												Osteosarcoma-JNS538	Osteosarcoma-JNS538-Tumor-SM-2RCB5	Osteosarcoma-JNS538-Normal-SM-2RCCK	0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	PHOX2B	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	RHOH	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	SLC34A2	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	1	0	0	1
+Cancer Gene Census				Copy Number	PRDM16	Amplification		1	3342465	3684261						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	1	0	0	1
+Cancer Pathway				Copy Number	SOD3	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	RFC1	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	TYMP	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	WNT7B	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	ANAPC4	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	1	0	1
+Cancer Module				Somatic Variant	EMR1	Missense	p.S38N	19	6896427	6896427	G	G	A	0.0428	187.0	0.0	0.0		0												Osteosarcoma-JNS538	Osteosarcoma-JNS538-Tumor-SM-2RCB5	Osteosarcoma-JNS538-Normal-SM-2RCCK	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	AK3	Missense	p.G191R	9	4713089	4713089	C	C	G	0.0811	111.0	0.0	0.0		0												Osteosarcoma-JNS538	Osteosarcoma-JNS538-Tumor-SM-2RCB5	Osteosarcoma-JNS538-Normal-SM-2RCCK	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	HOXB13	Missense	p.E58K	17	46805784	46805784	C	C	T	0.0472	106.0	0.0	0.0		0												Osteosarcoma-JNS538	Osteosarcoma-JNS538-Tumor-SM-2RCB5	Osteosarcoma-JNS538-Normal-SM-2RCCK	0	0	0	0	0	1	2
+Cancer Module				Copy Number	CELSR1	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TLR10	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TUBGCP6	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MOV10L1	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TBC1D1	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TPO	Amplification		2	41356	3198189						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GTSE1	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MLC1	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NOMO1	Deletion		16	14988603	15120815						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FAM114A1	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC30A9	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TLR1	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	VAV3	Amplification		1	107599263	109200453						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ACR	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MAPK8IP2	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PCDHA9	Deletion		5	140227829	140237484						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	C4orf19	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ARAP2	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NSUN7	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SHISA3	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TMEM156	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PPARGC1A	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NCAPG	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZCCHC4	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TMED5	Amplification		1	93576044	94033172						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	BCAR3	Amplification		1	93576044	94033172						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ARHGEF16	Amplification		1	3342465	3684261						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SH3YL1	Amplification		2	41356	3198189						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TRMU	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SCO2	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZBED4	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PPP6R2	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ARSA	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC2A3	Deletion		12	8073757	8091229						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CHRFAM7A	Deletion		15	30654244	30675806						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	DNAJC7	Missense	p.F119L	17	40148379	40148379	A	A	G	0.0625	96.0	0.0	0.0		0												Osteosarcoma-JNS538	Osteosarcoma-JNS538-Tumor-SM-2RCB5	Osteosarcoma-JNS538-Normal-SM-2RCCK	0	0	0	0	0	1	1
+Cancer Module				Copy Number	GABRA2	Amplification		4	46042753	46314985						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ATP8A1	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PDS5A	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LIMCH1	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PTTG2	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RPL9	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	UBE2K	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	UCHL1	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	UGDH	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	WDR19	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TBC1D19	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RBPJ	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	STIM2	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	QDPR	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PI4K2B	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DCAF16	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LAP3	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MED28	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DHX15	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LGI2	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CCKAR	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DR1	Amplification		1	93576044	94033172						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NTNG1	Amplification		1	107599263	109200453						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PRMT6	Amplification		1	107599263	109200453						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SNTG2	Amplification		2	41356	3198189						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MYT1L	Amplification		2	41356	3198189						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TRABD	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SBF1	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PPARA	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GRAMD4	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PANX2	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MAPK12	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MAPK11	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FAM19A5	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HDAC10	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CHKB	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	BRD1	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ALG12	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HP	Deletion		16	72090286	72093337						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RHD	Deletion		1	25616880	25628429						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TP73-AS1	Amplification		1	3342465	3684261						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	1	0
+Cosmic				Somatic Variant	CD1E	Missense	p.R328W	1	158326365	158326365	C	C	T	0.3148	54.0	0.0	0.0		0												Osteosarcoma-JNS538	Osteosarcoma-JNS538-Tumor-SM-2RCB5	Osteosarcoma-JNS538-Normal-SM-2RCCK	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	WDFY3	Splice Site	p.Q192H	4	85758082	85758082	C	C	G	0.0617	81.0	0.0	0.0		0												Osteosarcoma-JNS538	Osteosarcoma-JNS538-Tumor-SM-2RCB5	Osteosarcoma-JNS538-Normal-SM-2RCCK	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	TMEM63C	Missense	p.F405L	14	77709271	77709271	T	T	C	0.0787	89.0	0.0	0.0		0												Osteosarcoma-JNS538	Osteosarcoma-JNS538-Tumor-SM-2RCB5	Osteosarcoma-JNS538-Normal-SM-2RCCK	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	KCNK13	Nonsense	p.R308*	14	90651042	90651042	C	C	T	0.0364	165.0	0.0	0.0		0												Osteosarcoma-JNS538	Osteosarcoma-JNS538-Tumor-SM-2RCB5	Osteosarcoma-JNS538-Normal-SM-2RCCK	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	MLKL	Missense	p.C86F	16	74729399	74729399	C	C	A	0.4426	122.0	0.0	0.0		0												Osteosarcoma-JNS538	Osteosarcoma-JNS538-Tumor-SM-2RCB5	Osteosarcoma-JNS538-Normal-SM-2RCCK	0	0	0	0	0	0	2
+Cosmic				Copy Number	MUC20	Amplification		3	195451301	195476187						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PKDREJ	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Somatic Variant	CAPN9	Missense	p.V353I	1	230914822	230914822	G	G	A	0.0577	52.0	0.0	0.0		0												Osteosarcoma-JNS538	Osteosarcoma-JNS538-Tumor-SM-2RCB5	Osteosarcoma-JNS538-Normal-SM-2RCCK	0	0	0	0	0	0	1
+Cosmic				Copy Number	PLXNB2	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCDC27	Amplification		1	3342465	3684261						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MEGF6	Amplification		1	3342465	3684261						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TTLL8	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Somatic Variant	C5orf42	Missense	p.G1741S	5	37183062	37183062	C	C	T	0.1538	91.0	0.0	0.0		0												Osteosarcoma-JNS538	Osteosarcoma-JNS538-Tumor-SM-2RCB5	Osteosarcoma-JNS538-Normal-SM-2RCCK	0	0	0	0	0	0	1
+Cosmic				Copy Number	CCDC18	Amplification		1	93576044	94033172						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PXDN	Amplification		2	41356	3198189						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TTC38	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IL17REL	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PDXDC1	Deletion		16	14988603	15120815						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Somatic Variant	KIF3C	Missense	p.Q370E	2	26203679	26203679	G	G	C	0.0323	93.0	0.0	0.0		0												Osteosarcoma-JNS538	Osteosarcoma-JNS538-Tumor-SM-2RCB5	Osteosarcoma-JNS538-Normal-SM-2RCCK	0	0	0	0	0	0	1
+Cosmic				Copy Number	CHRNA9	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RBM47	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PGM2	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KLHL5	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KLB	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	APBB2	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TLR6	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KCNIP4	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GPR125	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MTF2	Amplification		1	93576044	94033172						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM110C	Amplification		2	41356	3198189						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SHANK3	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KLHDC7B	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CERK	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CPT1B	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CRELD2	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GABRG1	Amplification		4	46042753	46314985						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DCAF4L1	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DTHD1	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	BEND4	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LIAS	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KLF3	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KIAA1239	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RELL1	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM33	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PCDH7	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PACRGL	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SEL1L3	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SEPSECS	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LCORL	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GBA3	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM184B	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CLRN2	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCDC149	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FNBP1L	Amplification		1	93576044	94033172						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TP73	Amplification		1	3342465	3684261						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TPRG1L	Amplification		1	3342465	3684261						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	WRAP73	Amplification		1	3342465	3684261						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	HENMT1	Amplification		1	107599263	109200453						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NBPF4	Amplification		1	107599263	109200453						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM102B	Amplification		1	107599263	109200453						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC25A24	Amplification		1	107599263	109200453						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NBPF6	Amplification		1	107599263	109200453						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TSSC1	Amplification		2	41356	3198189						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM18	Amplification		2	41356	3198189						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM150B	Amplification		2	41356	3198189						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TBC1D22A	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SYCE3	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RABL2B	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MIOX	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NCAPH2	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LMF2	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ODF3B	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C22orf34	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C22orf26	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ADM2	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TANGO2	Deletion		22	20030626	20052437						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	AC005609.1	Deletion		5	140227829	140237484						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	1
+VUS				Copy Number	PIM3	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	CDPF1	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Somatic Variant	METTL24	Missense	p.L266F	6	110567454	110567454	G	G	A	0.3953	43.0	0.0	0.0		0												Osteosarcoma-JNS538	Osteosarcoma-JNS538-Tumor-SM-2RCB5	Osteosarcoma-JNS538-Normal-SM-2RCCK	0	0	0	0	0	0	0
+VUS				Copy Number	RP11-320H14.1	Amplification		4	46042753	46314985						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-213G21.2	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-213G21.1	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-103J17.2	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-74P	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-103J17.1	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-227F19.2	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-11P	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-887P	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-836P	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-227F19.1	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-227F19.5	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-333E13.4	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-360F5.1	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-360F5.3	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-36B15.1	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4801	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-395I6.2	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-395I6.3	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-32P	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1195P	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR5591	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR574	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00682	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-431M7.2	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL558P	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP158	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP159	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP160	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU1-49P	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1112P	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4802	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-431M7.3	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC021860.1	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-63A11.1	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-722M1.1	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-814H16.2	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-83C7.1	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC098869.1	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC098680.1	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC084010.1	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	SMIM14	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-617D20.2	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	UCHL1-AS1	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	UGDH-AS1	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-632F7.3	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-83C7.2	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-617D20.1	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-472B18.1	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-539G18.2	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-588L15.2	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC195454.1	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-600L4.1	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-457P14.5	Amplification		4	36162835	42639436						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-415C15.1	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	SLIT2-IT1	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-552M14.1	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	SMIM20	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-453O5.1	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-380P13.2	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR573	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-415C15.2	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-496D24.2	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL101P	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-472K22.2	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-3J1.1	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-472K22.1	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-412P11.1	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL16P	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-619J20.1	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-302F12.3	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-608O21.1	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-180C1.1	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-17E2.2	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-123O22.1	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-120A1.1	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-292B1.2	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-660M5.1	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-608B3.1	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-126P	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-769N22.1	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-293A21.1	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-302F12.10	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-420P	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL315P	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-415C15.3	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1221P	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-94H6.1	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP13-494C23.1	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP13-497K6.1	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-556G22.3	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-556G22.2	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-362J17.1	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP157	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-380P13.1	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC092846.1	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC024132.1	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC007106.1	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC006160.5	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC092846.2	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR218-1	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC093807.1	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC108218.1	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC109351.1	Amplification		4	17510642	31144723						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-717I23.3	Amplification		1	93576044	94033172						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP53	Amplification		1	93576044	94033172						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-168F9.2	Amplification		1	3342465	3684261						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1092A11.5	Amplification		1	3342465	3684261						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1092A11.2	Amplification		1	3342465	3684261						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-46F15.2	Amplification		1	3342465	3684261						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR551A	Amplification		1	3342465	3684261						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	SLC25A24P1	Amplification		1	107599263	109200453						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	NBPF5P	Amplification		1	107599263	109200453						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-356N1.2	Amplification		1	107599263	109200453						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-131J3.1	Amplification		1	107599263	109200453						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	VAV3-AS1	Amplification		1	107599263	109200453						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL390036.1	Amplification		1	107599263	109200453						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-483I13.2	Amplification		1	107599263	109200453						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC114491.1	Amplification		1	107599263	109200453						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-483I13.5	Amplification		1	107599263	109200453						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL591042.1	Amplification		1	107599263	109200453						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC116609.2	Amplification		2	41356	3198189						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC116609.3	Amplification		2	41356	3198189						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC116614.1	Amplification		2	41356	3198189						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC141930.2	Amplification		2	41356	3198189						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC144450.1	Amplification		2	41356	3198189						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC144450.2	Amplification		2	41356	3198189						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC114808.2	Amplification		2	41356	3198189						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP13-539J13.1	Amplification		2	41356	3198189						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC093390.1	Amplification		2	41356	3198189						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC093326.2	Amplification		2	41356	3198189						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC093326.3	Amplification		2	41356	3198189						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC105393.2	Amplification		2	41356	3198189						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC105393.1	Amplification		2	41356	3198189						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC113607.1	Amplification		2	41356	3198189						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC113607.3	Amplification		2	41356	3198189						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC113607.2	Amplification		2	41356	3198189						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC108462.1	Amplification		2	41356	3198189						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC093326.1	Amplification		2	41356	3198189						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC079779.6	Amplification		2	41356	3198189						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC092159.2	Amplification		2	41356	3198189						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC079779.7	Amplification		2	41356	3198189						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC079779.5	Amplification		2	41356	3198189						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC079779.4	Amplification		2	41356	3198189						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC074264.1	Amplification		2	41356	3198189						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC019118.4	Amplification		2	41356	3198189						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC019118.3	Amplification		2	41356	3198189						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC114808.3	Amplification		2	41356	3198189						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC019118.2	Amplification		2	41356	3198189						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC018685.2	Amplification		2	41356	3198189						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC018685.1	Amplification		2	41356	3198189						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC011995.3	Amplification		2	41356	3198189						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC011995.1	Amplification		2	41356	3198189						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC009232.2	Amplification		2	41356	3198189						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC092159.3	Amplification		2	41356	3198189						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC116609.1	Amplification		2	41356	3198189						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP6-109B7.5	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP6-109B7.4	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP6-109B7.3	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-983L19.2	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP6-109B7.2	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC002056.5	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-402G11.25	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-402G11.28	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP13-455A7.1	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-402G11.26	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-402G11.27	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	XX-C283C717.1	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-439F8.1	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	WI2-81516E3.1	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	Y_RNA	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-522J7.6	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	Z97351.1	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	SELO	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC000036.4	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-536P6.3	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC002055.4	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00898	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	LL22NC03-121E8.3	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP252	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL500P	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	FLJ27365	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00899	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	LL22NC03-121E8.4	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-409P	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3619	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3667	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4535	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4763	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIRLET7A3	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIRLET7B	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	LL22NC03-75H12.2	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	DENND6B	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	CITF22-1A6.3	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTA-384D8.36	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	CHKB-AS1	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	CITF22-92A6.1	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3201	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL954742.1	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL022328.1	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	CITF22-49D8.1	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	CHKB-CPT1B	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-29C18.10	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	CR536603.1	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTA-384D8.33	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTA-384D8.31	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTA-29F11.1	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-29C18.9	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTA-299D3.8	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTA-280A3__B.2	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTA-384D8.34	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-191L9.4	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTA-384D8.35	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-29C18.8	Deletion		22	46345548	51237822						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3179-1	Deletion		16	14988603	15120815						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1972-1	Deletion		16	14988603	15120815						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-680G24.5	Deletion		16	14988603	15120815						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3670-1	Deletion		16	14988603	15120815						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3180-1	Deletion		16	14988603	15120815						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-958N24.1	Deletion		16	14988603	15120815						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	NPIPA1	Deletion		16	14988603	15120815						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC006547.13	Deletion		22	20030626	20052437						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC006547.15	Deletion		22	20030626	20052437						0.0	0.0		0												Osteosarcoma-JNS538	JNS538_T		0	0	0	0	0	0	0

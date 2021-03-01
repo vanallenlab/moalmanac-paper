@@ -1,0 +1,425 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Putatively Actionable		Putatively Actionable		Copy Number	BRAF	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		4	1	1	1	1	1	1
+Putatively Actionable	Putatively Actionable	Putatively Actionable		Copy Number	MET	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		4	1	0	1	1	1	1
+Investigate Actionability	Investigate Actionability			Somatic Variant	MET	Missense	p.V1088E	7	116415115	116415115.0	T	T	A	0.5902	244.0	0.0	0.0		0								10.0	0.8	0.9332		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	3	1	0	1	1	1	2
+Investigate Actionability			Investigate Actionability	Somatic Variant	SF3B1	Missense	p.V1169I	2	198260814	198260814.0	C	C	T	0.4138	87.0	0.0	0.0		0								469.0	0.4755	1.0		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	3	1	0	1	0	1	2
+Biologically Relevant				Copy Number	POT1	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		1	0	0	1	0	0	1
+Cancer Hotspot				Copy Number	IKZF1	Amplification		7	48963750	52225399.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	1	0	1	0	1	1
+Cancer Hotspot 3D				Copy Number	TRIM24	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	1	1	0	1	1
+Cancer Hotspot 3D				Copy Number	SSBP1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	1	0	1	1	1
+Cancer Hotspot 3D				Copy Number	CUL1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	1	0	1	0	1
+Cancer Hotspot 3D				Copy Number	DDC	Amplification		7	48963750	52225399.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	EPHA1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	IQUB	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	1	0	0	0	1
+Cancer Hotspot 3D				Copy Number	MDFIC	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	1	0	0	0	1
+Cancer Gene Census				Copy Number	CREB3L2	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	1	1	0	1
+Cancer Gene Census				Somatic Variant	MUC16	Missense	p.T8040A	19	9063328	9063328.0	T	T	C	0.4655	58.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	0	0	0	1	0	1	2
+Cancer Gene Census				Somatic Variant	ALDH2	Missense	p.G229D	12	112229114	112229114.0	G	G	A	0.0857	35.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	0	0	0	1	0	1	2
+Cancer Gene Census				Copy Number	FAM131B	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	CNTNAP2	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	KIAA1549	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	1	0	0	1
+Cancer Pathway				Somatic Variant	FGF6	Missense	p.V80L	12	4554499	4554499.0	C	C	A	0.3988	173.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	0	0	0	0	1	1	2
+Cancer Pathway				Somatic Variant	FGF6	Missense	p.L79F	12	4554500	4554500.0	C	C	G	0.4046	173.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	0	0	0	0	1	1	2
+Cancer Pathway				Copy Number	WNT2	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	CAV1	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	WNT16	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	1	0	1
+Cancer Pathway				Copy Number	WASL	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	1	0	1
+Cancer Module				Somatic Variant	LYAR	Missense	p.R195Q	4	4276342	4276342.0	C	C	T	0.4591	281.0	1.6e-05	0.0		0								11.0	0.2727	0.8208		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	USH2A	Missense	p.S2518N	1	216073458	216073458.0	C	C	T	0.5	32.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SUGP2	Missense	p.R684C	19	19120952	19120952.0	G	G	A	0.0189	265.0	8e-06	0.0		0								0.0	0.0	0.0		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	GRIK3	Missense	p.D495N	1	37307384	37307384.0	C	C	T	0.484	312.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SLC25A12	Splice Site	p.G529R	2	172647961	172647961.0	C	C	G	0.4087	115.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ITIH3	Missense	p.S78F	3	52830615	52830615.0	C	C	T	0.381	42.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ST14	Missense	p.N405S	11	130066334	130066334.0	A	A	G	0.1538	26.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	LAG3	Missense	p.L364M	12	6886462	6886462.0	C	C	A	0.4402	343.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ULK1	Missense	p.A169T	12	132393457	132393457.0	G	G	A	0.4583	96.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ZNF423	Missense	p.K732N	16	49670867	49670867.0	C	C	G	0.5182	110.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	KIAA0513	Missense	p.A51V	16	85100829	85100829.0	C	C	T	0.2812	96.0	1.6e-05	0.0		0								0.0	0.0	0.0		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	MPRIP	Splice Site		17	17080727	17080727.0	G	G	A	0.2823	209.0	0.0	0.0		0								61.0	1.0	1.0		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	GPR37L1	Missense	p.P122Q	1	202092456	202092456.0	C	C	A	0.0294	170.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	PER2	Splice Site	p.SFS275fs	2	239176835	239176850.0	GGACACTGCGGAGAAG	GGACACTGCGGAGAAG	-	0.2308	117.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	NEDD4	Frameshift	p.E90fs	15	56216867	56216868.0	-	-	A	0.6	15.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	PCK1	Frameshift	p.E609fs	20	56140816	56140817.0	GA	GA	-	0.37799999999999995	82.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	SLC22A23	Missense	p.F288Y	6	3410472	3410472.0	A	A	T	0.9815	54.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	TRIM15	Frameshift	p.K457fs	6	30140094	30140094.0	A	A	-	0.4685	143.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	EEF2	Splice Site		19	3983291	3983293.0	TGA	TGA	-	0.3393	56.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	0	0	0	0	0	1	1
+Cancer Module				Copy Number	COBL	Amplification		7	48963750	52225399.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MGAM	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PPP1R3A	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	OR2A1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZYX	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PTPRZ1	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TBXAS1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ADCK2	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NUP205	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	OR2F1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CADPS2	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CLCN1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CNOT4	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	JHDM1D	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PARP12	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PIP	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TFEC	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TES	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NDUFA5	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LRRN3	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FAM3C	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FOXP2	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GPR37	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	IMMP2L	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RNF133	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	AASS	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ANKRD7	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CAPZA2	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CAV2	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GRB10	Amplification		7	48963750	52225399.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZPBP	Amplification		7	48963750	52225399.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TPK1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DGKI	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EPHB6	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FAM115A	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KEL	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CASP2	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	AKR1D1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ARHGEF5	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PRSS1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PTN	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MKRN1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MTPN	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	PCBP2	Fusion	PCBP2--CDS2	chr12	53873467							0.0	0.0		0	7.0	PCBP2	chr12	53873467.0	CDS2	chr20	5177892.0					KIRP-AL-3472			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	CDS2	Fusion	PCBP2--CDS2	chr12	53873467							0.0	0.0		0	7.0	PCBP2	chr12	53873467.0	CDS2	chr20	5177892.0					KIRP-AL-3472			0	0	0	0	0	1	1
+Cosmic				Somatic Variant	NDUFS7	Missense	p.P144L	19	1391140	1391140.0	C	C	T	0.4211	38.0	0.0	0.0		0								333.0	0.4985	1.0		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	PKHD1	Missense	p.L2651P	6	51712728	51712728.0	A	A	G	0.9143	70.0	0.0	0.0		0								45.0	1.0	1.0		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	AHI1	Missense	p.T969S	6	135732541	135732541.0	G	G	C	0.8	25.0	8e-06	0.0		0								9.0	0.7778	0.9854		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	RBM19	Missense	p.A88T	12	114397941	114397941.0	C	C	T	0.3798	129.0	0.0	0.0		0								11.0	0.6364	0.6512		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	GGN	Missense	p.A333D	19	38876904	38876904.0	G	G	T	0.4186	43.0	0.0	0.0		0								4.0	0.75	0.0376		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	FLG	Missense	p.Q1831K	1	152281871	152281871.0	G	G	T	0.0129	1237.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	RADIL	Missense	p.L251M	7	4876021	4876021.0	G	G	T	0.2381	21.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	INTU	Missense	p.N134D	4	128564929	128564929.0	A	A	G	0.4545	33.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	KLHL9	Missense	p.V149D	9	21334413	21334413.0	A	A	T	0.4474	114.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	OR10G8	Missense	p.S207A	11	123900948	123900948.0	T	T	G	0.4186	129.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	CLEC16A	Missense	p.N222T	16	11066855	11066855.0	A	A	C	0.4054	37.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ZNF583	Missense	p.N155Y	19	56934490	56934490.0	A	A	T	0.449	49.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	SLC25A2	Nonsense	p.Q135*	5	140683030	140683030.0	G	G	A	0.4151	424.0	1.6e-05	0.0		0								0.0	0.0	0.0		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	NLRP8	Missense	p.G67D	19	56459468	56459468.0	G	G	A	0.4884	43.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	NAV2	Missense	p.S472F	11	19955397	19955397.0	C	C	T	0.4161	274.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	ZNF654	Nonsense	p.R543*	3	88190087	88190087.0	A	A	T	0.3333	15.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	FAM83C	Missense	p.P548T	20	33874940	33874940.0	G	G	T	0.0494	81.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	KIDINS220	Frameshift	p.N1533fs	2	8871568	8871568.0	T	T	-	0.4	120.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	LRRK1	Missense	p.H1208N	15	101592098	101592098.0	C	C	A	0.4639	97.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	TSGA10	Splice Site		2	99689479	99689479.0	A	A	C	0.4944	178.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	PSAT1	Frameshift	p.Q296fs	9	80942983	80942984.0	-	-	A	0.5122	41.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	PRR12	Missense	p.P1335L	19	50102854	50102854.0	C	C	T	0.3929	28.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	INPP5J	Missense	p.W232S	22	31523948	31523948.0	G	G	C	0.4138	87.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3472	KIRP-AL-3472-TP	KIRP-AL-3472-NB	0	0	0	0	0	0	1
+Cosmic				Copy Number	TAS2R38	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TAS2R4	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DENND2A	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM115C	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	KLRG2	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2A14	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2A2	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2A5	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2F2	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ASB15	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FIGNL1	Amplification		7	48963750	52225399.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZC3HAV1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ATP6V0A4	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2A25	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Rearrangement	MACC1	Fusion	MACC1--AC005062.2	chr7	20193816							0.0	0.0		0	7.0	MACC1	chr7	20193816.0	AC005062.2	chr7	20085184.0					KIRP-AL-3472			0	0	0	0	0	0	1
+Cosmic				Copy Number	CPED1	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TAS2R16	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF277	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CFTR	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC37A3	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	UBN2	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TAS2R5	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SVOPL	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM213	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C7orf55	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRSS37	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR9A2	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NOBOX	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2A12	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR6V1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NAA38	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM229A	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM168	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ST7	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SPAM1	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC13A1	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	LMOD2	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DOCK4	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FEZF1	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GPR85	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	IFRD1	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ING3	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	KCND2	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RNF148	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CTTNBP2	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	HYAL4	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ASZ1	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C7orf60	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TSPAN12	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	VWC2	Amplification		7	48963750	52225399.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C7orf72	Amplification		7	48963750	52225399.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC13A4	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RP11-1220K2.2	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZC3HAV1L	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	WEE2	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TAS2R3	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TAS2R39	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TAS2R40	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TAS2R41	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TAS2R60	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TTC26	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM139	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TRPV6	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TRPV5	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CHRM2	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CLEC2L	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CLEC5A	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CTAGE4	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CTAGE8	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C7orf73	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM180A	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GSTK1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	HIPK2	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	KIAA1147	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	LUC7L2	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	AGK	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ARHGEF35	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C7orf33	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C7orf34	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	LUZP6	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRSS58	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RAB19	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR9A4	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MRPS33	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NDUFB2	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2A42	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2A7	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR6B1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR6W1P	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	LPAL2	Deletion		6	160903622	160907134.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-ATP6--MT-ATP8	chrM	8648							0.0	0.0		0	90.0	MT-ATP6	chrM	8648.0	MT-ATP8	chrM	8512.0					KIRP-AL-3472			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP8	Fusion	MT-ATP6--MT-ATP8	chrM	8648							0.0	0.0		0	90.0	MT-ATP6	chrM	8648.0	MT-ATP8	chrM	8512.0					KIRP-AL-3472			0	0	0	0	0	0	1
+VUS				Copy Number	LSMEM1	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	snoZ185	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3666	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	ST7-OT4	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	ST7-AS2	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	ST7-AS1	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00998	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	DOCK4-AS1	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	FEZF1-AS1	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-154P	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	IMMP2L-IT1	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-921G16.2	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-921G16.1	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1101C3.1	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-560I19.1	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-458K10.3	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-102P	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-458K10.2	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-458K10.1	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-11P	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-3B12.1	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-390E23.6	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-390E23.3	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-332K15.1	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-328J2.1	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-296P	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-517P	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-581P	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-264K23.1	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-61D3.1	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP241	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1006K12.1	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-797C5.2	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-745K6.1	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-742N3.1	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP187	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP277	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-630C24.3	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-736E3.1	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP237	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP238	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP239	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP240	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC020606.1	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006159.4	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006159.5	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006926.1	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC018464.3	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC106873.4	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006159.3	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC068610.3	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC091320.2	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TSRM	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC068610.5	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC073071.1	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC073130.1	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC073130.3	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	U1	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC073626.2	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC002465.2	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC004112.4	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC003088.1	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005161.1	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC004875.1	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC003084.2	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC002463.3	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC002066.2	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC002066.1	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC000111.6	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC000111.3	Amplification		7	109171630	124583357.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC020743.4	Amplification		7	48963750	52225399.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC020743.3	Amplification		7	48963750	52225399.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC020743.2	Amplification		7	48963750	52225399.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC018705.5	Amplification		7	48963750	52225399.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-718N17.2	Amplification		7	48963750	52225399.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-724E13.2	Amplification		7	48963750	52225399.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL292P	Amplification		7	48963750	52225399.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC010971.1	Amplification		7	48963750	52225399.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1091P	Amplification		7	48963750	52225399.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC004920.3	Amplification		7	48963750	52225399.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	hsa-mir-490	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-894A10.6	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-894A10.2	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-842K16.2	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-842K16.1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1136G13.2	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-61L23.2	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	WEE2-AS1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-634H22.1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-813F11.4	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-644N4.1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	U66059.58	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-744I24.2	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-563K23.1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-744I24.3	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-545C24.1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-669B10.3	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV6-4	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	U66059.29	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV7-4	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV7-3	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV7-1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV6-9	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV6-8	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV11-1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV11-2	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV6-7	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV6-6	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV19	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV2	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV20-1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV23-1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV24-1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV25-1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV27	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV6-5	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV28	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV29-1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV3-1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV30	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV4-1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV4-2	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV5-1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV5-3	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV5-4	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV5-5	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV5-6	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV5-7	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV10-2	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV10-1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBJ2-7	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV6-1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TMEM178B	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBJ2-6	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBC2	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBJ2-1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV9	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBJ2-2	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBJ2-2P	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV7-8	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBJ2-3	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV7-7	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV7-6	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBJ2-4	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBJ2-5	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-114L10.2	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	PRSS3P2	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6ATAC40P	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTAGE15	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTAGE6	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	EPHA1-AS1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	JHDM1D-AS1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	C7orf55-LUC7L2	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-911P	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC073647.1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005229.1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005518.2	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006004.1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006007.1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006452.1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC009784.1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC009784.3	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC015987.1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC015987.2	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC022173.2	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC024082.1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC024084.1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC073342.1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC073342.12	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC078842.3	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC078842.4	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC083867.4	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC084872.1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC091736.1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC093673.5	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	OR9A3P	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4468	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	OR9N1P	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	PRSS3P3	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP174	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP223	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL207P	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL456P	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL481P	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL535P	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL72P	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL771P	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP247	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP248	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP249	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU1-58P	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU1-82P	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU4-74P	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1154P	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1184P	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1272P	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-162P	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-206P	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-223P	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-797P	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	OR9A1P	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR490	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR548F4	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	MOXD2P	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	MTRNR2L6	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	NDUFB2-AS1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	OR10AC1P	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	OR2A1-AS1	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	OR2A20P	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	OR2A9P	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-267P	Amplification		7	134948204	148480627.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number		Deletion		X	46136832	46148528.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR122	Deletion		18	56121049	56121784.0						0.0	0.0		0												KIRP-AL-3472	TCGA-AL-3472-01		0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-96H19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	7.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	47046173.0					KIRP-AL-3472			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TA	Fusion	MT-TA--MT-TN	chrM	5604							0.0	0.0		0	24.0	MT-TA	chrM	5604.0	MT-TN	chrM	5708.0					KIRP-AL-3472			0	0	0	0	0	0	0
+VUS				Rearrangement	LINC00472	Fusion	LINC00472--RP11-154D6.1	chr6	72126113							0.0	0.0		0	6.0	LINC00472	chr6	72126113.0	RP11-154D6.1	chr6	72020345.0					KIRP-AL-3472			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-446N19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	7.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	47046173.0					KIRP-AL-3472			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TN	Fusion	MT-TA--MT-TN	chrM	5604							0.0	0.0		0	24.0	MT-TA	chrM	5604.0	MT-TN	chrM	5708.0					KIRP-AL-3472			0	0	0	0	0	0	0
+VUS				Rearrangement	AC005062.2	Fusion	MACC1--AC005062.2	chr7	20193816							0.0	0.0		0	7.0	MACC1	chr7	20193816.0	AC005062.2	chr7	20085184.0					KIRP-AL-3472			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-154D6.1	Fusion	LINC00472--RP11-154D6.1	chr6	72126113							0.0	0.0		0	6.0	LINC00472	chr6	72126113.0	RP11-154D6.1	chr6	72020345.0					KIRP-AL-3472			0	0	0	0	0	0	0

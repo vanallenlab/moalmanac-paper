@@ -1,0 +1,72 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Cancer Hotspot 3D				Copy Number	WDR75	Amplification		2	190312853	190340395.0						0.0	0.0		0												Osteosarcoma-TCAS787	TCAS787_T		0	0	1	0	0	1	1
+Cancer Gene Census				Somatic Variant	TFRC	Missense	p.L686V	3	195779040	195779040.0	G	G	C	0.1212	33.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCAS787	Osteosarcoma-TCAS787-Tumor-SM-2RCBM	Osteosarcoma-TCAS787-Normal-SM-2RCD2	0	0	0	1	0	1	2
+Cancer Pathway				Somatic Variant	LAMB2	Missense	p.P616S	3	49166138	49166138.0	G	G	A	0.0423	71.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCAS787	Osteosarcoma-TCAS787-Tumor-SM-2RCBM	Osteosarcoma-TCAS787-Normal-SM-2RCD2	0	0	0	0	1	1	2
+Cancer Pathway				Rearrangement	IGKC	Fusion	IGKV4-1--IGKC	chr2	89185136							0.0	0.0		0	883.0	IGKV4-1	chr2	89185136.0	IGKC	chr2	89157196.0					Osteosarcoma-TCAS787			0	0	0	0	1	1	0
+Cancer Pathway				Rearrangement	IGKC	Fusion	IGHG1--IGKC	chr14	106208260							0.0	0.0		0	31.0	IGHG1	chr14	106208260.0	IGKC	chr2	89156723.0					Osteosarcoma-TCAS787			0	0	0	0	1	1	0
+Cancer Pathway				Rearrangement	IGKC	Fusion	IGH@--IGKC	chr14	106208260							0.0	0.0		0	70.0	IGH@	chr14	106208260.0	IGKC	chr2	89156723.0					Osteosarcoma-TCAS787			0	0	0	0	1	1	0
+Cancer Pathway				Rearrangement	IGLV7-43	Fusion	IGLV7-43--IGLL5	chr22	22749827							0.0	0.0		0	100.0	IGLV7-43	chr22	22749827.0	IGLL5	chr22	23235962.0					Osteosarcoma-TCAS787			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGLV7-43	Fusion	IGLV7-43--IGLJ1	chr22	22749827							0.0	0.0		0	24.0	IGLV7-43	chr22	22749827.0	IGLJ1	chr22	23235962.0					Osteosarcoma-TCAS787			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGKV4-1	Fusion	IGKV4-1--IGKC	chr2	89185136							0.0	0.0		0	883.0	IGKV4-1	chr2	89185136.0	IGKC	chr2	89157196.0					Osteosarcoma-TCAS787			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGKV4-1	Fusion	IGKV4-1--AC096579.7	chr2	89185668							0.0	0.0		0	1268.0	IGKV4-1	chr2	89185668.0	AC096579.7	chr2	89161074.0					Osteosarcoma-TCAS787			0	0	0	0	1	0	0
+Cancer Module				Somatic Variant	ATF6	Missense	p.I665V	1	161928424	161928424.0	A	A	G	0.0301	133.0	8e-06	0.0		0								126.0	0.0476	0.6047		Osteosarcoma-TCAS787	Osteosarcoma-TCAS787-Tumor-SM-2RCBM	Osteosarcoma-TCAS787-Normal-SM-2RCD2	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	PRG4	Missense	p.K631E	1	186276742	186276742.0	A	A	G	0.1379	29.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCAS787	Osteosarcoma-TCAS787-Tumor-SM-2RCBM	Osteosarcoma-TCAS787-Normal-SM-2RCD2	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	FMO3	Missense	p.T129S	1	171076880	171076880.0	C	C	G	0.0462	65.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCAS787	Osteosarcoma-TCAS787-Tumor-SM-2RCBM	Osteosarcoma-TCAS787-Normal-SM-2RCD2	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	PRB4	Missense	p.P231L	12	11461225	11461225.0	G	G	A	0.2523	107.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCAS787	Osteosarcoma-TCAS787-Tumor-SM-2RCBM	Osteosarcoma-TCAS787-Normal-SM-2RCD2	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SLC20A1	Missense	p.M272I	2	113416439	113416439.0	G	G	T	0.0612	49.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCAS787	Osteosarcoma-TCAS787-Tumor-SM-2RCBM	Osteosarcoma-TCAS787-Normal-SM-2RCD2	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SNUPN	Missense	p.P294S	15	75890902	75890902.0	G	G	A	0.0181	221.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCAS787	Osteosarcoma-TCAS787-Tumor-SM-2RCBM	Osteosarcoma-TCAS787-Normal-SM-2RCD2	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	HS3ST2	Missense	p.R249C	16	22926524	22926524.0	C	C	T	0.1829	164.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCAS787	Osteosarcoma-TCAS787-Tumor-SM-2RCBM	Osteosarcoma-TCAS787-Normal-SM-2RCD2	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	DGKE	Missense	p.V30I	17	54912244	54912244.0	G	G	A	0.0217	184.0	8e-06	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCAS787	Osteosarcoma-TCAS787-Tumor-SM-2RCBM	Osteosarcoma-TCAS787-Normal-SM-2RCD2	0	0	0	0	0	1	2
+Cancer Module				Copy Number	GSTM1	Amplification		1	110233033	110236169.0						0.0	0.0		0												Osteosarcoma-TCAS787	TCAS787_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PF4	Amplification		4	74846669	74847420.0						0.0	0.0		0												Osteosarcoma-TCAS787	TCAS787_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EMP1	Deletion		12	13364193	13367877.0						0.0	0.0		0												Osteosarcoma-TCAS787	TCAS787_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	TPST1	Fusion	TPST1--GS1-124K5.4	chr7	65751696							0.0	0.0		0	5.0	TPST1	chr7	65751696.0	GS1-124K5.4	chr7	65960242.0					Osteosarcoma-TCAS787			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	IGLJ3	Fusion	IGLV3-21--IGLJ3	chr22	23055684							0.0	0.0		0	52.0	IGLV3-21	chr22	23055684.0	IGLJ3	chr22	23247171.0					Osteosarcoma-TCAS787			0	0	0	0	0	1	0
+Cosmic				Somatic Variant	NES	Nonsense	p.K672*	1	156641966	156641966.0	T	T	A	0.2	15.0	0.0	0.0		0								82.0	0.2561	0.9873		Osteosarcoma-TCAS787	Osteosarcoma-TCAS787-Tumor-SM-2RCBM	Osteosarcoma-TCAS787-Normal-SM-2RCD2	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	LINS	Missense	p.P325S	15	101114105	101114105.0	G	G	A	0.0328	122.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCAS787	Osteosarcoma-TCAS787-Tumor-SM-2RCBM	Osteosarcoma-TCAS787-Normal-SM-2RCD2	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	WDFY3	Missense	p.R3489H	4	85594136	85594136.0	C	C	T	0.2727	55.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCAS787	Osteosarcoma-TCAS787-Tumor-SM-2RCBM	Osteosarcoma-TCAS787-Normal-SM-2RCD2	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	OTUD7A	Missense	p.R82W	15	31862308	31862308.0	G	G	A	0.1447	76.0	8e-06	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCAS787	Osteosarcoma-TCAS787-Tumor-SM-2RCBM	Osteosarcoma-TCAS787-Normal-SM-2RCD2	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	NLRP2	Missense	p.R337Q	19	55494076	55494076.0	G	G	A	0.1429	21.0	0.000857	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCAS787	Osteosarcoma-TCAS787-Tumor-SM-2RCBM	Osteosarcoma-TCAS787-Normal-SM-2RCD2	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	SCML4	Missense	p.P290L	6	108042011	108042011.0	G	G	A	0.0968	31.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCAS787	Osteosarcoma-TCAS787-Tumor-SM-2RCBM	Osteosarcoma-TCAS787-Normal-SM-2RCD2	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	LRRC36	Missense	p.S519R	16	67418959	67418959.0	C	C	A	0.0303	99.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCAS787	Osteosarcoma-TCAS787-Tumor-SM-2RCBM	Osteosarcoma-TCAS787-Normal-SM-2RCD2	0	0	0	0	0	0	1
+Cosmic				Copy Number	UGT2B28	Deletion		4	70145967	70160779.0						0.0	0.0		0												Osteosarcoma-TCAS787	TCAS787_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	C12orf36	Fusion	GRIN2B--C12orf36	chr12	13768032							0.0	0.0		0	9.0	GRIN2B	chr12	13768032.0	C12orf36	chr12	13529227.0					Osteosarcoma-TCAS787			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND6	Fusion	MT-ND6--MT-TE	chrM	14622							0.0	0.0		0	51.0	MT-ND6	chrM	14622.0	MT-TE	chrM	14717.0					Osteosarcoma-TCAS787			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4	Fusion	MT-ND4--MT-ND4L	chrM	11037							0.0	0.0		0	39.0	MT-ND4	chrM	11037.0	MT-ND4L	chrM	10754.0					Osteosarcoma-TCAS787			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CO3	Fusion	MT-CO3--MT-ATP6	chrM	9393							0.0	0.0		0	7.0	MT-CO3	chrM	9393.0	MT-ATP6	chrM	9204.0					Osteosarcoma-TCAS787			0	0	0	0	0	0	1
+Cosmic				Rearrangement	GRIN2B	Fusion	GRIN2B--C12orf36	chr12	13768032							0.0	0.0		0	9.0	GRIN2B	chr12	13768032.0	C12orf36	chr12	13529227.0					Osteosarcoma-TCAS787			0	0	0	0	0	0	1
+Cosmic				Rearrangement	COL8A1	Fusion	COL8A1--CMSS1	chr3	99513226							0.0	0.0		0	9.0	COL8A1	chr3	99513226.0	CMSS1	chr3	99865817.0					Osteosarcoma-TCAS787			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4L	Fusion	MT-ND4--MT-ND4L	chrM	11037							0.0	0.0		0	39.0	MT-ND4	chrM	11037.0	MT-ND4L	chrM	10754.0					Osteosarcoma-TCAS787			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-CO3--MT-ATP6	chrM	9393							0.0	0.0		0	7.0	MT-CO3	chrM	9393.0	MT-ATP6	chrM	9204.0					Osteosarcoma-TCAS787			0	0	0	0	0	0	1
+Cosmic				Rearrangement	IGLL5	Fusion	IGLV7-43--IGLL5	chr22	22749827							0.0	0.0		0	100.0	IGLV7-43	chr22	22749827.0	IGLL5	chr22	23235962.0					Osteosarcoma-TCAS787			0	0	0	0	0	0	1
+Cosmic				Rearrangement	IGLL5	Fusion	IGLV3-21--IGLL5	chr22	23055682							0.0	0.0		0	168.0	IGLV3-21	chr22	23055682.0	IGLL5	chr22	23235962.0					Osteosarcoma-TCAS787			0	0	0	0	0	0	1
+VUS				Rearrangement	CMSS1	Fusion	COL8A1--CMSS1	chr3	99513226							0.0	0.0		0	9.0	COL8A1	chr3	99513226.0	CMSS1	chr3	99865817.0					Osteosarcoma-TCAS787			0	0	0	0	0	0	0
+VUS				Copy Number	AC000032.2	Amplification		1	110233033	110236169.0						0.0	0.0		0												Osteosarcoma-TCAS787	TCAS787_T		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV6-9	Deletion		7	142099205	142104803.0						0.0	0.0		0												Osteosarcoma-TCAS787	TCAS787_T		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV7-8	Deletion		7	142099205	142104803.0						0.0	0.0		0												Osteosarcoma-TCAS787	TCAS787_T		0	0	0	0	0	0	0
+VUS				Rearrangement	IGLV6-57	Fusion	IGLV6-57--IGLJ7	chr22	22550676							0.0	0.0		0	8.0	IGLV6-57	chr22	22550676.0	IGLJ7	chr22	23263570.0					Osteosarcoma-TCAS787			0	0	0	0	0	0	0
+VUS				Rearrangement	IGLV3-21	Fusion	IGLV3-21--IGLL5	chr22	23055682							0.0	0.0		0	168.0	IGLV3-21	chr22	23055682.0	IGLL5	chr22	23235962.0					Osteosarcoma-TCAS787			0	0	0	0	0	0	0
+VUS				Rearrangement	IGLV3-21	Fusion	IGLV3-21--IGLJ3	chr22	23055684							0.0	0.0		0	52.0	IGLV3-21	chr22	23055684.0	IGLJ3	chr22	23247171.0					Osteosarcoma-TCAS787			0	0	0	0	0	0	0
+VUS				Rearrangement	IGLV3-21	Fusion	IGLV3-21--IGLJ1	chr22	23055682							0.0	0.0		0	45.0	IGLV3-21	chr22	23055682.0	IGLJ1	chr22	23235962.0					Osteosarcoma-TCAS787			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKV6-21	Fusion	IGKV6-21--IGKJ1	chr2	89459235							0.0	0.0		0	25.0	IGKV6-21	chr2	89459235.0	IGKJ1	chr2	89161434.0					Osteosarcoma-TCAS787			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKV3-20	Fusion	IGKV3-20--IGKJ5	chr2	89442061							0.0	0.0		0	23.0	IGKV3-20	chr2	89442061.0	IGKJ5	chr2	89160117.0					Osteosarcoma-TCAS787			0	0	0	0	0	0	0
+VUS				Rearrangement	IGHGP	Fusion	IGHGP--IGH-@	chr14	106134664							0.0	0.0		0	15.0	IGHGP	chr14	106134664.0	IGH-@	chr14	106235707.0					Osteosarcoma-TCAS787			0	0	0	0	0	0	0
+VUS				Rearrangement	IGHG1	Fusion	IGHG1--IGKC	chr14	106208260							0.0	0.0		0	31.0	IGHG1	chr14	106208260.0	IGKC	chr2	89156723.0					Osteosarcoma-TCAS787			0	0	0	0	0	0	0
+VUS				Rearrangement	IGHG1	Fusion	IGHG1--AC096579.7	chr14	106208260							0.0	0.0		0	33.0	IGHG1	chr14	106208260.0	AC096579.7	chr2	89156723.0					Osteosarcoma-TCAS787			0	0	0	0	0	0	0
+VUS				Rearrangement	IGH@	Fusion	IGH@--IGKC	chr14	106208260							0.0	0.0		0	70.0	IGH@	chr14	106208260.0	IGKC	chr2	89156723.0					Osteosarcoma-TCAS787			0	0	0	0	0	0	0
+VUS				Rearrangement	IGH@	Fusion	IGH@--IGHGP	chr14	106235584							0.0	0.0		0	12.0	IGH@	chr14	106235584.0	IGHGP	chr14	106134591.0					Osteosarcoma-TCAS787			0	0	0	0	0	0	0
+VUS				Rearrangement	IGH@	Fusion	IGH@--AC096579.7	chr14	106208260							0.0	0.0		0	72.0	IGH@	chr14	106208260.0	AC096579.7	chr2	89156723.0					Osteosarcoma-TCAS787			0	0	0	0	0	0	0
+VUS				Rearrangement	IGH-@	Fusion	IGH-@--IGHGP	chr14	106208496							0.0	0.0		0	34.0	IGH-@	chr14	106208496.0	IGHGP	chr14	106135208.0					Osteosarcoma-TCAS787			0	0	0	0	0	0	0
+VUS				Rearrangement	GS1-124K5.4	Fusion	TPST1--GS1-124K5.4	chr7	65751696							0.0	0.0		0	5.0	TPST1	chr7	65751696.0	GS1-124K5.4	chr7	65960242.0					Osteosarcoma-TCAS787			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TE	Fusion	MT-ND6--MT-TE	chrM	14622							0.0	0.0		0	51.0	MT-ND6	chrM	14622.0	MT-TE	chrM	14717.0					Osteosarcoma-TCAS787			0	0	0	0	0	0	0
+VUS				Rearrangement	IGLJ1	Fusion	IGLV7-43--IGLJ1	chr22	22749827							0.0	0.0		0	24.0	IGLV7-43	chr22	22749827.0	IGLJ1	chr22	23235962.0					Osteosarcoma-TCAS787			0	0	0	0	0	0	0
+VUS				Rearrangement	IGLJ7	Fusion	IGLV6-57--IGLJ7	chr22	22550676							0.0	0.0		0	8.0	IGLV6-57	chr22	22550676.0	IGLJ7	chr22	23263570.0					Osteosarcoma-TCAS787			0	0	0	0	0	0	0
+VUS				Rearrangement	IGLJ1	Fusion	IGLV3-21--IGLJ1	chr22	23055682							0.0	0.0		0	45.0	IGLV3-21	chr22	23055682.0	IGLJ1	chr22	23235962.0					Osteosarcoma-TCAS787			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKJ1	Fusion	IGKV6-21--IGKJ1	chr2	89459235							0.0	0.0		0	25.0	IGKV6-21	chr2	89459235.0	IGKJ1	chr2	89161434.0					Osteosarcoma-TCAS787			0	0	0	0	0	0	0
+VUS				Rearrangement	AC096579.7	Fusion	IGKV4-1--AC096579.7	chr2	89185668							0.0	0.0		0	1268.0	IGKV4-1	chr2	89185668.0	AC096579.7	chr2	89161074.0					Osteosarcoma-TCAS787			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKJ5	Fusion	IGKV3-20--IGKJ5	chr2	89442061							0.0	0.0		0	23.0	IGKV3-20	chr2	89442061.0	IGKJ5	chr2	89160117.0					Osteosarcoma-TCAS787			0	0	0	0	0	0	0
+VUS				Rearrangement	IGH-@	Fusion	IGHGP--IGH-@	chr14	106134664							0.0	0.0		0	15.0	IGHGP	chr14	106134664.0	IGH-@	chr14	106235707.0					Osteosarcoma-TCAS787			0	0	0	0	0	0	0
+VUS				Rearrangement	AC096579.7	Fusion	IGHG1--AC096579.7	chr14	106208260							0.0	0.0		0	33.0	IGHG1	chr14	106208260.0	AC096579.7	chr2	89156723.0					Osteosarcoma-TCAS787			0	0	0	0	0	0	0
+VUS				Rearrangement	IGHGP	Fusion	IGH@--IGHGP	chr14	106235584							0.0	0.0		0	12.0	IGH@	chr14	106235584.0	IGHGP	chr14	106134591.0					Osteosarcoma-TCAS787			0	0	0	0	0	0	0
+VUS				Rearrangement	AC096579.7	Fusion	IGH@--AC096579.7	chr14	106208260							0.0	0.0		0	72.0	IGH@	chr14	106208260.0	AC096579.7	chr2	89156723.0					Osteosarcoma-TCAS787			0	0	0	0	0	0	0
+VUS				Rearrangement	IGHGP	Fusion	IGH-@--IGHGP	chr14	106208496							0.0	0.0		0	34.0	IGH-@	chr14	106208496.0	IGHGP	chr14	106135208.0					Osteosarcoma-TCAS787			0	0	0	0	0	0	0

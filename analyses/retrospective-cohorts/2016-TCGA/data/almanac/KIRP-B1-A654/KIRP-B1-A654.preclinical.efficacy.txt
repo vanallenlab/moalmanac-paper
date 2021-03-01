@@ -1,0 +1,9 @@
+patient_id	feature_display	tested_subfeature	therapy_name	n_mut	n_wt	n_mut_tested	n_wt_tested	mut_ic50_median	mut_ic50_mean	mut_ic50_std	wt_ic50_median	wt_ic50_mean	wt_ic50_std	pvalue_mww	statistic
+KIRP-B1-A654	BRCA2 p.K3313T (Missense)	BRCA2	Niraparib	278	1545	155	573	94.884	175.951	315.974	83.94	156.093	271.271	0.115	40749.0
+KIRP-B1-A654	BRCA2 p.K3313T (Missense)	BRCA2 Somatic Variant	Niraparib	180	1643	102	626	88.7	145.037	201.557	85.852	162.811	292.26	0.853	31561.0
+KIRP-B1-A654	BRCA2 p.K3313T (Missense)	BRCA2 Somatic Variant Missense	Niraparib	133	1690	78	650	92.086	135.567	143.5	84.914	163.291	293.422	0.845	25007.0
+KIRP-B1-A654	BRCA2 p.K3313T (Missense)	BRCA2 Somatic Variant Missense p.K3313T	Niraparib	0	1823	0	728				86.794	160.321	281.272	nan	
+KIRP-B1-A654	BARD1 p.K596fs (Frameshift)	BARD1	Olaparib	80	1743	46	716	95.795	174.51	231.0	74.41	162.973	327.719	0.161	14441.0
+KIRP-B1-A654	BARD1 p.K596fs (Frameshift)	BARD1 Somatic Variant	Olaparib	57	1766	34	728	112.029	147.025	150.312	75.237	164.447	328.479	0.404	11329.0
+KIRP-B1-A654	BARD1 p.K596fs (Frameshift)	BARD1 Somatic Variant Frameshift	Olaparib	7	1816	6	756	190.506	190.612	131.389	74.98	163.456	323.693	0.142	1479.0
+KIRP-B1-A654	BARD1 p.K596fs (Frameshift)	BARD1 Somatic Variant Frameshift p.K596fs	Olaparib	1	1822	1	761	188.462	188.462		75.276	163.637	322.811	0.351	175.0

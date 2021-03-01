@@ -1,0 +1,4 @@
+patient_id	feature_display	tested_subfeature	therapy_name	n_mut	n_wt	n_mut_tested	n_wt_tested	mut_ic50_median	mut_ic50_mean	mut_ic50_std	wt_ic50_median	wt_ic50_mean	wt_ic50_std	pvalue_mww	statistic
+Osteosarcoma-NCF101	EGFR Amplification	EGFR	Gefitinib	242	1581	138	614	18.934	31.922	42.565	27.148	45.733	64.802	0.0	50477.5
+Osteosarcoma-NCF101	EGFR Amplification	EGFR Copy Number	Gefitinib	139	1684	81	671	20.562	31.526	45.523	26.523	44.607	63.077	0.004	32548.0
+Osteosarcoma-NCF101	EGFR Amplification	EGFR Copy Number Amplification	Gefitinib	122	1701	72	680	18.048	31.884	47.851	26.493	44.396	62.721	0.003	29771.0

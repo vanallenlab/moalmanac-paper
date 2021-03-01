@@ -1,0 +1,642 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Putatively Actionable	Putatively Actionable			Copy Number	CDKN2A	Deletion		9	21815180	22452162.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		4	1	0	1	1	1	1
+Investigate Actionability	Investigate Actionability		Investigate Actionability	Rearrangement	TMPRSS2	Fusion	USP49--TMPRSS2	chr6	41839302							0.0	0.0		0	7.0	USP49	chr6	41839302.0	TMPRSS2	chr21	42902145.0					Osteosarcoma-LMC436			3	0	0	1	0	1	1
+Biologically Relevant				Rearrangement	TP53	Fusion	TP53--SPECC1	chr17	7590695							0.0	0.0		0	12.0	TP53	chr17	7590695.0	SPECC1	chr17	19921300.0					Osteosarcoma-LMC436			1	1	1	1	1	1	1
+Biologically Relevant				Copy Number	CCND3	Amplification		6	41874558	42237580.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		1	1	0	1	0	1	1
+Biologically Relevant				Copy Number	NF1	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		1	1	0	1	0	0	1
+Cancer Hotspot				Copy Number	RARA	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	1	0	1	1	1	1
+Cancer Hotspot				Copy Number	STAT3	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	1	0	1	1	1	1
+Cancer Hotspot				Copy Number	MAP2K4	Deletion		17	11511194	12812540.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	1	0	1	1	0	1
+Cancer Hotspot				Copy Number	SUZ12	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	1	0	1	0	1	1
+Cancer Hotspot 3D				Copy Number	C2	Amplification		6	31802790	31948679.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	CSF3	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	THRA	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	ACLY	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Rearrangement	SOCS5	Fusion	SOCS5--AC016722.2	chr2	46926588							0.0	0.0		0	6.0	SOCS5	chr2	46926588.0	AC016722.2	chr2	47083062.0					Osteosarcoma-LMC436			0	0	1	0	0	1	1
+Cancer Hotspot 3D				Rearrangement	ANKLE2	Fusion	RERE--ANKLE2	chr1	8555123							0.0	0.0		0	10.0	RERE	chr1	8555123.0	ANKLE2	chr12	133304749.0					Osteosarcoma-LMC436			0	0	1	0	0	0	1
+Cancer Hotspot 3D				Copy Number	GUCA1A	Amplification		6	41874558	42237580.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	1	0	0	0	1
+Cancer Hotspot 3D				Copy Number	POLH	Amplification		6	43272196	44201517.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	1	0	0	0	1
+Cancer Gene Census				Somatic Variant	RALGDS	Missense	p.R553Q	9	135979663	135979663.0	C	C	T	0.3151	73.0	2.5e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-LMC436	Osteosarcoma-LMC436-Tumor-SM-2RCB8	Osteosarcoma-LMC436-Normal-SM-2RCCN	0	0	0	1	1	1	2
+Cancer Gene Census				Copy Number	STAT5B	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	1	1	1	1
+Cancer Gene Census				Copy Number	MUC4	Deletion		3	195451301	195476187.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	ZFHX3	Deletion		16	72923378	72994296.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	1	0	1	1
+Cancer Gene Census				Rearrangement	KDM5A	Fusion	KDM5A--TMIGD2	chr12	475100							0.0	0.0		0	18.0	KDM5A	chr12	475100.0	TMIGD2	chr19	4294813.0					Osteosarcoma-LMC436			0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	NFKBIE	Amplification		6	44227528	44311223.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	1	0	1	1
+Cancer Gene Census				Rearrangement	SPECC1	Fusion	TP53--SPECC1	chr17	7590695							0.0	0.0		0	12.0	TP53	chr17	7590695.0	SPECC1	chr17	19921300.0					Osteosarcoma-LMC436			0	0	0	1	0	0	1
+Cancer Gene Census				Copy Number	TFEB	Amplification		6	41533247	41658697.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	1	0	0	1
+Cancer Gene Census				Copy Number	CCR7	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	1	0	0	1
+Cancer Gene Census				Copy Number	SMARCE1	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	1	0	0	0
+Cancer Pathway				Rearrangement	MMP9	Fusion	MMP9--MT-CO1	chr20	44644995							0.0	0.0		0	8.0	MMP9	chr20	44644995.0	MT-CO1	chrM	6919.0					Osteosarcoma-LMC436			0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	JUP	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	VEGFA	Amplification		6	43272196	44201517.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	SHH	Deletion		7	155598738	155605068.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	PSMD3	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	CDC6	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	PSMD11	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	STAT5A	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	CDKN2B	Deletion		9	21815180	22452162.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	TRAF4	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	1	0	1
+Cancer Pathway				Copy Number	SRF	Amplification		6	42650541	43193659.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	1	0	1
+Cancer Pathway				Copy Number	WNT11	Deletion		11	75718326	75898535.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	1	0	1
+Cancer Pathway				Copy Number	KIR2DL1	Deletion		19	55281051	55287162.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	1	0	1
+Cancer Pathway				Rearrangement	IGKV4-1	Fusion	IGKV4-1--AC096579.7	chr2	89185668							0.0	0.0		0	127.0	IGKV4-1	chr2	89185668.0	AC096579.7	chr2	89161435.0					Osteosarcoma-LMC436			0	0	0	0	1	0	0
+Cancer Module				Somatic Variant	GUCY1A3	Missense	p.S269R	4	156632124	156632124.0	C	C	A	0.2581	93.0	0.0	0.0		0								58.0	0.3448	0.9995		Osteosarcoma-LMC436	Osteosarcoma-LMC436-Tumor-SM-2RCB8	Osteosarcoma-LMC436-Normal-SM-2RCCN	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	BRD8	Missense	p.A741E	5	137497512	137497512.0	G	G	T	0.2564	39.0	0.0	0.0		0								50.0	0.4	0.9942		Osteosarcoma-LMC436	Osteosarcoma-LMC436-Tumor-SM-2RCB8	Osteosarcoma-LMC436-Normal-SM-2RCCN	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	GPD2	Missense	p.E610G	2	157435462	157435462.0	A	A	G	0.0407	123.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-LMC436	Osteosarcoma-LMC436-Tumor-SM-2RCB8	Osteosarcoma-LMC436-Normal-SM-2RCCN	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	MPDZ	Missense	p.D309N	9	13219719	13219719.0	C	C	T	0.1977	86.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-LMC436	Osteosarcoma-LMC436-Tumor-SM-2RCB8	Osteosarcoma-LMC436-Normal-SM-2RCCN	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	TMEM132B	Missense	p.G624V	12	126135471	126135471.0	G	G	T	0.2281	57.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-LMC436	Osteosarcoma-LMC436-Tumor-SM-2RCB8	Osteosarcoma-LMC436-Normal-SM-2RCCN	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SCAPER	Missense	p.E964Q	15	76797264	76797264.0	C	C	G	0.375	32.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-LMC436	Osteosarcoma-LMC436-Tumor-SM-2RCB8	Osteosarcoma-LMC436-Normal-SM-2RCCN	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	KLHL15	Missense	p.R457W	X	24006484	24006484.0	G	G	A	0.0291	103.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-LMC436	Osteosarcoma-LMC436-Tumor-SM-2RCB8	Osteosarcoma-LMC436-Normal-SM-2RCCN	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SPINK5	Missense	p.T988I	5	147506551	147506551.0	C	C	T	0.2308	26.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-LMC436	Osteosarcoma-LMC436-Tumor-SM-2RCB8	Osteosarcoma-LMC436-Normal-SM-2RCCN	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	TEAD4	Missense	p.K149R	12	3131119	3131119.0	A	A	G	0.0127	236.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-LMC436	Osteosarcoma-LMC436-Tumor-SM-2RCB8	Osteosarcoma-LMC436-Normal-SM-2RCCN	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	ITCH	Splice Site		20	33057927	33057927.0	T	T	C	0.0169	236.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-LMC436	Osteosarcoma-LMC436-Tumor-SM-2RCB8	Osteosarcoma-LMC436-Normal-SM-2RCCN	0	0	0	0	0	1	1
+Cancer Module				Copy Number	KRT32	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HAP1	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CYP2F1	Deletion		19	41627111	41628290.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TNXB	Amplification		6	32013702	32364415.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PRPH2	Amplification		6	42650541	43193659.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KRT24	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SARM1	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KRT15	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KRT13	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HLA-DRA	Amplification		6	32370460	32428114.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MEP1A	Amplification		6	46636194	47779719.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PLA2G7	Amplification		6	46636194	47779719.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNF318	Amplification		6	43272196	44201517.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HSPA1L	Amplification		6	31783282	31797905.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DNAH9	Deletion		17	11511194	12812540.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KRT10	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KRT35	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	SPARCL1	Fusion	RP11-742B18.1--SPARCL1	chr4	88594142							0.0	0.0		0	20.0	RP11-742B18.1	chr4	88594142.0	SPARCL1	chr4	88451783.0					Osteosarcoma-LMC436			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	LEPR	Fusion	LEPROT--LEPR	chr1	65891061							0.0	0.0		0	7.0	LEPROT	chr1	65891061.0	LEPR	chr1	66031229.0					Osteosarcoma-LMC436			0	0	0	0	0	1	1
+Cancer Module				Copy Number	SKIV2L	Amplification		6	31802790	31948679.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EHMT2	Amplification		6	31802790	31948679.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PPT2	Amplification		6	32013702	32364415.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PTCRA	Amplification		6	42650541	43193659.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TBCC	Amplification		6	42650541	43193659.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PEX6	Amplification		6	42650541	43193659.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CUL9	Amplification		6	42650541	43193659.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	BRD2	Amplification		6	32940424	32948747.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ITPR3	Amplification		6	33555139	33703505.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	BYSL	Amplification		6	41874558	42237580.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ENPP4	Amplification		6	44414092	46630487.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CYP39A1	Amplification		6	44414092	46630487.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TOP2A	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KRT12	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	BLMH	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	VTN	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SSH2	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CPD	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KRT14	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KRT19	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KRT31	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HSD17B1	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NAGLU	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	COASY	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	CTSC	Fusion	CTSC--RAB38	chr11	88042331							0.0	0.0		0	6.0	CTSC	chr11	88042331.0	RAB38	chr11	87883123.0					Osteosarcoma-LMC436			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	C15orf57	Fusion	C15orf57--CBX3	chr15	40854971							0.0	0.0		0	7.0	C15orf57	chr15	40854971.0	CBX3	chr7	26241389.0					Osteosarcoma-LMC436			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	BRD2	Fusion	PVT1--BRD2	chr8	128903244							0.0	0.0		0	34.0	PVT1	chr8	128903244.0	BRD2	chr6	32939372.0					Osteosarcoma-LMC436			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	COL1A2	Fusion	MT-ND6--COL1A2	chrM	14370							0.0	0.0		0	10.0	MT-ND6	chrM	14370.0	COL1A2	chr7	94059654.0					Osteosarcoma-LMC436			0	0	0	0	0	1	1
+Cancer Module				Copy Number	CFB	Amplification		6	31802790	31948679.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NEU1	Amplification		6	31802790	31948679.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	C4A	Amplification		6	31802790	31948679.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ATF6B	Amplification		6	32013702	32364415.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	AGER	Amplification		6	32013702	32364415.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PBX2	Amplification		6	32013702	32364415.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GPSM3	Amplification		6	32013702	32364415.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EGFL8	Amplification		6	32013702	32364415.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	AGPAT1	Amplification		6	32013702	32364415.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GNMT	Amplification		6	42650541	43193659.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PTK7	Amplification		6	42650541	43193659.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PPP2R5D	Amplification		6	42650541	43193659.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KLHDC3	Amplification		6	42650541	43193659.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CDC5L	Amplification		6	44320211	44413856.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC25A27	Amplification		6	46636194	47779719.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TNFRSF21	Amplification		6	46636194	47779719.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RCAN2	Amplification		6	44414092	46630487.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TMEM63B	Amplification		6	43272196	44201517.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	POLR1C	Amplification		6	43272196	44201517.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CAPN11	Amplification		6	43272196	44201517.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC29A1	Amplification		6	43272196	44201517.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MAD2L1BP	Amplification		6	43272196	44201517.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HSPA1B	Amplification		6	31783282	31797905.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZFAND3	Amplification		6	38084096	38256489.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KRT33B	Deletion		17	39519836	39526254.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KLHL28	Deletion		14	45369387	45524004.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MED24	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NR1D1	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KRT20	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	IGFBP4	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC6A4	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC13A2	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SDF2	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RPL23A	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SPAG5	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ALDOC	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TP53I13	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TMEM97	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	UNC119	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNF207	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EVI2A	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EVI2B	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KIAA0100	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GOSR1	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RHOT1	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RNF135	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	C17orf75	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CDK5R1	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TIAF1	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CRLF3	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CORO6	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	OMG	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PHF12	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NUFIP2	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DHX58	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KRT16	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KRT17	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KRT9	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LEPREL4	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DNAJC7	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EIF1	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GAST	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HCRT	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KAT2A	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ATP6V0A1	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RAB5C	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CNP	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PTRF	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	C9orf53	Deletion		9	21815180	22452162.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	RERE	Fusion	RERE--ANKLE2	chr1	8555123							0.0	0.0		0	10.0	RERE	chr1	8555123.0	ANKLE2	chr12	133304749.0					Osteosarcoma-LMC436			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	NRIP1	Fusion	NRIP1--AF127936.7	chr21	16415816							0.0	0.0		0	5.0	NRIP1	chr21	16415816.0	AF127936.7	chr21	16230029.0					Osteosarcoma-LMC436			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	CKS2	Fusion	CKS2--TMEM163	chr9	91926266							0.0	0.0		0	479.0	CKS2	chr9	91926266.0	TMEM163	chr2	135223796.0					Osteosarcoma-LMC436			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	HDDC2	Fusion	RP11-138M12.1--HDDC2	chr6	125766168							0.0	0.0		0	14.0	RP11-138M12.1	chr6	125766168.0	HDDC2	chr6	125621805.0					Osteosarcoma-LMC436			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	EYA1	Fusion	RP11-1102P16.1--EYA1	chr8	72383093							0.0	0.0		0	5.0	RP11-1102P16.1	chr8	72383093.0	EYA1	chr8	72268746.0					Osteosarcoma-LMC436			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	TMEM163	Fusion	CKS2--TMEM163	chr9	91926266							0.0	0.0		0	479.0	CKS2	chr9	91926266.0	TMEM163	chr2	135223796.0					Osteosarcoma-LMC436			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	CBX3	Fusion	C15orf57--CBX3	chr15	40854971							0.0	0.0		0	7.0	C15orf57	chr15	40854971.0	CBX3	chr7	26241389.0					Osteosarcoma-LMC436			0	0	0	0	0	1	1
+Cancer Module				Copy Number	FKBPL	Amplification		6	32013702	32364415.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	1	0
+Cosmic				Somatic Variant	ENPP5	Missense	p.A385T	6	46129344	46129344.0	C	C	T	0.035	1343.0	6.6e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-LMC436	Osteosarcoma-LMC436-Tumor-SM-2RCB8	Osteosarcoma-LMC436-Normal-SM-2RCCN	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	OR2M2	Missense	p.S217P	1	248343936	248343936.0	T	T	C	0.0248	404.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-LMC436	Osteosarcoma-LMC436-Tumor-SM-2RCB8	Osteosarcoma-LMC436-Normal-SM-2RCCN	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	REST	Missense	p.E712G	4	57797159	57797159.0	A	A	G	0.0145	207.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-LMC436	Osteosarcoma-LMC436-Tumor-SM-2RCB8	Osteosarcoma-LMC436-Normal-SM-2RCCN	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	FER1L6	Missense	p.G1649R	8	125113399	125113399.0	G	G	A	0.0215	186.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-LMC436	Osteosarcoma-LMC436-Tumor-SM-2RCB8	Osteosarcoma-LMC436-Normal-SM-2RCCN	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	CTC1	Missense	p.E901K	17	8133938	8133938.0	C	C	T	0.1161	112.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-LMC436	Osteosarcoma-LMC436-Tumor-SM-2RCB8	Osteosarcoma-LMC436-Normal-SM-2RCCN	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	CTC1	Missense	p.D856H	17	8134697	8134697.0	C	C	G	0.0918	98.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-LMC436	Osteosarcoma-LMC436-Tumor-SM-2RCB8	Osteosarcoma-LMC436-Normal-SM-2RCCN	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	STEAP3	Missense	p.V270L	2	120005570	120005570.0	G	G	C	0.0158	190.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-LMC436	Osteosarcoma-LMC436-Tumor-SM-2RCB8	Osteosarcoma-LMC436-Normal-SM-2RCCN	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ZNF710	Missense	p.Y187C	15	90610929	90610929.0	A	A	G	0.0625	48.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-LMC436	Osteosarcoma-LMC436-Tumor-SM-2RCB8	Osteosarcoma-LMC436-Normal-SM-2RCCN	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	AP1M2	Missense	p.V387I	19	10685594	10685594.0	C	C	T	0.375	24.0	8e-06	0.0		0								0.0	0.0	0.0		Osteosarcoma-LMC436	Osteosarcoma-LMC436-Tumor-SM-2RCB8	Osteosarcoma-LMC436-Normal-SM-2RCCN	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	SCRN3	Nonsense	p.S319*	2	175289241	175289241.0	C	C	A	0.0411	73.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-LMC436	Osteosarcoma-LMC436-Tumor-SM-2RCB8	Osteosarcoma-LMC436-Normal-SM-2RCCN	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	PRDM7	Splice Site		16	90127032	90127032.0	C	C	G	0.2338	77.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-LMC436	Osteosarcoma-LMC436-Tumor-SM-2RCB8	Osteosarcoma-LMC436-Normal-SM-2RCCN	0	0	0	0	0	0	1
+Cosmic				Copy Number	KRT40	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ATAD5	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MUC20	Deletion		3	195451301	195476187.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OBP2A	Deletion		9	138438891	138441428.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	BTNL2	Amplification		6	32013702	32364415.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NOTCH4	Amplification		6	32013702	32364415.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ENPP5	Amplification		6	44414092	46630487.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRT27	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP4-1	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	NAV3	Fusion	RP1-34H18.1--NAV3	chr12	77966046							0.0	0.0		0	6.0	RP1-34H18.1	chr12	77966046.0	NAV3	chr12	78334099.0					Osteosarcoma-LMC436			0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC44A4	Amplification		6	31802790	31948679.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C6orf10	Amplification		6	32013702	32364415.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GPR116	Amplification		6	46636194	47779719.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GPR110	Amplification		6	46636194	47779719.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TDRD6	Amplification		6	46636194	47779719.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TTBK1	Amplification		6	43193660	43272195.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ABCC10	Amplification		6	43272196	44201517.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MYOCD	Deletion		17	11511194	12812540.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP9-8	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TNS4	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GSDMA	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SEZ6	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	EFCAB5	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRT36	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	UBR2	Amplification		6	42541220	42646659.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CNPY3	Amplification		6	42650541	43193659.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CUL7	Amplification		6	42650541	43193659.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IP6K3	Amplification		6	33555139	33703505.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SPATS1	Amplification		6	44320211	44413856.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GPR115	Amplification		6	46636194	47779719.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GPR111	Amplification		6	46636194	47779719.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TCTE1	Amplification		6	44227528	44311223.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	AARS2	Amplification		6	44227528	44311223.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	XPO5	Amplification		6	43272196	44201517.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC22A7	Amplification		6	43272196	44201517.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MRPS18A	Amplification		6	43272196	44201517.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP9-4	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP9-2	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP4-5	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRT39	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRT26	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRT25	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP4-2	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRRC16A	Deletion		6	25279774	25489063.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC46A1	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ABHD15	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	UTP6	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RHBDL3	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MYO18A	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRT38	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MTAP	Deletion		9	21815180	22452162.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C6orf48	Amplification		6	31802790	31948679.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZBTB12	Amplification		6	31802790	31948679.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RNF5	Amplification		6	32013702	32364415.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRRT1	Amplification		6	32013702	32364415.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RRP36	Amplification		6	42650541	43193659.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C6orf226	Amplification		6	42650541	43193659.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MRPL2	Amplification		6	42650541	43193659.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MEA1	Amplification		6	42650541	43193659.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KLC4	Amplification		6	42650541	43193659.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RPL7L1	Amplification		6	42650541	43193659.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GGNBP1	Amplification		6	33555139	33703505.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CD2AP	Amplification		6	46636194	47779719.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OPN5	Amplification		6	46636194	47779719.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GUCA1B	Amplification		6	41874558	42237580.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MED20	Amplification		6	41874558	42237580.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TAF8	Amplification		6	41874558	42237580.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C6orf132	Amplification		6	41874558	42237580.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MRPS10	Amplification		6	41874558	42237580.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TRERF1	Amplification		6	41874558	42237580.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CRIP3	Amplification		6	43193660	43272195.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM151B	Amplification		6	44227528	44311223.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC35B2	Amplification		6	44227528	44311223.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SUPT3H	Amplification		6	44414092	46630487.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CLIC5	Amplification		6	44414092	46630487.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RUNX2	Amplification		6	44414092	46630487.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GTPBP2	Amplification		6	43272196	44201517.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DLK2	Amplification		6	43272196	44201517.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MRPL14	Amplification		6	43272196	44201517.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TJAP1	Amplification		6	43272196	44201517.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C6orf223	Amplification		6	43272196	44201517.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	YIPF3	Amplification		6	43272196	44201517.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RSPH9	Amplification		6	43272196	44201517.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	HSPA1A	Amplification		6	31783282	31797905.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FOXP4	Amplification		6	41533247	41658697.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MDFI	Amplification		6	41533247	41658697.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	BTBD9	Amplification		6	38084096	38256489.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCDC130	Deletion		19	13862371	13869869.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C14orf28	Deletion		14	45369387	45524004.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM179B	Deletion		14	45369387	45524004.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	UVRAG	Deletion		11	75718326	75898535.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF18	Deletion		17	11511194	12812540.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ARHGAP44	Deletion		17	11511194	12812540.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP4-7	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP4-8	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP9-3	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP9-1	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP4-9	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP9-9	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CASC3	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RAPGEFL1	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MSL1	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP4-6	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP9-7	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP4-4	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRT222	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM99	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRT33A	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRT28	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRT23	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP1-1	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP4-3	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	WIPF2	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GJD3	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP1-3	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP3-2	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP2-2	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP4-11	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP2-4	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP3-1	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP4-12	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP2-1	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP4-16P	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP17-1	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP16-1	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP1-5	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP3-3	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP1-4	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP29-1	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP2-3	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RP11-192H23.4	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ANKRD13B	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ADAP2	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TNFAIP1	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMIGD1	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM199	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRRC37B	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DHRS13	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ERAL1	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FLOT2	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FOXN1	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GIT1	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	AC003101.1	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IFT20	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TLCD1	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RAB11FIP4	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RAB34	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SUPT6H	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PROCA1	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NSRP1	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CRYBA1	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MYO1D	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NEK8	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NLK	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SUZ12P	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TAOK1	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PIPOX	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PIGS	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TBC1D29	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TTC25	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KLHL11	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRT37	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KLHL10	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FKBP10	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GHDC	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KCNH4	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	HSPB9	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF385C	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NKIRAS2	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DLG2	Deletion		11	83641119	83676763.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DMRTA1	Deletion		9	21815180	22452162.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	USP49	Fusion	USP49--TMPRSS2	chr6	41839302							0.0	0.0		0	7.0	USP49	chr6	41839302.0	TMPRSS2	chr21	42902145.0					Osteosarcoma-LMC436			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND6	Fusion	MT-ND6--MT-TE	chrM	14486							0.0	0.0		0	28.0	MT-ND6	chrM	14486.0	MT-TE	chrM	14720.0					Osteosarcoma-LMC436			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND6	Fusion	MT-ND6--COL1A2	chrM	14370							0.0	0.0		0	10.0	MT-ND6	chrM	14370.0	COL1A2	chr7	94059654.0					Osteosarcoma-LMC436			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4	Fusion	MT-ND4--MT-ND4L	chrM	10892							0.0	0.0		0	33.0	MT-ND4	chrM	10892.0	MT-ND4L	chrM	10615.0					Osteosarcoma-LMC436			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-ATP6--MT-ATP8	chrM	8682							0.0	0.0		0	11.0	MT-ATP6	chrM	8682.0	MT-ATP8	chrM	8464.0					Osteosarcoma-LMC436			0	0	0	0	0	0	1
+Cosmic				Rearrangement	LEPROT	Fusion	LEPROT--LEPR	chr1	65891061							0.0	0.0		0	7.0	LEPROT	chr1	65891061.0	LEPR	chr1	66031229.0					Osteosarcoma-LMC436			0	0	0	0	0	0	1
+Cosmic				Rearrangement	SLC46A2	Fusion	TENM4--SLC46A2	chr11	78412571							0.0	0.0		0	46.0	TENM4	chr11	78412571.0	SLC46A2	chr9	115649693.0					Osteosarcoma-LMC436			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND2	Fusion	RP11-465L10.10--MT-ND2	chr20	44643060							0.0	0.0		0	10.0	RP11-465L10.10	chr20	44643060.0	MT-ND2	chrM	4851.0					Osteosarcoma-LMC436			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4L	Fusion	MT-ND4--MT-ND4L	chrM	10892							0.0	0.0		0	33.0	MT-ND4	chrM	10892.0	MT-ND4L	chrM	10615.0					Osteosarcoma-LMC436			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP8	Fusion	MT-ATP6--MT-ATP8	chrM	8682							0.0	0.0		0	11.0	MT-ATP6	chrM	8682.0	MT-ATP8	chrM	8464.0					Osteosarcoma-LMC436			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CO1	Fusion	MMP9--MT-CO1	chr20	44644995							0.0	0.0		0	8.0	MMP9	chr20	44644995.0	MT-CO1	chrM	6919.0					Osteosarcoma-LMC436			0	0	0	0	0	0	1
+Cosmic				Rearrangement	TMIGD2	Fusion	KDM5A--TMIGD2	chr12	475100							0.0	0.0		0	18.0	KDM5A	chr12	475100.0	TMIGD2	chr19	4294813.0					Osteosarcoma-LMC436			0	0	0	0	0	0	1
+Cosmic				Rearrangement	RAB38	Fusion	CTSC--RAB38	chr11	88042331							0.0	0.0		0	6.0	CTSC	chr11	88042331.0	RAB38	chr11	87883123.0					Osteosarcoma-LMC436			0	0	0	0	0	0	1
+Cosmic				Rearrangement	PHACTR3	Fusion	CTD-2547E10.2--PHACTR3	chr16	21531149							0.0	0.0		0	13.0	CTD-2547E10.2	chr16	21531149.0	PHACTR3	chr20	58411560.0					Osteosarcoma-LMC436			0	0	0	0	0	0	1
+VUS				Copy Number	NT5C3B	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	TEFM	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	COPRS	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-145E5.5	Deletion		9	21815180	22452162.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	DXO	Amplification		6	31802790	31948679.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	NELFE	Amplification		6	31802790	31948679.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD48	Amplification		6	31802790	31948679.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1236	Amplification		6	31802790	31948679.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	EHMT2-AS1	Amplification		6	31802790	31948679.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD52	Amplification		6	31802790	31948679.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP206	Amplification		6	32013702	32364415.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	PPT2-EGFL8	Amplification		6	32013702	32364415.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	HCG23	Amplification		6	32013702	32364415.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-603P	Amplification		6	32013702	32364415.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	XXbac-BPG154L12.4	Amplification		6	32013702	32364415.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	XXbac-BPG300A18.13	Amplification		6	32013702	32364415.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-890P	Amplification		6	42541220	42646659.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	GLTSCR1L	Amplification		6	42650541	43193659.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL403P	Amplification		6	42650541	43193659.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-20C7.6	Amplification		6	42650541	43193659.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-387M24.5	Amplification		6	42650541	43193659.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-475N16.1	Amplification		6	42650541	43193659.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	XXbac-BPG181M17.6	Amplification		6	32940424	32948747.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	BRD2-IT1	Amplification		6	32940424	32948747.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00336	Amplification		6	33555139	33703505.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3934	Amplification		6	33555139	33703505.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	SBP1	Amplification		6	33555139	33703505.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	UQCC2	Amplification		6	33555139	33703505.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL133262.1	Amplification		6	44320211	44413856.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4642	Amplification		6	44320211	44413856.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-444E17.6	Amplification		6	44320211	44413856.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-365O12.2	Amplification		6	46636194	47779719.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-550C4.6	Amplification		6	46636194	47779719.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-446F17.3	Amplification		6	46636194	47779719.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL355353.1	Amplification		6	46636194	47779719.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	ANKRD66	Amplification		6	46636194	47779719.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-385F7.1	Amplification		6	46636194	47779719.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP116	Amplification		6	46636194	47779719.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-268F1.3	Amplification		6	46636194	47779719.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-7K24.3	Amplification		6	41874558	42237580.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-533O20.2	Amplification		6	41874558	42237580.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-139D8.6	Amplification		6	41874558	42237580.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-761P	Amplification		6	41874558	42237580.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	DNPH1	Amplification		6	43193660	43272195.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-330M21.5	Amplification		6	43193660	43272195.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-449H6.1	Amplification		6	44414092	46630487.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-166H4.2	Amplification		6	44414092	46630487.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-754P	Amplification		6	44414092	46630487.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-515P	Amplification		6	44414092	46630487.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-244F24.1	Amplification		6	44414092	46630487.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-8B1.4	Amplification		6	44414092	46630487.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR586	Amplification		6	44414092	46630487.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-795J1.1	Amplification		6	44414092	46630487.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1120P11.3	Amplification		6	43272196	44201517.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-344J7.2	Amplification		6	43272196	44201517.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1120P11.1	Amplification		6	43272196	44201517.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-337H4.10	Amplification		6	43272196	44201517.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-337H4.9	Amplification		6	43272196	44201517.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-337H4.8	Amplification		6	43272196	44201517.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1113P	Amplification		6	43272196	44201517.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-302G2.5	Amplification		6	43272196	44201517.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL109615.1	Amplification		6	43272196	44201517.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-261G23.5	Amplification		6	43272196	44201517.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-261G23.7	Amplification		6	43272196	44201517.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	LRRC73	Amplification		6	43272196	44201517.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4641	Amplification		6	41533247	41658697.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL035588.1	Amplification		6	41533247	41658697.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-857B24.5	Deletion		14	45369387	45524004.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2011F17.2	Deletion		11	75718326	75898535.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1090M7.1	Deletion		17	11511194	12812540.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR744	Deletion		17	11511194	12812540.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-471L13.2	Deletion		17	11511194	12812540.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00670	Deletion		17	11511194	12812540.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-628O18.1	Deletion		17	11511194	12812540.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC005701.1	Deletion		17	11511194	12812540.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC005358.1	Deletion		17	11511194	12812540.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RPL21P122	Deletion		17	11511194	12812540.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU11-2P	Deletion		17	11511194	12812540.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC005358.3	Deletion		17	11511194	12812540.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1096G20.5	Deletion		17	11511194	12812540.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	KRTAP9-6	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC073508.1	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-605F20.1	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP441	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC068669.1	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-387H17.6	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD124	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	KRT223P	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC004231.2	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1028K7.2	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1110E20.1	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2267D19.2	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2267D19.3	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2267D19.6	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY4P8	Deletion		17	38122334	39507271.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL160037.1	Deletion		6	25279774	25489063.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-987P	Deletion		6	25279774	25489063.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-192H23.5	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-218M11.1	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP13-753N3.1	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-192H23.6	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC116407.1	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-192H23.7	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC116407.2	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-20B24.7	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY4P13	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-20B24.6	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-20B24.5	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-192H23.8	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-20B24.4	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC061975.10	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	SPAG5-AS1	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD63	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC090616.2	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC091177.1	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	SH3GL1P1	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	SGK494	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC104984.4	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-41C23.1	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC104996.1	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1148O4.2	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-142O6.1	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-218M11.3	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-227G15.8	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-218M11.6	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD42A	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-68I3.4	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-68I3.2	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	SMURF2P1	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-443G13.2	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-68I3.11	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-82O19.1	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-68I3.10	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-805L22.3	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-68I3.5	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-466A19.1	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-466A19.3	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-466A19.5	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-466A19.6	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-466A19.8	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-640N20.9	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-640N20.8	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-640N20.6	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD42B	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-220C2.1	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-321A17.4	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-227G15.2	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-227G15.3	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-640N20.1	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-227G15.9	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-848P1.9	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD4B	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-848P1.5	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-271K11.5	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-296K13.4	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-321A17.5	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC061975.8	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-338L22.2	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-848P1.4	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-848P1.3	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-354P11.2	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-354P11.3	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-354P11.4	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-68I3.7	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-848P1.2	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD4A	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-354P11.8	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL45P	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC024619.2	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	LRRC37BP1	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC005562.1	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	KRT18P55	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC006050.2	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC010761.10	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2008P7.1	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-542B22.2	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2008P7.10	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-542B22.1	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-96E2.7	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-96E2.3	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR144	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR193A	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3184	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR365B	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-96E2.2	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR423	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4523	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4723	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4724	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2008P7.3	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4733	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2370N5.3	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2350C19.2	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	FAM222B	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2350C19.1	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2349P21.9	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2349P21.6	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2349P21.5	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2349P21.11	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2349P21.10	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2008P7.9	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2008P7.8	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6ATAC7P	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4725	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC010761.13	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL79P	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	PYY2	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL138P	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL316P	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP437	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	PPY2	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU4-34P	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1034P	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1134P	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1267P	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-298P	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-711P	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-920P	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-990P	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC010761.14	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR632	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC010761.8	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC010761.9	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC010761.6	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	POLDIP2	Deletion		17	26369650	31108054.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC003958.2	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC019349.5	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC003104.1	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC107993.1	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	KRT42P	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR5010	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2132N18.3	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2132N18.4	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2132N18.2	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00974	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR548AT	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL399P	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-400F19.8	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-400F19.6	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-400F19.18	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-358B23.5	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-358B23.1	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-194N12.2	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-156E6.1	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-97P	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU2-32P	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP442	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL871P	Deletion		17	39550016	40718238.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-70L8.4	Deletion		9	21815180	22452162.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-408N14.1	Deletion		9	21815180	22452162.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	CDKN2B-AS1	Deletion		9	21815180	22452162.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-149I2.4	Deletion		9	21815180	22452162.0						0.0	0.0		0												Osteosarcoma-LMC436	LMC436_T		0	0	0	0	0	0	0
+VUS				Rearrangement	WI2-1896O14.1	Fusion	WI2-1896O14.1--RP11-353N4.1	chr1	144676874							0.0	0.0		0	12.0	WI2-1896O14.1	chr1	144676874.0	RP11-353N4.1	chr1	149590973.0					Osteosarcoma-LMC436			0	0	0	0	0	0	0
+VUS				Rearrangement	TENM4	Fusion	TENM4--SLC46A2	chr11	78412571							0.0	0.0		0	46.0	TENM4	chr11	78412571.0	SLC46A2	chr9	115649693.0					Osteosarcoma-LMC436			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-96H19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	21.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	47046173.0					Osteosarcoma-LMC436			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-742B18.1	Fusion	RP11-742B18.1--SPARCL1	chr4	88594142							0.0	0.0		0	20.0	RP11-742B18.1	chr4	88594142.0	SPARCL1	chr4	88451783.0					Osteosarcoma-LMC436			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-465L10.10	Fusion	RP11-465L10.10--MT-ND2	chr20	44643060							0.0	0.0		0	10.0	RP11-465L10.10	chr20	44643060.0	MT-ND2	chrM	4851.0					Osteosarcoma-LMC436			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-138M12.1	Fusion	RP11-138M12.1--HDDC2	chr6	125766168							0.0	0.0		0	14.0	RP11-138M12.1	chr6	125766168.0	HDDC2	chr6	125621805.0					Osteosarcoma-LMC436			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-1102P16.1	Fusion	RP11-1102P16.1--EYA1	chr8	72383093							0.0	0.0		0	5.0	RP11-1102P16.1	chr8	72383093.0	EYA1	chr8	72268746.0					Osteosarcoma-LMC436			0	0	0	0	0	0	0
+VUS				Rearrangement	RP1-34H18.1	Fusion	RP1-34H18.1--NAV3	chr12	77966046							0.0	0.0		0	6.0	RP1-34H18.1	chr12	77966046.0	NAV3	chr12	78334099.0					Osteosarcoma-LMC436			0	0	0	0	0	0	0
+VUS				Rearrangement	PVT1	Fusion	PVT1--BRD2	chr8	128903244							0.0	0.0		0	34.0	PVT1	chr8	128903244.0	BRD2	chr6	32939372.0					Osteosarcoma-LMC436			0	0	0	0	0	0	0
+VUS				Rearrangement	CTD-2547E10.2	Fusion	CTD-2547E10.2--PHACTR3	chr16	21531149							0.0	0.0		0	13.0	CTD-2547E10.2	chr16	21531149.0	PHACTR3	chr20	58411560.0					Osteosarcoma-LMC436			0	0	0	0	0	0	0
+VUS				Rearrangement	AC005235.1	Fusion	AC005235.1--AC109589.1	chr2	199239200							0.0	0.0		0	17.0	AC005235.1	chr2	199239200.0	AC109589.1	chr2	199056243.0					Osteosarcoma-LMC436			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-353N4.1	Fusion	WI2-1896O14.1--RP11-353N4.1	chr1	144676874							0.0	0.0		0	12.0	WI2-1896O14.1	chr1	144676874.0	RP11-353N4.1	chr1	149590973.0					Osteosarcoma-LMC436			0	0	0	0	0	0	0
+VUS				Rearrangement	AC016722.2	Fusion	SOCS5--AC016722.2	chr2	46926588							0.0	0.0		0	6.0	SOCS5	chr2	46926588.0	AC016722.2	chr2	47083062.0					Osteosarcoma-LMC436			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-446N19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	21.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	47046173.0					Osteosarcoma-LMC436			0	0	0	0	0	0	0
+VUS				Rearrangement	AF127936.7	Fusion	NRIP1--AF127936.7	chr21	16415816							0.0	0.0		0	5.0	NRIP1	chr21	16415816.0	AF127936.7	chr21	16230029.0					Osteosarcoma-LMC436			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TE	Fusion	MT-ND6--MT-TE	chrM	14486							0.0	0.0		0	28.0	MT-ND6	chrM	14486.0	MT-TE	chrM	14720.0					Osteosarcoma-LMC436			0	0	0	0	0	0	0
+VUS				Rearrangement	AC096579.7	Fusion	IGKV4-1--AC096579.7	chr2	89185668							0.0	0.0		0	127.0	IGKV4-1	chr2	89185668.0	AC096579.7	chr2	89161435.0					Osteosarcoma-LMC436			0	0	0	0	0	0	0
+VUS				Rearrangement	AC109589.1	Fusion	AC005235.1--AC109589.1	chr2	199239200							0.0	0.0		0	17.0	AC005235.1	chr2	199239200.0	AC109589.1	chr2	199056243.0					Osteosarcoma-LMC436			0	0	0	0	0	0	0
