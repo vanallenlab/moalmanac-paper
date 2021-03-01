@@ -1486,6 +1486,7 @@ Copy Number	VAMP2			17	69529	18259297.0														SC_9012	SC_9012-Tumor		0
 Copy Number	VAMP1			12	176602	10571099.0														SC_9012	SC_9012-Tumor		0
 Copy Number	VAC14-AS1			16	70219881	74339633.0														SC_9012	SC_9012-Tumor		0
 Copy Number	VAC14			16	70219881	74339633.0														SC_9012	SC_9012-Tumor		0
+Somatic Variant	Unknown	IGR		17	7166632	7166632.0	C	C	-	0.2287	188.0									SC_9012	SC_9012-Tumor	SC_9012-Normal	0
 Copy Number	UXT			X	2644416	48051719.0														SC_9012	SC_9012-Tumor		0
 Copy Number	UXS1			2	98263605	110373646.0														SC_9012	SC_9012-Tumor		0
 Copy Number	UVSSA			4	997260	84380952.0														SC_9012	SC_9012-Tumor		0
@@ -5420,6 +5421,7 @@ Copy Number	SLC20A1			2	110843336	122522945.0														SC_9012	SC_9012-Tumor
 Copy Number	SLC1A7			1	25655417	65690555.0														SC_9012	SC_9012-Tumor		0
 Copy Number	SLC1A6			19	111598	50462882.0														SC_9012	SC_9012-Tumor		0
 Copy Number	SLC1A5			19	111598	50462882.0														SC_9012	SC_9012-Tumor		0
+Somatic Variant	SLC1A4	Silent	p.I116I	2	65217125	65217125.0	C	C	T	0.0895	760.0									SC_9012	SC_9012-Tumor	SC_9012-Normal	0
 Copy Number	SLC1A4			2	38973891	87085541.0														SC_9012	SC_9012-Tumor		0
 Copy Number	SLC1A3			5	140833	49707219.0														SC_9012	SC_9012-Tumor		0
 Copy Number	SLC1A2			11	193913	49176046.0														SC_9012	SC_9012-Tumor		0
@@ -5437,6 +5439,7 @@ Copy Number	SLC17A7			19	111598	50462882.0														SC_9012	SC_9012-Tumor		0
 Copy Number	SLC17A6			11	193913	49176046.0														SC_9012	SC_9012-Tumor		0
 Copy Number	SLC17A5			6	31997577	83850124.0														SC_9012	SC_9012-Tumor		0
 Copy Number	SLC17A4			6	345930	31959693.0														SC_9012	SC_9012-Tumor		0
+Somatic Variant	SLC17A3	Silent	p.A362A	6	25849644	25849644.0	T	T	C	0.2015	134.0									SC_9012	SC_9012-Tumor	SC_9012-Normal	0
 Copy Number	SLC17A3			6	345930	31959693.0														SC_9012	SC_9012-Tumor		0
 Copy Number	SLC17A2			6	345930	31959693.0														SC_9012	SC_9012-Tumor		0
 Copy Number	SLC17A1			6	345930	31959693.0														SC_9012	SC_9012-Tumor		0
@@ -5841,6 +5844,7 @@ Copy Number	SEMA5A			5	140833	49707219.0														SC_9012	SC_9012-Tumor		0
 Copy Number	SEMA4G			10	64975458	105420874.0														SC_9012	SC_9012-Tumor		0
 Copy Number	SEMA4F			2	38973891	87085541.0														SC_9012	SC_9012-Tumor		0
 Copy Number	SEMA4D			9	27455550	110250550.0														SC_9012	SC_9012-Tumor		0
+Somatic Variant	SEMA4C	Silent	p.E401E	2	97529790	97529790.0	C	C	T	0.0054	931.0									SC_9012	SC_9012-Tumor	SC_9012-Normal	0
 Copy Number	SEMA4C			2	88825191	97784262.0														SC_9012	SC_9012-Tumor		0
 Copy Number	SEMA4B			15	74369796	102463264.0														SC_9012	SC_9012-Tumor		0
 Copy Number	SEMA4A			1	148745966	207975868.0														SC_9012	SC_9012-Tumor		0
@@ -6211,6 +6215,7 @@ Copy Number	RTN4			2	38973891	87085541.0														SC_9012	SC_9012-Tumor		0
 Copy Number	RTN3			11	60978708	76637713.0														SC_9012	SC_9012-Tumor		0
 Copy Number	RTN2			19	111598	50462882.0														SC_9012	SC_9012-Tumor		0
 Copy Number	RTN1			14	35782267	73989717.0														SC_9012	SC_9012-Tumor		0
+Somatic Variant	RTL1	Silent	p.P702P	14	101349020	101349020.0	C	C	T	0.0087	1155.0									SC_9012	SC_9012-Tumor	SC_9012-Normal	0
 Copy Number	RTL1			14	74036589	105996133.0														SC_9012	SC_9012-Tumor		0
 Copy Number	RTKN2			10	51958908	64975217.0														SC_9012	SC_9012-Tumor		0
 Copy Number	RTKN			2	38973891	87085541.0														SC_9012	SC_9012-Tumor		0
@@ -6294,6 +6299,7 @@ Copy Number	RPS9			19	52195934	54722709.0														SC_9012	SC_9012-Tumor		0
 Copy Number	RPS8			1	25655417	65690555.0														SC_9012	SC_9012-Tumor		0
 Copy Number	RPS7			2	41629	21226208.0														SC_9012	SC_9012-Tumor		0
 Copy Number	RPS6KL1			14	74036589	105996133.0														SC_9012	SC_9012-Tumor		0
+Somatic Variant	RPS6KC1	5'UTR		1	213224654	213224670.0	TTCGCCGCTGCGTTGGG	TTCGCCGCTGCGTTGGG	-	0.1591	88.0									SC_9012	SC_9012-Tumor	SC_9012-Normal	0
 Copy Number	RPS6KC1			1	208061270	213445979.0														SC_9012	SC_9012-Tumor		0
 Copy Number	RPS6KB2			11	60978708	76637713.0														SC_9012	SC_9012-Tumor		0
 Copy Number	RPS6KB1			17	44788487	79418896.0														SC_9012	SC_9012-Tumor		0
@@ -19833,6 +19839,7 @@ Copy Number	PRPS1L1			7	195732	74542188.0														SC_9012	SC_9012-Tumor		0
 Copy Number	PRPS1			X	49364863	153409871.0														SC_9012	SC_9012-Tumor		0
 Copy Number	PRPH2			6	31997577	83850124.0														SC_9012	SC_9012-Tumor		0
 Copy Number	PRPH			12	31242426	52683061.0														SC_9012	SC_9012-Tumor		0
+Somatic Variant	PRPF8	Silent	p.L2039L	17	1557181	1557181.0	C	C	G	0.252	1512.0									SC_9012	SC_9012-Tumor	SC_9012-Normal	0
 Copy Number	PRPF8			17	69529	18259297.0														SC_9012	SC_9012-Tumor		0
 Copy Number	PRPF6			20	68410	62904955.0														SC_9012	SC_9012-Tumor		0
 Copy Number	PRPF4B			6	345930	31959693.0														SC_9012	SC_9012-Tumor		0
@@ -19980,6 +19987,7 @@ Copy Number	PRDM12			9	117092300	135942334.0														SC_9012	SC_9012-Tumor	
 Copy Number	PRDM11			11	193913	49176046.0														SC_9012	SC_9012-Tumor		0
 Copy Number	PRDM10			11	87847310	134257555.0														SC_9012	SC_9012-Tumor		0
 Copy Number	PRDM1			6	85447129	118832580.0														SC_9012	SC_9012-Tumor		0
+Somatic Variant	PRCP	Silent	p.L445L	11	82536106	82536106.0	G	G	A	0.0511	137.0									SC_9012	SC_9012-Tumor	SC_9012-Normal	0
 Copy Number	PRCP			11	77825440	87032377.0														SC_9012	SC_9012-Tumor		0
 Copy Number	PRCD			17	44788487	79418896.0														SC_9012	SC_9012-Tumor		0
 Copy Number	PRCC			1	148745966	207975868.0														SC_9012	SC_9012-Tumor		0
@@ -20452,6 +20460,7 @@ Copy Number	PLEKHA8			7	195732	74542188.0														SC_9012	SC_9012-Tumor		0
 Copy Number	PLEKHA7			11	193913	49176046.0														SC_9012	SC_9012-Tumor		0
 Copy Number	PLEKHA6			1	148745966	207975868.0														SC_9012	SC_9012-Tumor		0
 Copy Number	PLEKHA5			12	16189315	21531362.0														SC_9012	SC_9012-Tumor		0
+Somatic Variant	PLEKHA4	Silent	p.R597R	19	49344520	49344520.0	C	C	A	0.1146	96.0									SC_9012	SC_9012-Tumor	SC_9012-Normal	0
 Copy Number	PLEKHA4			19	111598	50462882.0														SC_9012	SC_9012-Tumor		0
 Copy Number	PLEKHA3			2	157414096	226516281.0														SC_9012	SC_9012-Tumor		0
 Copy Number	PLEKHA2			8	13357582	40438782.0														SC_9012	SC_9012-Tumor		0
@@ -20495,6 +20504,7 @@ Copy Number	PLBD1			12	10955171	16135370.0														SC_9012	SC_9012-Tumor		0
 Copy Number	PLB1			2	23977644	38908630.0														SC_9012	SC_9012-Tumor		0
 Copy Number	PLAUR			19	111598	50462882.0														SC_9012	SC_9012-Tumor		0
 Copy Number	PLAU			10	64975458	105420874.0														SC_9012	SC_9012-Tumor		0
+Somatic Variant	PLAT	Intron		8	42049140	42049140.0	T	T	-	0.2336	137.0									SC_9012	SC_9012-Tumor	SC_9012-Normal	0
 Copy Number	PLAT			8	42050705	43152604.0														SC_9012	SC_9012-Tumor		0
 Copy Number	PLAT			8	41792387	42046591.0														SC_9012	SC_9012-Tumor		0
 Copy Number	PLAGL2			20	68410	62904955.0														SC_9012	SC_9012-Tumor		0
@@ -21515,6 +21525,7 @@ Copy Number	OR52N2			11	193913	49176046.0														SC_9012	SC_9012-Tumor		0
 Copy Number	OR52N1			11	193913	49176046.0														SC_9012	SC_9012-Tumor		0
 Copy Number	OR52M1			11	193913	49176046.0														SC_9012	SC_9012-Tumor		0
 Copy Number	OR52L1			11	193913	49176046.0														SC_9012	SC_9012-Tumor		0
+Somatic Variant	OR52K2	Silent	p.I276I	11	4471397	4471397.0	C	C	T	0.0808	1040.0									SC_9012	SC_9012-Tumor	SC_9012-Normal	0
 Copy Number	OR52K2			11	193913	49176046.0														SC_9012	SC_9012-Tumor		0
 Copy Number	OR52K1			11	193913	49176046.0														SC_9012	SC_9012-Tumor		0
 Copy Number	OR52J3			11	193913	49176046.0														SC_9012	SC_9012-Tumor		0
@@ -22503,6 +22514,7 @@ Copy Number	NDUFB10			16	97559	28391203.0														SC_9012	SC_9012-Tumor		0
 Copy Number	NDUFB1			14	74036589	105996133.0														SC_9012	SC_9012-Tumor		0
 Copy Number	NDUFAF7			2	23977644	38908630.0														SC_9012	SC_9012-Tumor		0
 Copy Number	NDUFAF6			8	88366014	100880695.0														SC_9012	SC_9012-Tumor		0
+Somatic Variant	NDUFAF5	5'UTR		20	13765680	13765680.0	A	A	-	0.1535	228.0									SC_9012	SC_9012-Tumor	SC_9012-Normal	0
 Copy Number	NDUFAF5			20	68410	62904955.0														SC_9012	SC_9012-Tumor		0
 Copy Number	NDUFAF4			6	85447129	118832580.0														SC_9012	SC_9012-Tumor		0
 Copy Number	NDUFAF3			3	367749	49721624.0														SC_9012	SC_9012-Tumor		0
@@ -23139,6 +23151,7 @@ Copy Number	MROH9			1	148745966	207975868.0														SC_9012	SC_9012-Tumor		
 Copy Number	MROH8			20	68410	62904955.0														SC_9012	SC_9012-Tumor		0
 Copy Number	MROH7-TTC4			1	25655417	65690555.0														SC_9012	SC_9012-Tumor		0
 Copy Number	MROH7			1	25655417	65690555.0														SC_9012	SC_9012-Tumor		0
+Somatic Variant	MROH6	Silent	p.C254C	8	144652786	144652786.0	G	G	A	0.0826	1065.0									SC_9012	SC_9012-Tumor	SC_9012-Normal	0
 Copy Number	MROH6			8	139145043	145293766.0														SC_9012	SC_9012-Tumor		0
 Copy Number	MROH5			8	139145043	145293766.0														SC_9012	SC_9012-Tumor		0
 Copy Number	MROH2B			5	140833	49707219.0														SC_9012	SC_9012-Tumor		0
@@ -25239,6 +25252,7 @@ Copy Number	MAGEB2			X	2644416	48051719.0														SC_9012	SC_9012-Tumor		0
 Copy Number	MAGEB18			X	2644416	48051719.0														SC_9012	SC_9012-Tumor		0
 Copy Number	MAGEB17			X	2644416	48051719.0														SC_9012	SC_9012-Tumor		0
 Copy Number	MAGEB16			X	2644416	48051719.0														SC_9012	SC_9012-Tumor		0
+Somatic Variant	MAGEB10	Silent	p.L208L	X	27840047	27840047.0	G	G	T	0.015	334.0									SC_9012	SC_9012-Tumor	SC_9012-Normal	0
 Copy Number	MAGEB10			X	2644416	48051719.0														SC_9012	SC_9012-Tumor		0
 Copy Number	MAGEB1			X	2644416	48051719.0														SC_9012	SC_9012-Tumor		0
 Copy Number	MAGEA9B			X	49364863	153409871.0														SC_9012	SC_9012-Tumor		0
@@ -25573,6 +25587,7 @@ Copy Number	LOXL3			2	38973891	87085541.0														SC_9012	SC_9012-Tumor		0
 Copy Number	LOXL2			8	13357582	40438782.0														SC_9012	SC_9012-Tumor		0
 Copy Number	LOXL1-AS1			15	72958683	74363380.0														SC_9012	SC_9012-Tumor		0
 Copy Number	LOXL1			15	72958683	74363380.0														SC_9012	SC_9012-Tumor		0
+Somatic Variant	LOXHD1	Intron		18	44135154	44135155.0	CA	CA	-	0.1915	94.0									SC_9012	SC_9012-Tumor	SC_9012-Normal	0
 Copy Number	LOXHD1			18	18564498	77960817.0														SC_9012	SC_9012-Tumor		0
 Copy Number	LOX			5	101794197	180374757.0														SC_9012	SC_9012-Tumor		0
 Copy Number	LOR			1	148745966	207975868.0														SC_9012	SC_9012-Tumor		0
@@ -26679,6 +26694,7 @@ Copy Number	KRT17P1			17	69529	18259297.0														SC_9012	SC_9012-Tumor		0
 Copy Number	KRT17			17	36455436	44145035.0														SC_9012	SC_9012-Tumor		0
 Copy Number	KRT16P3			17	18509932	21826300.0														SC_9012	SC_9012-Tumor		0
 Copy Number	KRT16P2			17	69529	18259297.0														SC_9012	SC_9012-Tumor		0
+Somatic Variant	KRT16	Intron		17	39767011	39767011.0	G	G	-	0.1343	134.0									SC_9012	SC_9012-Tumor	SC_9012-Normal	0
 Copy Number	KRT16			17	36455436	44145035.0														SC_9012	SC_9012-Tumor		0
 Copy Number	KRT15			17	36455436	44145035.0														SC_9012	SC_9012-Tumor		0
 Copy Number	KRT14			17	36455436	44145035.0														SC_9012	SC_9012-Tumor		0
@@ -27072,6 +27088,7 @@ Copy Number	KCNQ1DN			11	193913	49176046.0														SC_9012	SC_9012-Tumor		0
 Copy Number	KCNQ1-AS1			11	193913	49176046.0														SC_9012	SC_9012-Tumor		0
 Copy Number	KCNQ1			11	193913	49176046.0														SC_9012	SC_9012-Tumor		0
 Copy Number	KCNN4			19	111598	50462882.0														SC_9012	SC_9012-Tumor		0
+Somatic Variant	KCNN3	Silent	p.A50A	1	154842291	154842291.0	G	G	T	0.1126	293.0									SC_9012	SC_9012-Tumor	SC_9012-Normal	0
 Copy Number	KCNN3			1	148745966	207975868.0														SC_9012	SC_9012-Tumor		0
 Copy Number	KCNN2			5	101794197	180374757.0														SC_9012	SC_9012-Tumor		0
 Copy Number	KCNN1			19	111598	50462882.0														SC_9012	SC_9012-Tumor		0
@@ -28919,6 +28936,7 @@ Copy Number	GRM6			5	101794197	180374757.0														SC_9012	SC_9012-Tumor		0
 Copy Number	GRM5-AS1			11	87847310	134257555.0														SC_9012	SC_9012-Tumor		0
 Copy Number	GRM5			11	87847310	134257555.0														SC_9012	SC_9012-Tumor		0
 Copy Number	GRM4			6	31997577	83850124.0														SC_9012	SC_9012-Tumor		0
+Somatic Variant	GRM3	Silent	p.Q8Q	7	86394485	86394485.0	A	A	G	0.1828	290.0									SC_9012	SC_9012-Tumor	SC_9012-Normal	0
 Copy Number	GRM3			7	74994624	102232903.0														SC_9012	SC_9012-Tumor		0
 Copy Number	GRM2			3	49722524	52282716.0														SC_9012	SC_9012-Tumor		0
 Copy Number	GRM1			6	118845085	170892837.0														SC_9012	SC_9012-Tumor		0
@@ -29582,6 +29600,7 @@ Copy Number	GANAB			11	60978708	76637713.0														SC_9012	SC_9012-Tumor		0
 Copy Number	GAN			16	74425980	90141882.0														SC_9012	SC_9012-Tumor		0
 Copy Number	GAMT			19	111598	50462882.0														SC_9012	SC_9012-Tumor		0
 Copy Number	GALT			9	27455550	110250550.0														SC_9012	SC_9012-Tumor		0
+Somatic Variant	GALR3	Silent	p.A17A	22	38219464	38219464.0	C	C	T	0.0123	489.0									SC_9012	SC_9012-Tumor	SC_9012-Normal	0
 Copy Number	GALR3			22	35658416	39358516.0														SC_9012	SC_9012-Tumor		0
 Copy Number	GALR2			17	44788487	79418896.0														SC_9012	SC_9012-Tumor		0
 Copy Number	GALR1			18	18564498	77960817.0														SC_9012	SC_9012-Tumor		0
@@ -31257,6 +31276,7 @@ Copy Number	DYNC1LI2			16	55854393	69985395.0														SC_9012	SC_9012-Tumor
 Copy Number	DYNC1LI1			3	367749	49721624.0														SC_9012	SC_9012-Tumor		0
 Copy Number	DYNC1I2			2	157414096	226516281.0														SC_9012	SC_9012-Tumor		0
 Copy Number	DYNC1I1			7	74994624	102232903.0														SC_9012	SC_9012-Tumor		0
+Somatic Variant	DYNC1H1	Silent	p.L2279L	14	102478430	102478430.0	C	C	G	0.0889	720.0									SC_9012	SC_9012-Tumor	SC_9012-Normal	0
 Copy Number	DYNC1H1			14	74036589	105996133.0														SC_9012	SC_9012-Tumor		0
 Copy Number	DYNAP			18	18564498	77960817.0														SC_9012	SC_9012-Tumor		0
 Copy Number	DYM			18	18564498	77960817.0														SC_9012	SC_9012-Tumor		0
@@ -34275,6 +34295,7 @@ Copy Number	CNIH2			11	60978708	76637713.0														SC_9012	SC_9012-Tumor		0
 Copy Number	CNIH1			14	35782267	73989717.0														SC_9012	SC_9012-Tumor		0
 Copy Number	CNGB3			8	53092874	88249340.0														SC_9012	SC_9012-Tumor		0
 Copy Number	CNGB1			16	55854393	69985395.0														SC_9012	SC_9012-Tumor		0
+Somatic Variant	CNGA4	Silent	p.H63H	11	6260938	6260938.0	C	C	T	0.0197	356.0									SC_9012	SC_9012-Tumor	SC_9012-Normal	0
 Copy Number	CNGA4			11	193913	49176046.0														SC_9012	SC_9012-Tumor		0
 Copy Number	CNGA3			2	98263605	110373646.0														SC_9012	SC_9012-Tumor		0
 Copy Number	CNGA2			X	49364863	153409871.0														SC_9012	SC_9012-Tumor		0
@@ -34845,6 +34866,7 @@ Copy Number	CDK2AP1			12	82148000	133779461.0														SC_9012	SC_9012-Tumor
 Copy Number	CDK20			9	27455550	110250550.0														SC_9012	SC_9012-Tumor		0
 Copy Number	CDK2			12	52698813	58114694.0														SC_9012	SC_9012-Tumor		0
 Copy Number	CDK19			6	85447129	118832580.0														SC_9012	SC_9012-Tumor		0
+Somatic Variant	CDK18	3'UTR		1	205500766	205500766.0	A	A	-	0.1319	91.0									SC_9012	SC_9012-Tumor	SC_9012-Normal	0
 Copy Number	CDK18			1	148745966	207975868.0														SC_9012	SC_9012-Tumor		0
 Copy Number	CDK17			12	82148000	133779461.0														SC_9012	SC_9012-Tumor		0
 Copy Number	CDK16			X	2644416	48051719.0														SC_9012	SC_9012-Tumor		0
@@ -35133,6 +35155,7 @@ Copy Number	CCDC96			4	997260	84380952.0														SC_9012	SC_9012-Tumor		0
 Copy Number	CCDC94			19	111598	50462882.0														SC_9012	SC_9012-Tumor		0
 Copy Number	CCDC93			2	110843336	122522945.0														SC_9012	SC_9012-Tumor		0
 Copy Number	CCDC92			12	82148000	133779461.0														SC_9012	SC_9012-Tumor		0
+Somatic Variant	CCDC91	Silent	p.V314V	12	28605428	28605428.0	G	G	T	0.2174	23.0									SC_9012	SC_9012-Tumor	SC_9012-Normal	0
 Copy Number	CCDC91			12	21693509	31144852.0														SC_9012	SC_9012-Tumor		0
 Copy Number	CCDC90B			11	77825440	87032377.0														SC_9012	SC_9012-Tumor		0
 Copy Number	CCDC9			19	111598	50462882.0														SC_9012	SC_9012-Tumor		0
@@ -35308,6 +35331,7 @@ Copy Number	CBX4			17	44788487	79418896.0														SC_9012	SC_9012-Tumor		0
 Copy Number	CBX3P4			12	176602	10571099.0														SC_9012	SC_9012-Tumor		0
 Copy Number	CBX3P2			18	163455	14132278.0														SC_9012	SC_9012-Tumor		0
 Copy Number	CBX3			7	195732	74542188.0														SC_9012	SC_9012-Tumor		0
+Somatic Variant	CBX2	Silent	p.H217H	17	77757893	77757893.0	C	C	T	0.0445	494.0									SC_9012	SC_9012-Tumor	SC_9012-Normal	0
 Copy Number	CBX2			17	44788487	79418896.0														SC_9012	SC_9012-Tumor		0
 Copy Number	CBX1			17	44788487	79418896.0														SC_9012	SC_9012-Tumor		0
 Copy Number	CBWD7			9	27455550	110250550.0														SC_9012	SC_9012-Tumor		0
@@ -35515,6 +35539,7 @@ Copy Number	CACNA2D3			3	52283830	57558027.0														SC_9012	SC_9012-Tumor	
 Copy Number	CACNA2D2			3	49722524	52282716.0														SC_9012	SC_9012-Tumor		0
 Copy Number	CACNA2D1			7	74994624	102232903.0														SC_9012	SC_9012-Tumor		0
 Copy Number	CACNA1S			1	148745966	207975868.0														SC_9012	SC_9012-Tumor		0
+Somatic Variant	CACNA1I	Silent	p.A1047A	22	40058209	40058209.0	G	G	A	0.1081	37.0									SC_9012	SC_9012-Tumor	SC_9012-Normal	0
 Copy Number	CACNA1I			22	39382419	42522756.0														SC_9012	SC_9012-Tumor		0
 Copy Number	CACNA1H			16	97559	28391203.0														SC_9012	SC_9012-Tumor		0
 Copy Number	CACNA1G-AS1			17	44788487	79418896.0														SC_9012	SC_9012-Tumor		0
@@ -35832,6 +35857,7 @@ Copy Number	C2CD2			21	15481403	47787056.0														SC_9012	SC_9012-Tumor		0
 Copy Number	C22orf46			22	39382419	42522756.0														SC_9012	SC_9012-Tumor		0
 Copy Number	C22orf42			22	25024162	35481688.0														SC_9012	SC_9012-Tumor		0
 Copy Number	C22orf39			22	17073442	23917271.0														SC_9012	SC_9012-Tumor		0
+Somatic Variant	C22orf34	Silent	p.A76A	22	50018233	50018233.0	C	C	T	0.0826	1223.0									SC_9012	SC_9012-Tumor	SC_9012-Normal	0
 Copy Number	C22orf34			22	42981976	51043492.0														SC_9012	SC_9012-Tumor		0
 Copy Number	C22orf31			22	25024162	35481688.0														SC_9012	SC_9012-Tumor		0
 Copy Number	C22orf29			22	17073442	23917271.0														SC_9012	SC_9012-Tumor		0
@@ -36144,6 +36170,7 @@ Copy Number	C12orf71			12	21693509	31144852.0														SC_9012	SC_9012-Tumor
 Copy Number	C12orf68			12	31242426	52683061.0														SC_9012	SC_9012-Tumor		0
 Copy Number	C12orf66			12	58121556	77458417.0														SC_9012	SC_9012-Tumor		0
 Copy Number	C12orf65			12	82148000	133779461.0														SC_9012	SC_9012-Tumor		0
+Somatic Variant	C12orf61	Silent	p.P112P	12	62996783	62996783.0	A	A	G	0.0161	435.0									SC_9012	SC_9012-Tumor	SC_9012-Normal	0
 Copy Number	C12orf61			12	58121556	77458417.0														SC_9012	SC_9012-Tumor		0
 Copy Number	C12orf60			12	10955171	16135370.0														SC_9012	SC_9012-Tumor		0
 Copy Number	C12orf57			12	176602	10571099.0														SC_9012	SC_9012-Tumor		0
@@ -36509,6 +36536,7 @@ Copy Number	BEND2			X	2644416	48051719.0														SC_9012	SC_9012-Tumor		0
 Copy Number	BEGAIN			14	74036589	105996133.0														SC_9012	SC_9012-Tumor		0
 Copy Number	BECN1			17	36455436	44145035.0														SC_9012	SC_9012-Tumor		0
 Copy Number	BEAN1			16	55854393	69985395.0														SC_9012	SC_9012-Tumor		0
+Somatic Variant	BDP1	Silent	p.P2504P	5	70858116	70858116.0	C	C	T	0.1111	63.0									SC_9012	SC_9012-Tumor	SC_9012-Normal	0
 Copy Number	BDP1			5	64747449	81549246.0														SC_9012	SC_9012-Tumor		0
 Copy Number	BDNF-AS			11	193913	49176046.0														SC_9012	SC_9012-Tumor		0
 Copy Number	BDNF			11	193913	49176046.0														SC_9012	SC_9012-Tumor		0
@@ -36527,6 +36555,7 @@ Copy Number	BCO2			11	87847310	134257555.0														SC_9012	SC_9012-Tumor		0
 Copy Number	BCMO1			16	74425980	90141882.0														SC_9012	SC_9012-Tumor		0
 Copy Number	BCLAF1			6	118845085	170892837.0														SC_9012	SC_9012-Tumor		0
 Copy Number	BCL9L			11	87847310	134257555.0														SC_9012	SC_9012-Tumor		0
+Somatic Variant	BCL9	5'UTR		1	147083471	147083484.0	AGAGAAAAACAAAG	AGAGAAAAACAAAG	-	0.0912	274.0									SC_9012	SC_9012-Tumor	SC_9012-Normal	0
 Copy Number	BCL9			1	116534864	148587953.0														SC_9012	SC_9012-Tumor		0
 Copy Number	BCL7C			16	30205595	55837515.0														SC_9012	SC_9012-Tumor		0
 Copy Number	BCL7B			7	195732	74542188.0														SC_9012	SC_9012-Tumor		0
@@ -36721,6 +36750,7 @@ Copy Number	ATPAF1			1	25655417	65690555.0														SC_9012	SC_9012-Tumor		0
 Copy Number	ATP9B			18	18564498	77960817.0														SC_9012	SC_9012-Tumor		0
 Copy Number	ATP9A			20	68410	62904955.0														SC_9012	SC_9012-Tumor		0
 Copy Number	ATP8B5P			9	27455550	110250550.0														SC_9012	SC_9012-Tumor		0
+Somatic Variant	ATP8B4	Silent	p.K952K	15	50168646	50168646.0	C	C	T	0.0448	201.0									SC_9012	SC_9012-Tumor	SC_9012-Normal	0
 Copy Number	ATP8B4			15	43906253	55964833.0														SC_9012	SC_9012-Tumor		0
 Copy Number	ATP8B3			19	111598	50462882.0														SC_9012	SC_9012-Tumor		0
 Copy Number	ATP8B2			1	148745966	207975868.0														SC_9012	SC_9012-Tumor		0
@@ -36787,6 +36817,7 @@ Copy Number	ATP2B4			1	148745966	207975868.0														SC_9012	SC_9012-Tumor	
 Copy Number	ATP2B3			X	49364863	153409871.0														SC_9012	SC_9012-Tumor		0
 Copy Number	ATP2B2-IT2			3	367749	49721624.0														SC_9012	SC_9012-Tumor		0
 Copy Number	ATP2B2-IT1			3	367749	49721624.0														SC_9012	SC_9012-Tumor		0
+Somatic Variant	ATP2B2	Silent	p.P1202P	3	10370624	10370624.0	C	C	T	0.1911	518.0									SC_9012	SC_9012-Tumor	SC_9012-Normal	0
 Copy Number	ATP2B2			3	367749	49721624.0														SC_9012	SC_9012-Tumor		0
 Copy Number	ATP2B1			12	82148000	133779461.0														SC_9012	SC_9012-Tumor		0
 Copy Number	ATP2A3			17	69529	18259297.0														SC_9012	SC_9012-Tumor		0
@@ -39011,6 +39042,7 @@ Copy Number	ACTL7B			9	111618212	117085529.0														SC_9012	SC_9012-Tumor	
 Copy Number	ACTL7A			9	111618212	117085529.0														SC_9012	SC_9012-Tumor		0
 Copy Number	ACTL6B			7	74994624	102232903.0														SC_9012	SC_9012-Tumor		0
 Copy Number	ACTL6A			3	164697220	197765540.0														SC_9012	SC_9012-Tumor		0
+Somatic Variant	ACTL10	Silent	p.A99A	20	32255600	32255600.0	C	C	T	0.0058	1902.0									SC_9012	SC_9012-Tumor	SC_9012-Normal	0
 Copy Number	ACTL10			20	68410	62904955.0														SC_9012	SC_9012-Tumor		0
 Copy Number	ACTG2			2	38973891	87085541.0														SC_9012	SC_9012-Tumor		0
 Copy Number	ACTG1			17	79426354	81052322.0														SC_9012	SC_9012-Tumor		0

@@ -1,6 +1,5 @@
 feature	somatic_mutations	copy_number_alterations	fusions
-ABL1	Missense p.A633S		
-ALK			
+ALK	Missense p.V351M		
 ANKRD11			
 APC			
 AR			
@@ -8,7 +7,7 @@ ARID1A
 ARID1B			
 ASXL1			
 ASXL2		Deletion	
-ATM	Nonsense p.Q1970*		
+ATM			
 AURKA			
 AURKB			
 AXL			
@@ -38,24 +37,26 @@ FOXA1
 GATA2			
 GLI1			
 GNAS	Missense p.A478V		
+HGF	Nonsense p.L541*, Missense p.T596M		
 HLA-A			
 HLA-B			
 HNF1A			
 IDH2			
-IKZF1	Missense p.G43A		
 IL12RB1			
 IL7R			
 IRS2			
 JAK1			
+KDM6A	Missense p.I297F		
 KDR			
 KIT			
-KMT2C	Nonsense p.S1480*		
+KMT2C			
 KNSTRN		Deletion	
 MAP3K1			
 MC1R			
 MGA	Missense p.R2435W	Deletion	
 MLH3			
 MSH2			
+MYC	Missense p.Y334C		
 NOTCH2			
 NSD1			
 PALB2			
@@ -66,6 +67,7 @@ PRDM14
 PTPRD			
 PTPRS			
 PTPRT			
+RAD51B			
 RAD51D			
 RHEB		Deletion	
 RICTOR			
@@ -78,3 +80,4 @@ TET2
 TMPRSS2			
 TNFRSF14			
 TP53			
+TSC2	Missense p.G20R		

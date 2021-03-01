@@ -1,0 +1,88 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Putatively Actionable			Putatively Actionable	Copy Number	MYC	Amplification		8	128750242	129162684						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		4	1	0	1	1	1	1
+Investigate Actionability		Investigate Actionability	Investigate Actionability	Somatic Variant	TP53	Missense	p.R337L	17	7574017	7574017	C	C	A	0.1111	54.0	0.0	0.0		0												Osteosarcoma-NAN358	Osteosarcoma-NAN358-Tumor-SM-2RCBF	Osteosarcoma-NAN358-Normal-SM-2RCCU	3	2	2	1	1	1	2
+Cancer Hotspot				Copy Number	LYN	Amplification		8	56910653	57358764						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	1	0	0	0	1	1
+Cancer Hotspot 3D				Copy Number	CYP2A6	Deletion		19	41350284	41382031						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	1	0	0	1	1
+Cancer Gene Census				Copy Number	EXT1	Amplification		8	118540638	119123537						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	1	0	1	1
+Cancer Gene Census				Somatic Variant	KIF5B	Missense	p.A2V	10	32344897	32344897	G	G	A	0.0462	65.0	1.6e-05	0.0		0												Osteosarcoma-NAN358	Osteosarcoma-NAN358-Tumor-SM-2RCBF	Osteosarcoma-NAN358-Normal-SM-2RCCU	0	0	0	1	0	0	2
+Cancer Gene Census				Copy Number	CHCHD7	Amplification		8	56910653	57358764						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	1	0	0	1
+Cancer Gene Census				Copy Number	PLAG1	Amplification		8	56910653	57358764						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	1	0	0	1
+Cancer Gene Census				Copy Number	NUTM2A	Deletion		10	88949989	89125814						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	1	0	0	1
+Cancer Pathway				Copy Number	KIR2DL1	Deletion		19	55281051	55287162						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	1	0	1
+Cancer Module				Somatic Variant	MTBP	Missense	p.S312L	8	121473453	121473453	C	C	T	0.3976	83.0	0.0	0.0		0												Osteosarcoma-NAN358	Osteosarcoma-NAN358-Tumor-SM-2RCBF	Osteosarcoma-NAN358-Normal-SM-2RCCU	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	EIF2B2	Missense	p.L254Q	14	75473347	75473347	T	T	A	0.1321	333.0	0.0	0.0		0												Osteosarcoma-NAN358	Osteosarcoma-NAN358-Tumor-SM-2RCBF	Osteosarcoma-NAN358-Normal-SM-2RCCU	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	RNF167	Missense	p.P343S	17	4848285	4848285	C	C	T	0.2738	325.0	0.0	0.0		0												Osteosarcoma-NAN358	Osteosarcoma-NAN358-Tumor-SM-2RCBF	Osteosarcoma-NAN358-Normal-SM-2RCCU	0	0	0	0	0	1	2
+Cancer Module				Copy Number	CYP2A7	Deletion		19	41350284	41382031						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LPA	Deletion		6	161021697	161067679						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FAM35A	Deletion		10	88949989	89125814						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	PRRC1	Missense	p.T395K	5	126887454	126887454	C	C	A	0.0423	71.0	0.0	0.0		0												Osteosarcoma-NAN358	Osteosarcoma-NAN358-Tumor-SM-2RCBF	Osteosarcoma-NAN358-Normal-SM-2RCCU	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	ELOVL5	Missense	p.P34S	6	53156720	53156720	G	G	A	0.0577	104.0	0.0	0.0		0												Osteosarcoma-NAN358	Osteosarcoma-NAN358-Tumor-SM-2RCBF	Osteosarcoma-NAN358-Normal-SM-2RCCU	0	0	0	0	0	1	1
+Cancer Module				Copy Number	IMPAD1	Amplification		8	57876100	57906396						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MTSS1	Amplification		8	125516260	125716684						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SNTG1	Amplification		8	51465358	53127069						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ST18	Amplification		8	51465358	53127069						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	XKR4	Amplification		8	56014797	56675770						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PENK	Amplification		8	56910653	57358764						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ARL6IP5	Deletion		3	69026517	69169461						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TMF1	Deletion		3	69026517	69169461						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RPS20	Amplification		8	56910653	57358764						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	1	0
+Cosmic				Somatic Variant	EP400	Missense	p.Q2010L	12	132522304	132522304	A	A	T	0.1509	106.0	0.0	0.0		0												Osteosarcoma-NAN358	Osteosarcoma-NAN358-Tumor-SM-2RCBF	Osteosarcoma-NAN358-Normal-SM-2RCCU	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	TIGD2	Missense	p.G219A	4	90034781	90034781	G	G	C	0.0549	91.0	0.0	0.0		0												Osteosarcoma-NAN358	Osteosarcoma-NAN358-Tumor-SM-2RCBF	Osteosarcoma-NAN358-Normal-SM-2RCCU	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	KCNH1	Missense	p.R591W	1	210970994	210970994	G	G	A	0.0312	96.0	8e-06	0.0		0												Osteosarcoma-NAN358	Osteosarcoma-NAN358-Tumor-SM-2RCBF	Osteosarcoma-NAN358-Normal-SM-2RCCU	0	0	0	0	0	0	2
+Cosmic				Copy Number	PCMTD1	Amplification		8	51465358	53127069						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PXDNL	Amplification		8	51465358	53127069						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	1
+Cosmic				Somatic Variant	FAM175B	Missense	p.S280N	10	126523131	126523131	G	G	A	0.0448	67.0	0.0	0.0		0												Osteosarcoma-NAN358	Osteosarcoma-NAN358-Tumor-SM-2RCBF	Osteosarcoma-NAN358-Normal-SM-2RCCU	0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM75	Amplification		8	128750242	129162684						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TATDN1	Amplification		8	125516260	125716684						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NDUFB9	Amplification		8	125516260	125716684						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM68	Amplification		8	56014797	56675770						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MED30	Amplification		8	118540638	119123537						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SDR16C5	Amplification		8	56910653	57358764						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MOS	Amplification		8	56910653	57358764						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	POTED	Deletion		21	11097281	14983322						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LMOD3	Deletion		3	69026517	69169461						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	UBA3	Deletion		3	69026517	69169461						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	EOGT	Deletion		3	69026517	69169461						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	1
+VUS				Copy Number	NBPF1	Deletion		1	16890188	16894096						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	0
+VUS				Copy Number	PVT1	Amplification		8	128750242	129162684						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU4-25P	Amplification		8	128750242	129162684						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU1-106P	Amplification		8	128750242	129162684						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1205	Amplification		8	128750242	129162684						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1208	Amplification		8	128750242	129162684						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1207	Amplification		8	128750242	129162684						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-532M24.1	Amplification		8	125516260	125716684						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-11C20.3	Amplification		8	51465358	53127069						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-110G21.1	Amplification		8	51465358	53127069						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-110G21.2	Amplification		8	51465358	53127069						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC090186.1	Amplification		8	51465358	53127069						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-26M5.2	Amplification		8	51465358	53127069						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-26M5.3	Amplification		8	51465358	53127069						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-401H2.1	Amplification		8	51465358	53127069						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-546K22.1	Amplification		8	51465358	53127069						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-546K22.2	Amplification		8	51465358	53127069						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-546K22.3	Amplification		8	51465358	53127069						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-386G21.1	Amplification		8	56014797	56675770						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-386G21.2	Amplification		8	56014797	56675770						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP265	Amplification		8	56014797	56675770						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-628E19.2	Amplification		8	56014797	56675770						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC100817.1	Amplification		8	56014797	56675770						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-140I16.3	Amplification		8	56910653	57358764						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-446E9.2	Amplification		8	56910653	57358764						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTA-397H3.3	Amplification		8	56910653	57358764						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL323P	Amplification		8	56910653	57358764						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	0
+VUS				Copy Number	SDR16C6P	Amplification		8	56910653	57358764						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD54	Amplification		8	56910653	57358764						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-17A4.2	Amplification		8	56910653	57358764						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	0
+VUS				Copy Number	NUTM2A-AS1	Deletion		10	88949989	89125814						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00863	Deletion		10	88949989	89125814						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	0
+VUS				Copy Number	NUTM2D	Deletion		10	88949989	89125814						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL050302.1	Deletion		21	11097281	14983322						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	0
+VUS				Copy Number	ANKRD30BP2	Deletion		21	11097281	14983322						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	0
+VUS				Copy Number	AP001464.4	Deletion		21	11097281	14983322						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	0
+VUS				Copy Number	AP001465.5	Deletion		21	11097281	14983322						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	0
+VUS				Copy Number	AP003900.6	Deletion		21	11097281	14983322						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3156-3	Deletion		21	11097281	14983322						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	0
+VUS				Copy Number	BAGE2	Deletion		21	11097281	14983322						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-614P	Deletion		21	11097281	14983322						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3136	Deletion		3	69026517	69169461						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2013N24.2	Deletion		3	69026517	69169461						0.0	0.0		0												Osteosarcoma-NAN358	NAN358_T		0	0	0	0	0	0	0

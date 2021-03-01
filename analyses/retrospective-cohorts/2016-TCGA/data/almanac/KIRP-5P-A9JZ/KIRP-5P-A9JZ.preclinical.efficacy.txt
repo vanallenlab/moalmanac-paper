@@ -1,0 +1,9 @@
+patient_id	feature_display	tested_subfeature	therapy_name	n_mut	n_wt	n_mut_tested	n_wt_tested	mut_ic50_median	mut_ic50_mean	mut_ic50_std	wt_ic50_median	wt_ic50_mean	wt_ic50_std	pvalue_mww	statistic
+KIRP-5P-A9JZ	MET Amplification	MET	Crizotinib	199	1624	106	631	24.738	58.372	90.106	25.537	55.528	104.041	0.878	33754.0
+KIRP-5P-A9JZ	MET Amplification	MET Copy Number	Crizotinib	117	1706	60	677	24.822	57.83	90.407	25.427	55.769	103.133	0.928	20454.0
+KIRP-5P-A9JZ	MET Amplification	MET Copy Number Amplification	Crizotinib	82	1741	42	695	18.828	59.826	100.235	25.554	55.702	102.28	0.59	15317.0
+KIRP-5P-A9JZ	BRAF--CUL1 Fusion	BRAF	Sorafenib	264	1559	132	625	11.0	32.603	85.827	11.82	38.257	111.043	0.519	42722.5
+KIRP-5P-A9JZ	BRAF--CUL1 Fusion	CUL1	Sorafenib	139	1684	67	690	14.063	32.588	80.839	11.297	37.726	109.291	0.489	21933.5
+KIRP-5P-A9JZ	BRAF--CUL1 Fusion	BRAF Fusions	Sorafenib	0	1823	0	757				11.486	37.271	107.045	nan	
+KIRP-5P-A9JZ	BRAF--CUL1 Fusion	CUL1 Fusions	Sorafenib	2	1821	1	756	10.493	10.493		11.498	37.307	107.111	0.864	416.0
+KIRP-5P-A9JZ	BRAF--CUL1 Fusion	BRAF--CUL1	Sorafenib	0	1823	0	757				11.486	37.271	107.045	nan	

@@ -1,0 +1,1045 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Putatively Actionable	Putatively Actionable			Copy Number	CDK4	Amplification		12	58112524	58177316.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		4	1	2	1	1	1	1
+Putatively Actionable	Putatively Actionable		Putatively Actionable	Copy Number	AURKA	Amplification		20	54956237	54963505.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		4	0	0	0	0	1	1
+Investigate Actionability	Investigate Actionability			Somatic Variant	MET	Splice Site		7	116395570	116395570.0	G	G	A	0.0411	73.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-VMO265	Osteosarcoma-VMO265-Tumor-SM-2RCBP	Osteosarcoma-VMO265-Normal-SM-2RCD5	3	1	0	1	1	1	1
+Investigate Actionability	Investigate Actionability			Copy Number	FGFR2	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		2	1	0	1	1	1	1
+Biologically Relevant				Rearrangement	TP53	Fusion	TP53--CDK12	chr17	7576853							0.0	0.0		0	25.0	TP53	chr17	7576853.0	CDK12	chr17	37721013.0					Osteosarcoma-VMO265			1	1	1	1	1	1	1
+Biologically Relevant				Rearrangement	TP53	Fusion	TCF7L2--TP53	chr10	114917828							0.0	0.0		0	16.0	TCF7L2	chr10	114917828.0	TP53	chr17	7574033.0					Osteosarcoma-VMO265			1	1	1	1	1	1	1
+Biologically Relevant				Copy Number	FGFR3	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		1	1	1	1	1	1	1
+Biologically Relevant				Copy Number	NF1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		1	1	0	1	0	0	1
+Biologically Relevant				Rearrangement	CDK12	Fusion	TP53--CDK12	chr17	7576853							0.0	0.0		0	25.0	TP53	chr17	7576853.0	CDK12	chr17	37721013.0					Osteosarcoma-VMO265			1	1	0	1	0	0	1
+Biologically Relevant				Copy Number	TACC3	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		1	0	0	0	0	1	1
+Biologically Relevant				Copy Number	RAD51D	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		1	0	0	0	0	1	1
+Cancer Hotspot				Copy Number	RAC1	Deletion		7	6426591	6450263.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	1	1	1	1	1	1
+Cancer Hotspot				Copy Number	SETD2	Deletion		3	46495543	47277315.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	1	1	1	0	1	1
+Cancer Hotspot				Copy Number	GLI1	Amplification		12	57862962	57898334.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	1	0	1	1	1	1
+Cancer Hotspot				Copy Number	TCF7L2	Deletion		10	114925062	117186064.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	1	0	1	1	0	1
+Cancer Hotspot				Rearrangement	TCF7L2	Fusion	TCF7L2--TP53	chr10	114917828							0.0	0.0		0	16.0	TCF7L2	chr10	114917828.0	TP53	chr17	7574033.0					Osteosarcoma-VMO265			0	1	0	1	1	0	1
+Cancer Hotspot				Copy Number	PTPRT	Amplification		20	39987036	40744207.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	1	0	1	0	1	1
+Cancer Hotspot				Copy Number	SUZ12	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	1	0	1	0	1	1
+Cancer Hotspot				Copy Number	WHSC1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	1	0	1	0	1	1
+Cancer Hotspot				Rearrangement	CTCF	Fusion	CTCF--RP5-914P20.5	chr16	67605167							0.0	0.0		0	22.0	CTCF	chr16	67605167.0	RP5-914P20.5	chr20	49547909.0					Osteosarcoma-VMO265			0	1	0	1	0	1	1
+Cancer Hotspot 3D				Copy Number	SLIT2	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	2	0	0	1	1
+Cancer Hotspot 3D				Somatic Variant	NME3	Missense	p.I127M	16	1820893	1820893.0	G	G	C	0.2321	56.0	0.0	0.0		0								93.0	0.2581	0.9999		Osteosarcoma-VMO265	Osteosarcoma-VMO265-Tumor-SM-2RCBP	Osteosarcoma-VMO265-Normal-SM-2RCD5	0	0	1	0	0	1	2
+Cancer Hotspot 3D				Copy Number	SPON2	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	CR1	Deletion		1	207738933	207741637.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	CCL7	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	LDB2	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	BTNL3	Deletion		5	180419563	180424738.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Rearrangement	HBA2	Fusion	HBB--HBA2	chr11	5248236							0.0	0.0		0	5.0	HBB	chr11	5248236.0	HBA2	chr16	223192.0					Osteosarcoma-VMO265			0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	HGFAC	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	1	0	0	0	1
+Cancer Hotspot 3D				Copy Number	CASP7	Deletion		10	114925062	117186064.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	1	0	0	0	1
+Cancer Hotspot 3D				Rearrangement	ZNF664	Fusion	ZNF664--RP11-214K3.24	chr12	124472685							0.0	0.0		0	9.0	ZNF664	chr12	124472685.0	RP11-214K3.24	chr12	124572811.0					Osteosarcoma-VMO265			0	0	1	0	0	0	1
+Cancer Hotspot 3D				Copy Number	UVSSA	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	1	0	0	0	0
+Cancer Gene Census				Copy Number	PLCG1	Amplification		20	39787994	39987035.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	1	1	1	1
+Cancer Gene Census				Rearrangement	SRC	Fusion	SRC--PDZRN4	chr20	35993680							0.0	0.0		0	13.0	SRC	chr20	35993680.0	PDZRN4	chr12	41900258.0					Osteosarcoma-VMO265			0	0	0	1	1	0	1
+Cancer Gene Census				Somatic Variant	RANBP2	Missense	p.S1835R	2	109382498	109382498.0	A	A	C	0.0312	96.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-VMO265	Osteosarcoma-VMO265-Tumor-SM-2RCBP	Osteosarcoma-VMO265-Normal-SM-2RCD5	0	0	0	1	0	1	2
+Cancer Gene Census				Copy Number	TOP1	Amplification		20	39689782	39730245.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	DDIT3	Amplification		12	57905229	57920260.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	TAF15	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	1	0	1	1
+Cancer Gene Census				Rearrangement	TOP1	Fusion	TOP1--RP1-1J6.2	chr20	39728883							0.0	0.0		0	37.0	TOP1	chr20	39728883.0	RP1-1J6.2	chr20	39727464.0					Osteosarcoma-VMO265			0	0	0	1	0	1	1
+Cancer Gene Census				Rearrangement	NAB2	Fusion	PTGES3--NAB2	chr12	57081782							0.0	0.0		0	11.0	PTGES3	chr12	57081782.0	NAB2	chr12	57484908.0					Osteosarcoma-VMO265			0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	SLC34A2	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	1	0	0	1
+Cancer Gene Census				Copy Number	KIAA1598	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	1	0	0	1
+Cancer Pathway				Somatic Variant	CD40	Missense	p.H162Y	20	44751845	44751845.0	C	C	T	0.2631	612.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-VMO265	Osteosarcoma-VMO265-Tumor-SM-2RCBP	Osteosarcoma-VMO265-Normal-SM-2RCD5	0	0	0	0	1	1	2
+Cancer Pathway				Copy Number	PSMD11	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	1	1	1
+Cancer Pathway				Rearrangement	ATF2	Fusion	ATF2--CHN1	chr2	175945388							0.0	0.0		0	5.0	ATF2	chr2	175945388.0	CHN1	chr2	175816930.0					Osteosarcoma-VMO265			0	0	0	0	1	1	1
+Cancer Pathway				Rearrangement	MAPK14	Fusion	CTDSP2--MAPK14	chr12	58223231							0.0	0.0		0	8.0	CTDSP2	chr12	58223231.0	MAPK14	chr6	36020476.0					Osteosarcoma-VMO265			0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	ANAPC4	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	1	0	1
+Cancer Pathway				Copy Number	TRAF4	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	1	0	1
+Cancer Pathway				Copy Number	CTBP1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	1	0	1
+Cancer Module				Somatic Variant	KIF5A	Missense	p.D50N	12	57957240	57957240.0	G	G	A	0.1444	457.0	0.0	0.0		0								4.0	1.0	0.0005		Osteosarcoma-VMO265	Osteosarcoma-VMO265-Tumor-SM-2RCBP	Osteosarcoma-VMO265-Normal-SM-2RCD5	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	PIGR	Missense	p.R52Q	1	207112697	207112697.0	C	C	T	0.1121	107.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-VMO265	Osteosarcoma-VMO265-Tumor-SM-2RCBP	Osteosarcoma-VMO265-Normal-SM-2RCD5	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	MED12L	Missense	p.A1093T	3	151085488	151085488.0	G	G	A	0.0306	98.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-VMO265	Osteosarcoma-VMO265-Tumor-SM-2RCBP	Osteosarcoma-VMO265-Normal-SM-2RCD5	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ARAP2	Missense	p.T1526P	4	36081870	36081870.0	T	T	G	0.0857	35.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-VMO265	Osteosarcoma-VMO265-Tumor-SM-2RCBP	Osteosarcoma-VMO265-Normal-SM-2RCD5	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	CENPQ	Missense	p.A66V	6	49439815	49439815.0	C	C	T	0.0889	135.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-VMO265	Osteosarcoma-VMO265-Tumor-SM-2RCBP	Osteosarcoma-VMO265-Normal-SM-2RCD5	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	NOS1	Nonsense	p.Y603*	12	117710220	117710220.0	G	G	C	0.0847	118.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-VMO265	Osteosarcoma-VMO265-Tumor-SM-2RCBP	Osteosarcoma-VMO265-Normal-SM-2RCD5	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ZBED4	Missense	p.V914I	22	50280050	50280050.0	G	G	A	0.0309	97.0	0.000173	0.0		0								0.0	0.0	0.0		Osteosarcoma-VMO265	Osteosarcoma-VMO265-Tumor-SM-2RCBP	Osteosarcoma-VMO265-Normal-SM-2RCD5	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	FCRL2	Missense	p.E208K	1	157738465	157738465.0	C	C	T	0.1045	201.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-VMO265	Osteosarcoma-VMO265-Tumor-SM-2RCBP	Osteosarcoma-VMO265-Normal-SM-2RCD5	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	HOXC6	Missense	p.S51W	12	54422457	54422457.0	C	C	G	0.3297	91.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-VMO265	Osteosarcoma-VMO265-Tumor-SM-2RCBP	Osteosarcoma-VMO265-Normal-SM-2RCD5	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	MYH7	Missense	p.E946G	14	23893201	23893201.0	T	T	C	0.0175	171.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-VMO265	Osteosarcoma-VMO265-Tumor-SM-2RCBP	Osteosarcoma-VMO265-Normal-SM-2RCD5	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	NRXN3	Missense	p.K117N	14	79175808	79175808.0	G	G	T	0.0603	116.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-VMO265	Osteosarcoma-VMO265-Tumor-SM-2RCBP	Osteosarcoma-VMO265-Normal-SM-2RCD5	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	UNC119	Splice Site	p.T146M	17	26875017	26875017.0	G	G	A	0.2857	49.0	1.6e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-VMO265	Osteosarcoma-VMO265-Tumor-SM-2RCBP	Osteosarcoma-VMO265-Normal-SM-2RCD5	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	TRA2B	Deletion	p.S266del	3	185636211	185636213.0	AGA	AGA	-	0.1467	75.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-VMO265	Osteosarcoma-VMO265-Tumor-SM-2RCBP	Osteosarcoma-VMO265-Normal-SM-2RCD5	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	TMEM30A	Frameshift	p.T46fs	6	75994218	75994219.0	-	-	T	0.4103	78.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-VMO265	Osteosarcoma-VMO265-Tumor-SM-2RCBP	Osteosarcoma-VMO265-Normal-SM-2RCD5	0	0	0	0	0	1	1
+Cancer Module				Copy Number	PIGG	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC2A9	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TPTE	Deletion		21	10952661	14983322.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CPZ	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SH3TC1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TACC2	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DMBT1	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LTF	Deletion		3	46495543	47277315.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CHL1	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC26A10	Amplification		12	57993089	58025399.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KIAA0100	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RNF135	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CCT6B	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CROCC	Deletion		1	17248906	17273078.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	WFS1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NCAPG	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	C10orf118	Deletion		10	114925062	117186064.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TDGF1	Deletion		3	46495543	47277315.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	STIM2	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	HEXB	Fusion	HEXB--RP11-699L21.2	chr5	73992931							0.0	0.0		0	11.0	HEXB	chr5	73992931.0	RP11-699L21.2	chr3	193713898.0					Osteosarcoma-VMO265			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	SEMG2	Fusion	OSER1--SEMG2	chr20	42835521							0.0	0.0		0	10.0	OSER1	chr20	42835521.0	SEMG2	chr20	43850350.0					Osteosarcoma-VMO265			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	TBC1D1	Fusion	CPNE8--TBC1D1	chr12	39064531							0.0	0.0		0	17.0	CPNE8	chr12	39064531.0	TBC1D1	chr4	37903624.0					Osteosarcoma-VMO265			0	0	0	0	0	1	1
+Cancer Module				Copy Number	AVIL	Amplification		12	58186519	58210075.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ARHGEF25	Amplification		12	57993089	58025399.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ACTR5	Amplification		20	37353116	37518560.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	OMG	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LAMP3	Deletion		3	182575414	182842254.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ARSB	Deletion		5	77805355	78340627.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	AFAP1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TBC1D14	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	WDR1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PPARGC1A	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PDE6B	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LYAR	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FGFBP2	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PLEKHA1	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TRUB1	Deletion		10	114925062	117186064.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ADRB1	Deletion		10	114925062	117186064.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NBEAL2	Deletion		3	46495543	47277315.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ARAP2	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZCCHC4	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PI4K2B	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ITPR1	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	OXTR	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HSD17B12	Deletion		11	43772209	43776686.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EPN2	Deletion		17	18964975	19187279.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DHRS4	Deletion		14	24434719	24435342.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	RYK	Fusion	RYK--RSRC1	chr3	133969267							0.0	0.0		0	12.0	RYK	chr3	133969267.0	RSRC1	chr3	158254881.0					Osteosarcoma-VMO265			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	CTSC	Fusion	CTSC--RAB38	chr11	88033698							0.0	0.0		0	9.0	CTSC	chr11	88033698.0	RAB38	chr11	87883123.0					Osteosarcoma-VMO265			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	AVIL	Fusion	WIPF1--AVIL	chr2	175547502							0.0	0.0		0	5.0	WIPF1	chr2	175547502.0	AVIL	chr12	58193703.0					Osteosarcoma-VMO265			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	UPK1B	Fusion	NNT--UPK1B	chr5	43677908							0.0	0.0		0	15.0	NNT	chr5	43677908.0	UPK1B	chr3	118905561.0					Osteosarcoma-VMO265			0	0	0	0	0	1	1
+Cancer Module				Copy Number	DCTN2	Amplification		12	57920261	57958119.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KIF5A	Amplification		12	57920261	57958119.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PIP4K2C	Amplification		12	57971675	57993088.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CYP27B1	Amplification		12	58112524	58177316.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	METTL1	Amplification		12	58112524	58177316.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	AGAP2	Amplification		12	58112524	58177316.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	METTL21B	Amplification		12	58112524	58177316.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	B4GALNT1	Amplification		12	57993089	58025399.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SYCP2	Amplification		20	58448659	58883875.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SHMT2	Amplification		12	57618409	57862259.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	INHBC	Amplification		12	57618409	57862259.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NXPH4	Amplification		12	57618409	57862259.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	R3HDM2	Amplification		12	57618409	57862259.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PPP1R16B	Amplification		20	37353116	37518560.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NELL2	Amplification		12	44604821	45005005.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SAMHD1	Amplification		20	35059869	35548174.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DLGAP4	Amplification		20	35059869	35548174.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MYL9	Amplification		20	35059869	35548174.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SPAG5	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EVI2B	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EVI2A	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GOSR1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SSH2	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NUFIP2	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RPL23A	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RHOT1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SDF2	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PHF12	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC6A4	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	UNC119	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ALDOC	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	BLMH	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TMEM98	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TP53I13	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	AP2B1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNF207	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CPD	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CORO6	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CDK5R1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CRLF3	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CCL8	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	C17orf75	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CCL1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CCL11	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TIAF1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CCL13	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CCL2	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DCUN1D1	Deletion		3	182575414	182842254.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LHFPL2	Deletion		5	77805355	78340627.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	QDPR	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RNF4	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	BST1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ATP5I	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ADRA2C	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DCAF16	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CRMP1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CD38	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CC2D2A	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNF141	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SH3BP2	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MFSD7	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MED28	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MAEA	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLBP	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LRPAP1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PROM1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PPP2R2C	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PCGF3	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MSX1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	S100P	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NKX3-2	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MXD4	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FGFBP1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FBXL5	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	STK32B	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HS3ST1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	JAKMIP1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LAP3	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC18A2	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TIAL1	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	WDR11	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RGS10	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HTRA1	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	BAG3	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ATE1	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EMX2	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MCMBP	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GRK5	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	INPP5F	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ABLIM1	Deletion		10	114925062	117186064.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MYL3	Deletion		3	46495543	47277315.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PTH1R	Deletion		3	46495543	47277315.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TBC1D19	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CCKAR	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RBPJ	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LGI2	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ARL8B	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	IL5RA	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	BHLHE40	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CRBN	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EDEM1	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LMCD1	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CNTN6	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CAV3	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TRIM48	Deletion		11	55032128	55037066.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	TRA2B	Fusion	TRA2B--TIPARP-AS1	chr3	185649365							0.0	0.0		0	13.0	TRA2B	chr3	185649365.0	TIPARP-AS1	chr3	156389919.0					Osteosarcoma-VMO265			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	TOX2	Fusion	TOX2--BCAS4	chr20	42635432							0.0	0.0		0	7.0	TOX2	chr20	42635432.0	BCAS4	chr20	49434748.0					Osteosarcoma-VMO265			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	TERF2	Fusion	TERF2--SAMHD1	chr16	69418483							0.0	0.0		0	26.0	TERF2	chr16	69418483.0	SAMHD1	chr20	35547922.0					Osteosarcoma-VMO265			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	SYCP2	Fusion	SYCP2--ADARB1	chr20	58444853							0.0	0.0		0	60.0	SYCP2	chr20	58444853.0	ADARB1	chr21	46624470.0					Osteosarcoma-VMO265			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	PTGES3	Fusion	PTGES3--NAB2	chr12	57081782							0.0	0.0		0	11.0	PTGES3	chr12	57081782.0	NAB2	chr12	57484908.0					Osteosarcoma-VMO265			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	NNT	Fusion	NNT--UPK1B	chr5	43677908							0.0	0.0		0	15.0	NNT	chr5	43677908.0	UPK1B	chr3	118905561.0					Osteosarcoma-VMO265			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	NNT	Fusion	NNT--RP11-484M3.5	chr5	43677908							0.0	0.0		0	10.0	NNT	chr5	43677908.0	RP11-484M3.5	chr3	118905561.0					Osteosarcoma-VMO265			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	NNT	Fusion	NNT--C3orf30	chr5	43677908							0.0	0.0		0	12.0	NNT	chr5	43677908.0	C3orf30	chr3	118878740.0					Osteosarcoma-VMO265			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	HUWE1	Fusion	HUWE1--AGAP2-AS1	chrX	53672263							0.0	0.0		0	91.0	HUWE1	chrX	53672263.0	AGAP2-AS1	chr12	58120748.0					Osteosarcoma-VMO265			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	HBB	Fusion	HBB--HBA2	chr11	5248236							0.0	0.0		0	5.0	HBB	chr11	5248236.0	HBA2	chr16	223192.0					Osteosarcoma-VMO265			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	DLGAP4	Fusion	DLGAP4--TLK1	chr20	35091002							0.0	0.0		0	16.0	DLGAP4	chr20	35091002.0	TLK1	chr2	171853270.0					Osteosarcoma-VMO265			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	CDV3	Fusion	CDV3--LRRC31	chr3	133302994							0.0	0.0		0	19.0	CDV3	chr3	133302994.0	LRRC31	chr3	169587660.0					Osteosarcoma-VMO265			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	ABCC5	Fusion	ABCC5--KIAA1407	chr3	183732052							0.0	0.0		0	68.0	ABCC5	chr3	183732052.0	KIAA1407	chr3	113723593.0					Osteosarcoma-VMO265			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	BCAS4	Fusion	TOX2--BCAS4	chr20	42635432							0.0	0.0		0	7.0	TOX2	chr20	42635432.0	BCAS4	chr20	49434748.0					Osteosarcoma-VMO265			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	SAMHD1	Fusion	TERF2--SAMHD1	chr16	69418483							0.0	0.0		0	26.0	TERF2	chr16	69418483.0	SAMHD1	chr20	35547922.0					Osteosarcoma-VMO265			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	SCN2A	Fusion	TANGO6--SCN2A	chr16	68964198							0.0	0.0		0	6.0	TANGO6	chr16	68964198.0	SCN2A	chr2	166187840.0					Osteosarcoma-VMO265			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	ADARB1	Fusion	SYCP2--ADARB1	chr20	58444853							0.0	0.0		0	60.0	SYCP2	chr20	58444853.0	ADARB1	chr21	46624470.0					Osteosarcoma-VMO265			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	NFAT5	Fusion	SOGA1--NFAT5	chr20	35491061							0.0	0.0		0	5.0	SOGA1	chr20	35491061.0	NFAT5	chr16	69660306.0					Osteosarcoma-VMO265			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	RSRC1	Fusion	RYK--RSRC1	chr3	133969267							0.0	0.0		0	12.0	RYK	chr3	133969267.0	RSRC1	chr3	158254881.0					Osteosarcoma-VMO265			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	TIMMDC1	Fusion	PTPLB--TIMMDC1	chr3	123286609							0.0	0.0		0	644.0	PTPLB	chr3	123286609.0	TIMMDC1	chr3	119242453.0					Osteosarcoma-VMO265			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	TLK1	Fusion	DLGAP4--TLK1	chr20	35091002							0.0	0.0		0	16.0	DLGAP4	chr20	35091002.0	TLK1	chr2	171853270.0					Osteosarcoma-VMO265			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	CHN1	Fusion	ATF2--CHN1	chr2	175945388							0.0	0.0		0	5.0	ATF2	chr2	175945388.0	CHN1	chr2	175816930.0					Osteosarcoma-VMO265			0	0	0	0	0	1	1
+Cancer Module				Copy Number	AFAP1-AS1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	1	0
+Cosmic				Somatic Variant	SMARCAL1	Missense	p.H164Y	2	217279917	217279917.0	C	C	T	0.0777	103.0	0.0	0.0		0								39.0	0.1282	0.4225		Osteosarcoma-VMO265	Osteosarcoma-VMO265-Tumor-SM-2RCBP	Osteosarcoma-VMO265-Normal-SM-2RCD5	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	C1orf192	Missense	p.R55H	1	161335995	161335995.0	C	C	T	0.1486	74.0	0.0	0.0		0								11.0	0.2727	0.0946		Osteosarcoma-VMO265	Osteosarcoma-VMO265-Tumor-SM-2RCBP	Osteosarcoma-VMO265-Normal-SM-2RCD5	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	CDKL4	Missense	p.L133I	2	39431725	39431725.0	G	G	T	0.1562	32.0	0.0	0.0		0								4.0	0.75	0.0019		Osteosarcoma-VMO265	Osteosarcoma-VMO265-Tumor-SM-2RCBP	Osteosarcoma-VMO265-Normal-SM-2RCD5	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	SPHKAP	Nonsense	p.Q1522*	2	228860295	228860295.0	G	G	A	0.1929	140.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-VMO265	Osteosarcoma-VMO265-Tumor-SM-2RCBP	Osteosarcoma-VMO265-Normal-SM-2RCD5	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	TANC1	Missense	p.R1134C	2	160075770	160075770.0	C	C	T	0.0396	278.0	1.7e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-VMO265	Osteosarcoma-VMO265-Tumor-SM-2RCBP	Osteosarcoma-VMO265-Normal-SM-2RCD5	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	HECTD1	Missense	p.R876T	14	31614017	31614017.0	C	C	G	0.1786	56.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-VMO265	Osteosarcoma-VMO265-Tumor-SM-2RCBP	Osteosarcoma-VMO265-Normal-SM-2RCD5	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	PKNOX2	Missense	p.A103S	11	125255526	125255526.0	G	G	T	0.0211	142.0	1.7e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-VMO265	Osteosarcoma-VMO265-Tumor-SM-2RCBP	Osteosarcoma-VMO265-Normal-SM-2RCD5	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	VPS13A	Missense	p.R1615I	9	79931303	79931303.0	G	G	T	0.2449	49.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-VMO265	Osteosarcoma-VMO265-Tumor-SM-2RCBP	Osteosarcoma-VMO265-Normal-SM-2RCD5	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ELOVL3	Missense	p.F29L	10	103986390	103986390.0	T	T	C	0.0294	102.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-VMO265	Osteosarcoma-VMO265-Tumor-SM-2RCBP	Osteosarcoma-VMO265-Normal-SM-2RCD5	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	CALHM2	Missense	p.W117C	10	105209348	105209348.0	C	C	G	0.0233	129.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-VMO265	Osteosarcoma-VMO265-Tumor-SM-2RCBP	Osteosarcoma-VMO265-Normal-SM-2RCD5	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	DSN1	Missense	p.A99G	20	35399335	35399335.0	G	G	C	0.1869	1332.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-VMO265	Osteosarcoma-VMO265-Tumor-SM-2RCBP	Osteosarcoma-VMO265-Normal-SM-2RCD5	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	DSN1	Missense	p.H23D	20	35399564	35399564.0	G	G	C	0.2104	1041.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-VMO265	Osteosarcoma-VMO265-Tumor-SM-2RCBP	Osteosarcoma-VMO265-Normal-SM-2RCD5	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	PIK3C3	Nonsense	p.Q643*	18	39617743	39617743.0	C	C	T	0.0293	205.0	8e-06	0.0		0								0.0	0.0	0.0		Osteosarcoma-VMO265	Osteosarcoma-VMO265-Tumor-SM-2RCBP	Osteosarcoma-VMO265-Normal-SM-2RCD5	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	DACH2	Missense	p.G180S	X	85769292	85769292.0	G	G	A	0.44	25.0	0.00018999999999999998	0.0		0								0.0	0.0	0.0		Osteosarcoma-VMO265	Osteosarcoma-VMO265-Tumor-SM-2RCBP	Osteosarcoma-VMO265-Normal-SM-2RCD5	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ZNF142	Missense	p.S46F	2	219521016	219521016.0	G	G	A	0.0571	70.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-VMO265	Osteosarcoma-VMO265-Tumor-SM-2RCBP	Osteosarcoma-VMO265-Normal-SM-2RCD5	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	OR56B1	Missense	p.Q109H	11	5758073	5758073.0	G	G	T	0.098	51.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-VMO265	Osteosarcoma-VMO265-Tumor-SM-2RCBP	Osteosarcoma-VMO265-Normal-SM-2RCD5	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	FRYL	Missense	p.L1144M	4	48566961	48566961.0	G	G	T	0.12300000000000001	187.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-VMO265	Osteosarcoma-VMO265-Tumor-SM-2RCBP	Osteosarcoma-VMO265-Normal-SM-2RCD5	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	IPO8	Missense	p.T827I	12	30783813	30783813.0	G	G	A	0.0438	160.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-VMO265	Osteosarcoma-VMO265-Tumor-SM-2RCBP	Osteosarcoma-VMO265-Normal-SM-2RCD5	0	0	0	0	0	0	1
+Cosmic				Copy Number	ATAD5	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NRAP	Deletion		10	114925062	117186064.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	EFCAB5	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PSAPL1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MAN2B2	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NOP14	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GRK4	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLFN11	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLFN13	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OTOP1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	POLN	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	HTT	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRRC2	Deletion		3	46495543	47277315.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CHD6	Amplification		20	39987036	40744207.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLFN5	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NLE1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLFN12	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SEZ6	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CRIPAK	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF518B	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FGFRL1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SORCS2	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	EVC	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	HAUS3	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	BTBD16	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	VWA2	Deletion		10	114925062	117186064.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	CHD6	Fusion	CHD6--RP1-1J6.2	chr20	40141485							0.0	0.0		0	59.0	CHD6	chr20	40141485.0	RP1-1J6.2	chr20	39727464.0					Osteosarcoma-VMO265			0	0	0	0	0	0	1
+Cosmic				Rearrangement	C3orf30	Fusion	NNT--C3orf30	chr5	43677908							0.0	0.0		0	12.0	NNT	chr5	43677908.0	C3orf30	chr3	118878740.0					Osteosarcoma-VMO265			0	0	0	0	0	0	1
+Cosmic				Copy Number	TSFM	Amplification		12	58186519	58210075.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ARHGAP9	Amplification		12	57862962	57898334.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZHX3	Amplification		20	39787994	39987035.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LPIN3	Amplification		20	39787994	39987035.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SOGA1	Amplification		20	35059869	35548174.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GAS2L2	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FNDC8	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MYO18A	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ABHD15	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMIGD1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF830	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C17orf102	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MCCC1	Deletion		3	182575414	182842254.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DMGDH	Deletion		5	77805355	78340627.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TNIP2	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C4orf50	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DOK7	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CLRN2	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZFYVE28	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF721	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC26A1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MRFAP1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GPR78	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GPR125	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GAK	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM193A	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	EVC2	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LETM1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KCNIP4	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SEC23IP	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRLHR	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ARMS2	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PLEKHS1	Deletion		10	114925062	117186064.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DCLRE1A	Deletion		10	114925062	117186064.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ATRNL1	Deletion		10	114925062	117186064.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRSS50	Deletion		3	46495543	47277315.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMIE	Deletion		3	46495543	47277315.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ALS2CL	Deletion		3	46495543	47277315.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DAGLB	Deletion		7	6426591	6450263.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TRNT1	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GRM7	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RAD18	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	WIPF1	Fusion	WIPF1--AVIL	chr2	175547502							0.0	0.0		0	5.0	WIPF1	chr2	175547502.0	AVIL	chr12	58193703.0					Osteosarcoma-VMO265			0	0	0	0	0	0	1
+Cosmic				Rearrangement	SOGA1	Fusion	SOGA1--NFAT5	chr20	35491061							0.0	0.0		0	5.0	SOGA1	chr20	35491061.0	NFAT5	chr16	69660306.0					Osteosarcoma-VMO265			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MINA	Fusion	MINA--WDR41	chr3	97686006							0.0	0.0		0	5.0	MINA	chr3	97686006.0	WDR41	chr5	76785397.0					Osteosarcoma-VMO265			0	0	0	0	0	0	1
+Cosmic				Rearrangement	PDZRN4	Fusion	SRC--PDZRN4	chr20	35993680							0.0	0.0		0	13.0	SRC	chr20	35993680.0	PDZRN4	chr12	41900258.0					Osteosarcoma-VMO265			0	0	0	0	0	0	1
+Cosmic				Rearrangement	WDR41	Fusion	MINA--WDR41	chr3	97686006							0.0	0.0		0	5.0	MINA	chr3	97686006.0	WDR41	chr5	76785397.0					Osteosarcoma-VMO265			0	0	0	0	0	0	1
+Cosmic				Rearrangement	WWOX	Fusion	GGNBP2--WWOX	chr17	34916711							0.0	0.0		0	7.0	GGNBP2	chr17	34916711.0	WWOX	chr16	78458767.0					Osteosarcoma-VMO265			0	0	0	0	0	0	1
+Cosmic				Copy Number	OS9	Amplification		12	58087693	58112456.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MBD6	Amplification		12	57920261	57958119.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MARS	Amplification		12	57862962	57898334.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MARCH9	Amplification		12	58112524	58177316.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TSPAN31	Amplification		12	58112524	58177316.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DTX3	Amplification		12	57993089	58025399.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CDH26	Amplification		20	58448659	58883875.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PPP1R3D	Amplification		20	58448659	58883875.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C20orf197	Amplification		20	58448659	58883875.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	INHBE	Amplification		12	57618409	57862259.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NDUFA4L2	Amplification		12	57618409	57862259.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	STAC3	Amplification		12	57618409	57862259.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC32A1	Amplification		20	37353116	37518560.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM117	Amplification		12	44604821	45005005.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C20orf24	Amplification		20	35059869	35548174.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLA2	Amplification		20	35059869	35548174.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DSN1	Amplification		20	35059869	35548174.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TGIF2	Amplification		20	35059869	35548174.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NDRG3	Amplification		20	35059869	35548174.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	EMILIN3	Amplification		20	39987036	40744207.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SUPT6H	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SUZ12P	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DHRS13	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SPACA3	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FLOT2	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GIT1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ERAL1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RHBDL3	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NEK8	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MYO1D	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MMP28	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NSRP1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PROCA1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RAB11FIP4	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RAB34	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PIPOX	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PIGS	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PEX12	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RASL10B	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RFFL	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLFN14	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRRC37B	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LIG3	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLFN12L	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	UNC45B	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ADAP2	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ANKRD13B	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM132E	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	AC003101.1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	UTP6	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TAOK1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RP11-192H23.4	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TBC1D29	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CRYBA1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C17orf50	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TLCD1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ATP11B	Deletion		3	182575414	182842254.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RP11-1396O13.13	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RGS12	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RAB28	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RNF212	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C1QTNF7	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM128	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM129	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM175	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TRMT44	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	USP17L13	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ADD1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ACOX3	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C4orf48	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C4orf6	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DGKQ	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DEFB131	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TADA2B	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CPLX1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CPEB2	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TAPT1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CLNK	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCDC96	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	USP17L28	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	USP17L29	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	USP17L30	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZBTB49	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF732	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ABLIM2	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	USP17L27	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	AC097381.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	USP17L24	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	USP17L25	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	USP17L26	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DRD5	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CYTL1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MRFAP1L1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MFSD10	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	STX18	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MSANTD1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PACRGL	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NKX1-1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NAT8L	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MYL5	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	HSP90AB2P	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	HMX1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GRPEL1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GBA3	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM53A	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM200B	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM184B	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LCORL	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	HTRA3	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KIAA0232	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IDUA	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	POTED	Deletion		21	10952661	14983322.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	VAX1	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SFXN4	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RAB11FIP2	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	HSPA12A	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CACUL1	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM204A	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ENO4	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRDX3	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM45A	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	EIF3A	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PPAPDC1A	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NANOS1	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NSMCE4A	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PDZD8	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C10orf85	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KCNK18	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM160B1	Deletion		10	114925062	117186064.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	HABP2	Deletion		10	114925062	117186064.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	AFAP1L2	Deletion		10	114925062	117186064.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TDRD1	Deletion		10	114925062	117186064.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NHLRC2	Deletion		10	114925062	117186064.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RTP3	Deletion		3	46495543	47277315.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KIF9	Deletion		3	46495543	47277315.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRSS42	Deletion		3	46495543	47277315.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRSS45	Deletion		3	46495543	47277315.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCDC12	Deletion		3	46495543	47277315.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCDC149	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PCDH7	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SEL1L3	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SEPSECS	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SUMF1	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SETMAR	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SSUH2	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRRN1	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CNTN4	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GRAPL	Deletion		17	18964975	19187279.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	QTRTD1	Fusion	QTRTD1--TIGIT	chr3	113775953							0.0	0.0		0	49.0	QTRTD1	chr3	113775953.0	TIGIT	chr3	114012847.0					Osteosarcoma-VMO265			0	0	0	0	0	0	1
+Cosmic				Rearrangement	PTPLB	Fusion	PTPLB--TIMMDC1	chr3	123286609							0.0	0.0		0	644.0	PTPLB	chr3	123286609.0	TIMMDC1	chr3	119242453.0					Osteosarcoma-VMO265			0	0	0	0	0	0	1
+Cosmic				Rearrangement	PDCD7	Fusion	PDCD7--LCTL	chr15	65421370							0.0	0.0		0	5.0	PDCD7	chr15	65421370.0	LCTL	chr15	66840943.0					Osteosarcoma-VMO265			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND6	Fusion	MT-ND6--MT-TE	chrM	14477							0.0	0.0		0	29.0	MT-ND6	chrM	14477.0	MT-TE	chrM	14689.0					Osteosarcoma-VMO265			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4	Fusion	MT-ND4--MT-ND4L	chrM	10826							0.0	0.0		0	56.0	MT-ND4	chrM	10826.0	MT-ND4L	chrM	10745.0					Osteosarcoma-VMO265			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CO3	Fusion	MT-CO3--MT-ATP6	chrM	9387							0.0	0.0		0	8.0	MT-CO3	chrM	9387.0	MT-ATP6	chrM	9198.0					Osteosarcoma-VMO265			0	0	0	0	0	0	1
+Cosmic				Rearrangement	GGNBP2	Fusion	GGNBP2--WWOX	chr17	34916711							0.0	0.0		0	7.0	GGNBP2	chr17	34916711.0	WWOX	chr16	78458767.0					Osteosarcoma-VMO265			0	0	0	0	0	0	1
+Cosmic				Rearrangement	FAM101A	Fusion	FAM101A--RP11-214K3.24	chr12	124472685							0.0	0.0		0	7.0	FAM101A	chr12	124472685.0	RP11-214K3.24	chr12	124572811.0					Osteosarcoma-VMO265			0	0	0	0	0	0	1
+Cosmic				Rearrangement	CTDSP2	Fusion	CTDSP2--MAPK14	chr12	58223231							0.0	0.0		0	8.0	CTDSP2	chr12	58223231.0	MAPK14	chr6	36020476.0					Osteosarcoma-VMO265			0	0	0	0	0	0	1
+Cosmic				Rearrangement	CPNE8	Fusion	CPNE8--TBC1D1	chr12	39064531							0.0	0.0		0	17.0	CPNE8	chr12	39064531.0	TBC1D1	chr4	37903624.0					Osteosarcoma-VMO265			0	0	0	0	0	0	1
+Cosmic				Rearrangement	CPNE8	Fusion	CPNE8--DHX35	chr12	39299944							0.0	0.0		0	20.0	CPNE8	chr12	39299944.0	DHX35	chr20	37647447.0					Osteosarcoma-VMO265			0	0	0	0	0	0	1
+Cosmic				Rearrangement	ANO6	Fusion	ANO6--CPNE8	chr12	45610174							0.0	0.0		0	11.0	ANO6	chr12	45610174.0	CPNE8	chr12	39071356.0					Osteosarcoma-VMO265			0	0	0	0	0	0	1
+Cosmic				Rearrangement	TIGIT	Fusion	QTRTD1--TIGIT	chr3	113775953							0.0	0.0		0	49.0	QTRTD1	chr3	113775953.0	TIGIT	chr3	114012847.0					Osteosarcoma-VMO265			0	0	0	0	0	0	1
+Cosmic				Rearrangement	LCTL	Fusion	PDCD7--LCTL	chr15	65421370							0.0	0.0		0	5.0	PDCD7	chr15	65421370.0	LCTL	chr15	66840943.0					Osteosarcoma-VMO265			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4L	Fusion	MT-ND4--MT-ND4L	chrM	10826							0.0	0.0		0	56.0	MT-ND4	chrM	10826.0	MT-ND4L	chrM	10745.0					Osteosarcoma-VMO265			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-CO3--MT-ATP6	chrM	9387							0.0	0.0		0	8.0	MT-CO3	chrM	9387.0	MT-ATP6	chrM	9198.0					Osteosarcoma-VMO265			0	0	0	0	0	0	1
+Cosmic				Rearrangement	RAB38	Fusion	CTSC--RAB38	chr11	88033698							0.0	0.0		0	9.0	CTSC	chr11	88033698.0	RAB38	chr11	87883123.0					Osteosarcoma-VMO265			0	0	0	0	0	0	1
+Cosmic				Rearrangement	DHX35	Fusion	CPNE8--DHX35	chr12	39299944							0.0	0.0		0	20.0	CPNE8	chr12	39299944.0	DHX35	chr20	37647447.0					Osteosarcoma-VMO265			0	0	0	0	0	0	1
+Cosmic				Rearrangement	LRRC31	Fusion	CDV3--LRRC31	chr3	133302994							0.0	0.0		0	19.0	CDV3	chr3	133302994.0	LRRC31	chr3	169587660.0					Osteosarcoma-VMO265			0	0	0	0	0	0	1
+Cosmic				Rearrangement	CPNE8	Fusion	ANO6--CPNE8	chr12	45610174							0.0	0.0		0	11.0	ANO6	chr12	45610174.0	CPNE8	chr12	39071356.0					Osteosarcoma-VMO265			0	0	0	0	0	0	1
+Cosmic				Rearrangement	KIAA1407	Fusion	ABCC5--KIAA1407	chr3	183732052							0.0	0.0		0	68.0	ABCC5	chr3	183732052.0	KIAA1407	chr3	113723593.0					Osteosarcoma-VMO265			0	0	0	0	0	0	1
+VUS				Copy Number	BOD1L1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	COPRS	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	TEFM	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1083P	Amplification		12	58186519	58210075.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-571M6.18	Amplification		12	58186519	58210075.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-571M6.17	Amplification		12	58186519	58210075.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-571M6.8	Amplification		12	58112524	58177316.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-571M6.7	Amplification		12	58112524	58177316.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AGAP2-AS1	Amplification		12	58112524	58177316.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC025165.1	Amplification		12	58112524	58177316.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-571M6.15	Amplification		12	58112524	58177316.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC025165.8	Amplification		12	57993089	58025399.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR646	Amplification		20	58448659	58883875.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	FAM217B	Amplification		20	58448659	58883875.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1043L13.1	Amplification		20	58448659	58883875.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC126614.1	Amplification		12	57618409	57862259.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-879P	Amplification		12	57618409	57862259.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-756H6.1	Amplification		12	57618409	57862259.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-123K3.4	Amplification		12	57618409	57862259.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL116P	Amplification		20	37353116	37518560.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP173	Amplification		20	37353116	37518560.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-46I1.1	Amplification		12	44604821	45005005.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL615P	Amplification		20	39787994	39987035.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-511B24.6	Amplification		20	39787994	39987035.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	TGIF2-C20orf24	Amplification		20	35059869	35548174.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-977B1.11	Amplification		20	35059869	35548174.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL132768.1	Amplification		20	35059869	35548174.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-977B1.7	Amplification		20	35059869	35548174.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	TLDC2	Amplification		20	35059869	35548174.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL156P	Amplification		20	35059869	35548174.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1018P	Amplification		20	39987036	40744207.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1121H13.3	Amplification		20	39987036	40744207.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1121H13.4	Amplification		20	39987036	40744207.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORA26	Amplification		20	39987036	40744207.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR616	Amplification		12	57905229	57920260.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL312P	Amplification		12	57905229	57920260.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-594P	Amplification		12	57905229	57920260.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6ATAC7P	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-711P	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-840P	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-990P	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-920P	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD42A	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-68I3.11	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-142O6.1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	SMURF2P1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-68I3.2	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY4P13	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD42B	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	FAM222B	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-118G23.2	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-118G23.1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1148O4.2	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1094M14.5	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1094M14.14	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1094M14.12	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1094M14.11	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	SPAG5-AS1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1094M14.10	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-68I3.7	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-68I3.5	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-41C23.1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-29G21.1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-161P9.5	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD7	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD63	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD4B	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD4A	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	LRRC37BP1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-848P1.5	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-848P1.4	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-848P1.3	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-848P1.2	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL138P	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR632	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-848P1.9	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP13-753N3.1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RAD51L3-RFFL	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-837J1.2	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-837J1.4	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL316P	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-82O19.1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU4-34P	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1034P	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-799D4.3	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1134P	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-799D4.2	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1267P	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	SLC35G3	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-298P	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-799D4.4	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL45P	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP438	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-805L22.3	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4733	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4725	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4724	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	SGK494	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4523	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL79P	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR423	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	SH3GL1P1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR365B	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3184	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR193A	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR144	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP437	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-68I3.10	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-68I3.4	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2370N5.3	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-31I22.2	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-642M2.1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2349P21.9	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-640N20.9	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-640N20.8	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-640N20.6	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-31I22.1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-354P11.2	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-31I22.3	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-31I22.4	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-321A17.4	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-321A17.5	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-640N20.1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-338L22.2	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC116407.2	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-271K11.5	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-218M11.6	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-220C2.1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-227G15.2	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-227G15.3	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-227G15.8	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-227G15.9	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	ASIC2	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC116407.1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-354P11.3	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-218M11.1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC010761.13	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC015849.12	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC011193.1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC010761.9	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC010761.8	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC010761.6	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC010761.14	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC010761.10	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-354P11.4	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC006050.2	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC005562.1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC005549.3	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC005549.2	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC005549.1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC024610.1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC024619.2	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-47L3.1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	Vault	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-354P11.8	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC104996.1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC104984.4	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-40A13.1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC091177.1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC090616.2	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-443G13.2	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC084809.3	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC084809.2	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-466A19.1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-466A19.3	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-466A19.5	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-466A19.6	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-466A19.8	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-218M11.3	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-296K13.4	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-192H23.5	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-192H23.6	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-192H23.7	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-192H23.8	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-686D22.5	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-20B24.4	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-20B24.5	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-686D22.8	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-17M24.2	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2349P21.6	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2349P21.5	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2349P21.11	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2349P21.10	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-542B22.2	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-542B22.1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-507E2.1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-304I17.5	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-304I17.4	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-304I17.3	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-304I17.2	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-686D22.9	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-17M24.1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-20B24.7	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-212E8.1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-215E13.1	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-20B24.6	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-215E13.2	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-686D22.4	Deletion		17	26875365	34147693.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-531F16.4	Deletion		3	182575414	182842254.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	MCCC1-AS1	Deletion		3	182575414	182842254.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-484O2.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-448G15.3	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-478C1.7	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-572O17.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-576E20.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-446J8.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP170	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-578P	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-448G15.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-452J21.2	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-460I19.2	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1338A24.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-168E17.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-453O5.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-17E2.2	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1263C18.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP113	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1398P2.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-774O3.3	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-689P11.2	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1406H17.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP13-1016M1.2	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-552M14.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-539L10.3	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-774O3.2	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-539L10.2	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-529E10.7	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-529E10.6	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-503N18.4	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-503N18.3	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-503N18.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-774O3.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-689P11.3	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-74M11.2	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-141E13.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-20I20.4	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-94H6.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1258F18.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-281P23.2	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-22A3.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP156	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-350P	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-341G5.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1191J2.4	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-799M12.2	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP152	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1191J2.2	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-204P	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-338K13.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP153	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP154	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP155	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-326I19.3	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP275	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP157	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-22A3.2	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-669M16.2	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1J7.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-669M16.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-317B7.3	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-265O12.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-281P23.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-2H3.6	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL671P	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-420P	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1191J2.5	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-120A1.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP292	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-440L14.4	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-440L14.3	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-665G4.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-20I20.2	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP36	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-440L14.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-586D19.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-586D19.2	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-608B3.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-412P11.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-3J1.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL315P	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-608O21.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-380P13.2	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-380P13.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-367J11.3	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL358P	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-367J11.2	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-362J17.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-357G3.2	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-962P	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-61G19.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL589P	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	ABCA11P	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP13-497K6.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	USP17L10	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	BLOC1S4	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL590235.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	USP17L11	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC116655.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	USP17L12	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	USP17L15	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC226119.5	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC141928.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC139887.4	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	TMED11P	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP13-560N11.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTBP1-AS2	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	CPEB2-AS1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	TAPT1-AS1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC118278.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC116562.2	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	STX18-IT1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC073648.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	USP17L5	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	ZEB2P1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC116562.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	ZNF718	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC007126.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC006445.8	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC006296.2	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC006296.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC006160.5	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	ZNF876P	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC078852.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC078852.2	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC079140.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	USP17L17	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	USP17L18	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC108519.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	USP17L19	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	USP17L20	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	USP17L21	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC098830.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC097493.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC097452.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC097382.5	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC097382.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	USP17L22	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	USP17L23	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC093323.3	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC093323.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC092574.2	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC092574.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC092535.3	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC092463.1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	STX18-AS1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3138	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR95	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR943	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR572	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR571	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR548I2	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR5091	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4800	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4798	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4274	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR378D1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR218-1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-556G22.3	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01085	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP13-582L3.4	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-368B9.2	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-513G18.2	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	NSG1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	NOP14-AS1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	NELFA	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	SCARNA22	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00955	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00504	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	FAM90A26	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	FAM86EP	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	SLIT2-IT1	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-556G22.2	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	HTT-AS	Deletion		4	124303	23891832.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AP003900.6	Deletion		21	10952661	14983322.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL050302.1	Deletion		21	10952661	14983322.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	ANKRD30BP2	Deletion		21	10952661	14983322.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AP001465.5	Deletion		21	10952661	14983322.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AP001464.4	Deletion		21	10952661	14983322.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	BAGE2	Deletion		21	10952661	14983322.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-614P	Deletion		21	10952661	14983322.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3156-3	Deletion		21	10952661	14983322.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	WDR11-AS1	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-567J24.4	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-95I16.4	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-95I16.2	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-78A18.2	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-79M19.2	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-62L18.3	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP167	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	CASC2	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL749P	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL846P	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-728P	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTA-109P11.1	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3663	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3941	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4681	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4682	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	EMX2OS	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTA-109P11.4	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00867	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-500G22.2	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-501J20.2	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-539I5.1	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-245J24.1	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-328K15.1	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL157788.1	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-355F22.1	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-354M20.3	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL353664.1	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-501J20.5	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL356865.1	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL356865.2	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC073587.1	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL359836.1	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-159H3.2	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-498J9.2	Deletion		10	118451610	124359859.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-106M7.1	Deletion		10	114925062	117186064.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-383C6.2	Deletion		10	114925062	117186064.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-165P	Deletion		10	114925062	117186064.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-709P	Deletion		10	114925062	117186064.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1121P	Deletion		10	114925062	117186064.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL162407.1	Deletion		10	114925062	117186064.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-211N11.5	Deletion		10	114925062	117186064.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL384P	Deletion		10	114925062	117186064.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR2110	Deletion		10	114925062	117186064.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	LUZPP1	Deletion		3	46495543	47277315.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	PRSS46	Deletion		3	46495543	47277315.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	PRSS44	Deletion		3	46495543	47277315.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC104304.2	Deletion		3	46495543	47277315.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC109583.1	Deletion		3	46495543	47277315.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC109351.1	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC108218.1	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC093807.1	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC093786.1	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC079772.1	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC024132.1	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC007106.1	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	SMIM20	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-548L20.1	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-573P	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-126P	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP13-494C23.1	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-315A17.1	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-302F12.3	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-302F12.10	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-293A21.1	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-660M5.1	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-292B1.2	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-665I14.1	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-240A16.1	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-617I14.1	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-180C1.1	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL101P	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-123O22.1	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-802H3.2	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-79E3.3	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-79E3.2	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-725M22.1	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1221P	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-734I18.1	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-131P	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-619J20.1	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-769N22.1	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-472K22.2	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-472K22.1	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-415C15.2	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-415C15.3	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-415C15.1	Deletion		4	24832872	36231360.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-157E16.1	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC023481.1	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC024158.1	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC026188.1	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC018832.1	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC018816.3	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC026167.1	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC069276.1	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-204C23.1	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC026202.1	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC069277.2	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC026202.5	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC027119.1	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC034187.1	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC034187.2	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC090044.2	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC034187.3	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC034187.4	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC090044.1	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC034187.5	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC087430.1	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC026202.3	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	CNTN4-AS2	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	EGOT	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4790	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	LMCD1-AS1	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00312	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	GRM7-AS1	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	GRM7-AS2	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	GRM7-AS3	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	ITPR1-AS1	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	BHLHE40-AS1	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU4ATAC17P	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL553P	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	CNTN4-AS1	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL120P	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP144	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	hsa-mir-548ba	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	CHL1-AS1	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-97C16.1	Deletion		3	367390	8932387.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD3A	Deletion		17	18964975	19187279.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC007952.1	Deletion		17	18964975	19187279.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC007952.4	Deletion		17	18964975	19187279.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC007952.5	Deletion		17	18964975	19187279.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC007952.6	Deletion		17	18964975	19187279.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD3B-1	Deletion		17	18964975	19187279.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD3B-2	Deletion		17	18964975	19187279.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD3C	Deletion		17	18964975	19187279.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD3D	Deletion		17	18964975	19187279.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC106017.1	Deletion		17	18964975	19187279.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-457L16.2	Deletion		17	18964975	19187279.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-160E2.11	Deletion		17	18964975	19187279.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-160E2.16	Deletion		17	18964975	19187279.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-160E2.17	Deletion		17	18964975	19187279.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-160E2.19	Deletion		17	18964975	19187279.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-160E2.21	Deletion		17	18964975	19187279.0						0.0	0.0		0												Osteosarcoma-VMO265	VMO265_T		0	0	0	0	0	0	0
+VUS				Rearrangement	TANGO6	Fusion	TANGO6--SCN2A	chr16	68964198							0.0	0.0		0	6.0	TANGO6	chr16	68964198.0	SCN2A	chr2	166187840.0					Osteosarcoma-VMO265			0	0	0	0	0	0	0
+VUS				Rearrangement	OSER1	Fusion	OSER1--SEMG2	chr20	42835521							0.0	0.0		0	10.0	OSER1	chr20	42835521.0	SEMG2	chr20	43850350.0					Osteosarcoma-VMO265			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TA	Fusion	MT-TA--MT-TN	chrM	5595							0.0	0.0		0	6.0	MT-TA	chrM	5595.0	MT-TN	chrM	5672.0					Osteosarcoma-VMO265			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-214K3.24	Fusion	ZNF664--RP11-214K3.24	chr12	124472685							0.0	0.0		0	9.0	ZNF664	chr12	124472685.0	RP11-214K3.24	chr12	124572811.0					Osteosarcoma-VMO265			0	0	0	0	0	0	0
+VUS				Rearrangement	TIPARP-AS1	Fusion	TRA2B--TIPARP-AS1	chr3	185649365							0.0	0.0		0	13.0	TRA2B	chr3	185649365.0	TIPARP-AS1	chr3	156389919.0					Osteosarcoma-VMO265			0	0	0	0	0	0	0
+VUS				Rearrangement	RP1-1J6.2	Fusion	TOP1--RP1-1J6.2	chr20	39728883							0.0	0.0		0	37.0	TOP1	chr20	39728883.0	RP1-1J6.2	chr20	39727464.0					Osteosarcoma-VMO265			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-484M3.5	Fusion	NNT--RP11-484M3.5	chr5	43677908							0.0	0.0		0	10.0	NNT	chr5	43677908.0	RP11-484M3.5	chr3	118905561.0					Osteosarcoma-VMO265			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TN	Fusion	MT-TA--MT-TN	chrM	5595							0.0	0.0		0	6.0	MT-TA	chrM	5595.0	MT-TN	chrM	5672.0					Osteosarcoma-VMO265			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TE	Fusion	MT-ND6--MT-TE	chrM	14477							0.0	0.0		0	29.0	MT-ND6	chrM	14477.0	MT-TE	chrM	14689.0					Osteosarcoma-VMO265			0	0	0	0	0	0	0
+VUS				Rearrangement	AGAP2-AS1	Fusion	HUWE1--AGAP2-AS1	chrX	53672263							0.0	0.0		0	91.0	HUWE1	chrX	53672263.0	AGAP2-AS1	chr12	58120748.0					Osteosarcoma-VMO265			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-699L21.2	Fusion	HEXB--RP11-699L21.2	chr5	73992931							0.0	0.0		0	11.0	HEXB	chr5	73992931.0	RP11-699L21.2	chr3	193713898.0					Osteosarcoma-VMO265			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-214K3.24	Fusion	FAM101A--RP11-214K3.24	chr12	124472685							0.0	0.0		0	7.0	FAM101A	chr12	124472685.0	RP11-214K3.24	chr12	124572811.0					Osteosarcoma-VMO265			0	0	0	0	0	0	0
+VUS				Rearrangement	RP5-914P20.5	Fusion	CTCF--RP5-914P20.5	chr16	67605167							0.0	0.0		0	22.0	CTCF	chr16	67605167.0	RP5-914P20.5	chr20	49547909.0					Osteosarcoma-VMO265			0	0	0	0	0	0	0
+VUS				Rearrangement	RP1-1J6.2	Fusion	CHD6--RP1-1J6.2	chr20	40141485							0.0	0.0		0	59.0	CHD6	chr20	40141485.0	RP1-1J6.2	chr20	39727464.0					Osteosarcoma-VMO265			0	0	0	0	0	0	0

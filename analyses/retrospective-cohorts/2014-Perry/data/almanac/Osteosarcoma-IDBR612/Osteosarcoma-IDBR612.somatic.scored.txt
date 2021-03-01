@@ -1,0 +1,237 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Putatively Actionable			Putatively Actionable	Copy Number	RB1	Deletion		13	49026877	49077302.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		4	1	1	1	1	1	1
+Investigate Actionability		Investigate Actionability	Investigate Actionability	Somatic Variant	TP53	Missense	p.R249T	17	7577535	7577535.0	C	C	G	0.519	79.0	0.0	0.0		0								9.0	0.6667	0.7691		Osteosarcoma-IDBR612	Osteosarcoma-IDBR612-Tumor-SM-2RCB2	Osteosarcoma-IDBR612-Normal-SM-2RCCH	3	2	2	1	1	1	2
+Cancer Hotspot				Somatic Variant	ATRX	Nonsense	p.S559*	X	76939072	76939072.0	G	G	T	0.2081	298.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IDBR612	Osteosarcoma-IDBR612-Tumor-SM-2RCB2	Osteosarcoma-IDBR612-Normal-SM-2RCCH	0	1	0	1	0	1	2
+Cancer Hotspot				Copy Number	AXL	Amplification		19	41700197	41826627.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	1	0	0	0	1	1
+Cancer Hotspot 3D				Copy Number	MECOM	Amplification		3	168802445	168864610.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	1	1	1	1	1
+Cancer Hotspot 3D				Somatic Variant	KIF1A	Missense	p.F1002L	2	241685220	241685220.0	G	G	T	0.2273	22.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IDBR612	Osteosarcoma-IDBR612-Tumor-SM-2RCB2	Osteosarcoma-IDBR612-Normal-SM-2RCCH	0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	CR1	Deletion		1	207725059	207857552.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	CR1L	Deletion		1	207725059	207857552.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	1	0	0	0	1
+Cancer Gene Census				Somatic Variant	MUC16	Missense	p.P2206T	19	9085199	9085199.0	G	G	T	0.1455	55.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IDBR612	Osteosarcoma-IDBR612-Tumor-SM-2RCB2	Osteosarcoma-IDBR612-Normal-SM-2RCCH	0	0	0	1	0	1	1
+Cancer Gene Census				Somatic Variant	PTPRC	Missense	p.D161H	1	198671557	198671557.0	G	G	C	0.1581	310.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IDBR612	Osteosarcoma-IDBR612-Tumor-SM-2RCB2	Osteosarcoma-IDBR612-Normal-SM-2RCCH	0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	UBR5	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	EIF3E	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	1	0	1	1
+Cancer Gene Census				Somatic Variant	MSN	Missense	p.S6T	X	64936684	64936684.0	G	G	C	0.0374	107.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IDBR612	Osteosarcoma-IDBR612-Tumor-SM-2RCB2	Osteosarcoma-IDBR612-Normal-SM-2RCCH	0	0	0	1	0	0	2
+Cancer Gene Census				Copy Number	RSPO2	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	1	0	0	1
+Cancer Pathway				Somatic Variant	LILRB5	Missense	p.E580K	19	54754685	54754685.0	C	C	T	0.2143	70.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IDBR612	Osteosarcoma-IDBR612-Tumor-SM-2RCB2	Osteosarcoma-IDBR612-Normal-SM-2RCCH	0	0	0	0	1	1	2
+Cancer Pathway				Copy Number	PLD1	Amplification		3	170586006	171363065.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	ENO1	Deletion		1	8601021	9212086.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	1	1	1
+Cancer Pathway				Somatic Variant	FGF19	Missense	p.R180W	11	69514143	69514143.0	T	T	A	0.3988	163.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IDBR612	Osteosarcoma-IDBR612-Tumor-SM-2RCB2	Osteosarcoma-IDBR612-Normal-SM-2RCCH	0	0	0	0	1	0	2
+Cancer Pathway				Copy Number	FZD6	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	1	0	1
+Cancer Module				Somatic Variant	EIF2AK4	Missense	p.E764D	15	40270321	40270321.0	A	A	C	0.4052	116.0	0.0	0.0		0								6.0	1.0	0.1944		Osteosarcoma-IDBR612	Osteosarcoma-IDBR612-Tumor-SM-2RCB2	Osteosarcoma-IDBR612-Normal-SM-2RCCH	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	DNAH7	Missense	p.A2811V	2	196720698	196720698.0	G	G	A	0.0238	168.0	8e-06	0.0		0								0.0	0.0	0.0		Osteosarcoma-IDBR612	Osteosarcoma-IDBR612-Tumor-SM-2RCB2	Osteosarcoma-IDBR612-Normal-SM-2RCCH	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	PDZD2	Missense	p.K1843R	5	32089082	32089082.0	A	A	G	0.0333	90.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IDBR612	Osteosarcoma-IDBR612-Tumor-SM-2RCB2	Osteosarcoma-IDBR612-Normal-SM-2RCCH	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	PEX2	Missense	p.G144A	8	77895984	77895984.0	C	C	G	0.03	200.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IDBR612	Osteosarcoma-IDBR612-Tumor-SM-2RCB2	Osteosarcoma-IDBR612-Normal-SM-2RCCH	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	C6	Missense	p.R77T	5	41201730	41201730.0	C	C	G	0.1389	108.0	4.9e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-IDBR612	Osteosarcoma-IDBR612-Tumor-SM-2RCB2	Osteosarcoma-IDBR612-Normal-SM-2RCCH	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ASPA	Missense	p.Q194E	17	3392582	3392582.0	C	C	G	0.0303	132.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IDBR612	Osteosarcoma-IDBR612-Tumor-SM-2RCB2	Osteosarcoma-IDBR612-Normal-SM-2RCCH	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SLC5A5	Missense	p.R228Q	19	17986900	17986900.0	G	G	A	0.0236	127.0	1.6e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-IDBR612	Osteosarcoma-IDBR612-Tumor-SM-2RCB2	Osteosarcoma-IDBR612-Normal-SM-2RCCH	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	HRG	Missense	p.R441Q	3	186395416	186395416.0	G	G	A	0.4333	60.0	2.5e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-IDBR612	Osteosarcoma-IDBR612-Tumor-SM-2RCB2	Osteosarcoma-IDBR612-Normal-SM-2RCCH	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	DST	Deletion	p.D3815del	6	56462654	56462656.0	CAT	CAT	-	0.2784	176.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IDBR612	Osteosarcoma-IDBR612-Tumor-SM-2RCB2	Osteosarcoma-IDBR612-Normal-SM-2RCCH	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	MCC	Missense	p.R319G	5	112458453	112458453.0	G	G	C	0.5273	55.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IDBR612	Osteosarcoma-IDBR612-Tumor-SM-2RCB2	Osteosarcoma-IDBR612-Normal-SM-2RCCH	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	MAGEL2	Missense	p.T76K	15	23890854	23890854.0	G	G	T	0.2308	13.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IDBR612	Osteosarcoma-IDBR612-Tumor-SM-2RCB2	Osteosarcoma-IDBR612-Normal-SM-2RCCH	0	0	0	0	0	1	1
+Cancer Module				Copy Number	MGAM	Deletion		7	141766123	141776506.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PTPN12	Deletion		7	77212620	77975612.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC10A2	Amplification		13	103698231	103702048.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZFPM2	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ODF1	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CA6	Deletion		1	8601021	9212086.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PPM1L	Amplification		3	160679272	161215209.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NMD3	Amplification		3	160679272	161215209.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PLOD2	Amplification		3	142413059	146312177.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PLS1	Amplification		3	142413059	146312177.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PLSCR1	Amplification		3	142413059	146312177.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TRPC1	Amplification		3	142413059	146312177.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HNRNPUL1	Amplification		19	41700197	41826627.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	P2RY1	Amplification		3	152017731	153202727.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MBNL1	Amplification		3	152017731	153202727.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC2A2	Amplification		3	170586006	171363065.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	UQCRB	Amplification		8	97156539	99105813.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SDC2	Amplification		8	97156539	99105813.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LAPTM4B	Amplification		8	97156539	99105813.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC25A32	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ATP6V1C1	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DPYS	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	BAALC	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KLF10	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RIMS2	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ANGPT1	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	OXR1	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NRXN3	Deletion		14	79111213	79117921.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RERE	Deletion		1	8384138	8426286.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MAGI2	Deletion		7	77212620	77975612.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC2A5	Deletion		1	8601021	9212086.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RCBTB2	Deletion		13	49026877	49077302.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	1	1
+Cosmic				Somatic Variant	TTC3	Missense	p.E624V	21	38516923	38516923.0	A	A	T	0.534	103.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IDBR612	Osteosarcoma-IDBR612-Tumor-SM-2RCB2	Osteosarcoma-IDBR612-Normal-SM-2RCCH	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	SLC9A4	Missense	p.S638I	2	103141577	103141577.0	G	G	T	0.1377	167.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IDBR612	Osteosarcoma-IDBR612-Tumor-SM-2RCB2	Osteosarcoma-IDBR612-Normal-SM-2RCCH	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	CDC42EP3	Missense	p.F135L	2	37873326	37873326.0	G	G	T	0.1045	67.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IDBR612	Osteosarcoma-IDBR612-Tumor-SM-2RCB2	Osteosarcoma-IDBR612-Normal-SM-2RCCH	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	KRTAP24-1	Missense	p.R136P	21	31654844	31654844.0	C	C	G	0.157	172.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IDBR612	Osteosarcoma-IDBR612-Tumor-SM-2RCB2	Osteosarcoma-IDBR612-Normal-SM-2RCCH	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	KAZN	Missense	p.V254I	1	15382620	15382620.0	G	G	A	0.0333	90.0	8e-06	0.0		0								0.0	0.0	0.0		Osteosarcoma-IDBR612	Osteosarcoma-IDBR612-Tumor-SM-2RCB2	Osteosarcoma-IDBR612-Normal-SM-2RCCH	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ZNF574	Missense	p.R384Q	19	42583909	42583909.0	G	G	A	0.1702	94.0	8e-06	0.0		0								0.0	0.0	0.0		Osteosarcoma-IDBR612	Osteosarcoma-IDBR612-Tumor-SM-2RCB2	Osteosarcoma-IDBR612-Normal-SM-2RCCH	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	LCN8	Missense	p.D21N	9	139651584	139651584.0	C	C	T	0.1	30.0	2.5e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-IDBR612	Osteosarcoma-IDBR612-Tumor-SM-2RCB2	Osteosarcoma-IDBR612-Normal-SM-2RCCH	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	DHX37	Missense	p.T400A	12	125449148	125449148.0	T	T	C	0.25	56.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IDBR612	Osteosarcoma-IDBR612-Tumor-SM-2RCB2	Osteosarcoma-IDBR612-Normal-SM-2RCCH	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	TRPM6	Missense	p.R995L	9	77397705	77397705.0	C	C	A	0.0462	65.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IDBR612	Osteosarcoma-IDBR612-Tumor-SM-2RCB2	Osteosarcoma-IDBR612-Normal-SM-2RCCH	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	OCA2	Missense	p.R475S	15	28228497	28228497.0	C	C	G	0.0482	83.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IDBR612	Osteosarcoma-IDBR612-Tumor-SM-2RCB2	Osteosarcoma-IDBR612-Normal-SM-2RCCH	0	0	0	0	0	0	1
+Cosmic				Copy Number	HNRNPCL1	Deletion		1	12853125	12953557.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRAMEF1	Deletion		1	12853125	12953557.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRAMEF2	Deletion		1	12853125	12953557.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRAMEF4	Deletion		1	12853125	12953557.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZBTB38	Amplification		3	141160979	141329160.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PLSCR4	Amplification		3	142413059	146312177.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC9A9	Amplification		3	142413059	146312177.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MATN2	Amplification		8	97156539	99105813.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TSPYL5	Amplification		8	97156539	99105813.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC2A7	Deletion		1	8601021	9212086.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GPR157	Deletion		1	8601021	9212086.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	DGKG	Fusion	DGKG--HRASLS	chr3	185929584							0.0	0.0		0	6.0	DGKG	chr3	185929584.0	HRASLS	chr3	192973440.0					Osteosarcoma-IDBR612			0	0	0	0	0	0	1
+Cosmic				Rearrangement	GTF2IRD1	Fusion	LAS1L--GTF2IRD1	chrX	64752441							0.0	0.0		0	6.0	LAS1L	chrX	64752441.0	GTF2IRD1	chr7	74016692.0					Osteosarcoma-IDBR612			0	0	0	0	0	0	1
+Cosmic				Copy Number	OTOL1	Amplification		3	160679272	161215209.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	B3GALNT1	Amplification		3	160679272	161215209.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RASA2	Amplification		3	141160979	141329160.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PAQR9	Amplification		3	142413059	146312177.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PCOLCE2	Amplification		3	142413059	146312177.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PLSCR2	Amplification		3	142413059	146312177.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PLSCR5	Amplification		3	142413059	146312177.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	U2SURP	Amplification		3	142413059	146312177.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CHST2	Amplification		3	142413059	146312177.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C3orf58	Amplification		3	142413059	146312177.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CYP2S1	Amplification		19	41700197	41826627.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCDC97	Amplification		19	41700197	41826627.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C3orf79	Amplification		3	152017731	153202727.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM14E	Amplification		3	152017731	153202727.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RAP2B	Amplification		3	152017731	153202727.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TNIK	Amplification		3	170586006	171363065.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	EIF5A2	Amplification		3	170586006	171363065.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RPL22L1	Amplification		3	170586006	171363065.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MTDH	Amplification		8	97156539	99105813.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RPL30	Amplification		8	97156539	99105813.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GDF6	Amplification		8	97156539	99105813.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MTERFD1	Amplification		8	97156539	99105813.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PTDSS1	Amplification		8	97156539	99105813.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C8orf47	Amplification		8	97156539	99105813.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RRM2B	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ABRA	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRP12	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DCAF13	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CTHRC1	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	AZIN1	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC45A1	Deletion		1	8384138	8426286.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRAMEF11	Deletion		1	12853125	12953557.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRAMEF10	Deletion		1	12853125	12953557.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RSBN1L	Deletion		7	77212620	77975612.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PHTF2	Deletion		7	77212620	77975612.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM60	Deletion		7	77212620	77975612.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	PTPLB	Fusion	PTPLB--CAMTA1-IT1	chr3	123286609							0.0	0.0		0	19.0	PTPLB	chr3	123286609.0	CAMTA1-IT1	chr1	7430142.0					Osteosarcoma-IDBR612			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND6	Fusion	MT-ND6--MT-TE	chrM	14622							0.0	0.0		0	50.0	MT-ND6	chrM	14622.0	MT-TE	chrM	14717.0					Osteosarcoma-IDBR612			0	0	0	0	0	0	1
+Cosmic				Rearrangement	LAS1L	Fusion	LAS1L--GTF2IRD1	chrX	64752441							0.0	0.0		0	6.0	LAS1L	chrX	64752441.0	GTF2IRD1	chr7	74016692.0					Osteosarcoma-IDBR612			0	0	0	0	0	0	1
+Cosmic				Rearrangement	KDM2A	Fusion	KDM2A--ANKRD13D	chr11	66888829							0.0	0.0		0	5.0	KDM2A	chr11	66888829.0	ANKRD13D	chr11	67067001.0					Osteosarcoma-IDBR612			0	0	0	0	0	0	1
+Cosmic				Rearrangement	ANKRD13D	Fusion	KDM2A--ANKRD13D	chr11	66888829							0.0	0.0		0	5.0	KDM2A	chr11	66888829.0	ANKRD13D	chr11	67067001.0					Osteosarcoma-IDBR612			0	0	0	0	0	0	1
+Cosmic				Rearrangement	HRASLS	Fusion	DGKG--HRASLS	chr3	185929584							0.0	0.0		0	6.0	DGKG	chr3	185929584.0	HRASLS	chr3	192973440.0					Osteosarcoma-IDBR612			0	0	0	0	0	0	1
+VUS				Copy Number	RP11-3P17.4	Amplification		3	160679272	161215209.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	SPTSSB	Amplification		3	160679272	161215209.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-3P17.5	Amplification		3	160679272	161215209.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RASA2-IT1	Amplification		3	141160979	141329160.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-80H8.3	Amplification		3	142413059	146312177.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-758I14.3	Amplification		3	142413059	146312177.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-372E1.6	Amplification		3	142413059	146312177.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-372E1.4	Amplification		3	142413059	146312177.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-80H8.4	Amplification		3	142413059	146312177.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-88H10.2	Amplification		3	142413059	146312177.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-274H2.5	Amplification		3	142413059	146312177.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	PBX2P1	Amplification		3	142413059	146312177.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-274H2.3	Amplification		3	142413059	146312177.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-91G21.1	Amplification		3	142413059	146312177.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	PLSCR5-AS1	Amplification		3	142413059	146312177.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-274H2.2	Amplification		3	142413059	146312177.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-47P	Amplification		3	142413059	146312177.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP144	Amplification		3	142413059	146312177.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-88H10.3	Amplification		3	142413059	146312177.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-428P	Amplification		3	142413059	146312177.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	SLC9A9-AS1	Amplification		3	142413059	146312177.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP13-635I23.3	Amplification		3	142413059	146312177.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC018450.1	Amplification		3	142413059	146312177.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	SLC9A9-AS2	Amplification		3	142413059	146312177.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC107021.1	Amplification		3	142413059	146312177.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2195B23.3	Amplification		19	41700197	41826627.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL34P	Amplification		19	41700197	41826627.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-362A9.3	Amplification		3	152017731	153202727.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-38P22.2	Amplification		3	152017731	153202727.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-292E2.1	Amplification		3	152017731	153202727.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-529G21.2	Amplification		3	152017731	153202727.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-292E2.2	Amplification		3	152017731	153202727.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL300P	Amplification		3	152017731	153202727.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-788A4.1	Amplification		3	152017731	153202727.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-901P	Amplification		3	152017731	153202727.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-292E2.4	Amplification		3	152017731	153202727.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-185E8.1	Amplification		3	170586006	171363065.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU1-70P	Amplification		3	170586006	171363065.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR569	Amplification		3	170586006	171363065.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-348P	Amplification		3	170586006	171363065.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1172P	Amplification		8	97156539	99105813.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-703P	Amplification		8	97156539	99105813.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1000E4.2	Amplification		8	97156539	99105813.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-177P	Amplification		8	97156539	99105813.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1043D8.6	Amplification		8	97156539	99105813.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1208A12.3	Amplification		8	97156539	99105813.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1448A5.1	Amplification		8	97156539	99105813.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	CPQ	Amplification		8	97156539	99105813.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1958F4.1	Amplification		8	97156539	99105813.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1958F4.2	Amplification		8	97156539	99105813.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-642D21.1	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-127H5.1	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-318M2.2	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-318M2.3	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6ATAC8P	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-84P	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-152P17.2	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-642D21.2	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-395G23.3	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-152P17.3	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-778D12.2	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1C8.4	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1C8.5	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1C8.6	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-574O7.1	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-649G15.2	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1C8.7	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	AP003471.2	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-431C1.5	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-431C1.4	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1732A1.1	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1639H6.4	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1639H6.2	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1507C5.4	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1507C5.3	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1507C5.2	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1254G8.1	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1224P	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	AP003471.3	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	AP003550.1	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	DCSTAMP	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1980E6.3	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	C8orf56	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1011P	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	AP000428.1	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	AP001572.1	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	AP003354.1	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP275	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC012564.1	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3151	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	AP003356.1	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR548A3	Amplification		8	103220109	109240872.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD3C	Deletion		17	19091079	19093808.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD3A	Deletion		17	19091079	19093808.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-845O24.8	Deletion		1	12853125	12953557.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RSBN1L-AS1	Deletion		7	77212620	77975612.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RPL13AP17	Deletion		7	77212620	77975612.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1185I7.1	Deletion		7	77212620	77975612.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-304P	Deletion		1	8601021	9212086.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL451P	Deletion		1	8601021	9212086.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR34A	Deletion		1	8601021	9212086.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	ENO1-IT1	Deletion		1	8601021	9212086.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	ENO1-AS1	Deletion		1	8601021	9212086.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-633I8.4	Deletion		1	8601021	9212086.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-78B10.2	Deletion		1	207725059	207857552.0						0.0	0.0		0												Osteosarcoma-IDBR612	IDBR612_T		0	0	0	0	0	0	0
+VUS				Rearrangement	RP1-34H18.1	Fusion	RP1-34H18.1--RP11-781A6.1	chr12	77966046							0.0	0.0		0	5.0	RP1-34H18.1	chr12	77966046.0	RP11-781A6.1	chr12	78177043.0					Osteosarcoma-IDBR612			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-781A6.1	Fusion	RP1-34H18.1--RP11-781A6.1	chr12	77966046							0.0	0.0		0	5.0	RP1-34H18.1	chr12	77966046.0	RP11-781A6.1	chr12	78177043.0					Osteosarcoma-IDBR612			0	0	0	0	0	0	0
+VUS				Rearrangement	CAMTA1-IT1	Fusion	PTPLB--CAMTA1-IT1	chr3	123286609							0.0	0.0		0	19.0	PTPLB	chr3	123286609.0	CAMTA1-IT1	chr1	7430142.0					Osteosarcoma-IDBR612			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TE	Fusion	MT-ND6--MT-TE	chrM	14622							0.0	0.0		0	50.0	MT-ND6	chrM	14622.0	MT-TE	chrM	14717.0					Osteosarcoma-IDBR612			0	0	0	0	0	0	0

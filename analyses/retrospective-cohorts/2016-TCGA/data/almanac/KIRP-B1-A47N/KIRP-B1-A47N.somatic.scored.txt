@@ -1,0 +1,269 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Biologically Relevant				Copy Number	PMS2	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		1	1	0	1	1	0	1
+Cancer Hotspot				Copy Number	RAC1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	1	1	1	1	1	1
+Cancer Hotspot				Copy Number	CARD11	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	1	0	1	0	0	1
+Cancer Hotspot 3D				Copy Number	ISPD	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	1	0	0	0	1
+Cancer Gene Census				Somatic Variant	MUC4	Missense	p.R432W	3	195490958	195490958.0	G	G	A	0.0443	158.0	1.6e-05	0.0		0								0.0	0.0	0.0		KIRP-B1-A47N	KIRP-B1-A47N-TP	KIRP-B1-A47N-NB	0	0	0	1	0	1	2
+Cancer Gene Census				Copy Number	ETV1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	1	0	1	1
+Cancer Pathway				Copy Number	MAD1L1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	RPA3	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	1	1	1
+Cancer Pathway				Somatic Variant	LAMC3	Splice Site	p.S1165N	9	133948708	133948708.0	G	G	A	0.5	12.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A47N	KIRP-B1-A47N-TP	KIRP-B1-A47N-NB	0	0	0	0	1	0	2
+Cancer Pathway				Copy Number	PRKAR1B	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	1	0	1
+Cancer Module				Somatic Variant	MYBBP1A	Missense	p.R1027S	17	4445767	4445767.0	G	G	T	0.3109	119.0	8e-06	0.0		0								29.0	0.3448	0.9855		KIRP-B1-A47N	KIRP-B1-A47N-TP	KIRP-B1-A47N-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	LPA	Missense	p.Y941H	6	161026202	161026202.0	A	A	G	0.5116	43.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A47N	KIRP-B1-A47N-TP	KIRP-B1-A47N-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	AAK1	Missense	p.A481P	2	69746142	69746142.0	C	C	G	0.0427	117.0	0.013000000000000001	1.0		0								0.0	0.0	0.0		KIRP-B1-A47N	KIRP-B1-A47N-TP	KIRP-B1-A47N-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	MFSD1	Missense	p.A302S	3	158539426	158539426.0	G	G	T	0.04	75.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A47N	KIRP-B1-A47N-TP	KIRP-B1-A47N-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	CHD7	Missense	p.A2663V	8	61775123	61775123.0	C	C	T	0.0556	54.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A47N	KIRP-B1-A47N-TP	KIRP-B1-A47N-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	AHNAK	Missense	p.V1942M	11	62296065	62296065.0	C	C	T	0.0786	140.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A47N	KIRP-B1-A47N-TP	KIRP-B1-A47N-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	PLEKHO1	Missense	p.P343T	1	150131515	150131515.0	C	C	A	0.1386	101.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A47N	KIRP-B1-A47N-TP	KIRP-B1-A47N-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SYNGAP1	Missense	p.R136W	6	33400480	33400480.0	C	C	T	0.3182	44.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A47N	KIRP-B1-A47N-TP	KIRP-B1-A47N-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	PC	Missense	p.K319E	11	66636384	66636384.0	T	T	C	0.3358	137.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A47N	KIRP-B1-A47N-TP	KIRP-B1-A47N-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SLC6A12	Missense	p.F367S	12	306024	306024.0	A	A	G	0.2941	68.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A47N	KIRP-B1-A47N-TP	KIRP-B1-A47N-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SIN3A	Missense	p.E1087V	15	75673982	75673982.0	T	T	A	0.4331	127.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A47N	KIRP-B1-A47N-TP	KIRP-B1-A47N-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	FA2H	Missense	p.F272L	16	74750468	74750468.0	G	G	C	0.4054	37.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A47N	KIRP-B1-A47N-TP	KIRP-B1-A47N-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	PRPF39	Missense	p.A75T	14	45564665	45564665.0	G	G	A	0.3878	49.0	8e-06	0.0		0								8.0	0.375	0.3929		KIRP-B1-A47N	KIRP-B1-A47N-TP	KIRP-B1-A47N-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	HOXD8	Frameshift	p.-52fs	2	176996164	176996165.0	-	-	CCCTAGCCCT	0.2326	43.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A47N	KIRP-B1-A47N-TP	KIRP-B1-A47N-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	LARP1	Missense	p.G954V	5	154193457	154193457.0	G	G	T	0.0278	144.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A47N	KIRP-B1-A47N-TP	KIRP-B1-A47N-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	SLC9A7	Splice Site	p.G579G	X	46491021	46491021.0	C	C	T	0.0361	83.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A47N	KIRP-B1-A47N-TP	KIRP-B1-A47N-NB	0	0	0	0	0	1	1
+Cancer Module				Copy Number	THSD7A	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PHF14	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MIOS	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NDUFA4	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NUDT1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MAFK	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RBAK	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FSCN1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GLCCI1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GNA12	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GPR146	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HDAC9	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ICA1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	INTS1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KDELR2	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EIF3B	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SNX8	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TWIST1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZDHHC4	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RNF216	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	AGR2	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	AGR3	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	AHR	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	AIMP2	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ARL4A	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	1	1
+Cosmic				Somatic Variant	TAX1BP1	Nonsense	p.R663*	7	27856559	27856559.0	A	A	T	0.619	63.0	0.0	0.0		0								51.0	0.1765	1.0		KIRP-B1-A47N	KIRP-B1-A47N-TP	KIRP-B1-A47N-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	FRY	Missense	p.R2364L	13	32823745	32823745.0	G	G	T	0.05	60.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A47N	KIRP-B1-A47N-TP	KIRP-B1-A47N-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	GJA3	Missense	p.T87M	13	20717168	20717168.0	G	G	A	0.0306	98.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A47N	KIRP-B1-A47N-TP	KIRP-B1-A47N-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	DOCK7	Missense	p.F82L	1	63119731	63119731.0	A	A	G	0.3594	64.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A47N	KIRP-B1-A47N-TP	KIRP-B1-A47N-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	TPRG1	Missense	p.S6G	3	188925189	188925189.0	A	A	G	0.1356	118.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A47N	KIRP-B1-A47N-TP	KIRP-B1-A47N-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	STK11IP	Missense	p.S26F	2	220465972	220465972.0	C	C	T	0.0617	81.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A47N	KIRP-B1-A47N-TP	KIRP-B1-A47N-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	ZNF2	Missense	p.P326A	2	95847510	95847510.0	C	C	G	0.3333	129.0	7.4e-05	0.0		0								0.0	0.0	0.0		KIRP-B1-A47N	KIRP-B1-A47N-TP	KIRP-B1-A47N-NB	0	0	0	0	0	0	1
+Cosmic				Copy Number	COL28A1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RADIL	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TNRC18	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CHST12	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MEOX2	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PAPOLB	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRPS1L1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	LFNG	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FBXL18	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FOXK1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	HEATR2	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RSPH10B	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SDK1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SUN1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM106B	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	USP42	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RSPH10B2	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	AMZ1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ANKMY2	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCZ1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ADAP1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	IQGAP3	Deletion		1	156491046	156496188.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MICALL2	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MMD2	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NXPH1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OCM	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PSMG3	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FERD3L	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FTSJ2	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GET4	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GRID2IP	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	IQCE	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SCIN	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC29A4	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SNX13	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SOSTDC1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM184A	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM196	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TSPAN13	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TTYH3	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TWISTNB	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	UNCX	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	VWDE	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	WIPI2	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZFAND2A	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF12	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF853	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ELFN1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	EIF2AK1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DGKB	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	AC073343.1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C1GALT1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	BRAT1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	BZW2	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C7orf26	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C7orf50	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	COX19	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CYP2W1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CYTH3	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DAGLB	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	AGMO	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ACTB	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	LATS1	Deletion		6	149996720	149996994.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND6	Fusion	MT-ND6--MT-TE	chrM	14613							0.0	0.0		0	18.0	MT-ND6	chrM	14613.0	MT-TE	chrM	14736.0					KIRP-B1-A47N			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4L	Fusion	MT-ND4L--MT-RNR2	chrM	10628							0.0	0.0		0	5.0	MT-ND4L	chrM	10628.0	MT-RNR2	chrM	2225.0					KIRP-B1-A47N			0	0	0	0	0	0	1
+Cosmic				Rearrangement	ST7	Fusion	ST7-OT4--ST7	chr7	116595207							0.0	0.0		0	7.0	ST7-OT4	chr7	116595207.0	ST7	chr7	116738667.0					KIRP-B1-A47N			0	0	0	0	0	0	1
+VUS				Somatic Variant	BPIFB3	Missense	p.K410N	20	31659071	31659071.0	G	G	C	0.0366	82.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A47N	KIRP-B1-A47N-TP	KIRP-B1-A47N-NB	0	0	0	0	0	0	0
+VUS				Somatic Variant	ASIC5	Missense	p.L64F	4	156784757	156784757.0	G	G	A	0.3621	116.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A47N	KIRP-B1-A47N-TP	KIRP-B1-A47N-NB	0	0	0	0	0	0	0
+VUS				Somatic Variant	PROSER1	Missense	p.G128D	13	39600511	39600511.0	C	C	T	0.3333	12.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-A47N	KIRP-B1-A47N-TP	KIRP-B1-A47N-NB	0	0	0	0	0	0	0
+VUS				Copy Number	FAM220A	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	CCZ1B	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number		Amplification		18	35359584	35359871.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1302-6	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3146	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR339	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3683	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4648	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4655	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4656	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR589	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	PMS2CL	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	PSMG3-AS1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	LRRC72	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	FLJ20306	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	GPER1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	GRIFIN	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	GS1-166A23.1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	GS1-166A23.2	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	ISPD-AS1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	RBAK-RBAKDN	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	ZNF815P	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	RPA3-AS1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	RBAKDN	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP130	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP228	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP266	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL556P	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL851P	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNF216-IT1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNF216P1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-215P	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-218P	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-534P	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1246C19.1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1275H24.1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1275H24.2	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1275H24.3	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-196O16.1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-30B1.1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-449P15.1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-449P15.2	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-611L7.1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-594A5.1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1007H16.1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1159O4.1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1159O4.2	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-855F16.1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC003075.4	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC011891.5	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006458.3	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006482.1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006483.1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC007009.1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC007009.2	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC007091.1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC007128.1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC007161.5	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC009473.1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC010082.2	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC011284.3	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC011288.2	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC017060.1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC019117.1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC019117.2	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC024028.1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC060834.3	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC069286.1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC073094.4	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC073316.1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC073316.2	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC073333.1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC073333.8	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC073343.13	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006373.1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006150.2	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006150.1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006042.7	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC003986.5	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC003986.6	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC003986.7	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC004160.4	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC004535.2	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC004538.3	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC004543.1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC004543.2	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC004744.3	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC004840.8	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC004840.9	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC004895.1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC004895.4	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC004906.3	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005019.3	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005062.2	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005281.1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005281.2	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005532.5	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005550.3	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005550.4	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005550.5	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006000.5	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006041.1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006042.6	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC073343.2	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC073957.15	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC074389.1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	ANKRD61	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AP5Z1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC074389.5	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-161C1.1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC091801.1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC074389.6	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC074389.7	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC074389.9	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC079742.4	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC079756.1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC079804.1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC079804.2	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC080080.1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC091697.1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC091729.7	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC091729.8	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC091729.9	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC092104.1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC110781.3	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC092104.2	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC092104.3	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC092104.4	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC092104.5	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC092171.2	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC092171.4	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC093376.1	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC093620.5	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC102953.4	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC102953.6	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Copy Number	ZNF890P	Amplification		7	705284	19995005.0						0.0	0.0		0												KIRP-B1-A47N	TCGA-B1-A47N-01		0	0	0	0	0	0	0
+VUS				Rearrangement	ST7-OT4	Fusion	ST7-OT4--ST7	chr7	116595207							0.0	0.0		0	7.0	ST7-OT4	chr7	116595207.0	ST7	chr7	116738667.0					KIRP-B1-A47N			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TA	Fusion	MT-TA--MT-TN	chrM	5604							0.0	0.0		0	17.0	MT-TA	chrM	5604.0	MT-TN	chrM	5708.0					KIRP-B1-A47N			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TN	Fusion	MT-TA--MT-TN	chrM	5604							0.0	0.0		0	17.0	MT-TA	chrM	5604.0	MT-TN	chrM	5708.0					KIRP-B1-A47N			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TE	Fusion	MT-ND6--MT-TE	chrM	14613							0.0	0.0		0	18.0	MT-ND6	chrM	14613.0	MT-TE	chrM	14736.0					KIRP-B1-A47N			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-RNR2	Fusion	MT-ND4L--MT-RNR2	chrM	10628							0.0	0.0		0	5.0	MT-ND4L	chrM	10628.0	MT-RNR2	chrM	2225.0					KIRP-B1-A47N			0	0	0	0	0	0	0

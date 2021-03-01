@@ -1,0 +1,301 @@
+patient_id	therapy	study-evidence-strongest	almanac-evidence-strongest	included-in-overlapping-strategy	strategy	study-gave-as-matched-therapy	study-citations-used-for-patient	comment-on-study-citation	substrategy	almanac_top_recommendation_group
+2	crizotinib	Clinical trial	Guideline	1	MET inhibition	1	1	"I could not get access to this article; however, it is a review focusing on clinical trials and preclinical studies of targeting c-MET/HGF."		1
+5	palbociclib	Clinical trial	Guideline	1	CDK4/6 inhibition	1	2	Citation 2 describes clinical trials of CDK4 inhibitors		1
+5	nutlin-3		Preclinical	0	MDM2-p53 inhibition					0
+7	gemcitabine	No citation		0	Chemotherapy	0	Not applicable			
+7	nab-paclitaxel	No citation		0	Chemotherapy	0	Not applicable			
+7	amg 510		Clinical trial	0	targets KRAS G12C					1
+9	bevacizumab	Inferential		0	VEGF/VEGFR inhibition	1	3	"Citation 3 describes VEGF inhibition showing efficacy in p53 mutant cancers, inferred from a regression analysis on RNA-seq data"		
+9	amg 510		Clinical trial	0	targets KRAS G12C					1
+15	palbociclib	Clinical trial	Guideline	1	CDK4/6 inhibition	1	2	Citation 2 describes clinical trials of CDK4 inhibitors		1
+15	nutlin-3		Preclinical	0	MDM2-p53 inhibition					0
+19	trametinib	Clinical trial		0	MEK inhibition	1	4	Citation 4 describes targeting KRAS indirectly by targeting MEK1/2 with selumetinib and trametinib in phase 2 and 3 trials		
+19	pictilisib		Preclinical	0	PI3K/AKT/mTOR inhibition					0
+19	amg 510		Clinical trial	0	targets KRAS G12C					1
+20	bevacizumab	Clinical trial		0	VEGF/VEGFR inhibition	1	"2,5,6"	Citations further look into efficacy of VEGF inhibition for TP53 mutants		
+20	pictilisib		Preclinical	0	PI3K/AKT/mTOR inhibition					0
+20	amg 510		Clinical trial	0	targets KRAS G12C					1
+22	pertuzumab	Clinical trial		1	ER signaling inhibition	1	"7,8,9,10"	"Citations look at combination of pertuzumab with trastuzumab for HER2 inhibition, strongest evidence is from the Mypathway basket study."		
+22	trastuzumab	Clinical trial		1	ER signaling inhibition	1	"7,8,9,10"	"Citations look at combination of pertuzumab with trastuzumab for HER2 inhibition, strongest evidence is from the Mypathway basket study."		
+22	ado-trastuzumab emtansine		FDA-Approved	1	ER signaling inhibition					1
+22	neratinib		Clinical evidence	1	ER signaling inhibition					0
+23	cetuximab	Clinical trial	FDA-Approved	1	EGFR inhibition	1	"11,12,13,14,15"	"Citations looked at V600 mutants in different contexts. Cetuximab and Vemurafenib for V600E in colorectal cancer are supported by the Hyman trial, while not directly cited, there is another study cited (citation 12) that looked at this therapeutic combination in colorectal cancers with V600E, a phase 1b study."		1
+23	vemurafenib	Clinical trial		1	BRAF inhibition	1	"11,12,13,14,15"	"Citations looked at V600 mutants in different contexts. Cetuximab and Vemurafenib for V600E in colorectal cancer are supported by the Hyman trial, while not directly cited, there is another study cited (citation 12) that looked at this therapeutic combination in colorectal cancers with V600E, a phase 1b study."		
+23	encorafenib		FDA-Approved	1	BRAF inhibition					1
+23	mk-2206		Preclinical	0	PI3K/AKT/mTOR inhibition					0
+26	OX40 agonist in clinical development	No citation		0	OX40 antagonist	0	Not applicable			
+26	PD-L1 antagonist	No citation		1	PD-1/PD-L1 inhibition	0	Not applicable			
+26	pembrolizumab		Inferential	1	PD-1/PD-L1 inhibition					1
+28	nivolumab	No citation		0	PD-1/PD-L1 inhibition	0	Not applicable			
+28	mk-2206		Preclinical	0	PI3K/AKT/mTOR inhibition					0
+30	vemurafenib	Clinical trial		1	BRAF inhibition	1	"14,15"	"Citations 14 (trial) and 15 (review) look at the literature around non-melanoma V600E tumors. As this patient is a salivary gland cancer instead leukemia (citation 14), I'll categorize it by the review, which I am categorizing as clinical evidence."		
+30	dabrafenib		FDA-Approved	1	BRAF inhibition					1
+30	trametinib		FDA-Approved	1	MEK inhibition					1
+33	pertuzumab	Clinical trial		1	ER signaling inhibition	1	"7,8,9,10"	"Citations look at combination of pertuzumab with trastuzumab for HER2 inhibition, strongest evidence is from the Mypathway basket study."	HER2 antibody	
+33	trastuzumab	Clinical trial		1	ER signaling inhibition	1	"7,8,9,10"	"Citations look at combination of pertuzumab with trastuzumab for HER2 inhibition, strongest evidence is from the Mypathway basket study."	HER2 antibody	
+33	palbociclib		Guideline	0	CDK4/6 inhibition					0
+33	amg 510		Clinical trial	0	targets KRAS G12C					0
+33	ado-trastuzumab emtansine		FDA-Approved	1	ER signaling inhibition					1
+34	lenvatinib	Preclinical		0	VEGF/VEGFR inhibition	1	"2,5,6,16,17"	VEGF/VEGFR		
+34	nivolumab 		Clinical evidence	0	PD-1/PD-L1 inhibition					0
+34	pembrolizumab		Clinical evidence	0	PD-1/PD-L1 inhibition					0
+34	epz015666		Preclinical	0	PRMT5 inhibition					0
+34	erdafitinib		FDA-Approved	0	FGFR inhibition					1
+34	niraparib		FDA-Approved	0	PARP inhibition					0
+34	neratinib		Clinical evidence	0	ER signaling inhibition					0
+39	bevacizumab	Clinical trial		0	VEGF/VEGFR inhibition	1	"2,5,6"	Citation 5 is a trial that looks at p53 status and response to VEGF inhibitors.		
+39	pictilisib		Preclinical	0	PI3K/AKT/mTOR inhibition					0
+39	amg 510		Clinical trial	0	targets KRAS G12C					1
+44	pertuzumab	Clinical trial		1	ER signaling inhibition	1	"7,8,9,10"	"Citations look at combination of pertuzumab with trastuzumab for HER2 inhibition, strongest evidence is from the Mypathway basket study."	HER2 antibody	
+44	trastuzumab	Clinical trial		1	ER signaling inhibition	1	"7,8,9,10"	"Citations look at combination of pertuzumab with trastuzumab for HER2 inhibition, strongest evidence is from the Mypathway basket study."	HER2 antibody	
+44	ceritinib		Preclinical	0	ALK inhibition					0
+44	pictilisib		Preclinical	0	PI3K/AKT/mTOR inhibition					0
+44	ado-trastuzumab emtansine		FDA-Approved	1	ER signaling inhibition				HER2 antibody	1
+44	everolimus		Clinical evidence	0	PI3K/AKT/mTOR inhibition					0
+44	palbociclib		Inferential	0	CDK4/6 inhibition					0
+44	neratinib		Clinical evidence	1	ER signaling inhibition				TKI	0
+47	pembrolizumab	Clinical trial	FDA-Approved	1	PD-1/PD-L1 inhibition	1	18	Citation 18 covers a trial of 151 patients receiving Immunotherapy based on insights from NGS from Foundation Medicine.		1
+47	olaparib		FDA-Approved	0	PARP inhibition					1
+48	sorafenib	Clinical trial		0	VEGF/VEGFR inhibition	1	"2,5,6"	Citations further look into efficacy of VEGF inhibition for TP53 mutants		
+51	lenvatinib	Preclinical		0	VEGF/VEGFR inhibition	1	"16,17,19"	"Citations 16, 17 look at lenvatinib in particular in a preclinical setting for VEGF inhibition of TP53 mutants."		
+51	olaparib	Clinical trial	FDA-Approved	0	PARP inhibition	1	"16,17,19"	"Citation 19 is a review focused on olaparib for ATM or BRCA1/2 metastatic, castration-resistant prostate cancers. The paper's abstract and a press release from Astra Zeneca states that olaparib is approved in this setting but ATM is not present in the therapy label. Olaparib was given for a BRIP1 variant in this case, and citation 19 cites a few case-control studies. This press release is based on a phase 2 study."		1
+51	pembrolizumab		FDA-Approved	0	PD-1/PD-L1 inhibition					1
+51	alpelisib		FDA-Approved	0	PI3K/AKT/mTOR inhibition					1
+51	nutlin-3		Preclinical	0	MDM2-p53 inhibition					0
+53	olaparib	Clinical trial		0	PARP inhibition	1	"19,20,21"	"Citation 19 is a review focused on olaparib for ATM or BRCA1/2 metastatic, castration-resistant prostate cancers. The paper's abstract and a press release from Astra Zeneca states that olaparib is approved in this setting but ATM is not present in the therapy label. The review focuses on clinical studies, mostly germline, associating deleterious ATM variants with PARP inhibition. This press release is based on a phase 2 study."		
+53	sulindac	Preclinical		0	NSAID	1	"19,20,21"	"Citation 21 looks at overall response of sulindac within a disease context that eventually turns into colorectal cancer, caused by APC variants, and they found that sulindac did not prevent the disease progression to cancer. Citation 20 looked at the efficacy of sulindac in mice with apc mutants."		
+53	palbociclib		Guideline	0	CDK4/6 inhibition					1
+53	bay 1895344		Clinical trial	0	ATR inhibition					0
+53	nutlin-3		Preclinical	0	MDM2-p53 inhibition					0
+59	bevacizumab	Clinical trial		0	VEGF/VEGFR inhibition	1	"2,5,6"	Citatons further look into efficacy of VEGF inhibition for TP53 mutants		
+59	nutlin-3		Preclinical	0	MDM2-p53 inhibition					1
+61	everolimus	Citation listed not applicable		0	PI3K/AKT/mTOR inhibition	1	22	"Citation 22 is a case report of a patient with histiocytic sarcmoa with an an activating variant in MAP2K1 that observed a response to trametinib. The citation makes no reference of everolimus, mTOR, NF2, PI3KCA though."		
+61	trametinib	Clinical evidence		1	MEK inhibition	1	22	Citation 22 is a case report of a patient with histiocytic sarcmoa with an an activating variant in MAP2K1 that observed a response to trametinib. 		
+61	selumetinib		Preclinical	1	MEK inhibition					1
+66	everolimus	Clinical trial		1	PI3K/AKT/mTOR inhibition	1	"2,5,6,16,17,23"	Citation 23 is a review of targeting PI3K/AKT/mTOR and Table 3 shows a clinical trial which is testing everolimus in neuroendrocrine tumors for variants in PI3K/AKT/mTOR. This patient has ovarian cancer.	mtor	
+66	lenvatinib	Preclinical		0	VEGF/VEGFR inhibition	1	"2,5,6,16,17,23"	"Citation 5 is a trial that looks at p53 status and response to VEGF inhibitors and citations 16, 17 look at lenvatinib in particular in a preclinical setting."		
+66	olaparib		FDA-Approved	0	PARP inhibition					1
+66	pictilisib		Clinical trial	1	PI3K/AKT/mTOR inhibition				pi3k	0
+66	infigratinib		Preclinical	0	FGFR inhibition					0
+70	pembrolizumab	Clinical trial		0	PD-1/PD-L1 inhibition	1	18	Citation 18 covers a trial of 151 patients receivig Immunotherapy based on insights from NGS from Foudation Medicine.		
+70	sirolimus		Preclinical	0	PI3K/AKT/mTOR inhibition					0
+72	trametinib	Clinical trial		0	MEK inhibition	1	4	Citation 4 describes targeting KRAS indirectly by targeting MEK1/2 with selumetinib and trametinib in phase 2 and 3 trials		
+72	amg 510		Clinical trial	0	targets KRAS G12C					1
+73	cabozantinib	Clinical trial		1	MET inhibition	1	1	"I could not get access to this article; however, it is a review focusing on clinical trials and preclinical studies of targeting c-MET/HGF."		
+73	epz015666		Preclinical	0	PRMT5 inhibition					0
+73	ivosidenib		FDA-Approved	0	IDH1 inhibition					1
+73	crizotinib		Guideline	1	MET inhibition					0
+74	tamoxifen	Citation listed not applicable		0	ER signaling inhibition	1	4	"Tamoxifen is FDA approved for ER+ breast cancer but not ovarian cancer; however, hormonal therapy is standard of care within some disease contexts of ovarian cancer."	SERM	
+74	trametinib	Clinical trial		0	MEK inhibition	1	4	Citation 4 describes targeting KRAS indirectly by targeting MEK1/2 with selumetinib and trametinib in phase 2 and 3 trials		
+74	amg 510		Clinical trial	0	targets KRAS G12C					1
+84	bevacizumab	Clinical trial		0	VEGF/VEGFR inhibition	1	"2,5,6"	Citatons further look into efficacy of VEGF inhibition for TP53 mutants		
+84	sorafenib	Clinical trial		0	VEGF/VEGFR inhibition	1	"2,5,6"	Citatons further look into efficacy of VEGF inhibition for TP53 mutants		
+86	dual p70S6K/Akt Inhibitor in clinical development	Clinical trial		1	PI3K/AKT/mTOR inhibition	1	"23,24,25"	Citation 23 is a review of targeting PI3K/AKT/mTOR and Table 3 shows relevant clinical trials. Citation 24 is a trial testing a dual p70S6K/Akt Inhibitor and 25 looks at efficacy of a dual p70S6K/Akt Inhibitor in the preclinical setting.	akt	
+86	tamoxifen	Citation listed not applicable		0	ER signaling inhibition	1	"23,24,25"	Tamoxifen is standard of care for ER+ breast cancer.	SERM	
+86	pictilisib		Preclinical	1	PI3K/AKT/mTOR inhibition				pi3k	1
+88	bevacizumab	Clinical trial		0	VEGF/VEGFR inhibition	1	"2,4,5,6"	Citatons further look into efficacy of VEGF inhibition for TP53 mutants		
+88	trametinib	Clinical trial		0	MEK inhibition	1	"2,4,5,6"	Citation 4 describes targeting KRAS indirectly by targeting MEK1/2 with selumetinib and trametinib in phase 2 and 3 trials		
+88	bortezomib		Preclinical	0	Proteasome inhibition					1
+89	lenvatinib	Preclinical		0	VEGF/VEGFR inhibition	1	"16,17"	"Citations 16, 17 look at the efficacy lenvatinib in particular in a preclinical setting for TP53 mutants."		
+89	pemigatinib		FDA-Approved	0	FGFR inhibition					1
+89	pembrolizumab		Inferential	0	PD-1/PD-L1 inhibition					0
+91	Wee-1 inhibitor in clinical development	Preclinical		0	Wee-1 inhibition	1	"26,27"	Citation 26 looks at efficacy of Wee-1 inhibition for TP53 mutants in a preclinical setting. Citation 27 looks at p53 variants sensitizing cells to cisplatin.		
+91	olaparib		Clinical evidence	0	PARP inhibition					1
+92	ceritinib	Clinical trial		0	IGF inhibition	1	"28,29,30"	"Citation 28 is a review of EWSR1 fusions, in which they discuss how the fusion can impact regulation of IGFR, which can be hit with ceritinib."		
+92	everolimus	Preclinical		0	PI3K/AKT/mTOR inhibition	1	"28,29,30"	Citation 30 discusses overlap between IGFR and Akt		
+94	everolimus	Clinical trial		1	PI3K/AKT/mTOR inhibition	1	"19,23"	Citation 23 is a review of targeting PI3K/AKT/mTOR and Table 3 shows a clinical trial which is testing everolimus in neuroendrocrine tumors for variants in PI3K/AKT/mTOR. This patient has cervical cancer.	mtor	
+94	olaparib	Clinical trial	FDA-Approved	1	PARP inhibition	1	"19,23"	"Citation 19 is a review focused on olaparib for ATM or BRCA1/2 metastatic, castration-resistant prostate cancers. The paper's abstract and a press release from Astra Zeneca states that olaparib is approved in this setting but ATM is not present in the therapy label. "		1
+94	pictilisib		Preclinical	1	PI3K/AKT/mTOR inhibition				pi3k	0
+97	ceritinib	No citation		0	ALK inhibition	0	Not applicable			
+97	dasatinib	No citation		0	targets BCR-ABL	0	Not applicable			
+97	olaparib		FDA-Approved	0	PARP inhibition					1
+99	palbociclib	Clinical trial		0	CDK4/6 inhibition	1	"2,4,20,21,31,32,33,34,35,36"	"Citation 2 describes clinical trials of CDK4 inhibitors. This is further supported in this context with citation 36, noted below."		
+99	sulindac	Preclinical		0	NSAID	1	"2,4,20,21,31,32,33,34,35,36"	"Citation 21 looks at overall response of sulindac within a disease context that eventually turns into colorectal cancer, caused by APC variants, and they found that sulindac did not prevent the disease progression to cancer. Citation 20 looked at the efficacy of sulindac in mice with apc mutants."		
+99	trametinib	Preclinical		0	MEK inhibition	1	"2,4,20,21,31,32,33,34,35,36"	Citation 36 looks at KRAS mutant CRC cell lines and the efficacy of MEK and CDK4/6 inhibition. This patient has colorectal cancer.		
+99	amg 510		Clinical trial	0	targets KRAS G12C					1
+101	everolimus	Clinical trial		0	PI3K/AKT/mTOR inhibition	1	2	Citation 2 describes clinical trials of CDK4 inhibitors. The citation also discusses a trial in breast cancer that is looking at combination mTOR inhibition along with CDK4 inhibition.	mtor	
+101	palbociclib	Clinical trial	Inferential	1	CDK4/6 inhibition	1	2	Citation 2 describes clinical trials of CDK4 inhibitors. 		0
+101	epz015666		Preclinical	0	PRMT5 inhibition					1
+102	nivolumab	Clinical trial		0	PD-1/PD-L1 inhibition	1	"2,18,31,32"			
+102	palbociclib	Clinical trial		0	CDK4/6 inhibition	1	"2,18,31,32"			
+102	epz015666		Preclinical	0	PRMT5 inhibition					1
+105	everolimus	Clinical trial		1	PI3K/AKT/mTOR inhibition	1	"2,5,6,23"	Citation 23 is a review of targeting PI3K/AKT/mTOR and Table 3 shows a clinical trial which is testing everolimus in neuroendrocrine tumors for variants in PI3K/AKT/mTOR. This patient has breast cancer.	mtor	
+105	lenvatinib	Clinical trial		0	VEGF/VEGFR inhibition	1	"2,5,6,23"	Citation 5 is a trial that looks at p53 status and response to VEGF inhibitors.		
+105	azd8186		Preclinical	1	PI3K/AKT/mTOR inhibition				pi3k	0
+105	ruxolitinib		Preclinical	0	JAK inhibition					0
+105	pictilisib		Preclinical	1	PI3K/AKT/mTOR inhibition				pi3k	1
+112	pembrolizumab	Clinical trial		0	PD-1/PD-L1 inhibition	1	18	Citation 18 covers a trial of 151 patients receivig Immunotherapy based on insights from NGS from Foudation Medicine.		
+112	bosutinib		FDA-Approved	0	targets BCR-ABL					1
+112	bortezomib		Preclinical	0	Proteasome inhibition					0
+115	nivolumab	Clinical trial		0	PD-1/PD-L1 inhibition	1	"4,18,20,21,33,34"	Citation 18 covers a trial of 151 patients receivig Immunotherapy based on insights from NGS from Foudation Medicine.		
+115	sulindac	Preclinical		0	NSAID	1	"4,18,20,21,33,34"	"Citation 21 looks at overall response of sulindac within a disease context that eventually turns into colorectal cancer, caused by APC variants, and they found that sulindac did not prevent the disease progression to cancer. Citation 20 looked at the efficacy of sulindac in mice with apc mutants."		
+115	trametinib	Clinical trial		0	MEK inhibition	1	"4,18,20,21,33,34"	Citation 4 describes targeting KRAS indirectly by targeting MEK1/2 with selumetinib and trametinib in phase 2 and 3 trials		
+115	pictilisib		Preclinical	0	PI3K/AKT/mTOR inhibition					0
+115	amg 510		Clinical trial	0	targets KRAS G12C					1
+115	bay 1895344		Clinical trial	0	ATR inhibition					1
+118	erlotinib	No citation		0	EGFR inhibition	0	Not applicable			
+118	gemcitabine	No citation		0	Antineoplastic	0	Not applicable			
+118	amg 510		Clinical trial	0	targets KRAS G12C					1
+119	vismodegib	Clinical trial		0	Hedgehog inhibition	1	37	"Citation 37 reviews inhibiting hedgehog pathway on the basis of observed variants. GDC-0449, vismodegib, observed to have antitumor activity in metastatic basal-cell carcinoma."		
+119	epz015666		Preclinical	0	PRMT5 inhibition					1
+119	durvalumab		Preclinical	0	PD-1/PD-L1 inhibition					1
+120	cetuximab	Preclinical		0	EGFR inhibition	1	"4,11,12,13,38"	"Citation 38 describes how activation of KRAS and loss of SMAD4 inducdes EGFR expression, cetuximab is an EGFR inhibitor."		
+120	trametinib	Clinical trial		0	MEK inhibition	1	"4,11,12,13,38"	Citation 4 describes targeting KRAS indirectly by targeting MEK1/2 with selumetinib and trametinib in phase 2 and 3 trials		
+120	amg 510		Clinical trial	0	targets KRAS G12C					1
+121	nivolumab	Clinical trial		1	PD-1/PD-L1 inhibition	1	18	Citation 18 covers a trial of 151 patients receivig Immunotherapy based on insights from NGS from Foudation Medicine.		
+121	olaparib		Preclinical	0	PARP inhibition					0
+121	neratinib		Clinical evidence	0	ER signaling inhibition				TKI	0
+121	pembrolizumab		FDA-Approved	1	PD-1/PD-L1 inhibition					1
+121	pictilisib		Preclinical	0	PI3K/AKT/mTOR inhibition					0
+122	pertuzumab	Clinical trial		1	ER signaling inhibition	1	"7,8,9,10,39"	"Citations look at combination of pertuzumab with trastuzumab for HER2 inhibition, strongest evidence is from the Mypathway basket study."	HER2 antibody	
+122	trastuzumab	Clinical trial		1	ER signaling inhibition	1	"7,8,9,10,39"	"Citations look at combination of pertuzumab with trastuzumab for HER2 inhibition, strongest evidence is from the Mypathway basket study."	HER2 antibody	
+122	ado-trastuzumab emtansine		FDA-Approved	1	ER signaling inhibition				HER2 antibody	1
+122	neratinib		Clinical evidence	1	ER signaling inhibition				TKI	0
+122	amg 510		Clinical trial	0	targets KRAS G12C					0
+123	cetuximab	No citation	FDA-Approved	1	EGFR inhibition	0	Not applicable			1
+123	pembrolizumab	No citation		0	PD-1/PD-L1 inhibition	0	Not applicable			
+123	selumetinib		Clinical evidence	0	MEK inhibition					0
+123	encorafenib		FDA-Approved	0	BRAF inhibition					1
+127	dual p70S6K/Akt Inhibitor in clinical development	Clinical trial		1	PI3K/AKT/mTOR inhibition	1	"24,25"	Citation 24 is a trial testing a dual p70S6K/Akt Inhibitor and 25 looks at efficacy of a dual p70S6K/Akt Inhibitor in the preclinical setting.	akt	
+127	pictilisib		Preclinical	1	PI3K/AKT/mTOR inhibition				pi3k	1
+132	durvalumab	No citation		0	PD-1/PD-L1 inhibition	0	Not applicable			
+132	amg 510		Clinical trial	0	targets KRAS G12C					1
+135	cabozantinib	Clinical trial		1	MET inhibition	1	"1,40,41"	"I could not get access to this article; however, it is a review focusing on clinical trials and preclinical studies of targeting c-MET/HGF."		
+135	osimertinib	Clinical trial	FDA-Approved	1	EGFR inhibition	1	"1,40,41"	"This is a glioblastoma patient with many EGFR variants, including an amplification, and is wild type for T790M. Citation 40 focuses on the benefit of osimertinib for T790M patients while citation 41 investigates how amplifications of mutant alleles are associated with resistance.  "		1
+135	epz015666		Preclinical	0	PRMT5 inhibition					0
+135	gefitinib		Clinical evidence	1	EGFR inhibition					0
+135	crizotinib		Guideline	1	MET inhibition					0
+140	bevacizumab	Clinical trial		0	VEGF/VEGFR inhibition	1	"2,5,6,42"	Citations further look into efficacy of VEGF inhibition for TP53 mutants		
+140	olaparib	Inferential		0	PARP inhibition	1	"2,5,6,42"	"Citation 42 investigates HR deficiency in cells with Aurora kinase expression in a preclinical setting. As we catalog actionability on copy number alterations based on studies that observed expression differences as inferential, this would be inferential."		
+140	danusertib		Preclinical	0	Aurora kinase inhibition					1
+141	cabozantinib	Clinical trial		1	MET inhibition	1	"1,18"	"I could not get access to this article; however, it is a review focusing on clinical trials and preclinical studies of targeting c-MET/HGF."		
+141	nivolumab	Clinical trial		1	PD-1/PD-L1 inhibition	1	"1,18"	Citation 18 covers a trial of 151 patients receivig Immunotherapy based on insights from NGS from Foudation Medicine.		
+141	epz015666		Preclinical	0	PRMT5 inhibition					0
+141	crizotinib		Guideline	1	MET inhibition					1
+141	nutlin-3		Preclinical	0	MDM2-p53 inhibition					0
+141	pembrolizumab		Inferential	1	PD-1/PD-L1 inhibition					0
+141	palbociclib		Guideline	0	CDK4/6 inhibition					1
+152	pertuzumab	Clinical trial		1	ER signaling inhibition	1	"7,8,9,10"	"Citations look at combination of pertuzumab with trastuzumab for HER2 inhibition, strongest evidence is from the Mypathway basket study."	HER2 antibody	
+152	trastuzumab	Clinical trial		1	ER signaling inhibition	1	"7,8,9,10"	"Citations look at combination of pertuzumab with trastuzumab for HER2 inhibition, strongest evidence is from the Mypathway basket study."	HER2 antibody	
+152	ado-trastuzumab emtansine		FDA-Approved	1	ER signaling inhibition				HER2 antibody	1
+155	nivolumab	Clinical trial		1	PD-1/PD-L1 inhibition	1	18	Citation 18 covers a trial of 151 patients receivig Immunotherapy based on insights from NGS from Foudation Medicine.		
+155	azd8186		Preclinical	0	PI3K/AKT/mTOR inhibition					0
+155	everolimus		Clinical evidence	0	PI3K/AKT/mTOR inhibition					0
+155	enasidenib		FDA-Approved	0	IDH2 inhibition					1
+155	pictilisib		Preclinical	0	PI3K/AKT/mTOR inhibition					0
+155	pembrolizumab		FDA-Approved	1	PD-1/PD-L1 inhibition					1
+155	epz015666		Preclinical	0	PRMT5 inhibition					0
+156	pertuzumab	Clinical trial		1	ER signaling inhibition	1	"7,8,9,10"	"Citations look at combination of pertuzumab with trastuzumab for HER2 inhibition, strongest evidence is from the Mypathway basket study."	HER2 antibody	
+156	trastuzumab	Clinical trial		1	ER signaling inhibition	1	"7,8,9,10"	"Citations look at combination of pertuzumab with trastuzumab for HER2 inhibition, strongest evidence is from the Mypathway basket study."	HER2 antibody	
+156	ado-trastuzumab emtansine		FDA-Approved	1	ER signaling inhibition				HER2 antibody	1
+157	BET Inhibitor in clinical development	Preclinical		0	BET inhibition	1	"43,44"	"Citations look at efficacy of inhibitors in preclinical setting, though citation 43 notes that inhibitors similar to JQ1 are currently in trials."		
+157	palbociclib		Inferential	0	CDK4/6 inhibition					0
+157	infigratinib		Preclinical	0	FGFR inhibition					1
+162	pembrolizumab	Clinical trial		0	PD-1/PD-L1 inhibition	1	18	Citation 18 covers a trial of 151 patients receivig Immunotherapy based on insights from NGS from Foudation Medicine.		
+163	lenvatinib	Preclinical		0	VEGF/VEGFR inhibition	1	"16,17"	"Citations 16, 17 look at lenvatinib in particular in a preclinical setting for VEGF inhibition of TP53 mutants."		
+A001	crizotinib	Clinical trial		0	MET inhibition	1	4	"Citation 4 does not discuss targeting c-MET and HGF. Perhaps the authors forgot to cite citation 1, giving the benefit of the doubt instead of writing Citation listed not applicable."		
+A001	trametinib	Clinical trial		0	MEK inhibition	1	4	Citation 4 describes targeting KRAS indirectly by targeting MEK1/2 with selumetinib and trametinib in phase 2 and 3 trials		
+A001	amg 510		Clinical trial	0	targets KRAS G12C					1
+A001	mk-2206		Preclinical	0	PI3K/AKT/mTOR inhibition					0
+A001	epz015666		Preclinical	0	PRMT5 inhibition					0
+A003	carboplatin	Clinical trial		1	Chemotherapy	1	"45,46"	Clinical trials testing efficacy of PARP inhibition		
+A003	veliparib	Clinical trial		1	PARP inhibition	1	"45,46"	Clinical trials testing efficacy of PARP inhibition		
+A003	niraparib		FDA-Approved	1	PARP inhibition					1
+A003	olaparib		FDA-Approved	1	PARP inhibition					1
+A004	cetuximab	Citation listed not applicable		1	EGFR inhibition	1	2	Citation 2 describes clinical trials of CDK4 inhibitors and makes no mention of EGFR inhibition.		
+A004	palbociclib	Clinical trial	Inferential	1	CDK4/6 inhibition	1	2	Citation 2 describes clinical trials of CDK4 inhibitors		0
+A004	danusertib		Preclinical	0	Aurora kinase inhibition					0
+A004	gefitinib		Clinical evidence	1	EGFR inhibition					0
+A004	epz015666		Preclinical	0	PRMT5 inhibition					0
+A004	infigratinib		Preclinical	0	FGFR inhibition					0
+A004	bay 1895344		Clinical trial	0	ATR inhibition					1
+A004	durvalumab		Preclinical	0	PD-1/PD-L1 inhibition					0
+A008	afatinib	Clinical trial		1	ER signaling inhibition	1	"2,5,6,7,8,9,10"	"Citations look at combination of pertuzumab with trastuzumab for HER2 inhibition, strongest evidence is from the Mypathway basket study."	TKI	
+A008	bevacizumab	Clinical trial		0	VEGF/VEGFR inhibition	1	"2,5,6,7,8,9,10"	Citatons further look into efficacy of VEGF inhibition for TP53 mutants		
+A008	trastuzumab	Clinical trial		1	ER signaling inhibition	1	"2,5,6,7,8,9,10"	"Citations look at combination of pertuzumab with trastuzumab for HER2 inhibition, strongest evidence is from the Mypathway basket study."	HER2 antibody	
+A008	epz015666		Preclinical	0	PRMT5 inhibition					0
+A008	ado-trastuzumab emtansine		FDA-Approved	1	ER signaling inhibition				HER2 antibody	1
+A008	neratinib		Clinical evidence	1	ER signaling inhibition				TKI	0
+A009	lenvatinib	Preclinical		0	VEGF/VEGFR inhibition	1	"2,5,6,16,17"	"Citations 16, 17 look at lenvatinib in particular in a preclinical setting for VEGF inhibition of TP53 mutants."		
+A009	ramucirumab	Clinical trial		0	VEGF/VEGFR inhibition	1	"2,5,6,16,17"	Citatons further look into efficacy of VEGF inhibition for TP53 mutants		
+A009	infigratinib		Preclinical	0	FGFR inhibition					1
+A009	bortezomib		Preclinical	0	Proteasome inhibition					1
+A010	everolimus	Clinical trial		0	PI3K/AKT/mTOR inhibition	1	"23,47"	Citation 23 is a review of targeting PI3K/AKT/mTOR and Table 3 shows a clinical trial which is testing everolimus in neuroendrocrine tumors for variants in PI3K/AKT/mTOR. This patient has breast cancer.		
+A010	fulvestrant	Preclinical		0	ER signaling inhibition	1	"23,47"	"Citation 47 describes landscape of ESR1 variants with metastatic breast cancer and further interrogated the sensitivity of this therapy with p.D538G, observed in this patient, in a preclinical setting."	SERD	
+A011	everolimus	Clinical trial		1	PI3K/AKT/mTOR inhibition	1	"18,20,21,23,48,49,50"	Citation 23 is a review of targeting PI3K/AKT/mTOR and Table 3 shows a clinical trial which is testing everolimus in neuroendrocrine tumors for variants in PI3K/AKT/mTOR. This patient has breast cancer.		
+A011	pembrolizumab	Clinical trial	FDA-Approved	1	PD-1/PD-L1 inhibition	1	"18,20,21,23,48,49,50"	Citation 18 covers a trial of 151 patients receiving Immunotherapy based on insights from NGS from Foundation Medicine.		1
+A011	sulindac	Preclinical		0	NSAID	1	"18,20,21,23,48,49,50"	"Citation 21 looks at overall response of sulindac within a disease context that eventually turns into colorectal cancer, caused by APC variants, and they found that sulindac did not prevent the disease progression to cancer. Citation 20 looked at the efficacy of sulindac in mice with apc mutants."		
+A011	azd8186		Preclinical	1	PI3K/AKT/mTOR inhibition					0
+A011	pictilisib		Preclinical	1	PI3K/AKT/mTOR inhibition					0
+A012	bevacizumab	Clinical trial		0	VEGF/VEGFR inhibition	1	"2,5,6"	Citations further look into efficacy of VEGF inhibition for TP53 mutants		
+A016	pembrolizumab	Clinical trial	Inferential	1	PD-1/PD-L1 inhibition	1	"18,51"	Citation 18 covers a trial of 151 patients receiving Immunotherapy based on insights from NGS from Foundation Medicine.		0
+A016	trametinib	Clinical evidence		0	MEK inhibition	1	"18,51"	Citation 51 is a case report for report sensitivity of trametinib in a patient with an activating GNAS variant. 		
+A016	danusertib		Preclinical	0	Aurora kinase inhibition					0
+A016	pictilisib		Preclinical	0	PI3K/AKT/mTOR inhibition					1
+A016	bortezomib		Preclinical	0	Proteasome inhibition					0
+A016	chemotherapy		Inferential	0	Chemotherapy					0
+A018	pembrolizumab	Clinical trial	Inferential	1	PD-1/PD-L1 inhibition	1	18			1
+A018	chemotherapy		Inferential	0	Chemotherapy					1
+A021	everolimus	Clinical trial		1	PI3K/AKT/mTOR inhibition	1	"23,52"	Citation 23 is a review of targeting PI3K/AKT/mTOR and Table 3 shows a clinical trial which is testing everolimus in neuroendrocrine tumors for variants in PI3K/AKT/mTOR. This patient has breast cancer.	mtor	
+A021	exemestane	Citation listed not applicable		0	ER signaling inhibition	1	"23,52"	Citations discuss PI3K/AKT/mTOR and pazopanib. Will categorize as Guideline for this HER2 inhibition instead of citation listed not applicable.		
+A021	pazopanib	Clinical trial		0	VEGF/VEGFR inhibition	1	"23,52"	Citation 52 is a review that discusses trial and preclinical efficacy of pazopanib as a VEGF/VEGFR inhibitor		
+A021	azd8186		Preclinical	1	PI3K/AKT/mTOR inhibition				pi3k	0
+A021	infigratinib		Preclinical	0	FGFR inhibition					0
+A021	pictilisib		Preclinical	1	PI3K/AKT/mTOR inhibition				pi3k	1
+A024	everolimus	Clinical trial		1	PI3K/AKT/mTOR inhibition	1	"16,17,23"	Citation 23 is a review of targeting PI3K/AKT/mTOR and Table 3 shows a clinical trial which is testing everolimus in neuroendrocrine tumors for variants in PI3K/AKT/mTOR. This patient has breast cancer.		
+A024	pazopanib	Clinical trial		0	VEGF/VEGFR inhibition	1	"16,17,23"	"Citation 52 is a review that discusses trial and preclinical efficacy of pazopanib as a VEGF/VEGFR inhibitor. 16, 17 discuss lenvatinib."		
+A024	pictilisib		Preclinical	1	PI3K/AKT/mTOR inhibition					0
+A024	bay 1895344		Clinical trial	0	ATR inhibition					1
+A024	nutlin-3		Preclinical	0	MDM2-p53 inhibition					0
+A024	infigratinib		Preclinical	0	FGFR inhibition					0
+A026	everolimus	Clinical trial		1	PI3K/AKT/mTOR inhibition	1	"4,23"	Citation 23 is a review of targeting PI3K/AKT/mTOR and Table 3 shows a clinical trial which is testing everolimus in neuroendrocrine tumors for variants in PI3K/AKT/mTOR.		
+A026	trametinib	Clinical trial		0	MEK inhibition	1	"4,23"	Citation 4 describes targeting KRAS indirectly by targeting MEK1/2 with selumetinib and trametinib in phase 2 and 3 trials		
+A026	amg 510		Clinical trial	0	targets KRAS G12C					1
+A026	pictilisib		Preclinical	1	PI3K/AKT/mTOR inhibition					0
+A032	cetuximab	Preclinical	FDA-Approved	1	EGFR inhibition	1	"11,12,13,14,15,38,53,54,55,56,57,58"	Citation 38 investigates the association between EGFR inhibition and loss of SMAD4		1
+A032	dabrafenib	Clinical trial		1	BRAF inhibition	1	"11,12,13,14,15,38,53,54,55,56,57,58"	Citations investigate BRAF/MEK inhibition for V600E variants		
+A032	trametinib	Clinical trial		1	MEK inhibition	1	"11,12,13,14,15,38,53,54,55,56,57,58"	Citations investigate BRAF/MEK inhibition for V600E variants		
+A032	encorafenib		FDA-Approved	1	BRAF inhibition					1
+A033	cabozantinib	Clinical trial		0	VEGF/VEGFR inhibition	1	"2,5,6"	"Cabozantinib also functions as a VEGF/VEGFR inhibitor, citations further explore efficacy of such a strategy for TP53 variants"		
+A033	rucaparib		Preclinical	0	PARP inhibition					1
+A034	everolimus	Clinical trial		0	PI3K/AKT/mTOR inhibition	1	"2,47"	Citation 2 describes clinical trials of CDK4 inhibitors. The citation also discusses a trial in breast cancer that is looking at combination mTOR inhibition along with CDK4 inhibition.		
+A034	fulvestrant	Preclinical		0	ER signaling inhibition	1	"2,47"	"Citation 47 describes landscape of ESR1 variants with metastatic breast cancer and further interrogated the sensitivity of this therapy with p.D538G, observed in this patient, in a preclinical setting."		
+A034	palbociclib	Clinical trial	Inferential	0	CDK4/6 inhibition	1	"2,47"	Citation 2 describes clinical trials of CDK4 inhibitors		0
+A034	pazopanib	Citation listed not applicable		0	VEGF/VEGFR inhibition	1	"2,47"	"Unable to find any notes about pazopanib, VEGF/VEGFR, or FGFs in these citations"		
+A034	danusertib		Preclinical	0	Aurora kinase inhibition					1
+A035	atezolizumab	Clinical evidence		0	PD-1/PD-L1 inhibition	1	"2,5,6,16,17,18"	"This seems to be made based on citation 18's citation 27, an ESMO (https://www.annalsofoncology.org/article/S0923-7534(19)43709-5/fulltext) poster that retrospectively looked at this relationship in NSCLC using foundation medicine data from a trial"		
+A035	lenvatinib	Preclinical		1	RET inhibition	1	"2,5,6,16,17,18"	"Citations 16, 17 look at lenvatinib in particular in a preclinical setting for VEGF inhibition of TP53 mutants. Citation 16 also notes that there is preclinical evidence of the RET inhibition relationship."		
+A035	selpercatinib		FDA-Approved	1	RET inhibition					1
+A037	nivolumab	Clinical trial		0	PD-1/PD-L1 inhibition	1	"4,18"	Citation 18 covers a trial of 151 patients receivig Immunotherapy based on insights from NGS from Foudation Medicine.		
+A037	trametinib	Clinical trial		0	MEK inhibition	1	"4,18"	Citation 4 describes targeting KRAS indirectly by targeting MEK1/2 with selumetinib and trametinib in phase 2 and 3 trials		
+A037	epz015666		Preclinical	0	PRMT5 inhibition					0
+A037	azacitidine		Guideline	0	Hypomethylating agent chemotherapy					1
+A037	amg 510		Clinical trial	0	targets KRAS G12C					0
+A038	bevacizumab	Clinical trial		0	VEGF/VEGFR inhibition	1	"2,5,6"	Citations further look into efficacy of VEGF inhibition for TP53 mutants		
+A038	bortezomib		Preclinical	0	Proteasome inhibition					1
+A040	bevacizumab	No citation		0	VEGF/VEGFR inhibition	0	Not applicable			
+A040	gefitinib		Clinical evidence	0	EGFR inhibition					0
+A040	osimertinib		FDA-Approved	0	EGFR inhibition					1
+A041	anastrozole	Clinical trial		1	ER signaling inhibition	1	"7,8,9,10"			
+A041	trastuzumab	Clinical trial		1	ER signaling inhibition	1	"7,8,9,10"	"Citations look at combination of pertuzumab with trastuzumab for HER2 inhibition, strongest evidence is from the Mypathway basket study."		
+A041	neratinib		Clinical evidence	1	ER signaling inhibition					0
+A041	ado-trastuzumab emtansine		FDA-Approved	1	ER signaling inhibition					1
+A042	irinotecan	No citation		0	Antineoplastic	0	Not applicable			
+A042	bevacizumab	No citation		0	VEGF/VEGFR inhibition	0	Not applicable			
+A042	denosumab	No citation		0	RANKL inhibition	0	Not applicable			
+A042	bay 1895344		Clinical trial	0	ATR inhibition					0
+A042	cetuximab		FDA-Approved	0	EGFR inhibition					1
+A042	encorafenib		FDA-Approved	0	BRAF inhibition					1
+A043	afatinib	Citation listed not applicable		1	ER signaling inhibition	1	"4,20,21"	"Citation 4 describes targeting KRAS indirectly by targeting MEK1/2 with selumetinib and trametinib in phase 2 and 3 trials and citations 20, 21 are regarding sunlindac. "	TKI	
+A043	sulindac	Preclinical		0	NSAID	1	"4,20,21"	"Citation 21 looks at overall response of sulindac within a disease context that eventually turns into colorectal cancer, caused by APC variants, and they found that sulindac did not prevent the disease progression to cancer. Citation 20 looked at the efficacy of sulindac in mice with apc mutants."		
+A043	trametinib	Clinical trial		0	MEK inhibition	1	"4,20,21"	Citation 4 describes targeting KRAS indirectly by targeting MEK1/2 with selumetinib and trametinib in phase 2 and 3 trials		
+A043	neratinib		Clinical evidence	1	ER signaling inhibition				TKI	0
+A043	amg 510		Clinical trial	0	targets KRAS G12C					1
+A044	cyclophosphamide	No citation		0	Chemotherapy	0	Not applicable			
+A044	dacarbazine	No citation		0	Chemotherapy	0	Not applicable			
+A044	vincristine	No citation		0	Chemotherapy	0	Not applicable			
+A044	everolimus		Clinical evidence	0	PI3K/AKT/mTOR inhibition					1
+A045	bevacizumab	Clinical trial		0	VEGF/VEGFR inhibition	1	"2,5,6"	Citations further look into efficacy of VEGF inhibition for TP53 mutants		
+A045	trametinib	Clinical trial		0	MEK inhibition	1	"2,5,6"	"I think that the authors intended to include citation 4, giving the benefit of the doubt."		
+A045	amg 510		Clinical trial	0	targets KRAS G12C					1
+A045	epz015666		Preclinical	0	PRMT5 inhibition					0

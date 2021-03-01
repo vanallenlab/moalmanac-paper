@@ -1,0 +1,228 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Putatively Actionable			Putatively Actionable	Copy Number	RB1	Deletion		13	49033572	51523893.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		4	1	1	1	1	1	1
+Investigate Actionability		Investigate Actionability	Investigate Actionability	Somatic Variant	TP53	Frameshift	p.T211fs	17	7578217	7578218.0	GT	GT	-	0.6364	77.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-JMS734	Osteosarcoma-JMS734-Tumor-SM-2RCB6	Osteosarcoma-JMS734-Normal-SM-2RCCL	3	1	1	1	1	1	1
+Cancer Hotspot				Somatic Variant	FOXP1	Missense	p.L205P	3	71096143	71096143.0	A	A	G	0.0223	224.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-JMS734	Osteosarcoma-JMS734-Tumor-SM-2RCB6	Osteosarcoma-JMS734-Normal-SM-2RCCL	0	1	0	1	0	1	2
+Cancer Hotspot				Copy Number	CYSLTR2	Deletion		13	49033572	51523893.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	1	0	1	0	0	1
+Cancer Hotspot 3D				Copy Number	BTNL3	Deletion		5	180419563	180424738.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Rearrangement	SLIT2	Fusion	SLIT2--SLIT2-IT1	chr4	20270504							0.0	0.0		0	5.0	SLIT2	chr4	20270504.0	SLIT2-IT1	chr4	20394973.0					Osteosarcoma-JMS734			0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	PCDH15	Amplification		10	55581366	56367967.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	1	0	0	0	1
+Cancer Gene Census				Somatic Variant	PER1	Missense	p.H833Q	17	8047157	8047157.0	G	G	T	0.2481	133.0	0.0	0.0		0								30.0	0.3667	0.9493		Osteosarcoma-JMS734	Osteosarcoma-JMS734-Tumor-SM-2RCB6	Osteosarcoma-JMS734-Normal-SM-2RCCL	0	0	0	1	0	1	2
+Cancer Gene Census				Somatic Variant	CLP1	Missense	p.D8E	11	57426972	57426972.0	C	C	G	0.2973	37.0	0.0	0.0		0								5.0	0.4	0.0428		Osteosarcoma-JMS734	Osteosarcoma-JMS734-Tumor-SM-2RCB6	Osteosarcoma-JMS734-Normal-SM-2RCCL	0	0	0	1	0	1	2
+Cancer Gene Census				Somatic Variant	MUC16	Missense	p.T13644A	19	8997492	8997492.0	T	T	C	0.3492	126.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-JMS734	Osteosarcoma-JMS734-Tumor-SM-2RCB6	Osteosarcoma-JMS734-Normal-SM-2RCCL	0	0	0	1	0	1	1
+Cancer Gene Census				Somatic Variant	CHD4	Missense	p.V959L	12	6701623	6701623.0	C	C	A	0.0833	96.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-JMS734	Osteosarcoma-JMS734-Tumor-SM-2RCB6	Osteosarcoma-JMS734-Normal-SM-2RCCL	0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	BMP5	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	1	0	1	1
+Cancer Gene Census				Somatic Variant	CANT1	Frameshift	p.TLSD135fs	17	76993291	76993300.0	GTCTGACAGG	GTCTGACAGG	-	0.061	295.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-JMS734	Osteosarcoma-JMS734-Tumor-SM-2RCB6	Osteosarcoma-JMS734-Normal-SM-2RCCL	0	0	0	1	0	0	1
+Cancer Pathway				Somatic Variant	ITGA2	Missense	p.C299F	5	52351484	52351484.0	G	G	T	0.2349	166.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-JMS734	Osteosarcoma-JMS734-Tumor-SM-2RCB6	Osteosarcoma-JMS734-Normal-SM-2RCCL	0	0	0	0	1	1	2
+Cancer Pathway				Copy Number	MCM3	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	1	1	1
+Cancer Module				Somatic Variant	CSPG4	Missense	p.Q2292K	15	75967986	75967986.0	G	G	T	0.4	20.0	0.0	0.0		0								150.0	0.36	1.0		Osteosarcoma-JMS734	Osteosarcoma-JMS734-Tumor-SM-2RCB6	Osteosarcoma-JMS734-Normal-SM-2RCCL	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	APOB	Missense	p.L2624M	2	21231870	21231870.0	A	A	T	0.2771	83.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-JMS734	Osteosarcoma-JMS734-Tumor-SM-2RCB6	Osteosarcoma-JMS734-Normal-SM-2RCCL	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	AHDC1	Missense	p.A993V	1	27875649	27875649.0	G	G	A	0.0504	139.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-JMS734	Osteosarcoma-JMS734-Tumor-SM-2RCB6	Osteosarcoma-JMS734-Normal-SM-2RCCL	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	MPP4	Missense	p.T20R	2	202558619	202558619.0	G	G	C	0.2873	362.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-JMS734	Osteosarcoma-JMS734-Tumor-SM-2RCB6	Osteosarcoma-JMS734-Normal-SM-2RCCL	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ATP10B	Missense	p.L1236F	5	160016643	160016643.0	G	G	A	0.0562	89.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-JMS734	Osteosarcoma-JMS734-Tumor-SM-2RCB6	Osteosarcoma-JMS734-Normal-SM-2RCCL	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	FGA	Missense	p.Q156P	4	155508707	155508707.0	T	T	G	0.3696	46.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-JMS734	Osteosarcoma-JMS734-Tumor-SM-2RCB6	Osteosarcoma-JMS734-Normal-SM-2RCCL	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SYNE2	Missense	p.S6677F	14	64690067	64690067.0	C	C	T	0.2667	45.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-JMS734	Osteosarcoma-JMS734-Tumor-SM-2RCB6	Osteosarcoma-JMS734-Normal-SM-2RCCL	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	DLGAP2	Missense	p.R37W	8	1496968	1496968.0	C	C	T	0.3846	13.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-JMS734	Osteosarcoma-JMS734-Tumor-SM-2RCB6	Osteosarcoma-JMS734-Normal-SM-2RCCL	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	LRRC23	Frameshift	p.T202fs	12	7023167	7023167.0	A	A	-	0.2597	258.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-JMS734	Osteosarcoma-JMS734-Tumor-SM-2RCB6	Osteosarcoma-JMS734-Normal-SM-2RCCL	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	VPS39	Frameshift	p.S729fs	15	42454670	42454671.0	AC	AC	-	0.3333	72.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-JMS734	Osteosarcoma-JMS734-Tumor-SM-2RCB6	Osteosarcoma-JMS734-Normal-SM-2RCCL	0	0	0	0	0	1	1
+Cancer Module				Copy Number	LPA	Deletion		6	161032342	161067679.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RREB1	Amplification		6	7189140	8434872.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CLCNKA	Amplification		1	16350043	16359928.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GSTA2	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DSP	Amplification		6	7189140	8434872.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SETDB2	Deletion		13	49033572	51523893.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HCRTR2	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TINAG	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SSR1	Amplification		6	7189140	8434872.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	BMP6	Amplification		6	7189140	8434872.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TRIM13	Deletion		13	49033572	51523893.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GAS8	Deletion		16	90020399	90142066.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	AADAC	Deletion		3	151531699	151546212.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	HNF1B	Fusion	SYNRG--HNF1B	chr17	35956270							0.0	0.0		0	47.0	SYNRG	chr17	35956270.0	HNF1B	chr17	36047395.0					Osteosarcoma-JMS734			0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZFAND3	Amplification		6	38029117	38084767.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	C10orf10	Amplification		10	45423117	45800122.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNF22	Amplification		10	45423117	45800122.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	IL17A	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ICK	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GSTA4	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GSTA3	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PAQR8	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TRAM2	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TMEM14A	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GCM1	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GCLC	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ELOVL5	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TXNDC5	Amplification		6	7189140	8434872.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EEF1E1	Amplification		6	7189140	8434872.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GRAP	Deletion		17	18939019	19093808.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CDADC1	Deletion		13	49033572	51523893.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DLEU1	Deletion		13	49033572	51523893.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RCBTB2	Deletion		13	49033572	51523893.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	C16orf3	Deletion		16	90020399	90142066.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DBNDD1	Deletion		16	90020399	90142066.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	PTPN14	Fusion	PTPN14--TRAF3IP3	chr1	214724526							0.0	0.0		0	28.0	PTPN14	chr1	214724526.0	TRAF3IP3	chr1	209932379.0					Osteosarcoma-JMS734			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	TRAF3IP3	Fusion	PTPN14--TRAF3IP3	chr1	214724526							0.0	0.0		0	28.0	PTPN14	chr1	214724526.0	TRAF3IP3	chr1	209932379.0					Osteosarcoma-JMS734			0	0	0	0	0	1	1
+Cancer Module				Copy Number	DLEU2	Deletion		13	49033572	51523893.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	1	0
+Cosmic				Somatic Variant	METTL3	Missense	p.P491L	14	21967496	21967496.0	G	G	A	0.3377	151.0	0.0	0.0		0								124.0	0.3548	1.0		Osteosarcoma-JMS734	Osteosarcoma-JMS734-Tumor-SM-2RCB6	Osteosarcoma-JMS734-Normal-SM-2RCCL	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ZFP82	Missense	p.L465V	19	36883849	36883849.0	G	G	C	0.4074	54.0	0.0	0.0		0								5.0	0.6	0.1051		Osteosarcoma-JMS734	Osteosarcoma-JMS734-Tumor-SM-2RCB6	Osteosarcoma-JMS734-Normal-SM-2RCCL	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	DCST2	Missense	p.P2L	1	155006173	155006173.0	G	G	A	0.3478	115.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-JMS734	Osteosarcoma-JMS734-Tumor-SM-2RCB6	Osteosarcoma-JMS734-Normal-SM-2RCCL	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	PCDHGB3	Missense	p.K72N	5	140750177	140750177.0	G	G	T	0.2222	189.0	1.7e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-JMS734	Osteosarcoma-JMS734-Tumor-SM-2RCB6	Osteosarcoma-JMS734-Normal-SM-2RCCL	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	AP4M1	Missense	p.Q183H	7	99701720	99701720.0	A	A	C	0.2368	38.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-JMS734	Osteosarcoma-JMS734-Tumor-SM-2RCB6	Osteosarcoma-JMS734-Normal-SM-2RCCL	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	AIPL1	Missense	p.S347C	17	6328895	6328895.0	G	G	C	0.0197	254.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-JMS734	Osteosarcoma-JMS734-Tumor-SM-2RCB6	Osteosarcoma-JMS734-Normal-SM-2RCCL	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	TBX22	Missense	p.E409V	X	79286273	79286273.0	A	A	T	0.4853	136.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-JMS734	Osteosarcoma-JMS734-Tumor-SM-2RCB6	Osteosarcoma-JMS734-Normal-SM-2RCCL	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ZNF836	Missense	p.R818C	19	52658484	52658484.0	G	G	A	0.0211	190.0	1.6e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-JMS734	Osteosarcoma-JMS734-Tumor-SM-2RCB6	Osteosarcoma-JMS734-Normal-SM-2RCCL	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	EPC2	Missense	p.K629T	2	149541194	149541194.0	A	A	C	0.25	16.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-JMS734	Osteosarcoma-JMS734-Tumor-SM-2RCB6	Osteosarcoma-JMS734-Normal-SM-2RCCL	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	KCNMA1	Missense	p.P1110S	10	78647233	78647233.0	G	G	A	0.3247	77.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-JMS734	Osteosarcoma-JMS734-Tumor-SM-2RCB6	Osteosarcoma-JMS734-Normal-SM-2RCCL	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	GAL3ST4	Missense	p.R422C	7	99757748	99757748.0	G	G	A	0.2667	120.0	2.5e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-JMS734	Osteosarcoma-JMS734-Tumor-SM-2RCB6	Osteosarcoma-JMS734-Normal-SM-2RCCL	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ZNF836	Frameshift	p.R714fs	19	52658794	52658795.0	TC	TC	-	0.5455	33.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-JMS734	Osteosarcoma-JMS734-Tumor-SM-2RCB6	Osteosarcoma-JMS734-Normal-SM-2RCCL	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	KIAA1324L	Missense	p.G96D	7	86569385	86569385.0	C	C	T	0.2437	119.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-JMS734	Osteosarcoma-JMS734-Tumor-SM-2RCB6	Osteosarcoma-JMS734-Normal-SM-2RCCL	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	CDH7	Missense	p.D474Y	18	63526208	63526208.0	G	G	T	0.0566	53.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-JMS734	Osteosarcoma-JMS734-Tumor-SM-2RCB6	Osteosarcoma-JMS734-Normal-SM-2RCCL	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	DIP2A	Missense	p.R990C	21	47971767	47971767.0	C	C	T	0.2917	24.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-JMS734	Osteosarcoma-JMS734-Tumor-SM-2RCB6	Osteosarcoma-JMS734-Normal-SM-2RCCL	0	0	0	0	0	0	1
+Cosmic				Copy Number	PKHD1	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MLIP	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM90A1	Amplification		12	8374166	8377058.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GSTA5	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GFRAL	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C10orf25	Amplification		10	45423117	45800122.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KLHL31	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CAGE1	Amplification		6	7189140	8434872.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RCBTB1	Deletion		13	49033572	51523893.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRDM7	Deletion		16	90020399	90142066.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR13A1	Amplification		10	45423117	45800122.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RASSF4	Amplification		10	45423117	45800122.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM72	Amplification		10	45423117	45800122.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IL17F	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	HMGCLL1	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRRC1	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GSTA1	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	COL21A1	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FBXO9	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM83B	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	EFHC1	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RIOK1	Amplification		6	7189140	8434872.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SNRNP48	Amplification		6	7189140	8434872.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC35B3	Amplification		6	7189140	8434872.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF492	Amplification		19	22846352	22939660.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF99	Amplification		19	22846352	22939660.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GRAPL	Deletion		17	18939019	19093808.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CAB39L	Deletion		13	49033572	51523893.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SPRYD7	Deletion		13	49033572	51523893.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ARL11	Deletion		13	49033572	51523893.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DLEU7	Deletion		13	49033572	51523893.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RNASEH2B	Deletion		13	49033572	51523893.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MLNR	Deletion		13	49033572	51523893.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PHF11	Deletion		13	49033572	51523893.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KPNA3	Deletion		13	49033572	51523893.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KCNRG	Deletion		13	49033572	51523893.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FNDC3A	Deletion		13	49033572	51523893.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	EBPL	Deletion		13	49033572	51523893.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SPIRE2	Deletion		16	89934345	89967454.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TCF25	Deletion		16	89934345	89967454.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZDHHC7	Deletion		16	85009697	85024476.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CENPBD1	Deletion		16	90020399	90142066.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DEF8	Deletion		16	90020399	90142066.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	SYNRG	Fusion	SYNRG--HNF1B	chr17	35956270							0.0	0.0		0	47.0	SYNRG	chr17	35956270.0	HNF1B	chr17	36047395.0					Osteosarcoma-JMS734			0	0	0	0	0	0	1
+Cosmic				Rearrangement	SAMD5	Fusion	SAMD5--RP11-307P5.1	chr6	147830523							0.0	0.0		0	5.0	SAMD5	chr6	147830523.0	RP11-307P5.1	chr6	148054865.0					Osteosarcoma-JMS734			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND6	Fusion	MT-ND6--MT-TE	chrM	14616							0.0	0.0		0	8.0	MT-ND6	chrM	14616.0	MT-TE	chrM	14711.0					Osteosarcoma-JMS734			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND6	Fusion	MT-ND6--MT-ND5	chrM	14319							0.0	0.0		0	11.0	MT-ND6	chrM	14319.0	MT-ND5	chrM	14097.0					Osteosarcoma-JMS734			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4	Fusion	MT-ND4--MT-ND4L	chrM	11044							0.0	0.0		0	14.0	MT-ND4	chrM	11044.0	MT-ND4L	chrM	10752.0					Osteosarcoma-JMS734			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-ATP6--MT-ATP8	chrM	8675							0.0	0.0		0	24.0	MT-ATP6	chrM	8675.0	MT-ATP8	chrM	8457.0					Osteosarcoma-JMS734			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND5	Fusion	MT-ND6--MT-ND5	chrM	14319							0.0	0.0		0	11.0	MT-ND6	chrM	14319.0	MT-ND5	chrM	14097.0					Osteosarcoma-JMS734			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4L	Fusion	MT-ND4--MT-ND4L	chrM	11044							0.0	0.0		0	14.0	MT-ND4	chrM	11044.0	MT-ND4L	chrM	10752.0					Osteosarcoma-JMS734			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP8	Fusion	MT-ATP6--MT-ATP8	chrM	8675							0.0	0.0		0	24.0	MT-ATP6	chrM	8675.0	MT-ATP8	chrM	8457.0					Osteosarcoma-JMS734			0	0	0	0	0	0	1
+VUS				Somatic Variant	FOCAD	Missense	p.T1688N	9	20990180	20990180.0	C	C	A	0.5833	60.0	0.0	0.0		0								30.0	0.7667	1.0		Osteosarcoma-JMS734	Osteosarcoma-JMS734-Tumor-SM-2RCB6	Osteosarcoma-JMS734-Normal-SM-2RCCL	0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-687P	Amplification		10	55581366	56367967.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC013737.1	Amplification		10	55581366	56367967.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-257I14.1	Amplification		10	55581366	56367967.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR548F1	Amplification		10	55581366	56367967.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-445N18.5	Amplification		10	45423117	45800122.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-445N18.7	Amplification		10	45423117	45800122.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-285G1.14	Amplification		10	45423117	45800122.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3156-1	Amplification		10	45423117	45800122.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-285G1.9	Amplification		10	45423117	45800122.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	RSU1P2	Amplification		10	45423117	45800122.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	CEP164P1	Amplification		10	45423117	45800122.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1207P	Amplification		10	45423117	45800122.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	TMEM72-AS1	Amplification		10	45423117	45800122.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SK	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-124I4.2	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP256	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU1-136P	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR133B	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR133BHG	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-27K12.4	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR206	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1023P	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-27K12.2	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR5685	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	MLIP-AS1	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	MLIP-IT1	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-464P	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-214M20.2	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-152L7.5	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-411K7.1	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-345L23.1	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-79N23.1	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	TRAM2-AS1	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL590391.1	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL591034.1	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-523K23.2	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-483K16.4	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-335N17.2	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP13-476E20.1	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-523E19.2	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL244P	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-524H19.2	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-506E9.3	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL580P	Amplification		6	51483627	56045177.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	BLOC1S5	Amplification		6	7189140	8434872.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	BLOC1S5-TXNDC5	Amplification		6	7189140	8434872.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-69L16.4	Amplification		6	7189140	8434872.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	EEF1E1-BLOC1S5	Amplification		6	7189140	8434872.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-512B11.3	Amplification		6	7189140	8434872.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-203H2.2	Amplification		6	7189140	8434872.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-203H2.1	Amplification		6	7189140	8434872.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-457E21.9	Amplification		19	22846352	22939660.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-266K4.1	Amplification		12	8374166	8377058.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-160E2.11	Deletion		17	18939019	19093808.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD3D	Deletion		17	18939019	19093808.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD3B-1	Deletion		17	18939019	19093808.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD3B-2	Deletion		17	18939019	19093808.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-160E2.21	Deletion		17	18939019	19093808.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-160E2.19	Deletion		17	18939019	19093808.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-160E2.17	Deletion		17	18939019	19093808.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD3C	Deletion		17	18939019	19093808.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC007952.1	Deletion		17	18939019	19093808.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-457L16.2	Deletion		17	18939019	19093808.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC007952.6	Deletion		17	18939019	19093808.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC007952.5	Deletion		17	18939019	19093808.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC007952.4	Deletion		17	18939019	19093808.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD3A	Deletion		17	18939019	19093808.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP28	Deletion		13	49033572	51523893.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL161421.1	Deletion		13	49033572	51523893.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL138696.1	Deletion		13	49033572	51523893.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL137118.1	Deletion		13	49033572	51523893.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL136218.1	Deletion		13	49033572	51523893.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL136123.1	Deletion		13	49033572	51523893.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00462	Deletion		13	49033572	51523893.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY3P2	Deletion		13	49033572	51523893.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-60P	Deletion		13	49033572	51523893.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3613	Deletion		13	49033572	51523893.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR16-1	Deletion		13	49033572	51523893.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-175B12.2	Deletion		13	49033572	51523893.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01077	Deletion		13	49033572	51523893.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY4P9	Deletion		13	49033572	51523893.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	DLEU7-AS1	Deletion		13	49033572	51523893.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNASEH2B-AS1	Deletion		13	49033572	51523893.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY4P30	Deletion		13	49033572	51523893.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-566K11.5	Deletion		16	90020399	90142066.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	AFG3L1P	Deletion		16	90020399	90142066.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Copy Number	URAHP	Deletion		16	90020399	90142066.0						0.0	0.0		0												Osteosarcoma-JMS734	JMS734_T		0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-96H19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	5.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	47046173.0					Osteosarcoma-JMS734			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-739L10.1	Fusion	RP11-739L10.1--RP11-370A5.1	chr18	20500725							0.0	0.0		0	15.0	RP11-739L10.1	chr18	20500725.0	RP11-370A5.1	chr18	20366821.0					Osteosarcoma-JMS734			0	0	0	0	0	0	0
+VUS				Rearrangement	RP1-34H18.1	Fusion	RP1-34H18.1--RP11-781A6.1	chr12	77966046							0.0	0.0		0	12.0	RP1-34H18.1	chr12	77966046.0	RP11-781A6.1	chr12	78177043.0					Osteosarcoma-JMS734			0	0	0	0	0	0	0
+VUS				Rearrangement	SLIT2-IT1	Fusion	SLIT2--SLIT2-IT1	chr4	20270504							0.0	0.0		0	5.0	SLIT2	chr4	20270504.0	SLIT2-IT1	chr4	20394973.0					Osteosarcoma-JMS734			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-307P5.1	Fusion	SAMD5--RP11-307P5.1	chr6	147830523							0.0	0.0		0	5.0	SAMD5	chr6	147830523.0	RP11-307P5.1	chr6	148054865.0					Osteosarcoma-JMS734			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-446N19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	5.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	47046173.0					Osteosarcoma-JMS734			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-370A5.1	Fusion	RP11-739L10.1--RP11-370A5.1	chr18	20500725							0.0	0.0		0	15.0	RP11-739L10.1	chr18	20500725.0	RP11-370A5.1	chr18	20366821.0					Osteosarcoma-JMS734			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-781A6.1	Fusion	RP1-34H18.1--RP11-781A6.1	chr12	77966046							0.0	0.0		0	12.0	RP1-34H18.1	chr12	77966046.0	RP11-781A6.1	chr12	78177043.0					Osteosarcoma-JMS734			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TE	Fusion	MT-ND6--MT-TE	chrM	14616							0.0	0.0		0	8.0	MT-ND6	chrM	14616.0	MT-TE	chrM	14711.0					Osteosarcoma-JMS734			0	0	0	0	0	0	0

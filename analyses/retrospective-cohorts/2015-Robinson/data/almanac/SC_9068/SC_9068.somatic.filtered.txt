@@ -167,6 +167,7 @@ Copy Number	ZNF816			19	52149315	54746188.0														SC_9068	SC_9068-Tumor		
 Copy Number	ZNF815P			7	195732	5923632.0														SC_9068	SC_9068-Tumor		0
 Copy Number	ZNF814			19	55365503	58921460.0														SC_9068	SC_9068-Tumor		0
 Copy Number	ZNF813			19	52149315	54746188.0														SC_9068	SC_9068-Tumor		0
+Somatic Variant	ZNF812	Silent	p.T203T	19	9801570	9801570.0	A	A	T	0.24	50.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	ZNF812			19	5700940	29699067.0														SC_9068	SC_9068-Tumor		0
 Copy Number	ZNF81			X	11133108	49217854.0														SC_9068	SC_9068-Tumor		0
 Copy Number	ZNF808			19	52149315	54746188.0														SC_9068	SC_9068-Tumor		0
@@ -255,7 +256,6 @@ Copy Number	ZNF702P			19	52149315	54746188.0														SC_9068	SC_9068-Tumor	
 Copy Number	ZNF701			19	52149315	54746188.0														SC_9068	SC_9068-Tumor		0
 Copy Number	ZNF700			19	5700940	29699067.0														SC_9068	SC_9068-Tumor		0
 Copy Number	ZNF70			22	23011278	25010875.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	ZNF7	IGR		8	146067385	146067385.0	G	G	C	0.098	296.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	ZNF7			8	145107803	146279545.0														SC_9068	SC_9068-Tumor		0
 Copy Number	ZNF699			19	5700940	29699067.0														SC_9068	SC_9068-Tumor		0
 Copy Number	ZNF697			1	25629952	173941767.0														SC_9068	SC_9068-Tumor		0
@@ -662,7 +662,7 @@ Copy Number	ZNF14			19	5700940	29699067.0														SC_9068	SC_9068-Tumor		0
 Copy Number	ZNF138			7	57188861	72399005.0														SC_9068	SC_9068-Tumor		0
 Copy Number	ZNF137P			19	52149315	54746188.0														SC_9068	SC_9068-Tumor		0
 Copy Number	ZNF136			19	5700940	29699067.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	ZNF135	Silent	p.G430G	19	58579268	58579268.0	G	G	T	0.172	279.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
+Somatic Variant	ZNF135	Silent	p.G472G	19	58579268	58579268.0	G	G	T	0.172	279.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	ZNF135			19	55365503	58921460.0														SC_9068	SC_9068-Tumor		0
 Copy Number	ZNF134			19	55365503	58921460.0														SC_9068	SC_9068-Tumor		0
 Copy Number	ZNF133			20	68410	23966001.0														SC_9068	SC_9068-Tumor		0
@@ -1107,7 +1107,6 @@ Copy Number	XKR3			22	16282318	22989353.0														SC_9068	SC_9068-Tumor		0
 Copy Number	XK			X	11133108	49217854.0														SC_9068	SC_9068-Tumor		0
 Copy Number	XIST			X	49364863	140096955.0														SC_9068	SC_9068-Tumor		0
 Copy Number	XIRP2-AS1			2	163693279	175986270.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	XIRP2	Intron		2	168101959	168101959.0	C	C	A	0.1324	340.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	XIRP2			2	163693279	175986270.0														SC_9068	SC_9068-Tumor		0
 Copy Number	XIRP1			3	28361122	49720777.0														SC_9068	SC_9068-Tumor		0
 Copy Number	XIAP-AS1			X	49364863	140096955.0														SC_9068	SC_9068-Tumor		0
@@ -1505,7 +1504,6 @@ Copy Number	VAMP2			17	5050491	15554925.0														SC_9068	SC_9068-Tumor		0
 Copy Number	VAMP1			12	5941769	7067238.0														SC_9068	SC_9068-Tumor		0
 Copy Number	VAC14-AS1			16	70218528	71898953.0														SC_9068	SC_9068-Tumor		0
 Copy Number	VAC14			16	70218528	71898953.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	Unknown	IGR		14	106579123	106579123.0	C	C	G	0.4318	44.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	UXT			X	11133108	49217854.0														SC_9068	SC_9068-Tumor		0
 Copy Number	UXS1			2	90060995	107460435.0														SC_9068	SC_9068-Tumor		0
 Copy Number	UVSSA			4	53385	30732412.0														SC_9068	SC_9068-Tumor		0
@@ -1514,7 +1512,7 @@ Copy Number	UTY			Y	4925502	20298351.0														SC_9068	SC_9068-Tumor		0
 Copy Number	UTS2R			17	51902418	81052322.0														SC_9068	SC_9068-Tumor		0
 Copy Number	UTS2B			3	154802118	195622289.0														SC_9068	SC_9068-Tumor		0
 Copy Number	UTS2			1	1417685	12942258.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	UTRN	Intron		6	144803195	144803214.0	ACTGTTACCTAAATAATGTT	ACTGTTACCTAAATAATGTT	-	0.254	63.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
+Somatic Variant	UTRN	Intron		6	144803195	144803214.0	ACTGTTACCTAAATAATGTT	ACTGTTACCTAAATAATGTT	-	0.2909	55.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	UTRN			6	35773861	148761545.0														SC_9068	SC_9068-Tumor		0
 Copy Number	UTP6			17	27939574	31039215.0														SC_9068	SC_9068-Tumor		0
 Copy Number	UTP3			4	70346630	95585220.0														SC_9068	SC_9068-Tumor		0
@@ -1809,7 +1807,6 @@ Copy Number	UBE2V1			20	30115387	62904955.0														SC_9068	SC_9068-Tumor		
 Copy Number	UBE2U			1	25629952	173941767.0														SC_9068	SC_9068-Tumor		0
 Copy Number	UBE2T			1	190068266	205632748.0														SC_9068	SC_9068-Tumor		0
 Copy Number	UBE2S			19	55365503	58921460.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	UBE2R2	Intron		9	33911958	33911958.0	C	C	G	0.1342	231.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	UBE2R2			9	26842647	39177501.0														SC_9068	SC_9068-Tumor		0
 Copy Number	UBE2QL1			5	3600797	6755060.0														SC_9068	SC_9068-Tumor		0
 Copy Number	UBE2Q2P3			15	81429091	83791632.0														SC_9068	SC_9068-Tumor		0
@@ -1976,7 +1973,6 @@ Copy Number	TUBE1			6	35773861	148761545.0														SC_9068	SC_9068-Tumor		0
 Copy Number	TUBD1			17	51902418	81052322.0														SC_9068	SC_9068-Tumor		0
 Copy Number	TUBBP1			8	19177241	36793438.0														SC_9068	SC_9068-Tumor		0
 Copy Number	TUBB8			10	94056	11060126.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	TUBB6	3'UTR		18	12329588	12329588.0	G	G	A	0.5562	160.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	TUBB6			18	12262970	22057528.0														SC_9068	SC_9068-Tumor		0
 Copy Number	TUBB4B			9	117087434	141016451.0														SC_9068	SC_9068-Tumor		0
 Copy Number	TUBB4A			19	5700940	29699067.0														SC_9068	SC_9068-Tumor		0
@@ -2161,7 +2157,6 @@ Copy Number	TSPAN19			12	76447691	88548166.0														SC_9068	SC_9068-Tumor	
 Copy Number	TSPAN18			11	43702539	49214448.0														SC_9068	SC_9068-Tumor		0
 Copy Number	TSPAN17			5	138661353	180795228.0														SC_9068	SC_9068-Tumor		0
 Copy Number	TSPAN16			19	5700940	29699067.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	TSPAN14	Intron		10	82264478	82264478.0	G	G	A	0.7869	352.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	TSPAN14			10	81272870	82403839.0														SC_9068	SC_9068-Tumor		0
 Copy Number	TSPAN13			7	15652238	38313249.0														SC_9068	SC_9068-Tumor		0
 Copy Number	TSPAN12			7	102307713	142251137.0														SC_9068	SC_9068-Tumor		0
@@ -2399,7 +2394,6 @@ Copy Number	TRDD3			14	22739902	22935569.0														SC_9068	SC_9068-Tumor		0
 Copy Number	TRDD2			14	22739902	22935569.0														SC_9068	SC_9068-Tumor		0
 Copy Number	TRDD1			14	22739902	22935569.0														SC_9068	SC_9068-Tumor		0
 Copy Number	TRDC			14	22739902	22935569.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	TRBV9	RNA		7	142239537	142239537.0	C	C	A	0.1814	397.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	TRBV9			7	102307713	142251137.0														SC_9068	SC_9068-Tumor		0
 Copy Number	TRBV7-8			7	102307713	142251137.0														SC_9068	SC_9068-Tumor		0
 Copy Number	TRBV7-7			7	102307713	142251137.0														SC_9068	SC_9068-Tumor		0
@@ -3699,7 +3693,6 @@ Copy Number	TAF8			6	35773861	148761545.0														SC_9068	SC_9068-Tumor		0
 Copy Number	TAF7L			X	49364863	140096955.0														SC_9068	SC_9068-Tumor		0
 Copy Number	TAF7			5	138661353	180795228.0														SC_9068	SC_9068-Tumor		0
 Copy Number	TAF6L			11	61018755	134257555.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	TAF6	IGR		7	99704270	99704270.0	G	G	T	0.0547	311.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	TAF6			7	74212606	102234691.0														SC_9068	SC_9068-Tumor		0
 Copy Number	TAF5L			1	224318285	248722774.0														SC_9068	SC_9068-Tumor		0
 Copy Number	TAF5			10	103827561	124358613.0														SC_9068	SC_9068-Tumor		0
@@ -3783,7 +3776,6 @@ Copy Number	SYNPR-AS1			3	53882717	86114882.0														SC_9068	SC_9068-Tumor
 Copy Number	SYNPR			3	53882717	86114882.0														SC_9068	SC_9068-Tumor		0
 Copy Number	SYNPO2			4	98480270	151203800.0														SC_9068	SC_9068-Tumor		0
 Copy Number	SYNPO			5	138661353	180795228.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	SYNM	Intron		15	99672905	99672905.0	C	C	T	0.4539	586.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	SYNM			15	94841961	102463264.0														SC_9068	SC_9068-Tumor		0
 Copy Number	SYNJ2BP-COX16			14	52907444	106791309.0														SC_9068	SC_9068-Tumor		0
 Copy Number	SYNJ2BP			14	52907444	106791309.0														SC_9068	SC_9068-Tumor		0
@@ -4336,7 +4328,6 @@ Copy Number	SPATS2L			2	179669371	202323589.0														SC_9068	SC_9068-Tumor
 Copy Number	SPATS2			12	46596874	50059992.0														SC_9068	SC_9068-Tumor		0
 Copy Number	SPATS1			6	35773861	148761545.0														SC_9068	SC_9068-Tumor		0
 Copy Number	SPATC1L			21	39817546	48083468.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	SPATC1	Intron		8	145101520	145101520.0	C	C	T	0.0224	223.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	SPATC1			8	130874582	145106373.0														SC_9068	SC_9068-Tumor		0
 Copy Number	SPATA9			5	75969416	115827526.0														SC_9068	SC_9068-Tumor		0
 Copy Number	SPATA8-AS1			15	94841961	102463264.0														SC_9068	SC_9068-Tumor		0
@@ -5451,7 +5442,7 @@ Copy Number	SLC24A2			9	15874663	21481695.0														SC_9068	SC_9068-Tumor		
 Copy Number	SLC24A1			15	57565462	72947162.0														SC_9068	SC_9068-Tumor		0
 Copy Number	SLC23A3			2	219679755	230634043.0														SC_9068	SC_9068-Tumor		0
 Copy Number	SLC23A2			20	68410	23966001.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	SLC23A1	Silent	p.D429D	5	138713945	138713945.0	G	G	A	0.1643	140.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
+Somatic Variant	SLC23A1	Silent	p.D425D	5	138713945	138713945.0	G	G	A	0.1643	140.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	SLC23A1			5	138661353	180795228.0														SC_9068	SC_9068-Tumor		0
 Copy Number	SLC22A9			11	61018755	134257555.0														SC_9068	SC_9068-Tumor		0
 Copy Number	SLC22A8			11	61018755	134257555.0														SC_9068	SC_9068-Tumor		0
@@ -5465,8 +5456,6 @@ Copy Number	SLC22A25			11	61018755	134257555.0														SC_9068	SC_9068-Tumo
 Copy Number	SLC22A24			11	61018755	134257555.0														SC_9068	SC_9068-Tumor		0
 Copy Number	SLC22A23			6	3273648	29599378.0														SC_9068	SC_9068-Tumor		0
 Copy Number	SLC22A20			11	61018755	134257555.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	SLC22A2	Intron		6	160638539	160638539.0	A	A	T	0.2098	205.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
-Somatic Variant	SLC22A2	Intron		6	160638540	160638540.0	G	G	T	0.2157	204.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	SLC22A2			6	158532536	161530948.0														SC_9068	SC_9068-Tumor		0
 Copy Number	SLC22A18AS			11	802092	3061163.0														SC_9068	SC_9068-Tumor		0
 Copy Number	SLC22A18			11	802092	3061163.0														SC_9068	SC_9068-Tumor		0
@@ -5563,7 +5552,7 @@ Copy Number	SKP2			5	35628666	37480091.0														SC_9068	SC_9068-Tumor		0
 Copy Number	SKP1			5	131303723	133948448.0														SC_9068	SC_9068-Tumor		0
 Copy Number	SKOR2			18	22669546	56010335.0														SC_9068	SC_9068-Tumor		0
 Copy Number	SKOR1			15	57565462	72947162.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	SKIV2L2	Intron		5	54719058	54719088.0	ATATAGTGAACAAAAAGACACCCCTGCCTTC	ATATAGTGAACAAAAAGACACCCCTGCCTTC	-	0.2222	45.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
+Somatic Variant	SKIV2L2	Intron		5	54719058	54719088.0	ATATAGTGAACAAAAAGACACCCCTGCCTTC	ATATAGTGAACAAAAAGACACCCCTGCCTTC	-	0.1818	55.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	SKIV2L2			5	53752074	58289292.0														SC_9068	SC_9068-Tumor		0
 Copy Number	SKIV2L			6	31838826	31947332.0														SC_9068	SC_9068-Tumor		0
 Copy Number	SKINTL			1	25629952	173941767.0														SC_9068	SC_9068-Tumor		0
@@ -8032,6 +8021,7 @@ Copy Number	RP11-849H4.4			11	61018755	134257555.0														SC_9068	SC_9068-
 Copy Number	RP11-849H4.2			11	61018755	134257555.0														SC_9068	SC_9068-Tumor		0
 Copy Number	RP11-849F2.9			17	5050491	15554925.0														SC_9068	SC_9068-Tumor		0
 Copy Number	RP11-849F2.8			17	5050491	15554925.0														SC_9068	SC_9068-Tumor		0
+Somatic Variant	RP11-849F2.7	Intron		17	8281143	8281143.0	A	A	-	0.5745	47.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	RP11-849F2.7			17	5050491	15554925.0														SC_9068	SC_9068-Tumor		0
 Copy Number	RP11-849F2.5			17	5050491	15554925.0														SC_9068	SC_9068-Tumor		0
 Copy Number	RP11-849F2.4			17	5050491	15554925.0														SC_9068	SC_9068-Tumor		0
@@ -10260,7 +10250,6 @@ Copy Number	RP11-501J20.2			10	103827561	124358613.0														SC_9068	SC_906
 Copy Number	RP11-501E14.1			4	98480270	151203800.0														SC_9068	SC_9068-Tumor		0
 Copy Number	RP11-501C14.6			17	46148943	47882809.0														SC_9068	SC_9068-Tumor		0
 Copy Number	RP11-501C14.5			17	46148943	47882809.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	RP11-500M8.7	Intron		12	4716543	4716543.0	G	G	A	0.1594	138.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	RP11-500M8.7			12	3921607	5853483.0														SC_9068	SC_9068-Tumor		0
 Copy Number	RP11-500M8.4			12	3921607	5853483.0														SC_9068	SC_9068-Tumor		0
 Copy Number	RP11-500K19.1			3	108388598	123813753.0														SC_9068	SC_9068-Tumor		0
@@ -19697,7 +19686,7 @@ Copy Number	PRY2			Y	22921936	27770214.0														SC_9068	SC_9068-Tumor		0
 Copy Number	PRY			Y	22921936	27770214.0														SC_9068	SC_9068-Tumor		0
 Copy Number	PRX			19	30099618	52132331.0														SC_9068	SC_9068-Tumor		0
 Rearrangement	PRUNE2--LINC00969	Fusion	PRUNE2--LINC00969	9	79465379							0.0	PRUNE2	9	79465379.0	LINC00969	3	195415404.0		SC_9068			0
-Somatic Variant	PRUNE2	Intron		9	79520769	79520770.0	-	-	A	0.3721	172.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
+Somatic Variant	PRUNE2	Intron		9	79520769	79520770.0	-	-	A	0.3282	195.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	PRUNE2			9	77631349	96081458.0														SC_9068	SC_9068-Tumor		0
 Copy Number	PRUNE			1	25629952	173941767.0														SC_9068	SC_9068-Tumor		0
 Copy Number	PRTN3			19	111598	1086007.0														SC_9068	SC_9068-Tumor		0
@@ -20073,7 +20062,6 @@ Copy Number	PPP1CB			2	28561382	61007916.0														SC_9068	SC_9068-Tumor		0
 Copy Number	PPP1CA			11	61018755	134257555.0														SC_9068	SC_9068-Tumor		0
 Copy Number	PPOX			1	25629952	173941767.0														SC_9068	SC_9068-Tumor		0
 Copy Number	PPME1			11	61018755	134257555.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	PPM1N	Intron		19	46001795	46001795.0	A	A	C	0.0968	31.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	PPM1N			19	30099618	52132331.0														SC_9068	SC_9068-Tumor		0
 Copy Number	PPM1M			3	50098433	53858037.0														SC_9068	SC_9068-Tumor		0
 Copy Number	PPM1L			3	154802118	195622289.0														SC_9068	SC_9068-Tumor		0
@@ -20311,12 +20299,12 @@ Copy Number	PNLIPRP1			10	103827561	124358613.0														SC_9068	SC_9068-Tum
 Copy Number	PNLIP			10	103827561	124358613.0														SC_9068	SC_9068-Tumor		0
 Copy Number	PNLDC1			6	158532536	161530948.0														SC_9068	SC_9068-Tumor		0
 Rearrangement	PNKP--KLK2	Fusion	PNKP--KLK2	19	50370311							0.0	PNKP	19	50370311.0	KLK2	19	51381660.0		SC_9068			0
-Somatic Variant	PNKP	Intron		19	50365014	50365020.0	CCGCGGT	CCGCGGT	-	0.1783	129.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
+Somatic Variant	PNKP	Intron		19	50365014	50365020.0	CCGCGGT	CCGCGGT	-	0.1769	130.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	PNKP			19	30099618	52132331.0														SC_9068	SC_9068-Tumor		0
 Copy Number	PNKD			2	202337801	219679482.0														SC_9068	SC_9068-Tumor		0
 Copy Number	PNISR			6	35773861	148761545.0														SC_9068	SC_9068-Tumor		0
 Copy Number	PNCK			X	140785845	155240076.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	PMVK	Intron		1	154905036	154905036.0	C	C	-	0.3047	128.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
+Somatic Variant	PMVK	Intron		1	154905036	154905036.0	C	C	-	0.2826	138.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	PMVK			1	25629952	173941767.0														SC_9068	SC_9068-Tumor		0
 Copy Number	PMS2P4			7	57188861	72399005.0														SC_9068	SC_9068-Tumor		0
 Copy Number	PMS2P3			7	74212606	102234691.0														SC_9068	SC_9068-Tumor		0
@@ -20618,6 +20606,7 @@ Copy Number	PIGA			X	11133108	49217854.0														SC_9068	SC_9068-Tumor		0
 Copy Number	PIFO			1	25629952	173941767.0														SC_9068	SC_9068-Tumor		0
 Copy Number	PIF1			15	57565462	72947162.0														SC_9068	SC_9068-Tumor		0
 Copy Number	PIEZO2			18	3502645	11889491.0														SC_9068	SC_9068-Tumor		0
+Somatic Variant	PIEZO1	Silent	p.C451C	16	88802760	88802760.0	G	G	A	0.17600000000000002	125.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	PIEZO1			16	74419341	90141882.0														SC_9068	SC_9068-Tumor		0
 Rearrangement	PIDD--AGRN	Fusion	PIDD--AGRN	11	804094							0.0	PIDD	11	804094.0	AGRN	1	978619.0		SC_9068			0
 Copy Number	PIDD			11	802092	3061163.0														SC_9068	SC_9068-Tumor		0
@@ -20790,6 +20779,7 @@ Copy Number	PEX11A			15	83793530	93595737.0														SC_9068	SC_9068-Tumor		
 Copy Number	PEX10			1	1417685	12942258.0														SC_9068	SC_9068-Tumor		0
 Copy Number	PEX1			7	74212606	102234691.0														SC_9068	SC_9068-Tumor		0
 Copy Number	PET117			20	68410	23966001.0														SC_9068	SC_9068-Tumor		0
+Somatic Variant	PET112	Silent	p.S115S	4	152643350	152643350.0	A	A	G	0.0311	161.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	PET112			4	151738411	185941928.0														SC_9068	SC_9068-Tumor		0
 Copy Number	PET100			19	5700940	29699067.0														SC_9068	SC_9068-Tumor		0
 Copy Number	PES1			22	25024808	32546468.0														SC_9068	SC_9068-Tumor		0
@@ -21272,7 +21262,6 @@ Copy Number	OVCH1			12	18241892	41463839.0														SC_9068	SC_9068-Tumor		0
 Copy Number	OVCA2			17	900622	4436729.0														SC_9068	SC_9068-Tumor		0
 Copy Number	OTX2-AS1			14	52907444	106791309.0														SC_9068	SC_9068-Tumor		0
 Copy Number	OTX2			14	52907444	106791309.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	OTX1	Intron		2	63282624	63282624.0	G	G	A	0.0769	143.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	OTX1			2	61297637	68544441.0														SC_9068	SC_9068-Tumor		0
 Copy Number	OTUD7B			1	25629952	173941767.0														SC_9068	SC_9068-Tumor		0
 Copy Number	OTUD7A			15	21051330	34677677.0														SC_9068	SC_9068-Tumor		0
@@ -22263,7 +22252,6 @@ Copy Number	NLRP3			1	224318285	248722774.0														SC_9068	SC_9068-Tumor		
 Copy Number	NLRP2			19	55365503	58921460.0														SC_9068	SC_9068-Tumor		0
 Copy Number	NLRP14			11	5323178	9171758.0														SC_9068	SC_9068-Tumor		0
 Copy Number	NLRP13			19	55365503	58921460.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	NLRP12	5'UTR		19	54327433	54327433.0	G	G	T	0.1429	175.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	NLRP12			19	52149315	54746188.0														SC_9068	SC_9068-Tumor		0
 Copy Number	NLRP11			19	55365503	58921460.0														SC_9068	SC_9068-Tumor		0
 Copy Number	NLRP10			11	5323178	9171758.0														SC_9068	SC_9068-Tumor		0
@@ -22805,7 +22793,6 @@ Copy Number	MYH14			19	30099618	52132331.0														SC_9068	SC_9068-Tumor		0
 Copy Number	MYH13			17	5050491	15554925.0														SC_9068	SC_9068-Tumor		0
 Copy Number	MYH11			16	14988949	28391461.0														SC_9068	SC_9068-Tumor		0
 Copy Number	MYH10			17	5050491	15554925.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	MYH1	Intron		17	10411192	10411192.0	G	G	A	0.22899999999999998	131.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	MYH1			17	5050491	15554925.0														SC_9068	SC_9068-Tumor		0
 Copy Number	MYF6			12	76447691	88548166.0														SC_9068	SC_9068-Tumor		0
 Copy Number	MYF5			12	76447691	88548166.0														SC_9068	SC_9068-Tumor		0
@@ -22868,6 +22855,7 @@ Copy Number	MUC5B			11	802092	3061163.0														SC_9068	SC_9068-Tumor		0
 Copy Number	MUC5AC			11	802092	3061163.0														SC_9068	SC_9068-Tumor		0
 Copy Number	MUC4			3	154802118	195622289.0														SC_9068	SC_9068-Tumor		0
 Copy Number	MUC3A			7	74212606	102234691.0														SC_9068	SC_9068-Tumor		0
+Somatic Variant	MUC22	Silent	p.E445E	6	30994543	30994543.0	G	G	A	0.7125	400.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	MUC22			6	29627445	31604915.0														SC_9068	SC_9068-Tumor		0
 Copy Number	MUC21			6	29627445	31604915.0														SC_9068	SC_9068-Tumor		0
 Copy Number	MUC20			3	154802118	195622289.0														SC_9068	SC_9068-Tumor		0
@@ -23262,7 +23250,6 @@ Copy Number	MMP16			8	75924788	89339437.0														SC_9068	SC_9068-Tumor		0
 Copy Number	MMP15			16	30214139	58705150.0														SC_9068	SC_9068-Tumor		0
 Copy Number	MMP14			14	22982980	29237957.0														SC_9068	SC_9068-Tumor		0
 Copy Number	MMP13			11	61018755	134257555.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	MMP12	RNA		11	102742580	102742580.0	C	C	A	0.0455	396.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	MMP12			11	61018755	134257555.0														SC_9068	SC_9068-Tumor		0
 Copy Number	MMP11			22	23011278	25010875.0														SC_9068	SC_9068-Tumor		0
 Copy Number	MMP10			11	61018755	134257555.0														SC_9068	SC_9068-Tumor		0
@@ -26246,7 +26233,6 @@ Copy Number	LHFPL3			7	102307713	142251137.0														SC_9068	SC_9068-Tumor	
 Copy Number	LHFPL2			5	75969416	115827526.0														SC_9068	SC_9068-Tumor		0
 Copy Number	LHFPL1			X	49364863	140096955.0														SC_9068	SC_9068-Tumor		0
 Copy Number	LHFP			13	30782877	42335342.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	LHCGR	Intron		2	48921359	48921359.0	T	T	G	0.3177	192.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	LHCGR			2	28561382	61007916.0														SC_9068	SC_9068-Tumor		0
 Copy Number	LHB			19	30099618	52132331.0														SC_9068	SC_9068-Tumor		0
 Copy Number	LGSN			6	35773861	148761545.0														SC_9068	SC_9068-Tumor		0
@@ -26679,7 +26665,6 @@ Copy Number	KRCC1			2	73659421	89399827.0														SC_9068	SC_9068-Tumor		0
 Copy Number	KRBOX4			X	11133108	49217854.0														SC_9068	SC_9068-Tumor		0
 Copy Number	KRBOX1-AS1			3	28361122	49720777.0														SC_9068	SC_9068-Tumor		0
 Copy Number	KRBOX1			3	28361122	49720777.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	KRBA2	5'Flank		17	8281143	8281143.0	A	A	-	0.6585	41.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	KRBA2			17	5050491	15554925.0														SC_9068	SC_9068-Tumor		0
 Copy Number	KRBA1			7	144074285	158334310.0														SC_9068	SC_9068-Tumor		0
 Copy Number	KRAS			12	18241892	41463839.0														SC_9068	SC_9068-Tumor		0
@@ -26697,7 +26682,6 @@ Copy Number	KNTC1			12	114352892	124428042.0														SC_9068	SC_9068-Tumor	
 Copy Number	KNSTRN			15	34823579	41829325.0														SC_9068	SC_9068-Tumor		0
 Copy Number	KNOP1			16	14988949	28391461.0														SC_9068	SC_9068-Tumor		0
 Copy Number	KNG1			3	154802118	195622289.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	KNDC1	Intron		10	135032332	135032332.0	C	C	G	0.625	104.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	KNDC1			10	124362645	135491085.0														SC_9068	SC_9068-Tumor		0
 Copy Number	KNCN			1	25629952	173941767.0														SC_9068	SC_9068-Tumor		0
 Copy Number	KMT2E-AS1			7	102307713	142251137.0														SC_9068	SC_9068-Tumor		0
@@ -26873,7 +26857,6 @@ Copy Number	KIF21A			12	18241892	41463839.0														SC_9068	SC_9068-Tumor		
 Copy Number	KIF20B			10	89720877	91532590.0														SC_9068	SC_9068-Tumor		0
 Copy Number	KIF20A			5	134210222	138657720.0														SC_9068	SC_9068-Tumor		0
 Copy Number	KIF1C			17	4442272	5035732.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	KIF1B	Intron		1	10364671	10364671.0	C	C	A	0.2311	238.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	KIF1B			1	1417685	12942258.0														SC_9068	SC_9068-Tumor		0
 Copy Number	KIF1A			2	233273824	242815428.0														SC_9068	SC_9068-Tumor		0
 Copy Number	KIF19			17	51902418	81052322.0														SC_9068	SC_9068-Tumor		0
@@ -26921,7 +26904,6 @@ Copy Number	KIAA1456			8	117026	17230751.0														SC_9068	SC_9068-Tumor		0
 Copy Number	KIAA1432			9	2033083	5690040.0														SC_9068	SC_9068-Tumor		0
 Copy Number	KIAA1432			9	5714005	15623413.0														SC_9068	SC_9068-Tumor		0
 Copy Number	KIAA1430			4	186066406	191013434.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	KIAA1429	Intron		8	95522866	95522866.0	A	A	T	0.0272	331.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	KIAA1429			8	90775212	100205287.0														SC_9068	SC_9068-Tumor		0
 Copy Number	KIAA1407			3	108388598	123813753.0														SC_9068	SC_9068-Tumor		0
 Copy Number	KIAA1377			11	61018755	134257555.0														SC_9068	SC_9068-Tumor		0
@@ -27105,7 +27087,7 @@ Copy Number	KCNJ14			19	30099618	52132331.0														SC_9068	SC_9068-Tumor		
 Copy Number	KCNJ13			2	233273824	242815428.0														SC_9068	SC_9068-Tumor		0
 Copy Number	KCNJ12			17	18397683	21825574.0														SC_9068	SC_9068-Tumor		0
 Copy Number	KCNJ11			11	9771519	18257475.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	KCNJ10	5'UTR		1	160011915	160011915.0	G	G	A	0.0259	348.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
+Somatic Variant	KCNJ10	Silent	p.I136I	1	160011915	160011915.0	G	G	A	0.0259	348.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	KCNJ10			1	25629952	173941767.0														SC_9068	SC_9068-Tumor		0
 Copy Number	KCNJ1			11	61018755	134257555.0														SC_9068	SC_9068-Tumor		0
 Copy Number	KCNIP4			4	53385	30732412.0														SC_9068	SC_9068-Tumor		0
@@ -27864,7 +27846,6 @@ Copy Number	IGHJ2			14	52907444	106791309.0														SC_9068	SC_9068-Tumor		
 Copy Number	IGHJ1			14	52907444	106791309.0														SC_9068	SC_9068-Tumor		0
 Copy Number	IGHG4			14	52907444	106791309.0														SC_9068	SC_9068-Tumor		0
 Copy Number	IGHG3			14	52907444	106791309.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	IGHG2	RNA		14	106109748	106109748.0	A	A	G	0.25	24.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	IGHG2			14	52907444	106791309.0														SC_9068	SC_9068-Tumor		0
 Copy Number	IGHG1			14	52907444	106791309.0														SC_9068	SC_9068-Tumor		0
 Copy Number	IGHE			14	52907444	106791309.0														SC_9068	SC_9068-Tumor		0
@@ -28076,7 +28057,6 @@ Copy Number	HTRA2			2	73659421	89399827.0														SC_9068	SC_9068-Tumor		0
 Rearrangement	HTRA1--SAT1	Fusion	HTRA1--SAT1	10	124249142							0.0	HTRA1	10	124249142.0	SAT1	X	23803445.0		SC_9068			0
 Copy Number	HTRA1			10	103827561	124358613.0														SC_9068	SC_9068-Tumor		0
 Copy Number	HTR7			10	92503449	101728996.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	HTR6	5'UTR		1	19992241	19992241.0	G	G	T	0.1465	157.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	HTR6			1	17280854	21100105.0														SC_9068	SC_9068-Tumor		0
 Copy Number	HTR5BP			2	114476887	163393592.0														SC_9068	SC_9068-Tumor		0
 Copy Number	HTR5A-AS1			7	144074285	158334310.0														SC_9068	SC_9068-Tumor		0
@@ -28333,7 +28313,7 @@ Copy Number	HMX1			4	53385	30732412.0														SC_9068	SC_9068-Tumor		0
 Copy Number	HMSD			18	56016846	77960817.0														SC_9068	SC_9068-Tumor		0
 Copy Number	HMOX2			16	2156027	5132676.0														SC_9068	SC_9068-Tumor		0
 Copy Number	HMOX1			22	32555204	39385617.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	HMMR	Silent	p.Y251Y	5	162900412	162900412.0	C	C	T	0.129	310.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
+Somatic Variant	HMMR	Silent	p.Y250Y	5	162900412	162900412.0	C	C	T	0.129	310.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	HMMR			5	138661353	180795228.0														SC_9068	SC_9068-Tumor		0
 Copy Number	HMHB1			5	138661353	180795228.0														SC_9068	SC_9068-Tumor		0
 Copy Number	HMHA1			19	1089552	2207681.0														SC_9068	SC_9068-Tumor		0
@@ -28602,7 +28582,7 @@ Copy Number	HECA			6	35773861	148761545.0														SC_9068	SC_9068-Tumor		0
 Copy Number	HEBP2			6	35773861	148761545.0														SC_9068	SC_9068-Tumor		0
 Copy Number	HEBP1			12	10541411	18237601.0														SC_9068	SC_9068-Tumor		0
 Copy Number	HEATR6			17	51902418	81052322.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	HEATR5B	Intron		2	37268253	37268254.0	-	-	A	0.2096	229.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
+Somatic Variant	HEATR5B	Intron		2	37268253	37268254.0	-	-	A	0.1818	264.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	HEATR5B			2	28561382	61007916.0														SC_9068	SC_9068-Tumor		0
 Copy Number	HEATR5A			14	30046664	38061918.0														SC_9068	SC_9068-Tumor		0
 Copy Number	HEATR4			14	52907444	106791309.0														SC_9068	SC_9068-Tumor		0
@@ -28971,13 +28951,12 @@ Copy Number	GRIN2A			16	7657342	12121303.0														SC_9068	SC_9068-Tumor		0
 Copy Number	GRIN1			9	117087434	141016451.0														SC_9068	SC_9068-Tumor		0
 Copy Number	GRIK5			19	30099618	52132331.0														SC_9068	SC_9068-Tumor		0
 Copy Number	GRIK4			11	61018755	134257555.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	GRIK3	Intron		1	37499505	37499505.0	A	A	-	0.1869	107.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
+Somatic Variant	GRIK3	Intron		1	37499505	37499505.0	A	A	-	0.177	113.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	GRIK3			1	25629952	173941767.0														SC_9068	SC_9068-Tumor		0
 Copy Number	GRIK2			6	35773861	148761545.0														SC_9068	SC_9068-Tumor		0
 Copy Number	GRIK1-AS2			21	10970064	39795485.0														SC_9068	SC_9068-Tumor		0
 Copy Number	GRIK1-AS1			21	10970064	39795485.0														SC_9068	SC_9068-Tumor		0
 Copy Number	GRIK1			21	10970064	39795485.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	GRIFIN	RNA		7	2515407	2515407.0	G	G	A	0.4398	166.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	GRIFIN			7	195732	5923632.0														SC_9068	SC_9068-Tumor		0
 Copy Number	GRID2IP			7	5983105	14758310.0														SC_9068	SC_9068-Tumor		0
 Copy Number	GRID2			4	70346630	95585220.0														SC_9068	SC_9068-Tumor		0
@@ -29619,7 +29598,6 @@ Copy Number	GARNL3			9	117087434	141016451.0														SC_9068	SC_9068-Tumor	
 Copy Number	GAREML			2	26022404	28248289.0														SC_9068	SC_9068-Tumor		0
 Copy Number	GAREM			18	22669546	56010335.0														SC_9068	SC_9068-Tumor		0
 Copy Number	GAR1			4	98480270	151203800.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	GAPVD1	Silent	p.C1357C	9	128122896	128122896.0	C	C	T	0.1469	143.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	GAPVD1			9	117087434	141016451.0														SC_9068	SC_9068-Tumor		0
 Copy Number	GAPT			5	53752074	58289292.0														SC_9068	SC_9068-Tumor		0
 Copy Number	GAPDHS			19	30099618	52132331.0														SC_9068	SC_9068-Tumor		0
@@ -29752,7 +29730,6 @@ Copy Number	FYB			5	37605342	43613241.0														SC_9068	SC_9068-Tumor		0
 Copy Number	FXYD7			19	30099618	52132331.0														SC_9068	SC_9068-Tumor		0
 Copy Number	FXYD6-FXYD2			11	61018755	134257555.0														SC_9068	SC_9068-Tumor		0
 Copy Number	FXYD6			11	61018755	134257555.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	FXYD5	Intron		19	35655048	35655048.0	C	C	A	0.0967	300.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	FXYD5			19	30099618	52132331.0														SC_9068	SC_9068-Tumor		0
 Copy Number	FXYD4			10	30602902	53227598.0														SC_9068	SC_9068-Tumor		0
 Copy Number	FXYD3			19	30099618	52132331.0														SC_9068	SC_9068-Tumor		0
@@ -29804,6 +29781,7 @@ Copy Number	FSTL4			5	131303723	133948448.0														SC_9068	SC_9068-Tumor		
 Copy Number	FSTL3			19	111598	1086007.0														SC_9068	SC_9068-Tumor		0
 Copy Number	FSTL1			3	108388598	123813753.0														SC_9068	SC_9068-Tumor		0
 Copy Number	FST			5	49699290	53409240.0														SC_9068	SC_9068-Tumor		0
+Somatic Variant	FSIP2	Silent	p.C4685C	2	186668088	186668088.0	T	T	C	0.2037	432.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	FSIP2			2	179669371	202323589.0														SC_9068	SC_9068-Tumor		0
 Copy Number	FSIP1			15	34823579	41829325.0														SC_9068	SC_9068-Tumor		0
 Copy Number	FSHR			2	28561382	61007916.0														SC_9068	SC_9068-Tumor		0
@@ -30146,7 +30124,6 @@ Copy Number	FDXACB1			11	61018755	134257555.0														SC_9068	SC_9068-Tumor
 Copy Number	FDX1L			19	5700940	29699067.0														SC_9068	SC_9068-Tumor		0
 Copy Number	FDX1			11	61018755	134257555.0														SC_9068	SC_9068-Tumor		0
 Copy Number	FDPS			1	25629952	173941767.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	FDFT1	Intron		8	11695888	11695888.0	C	C	A	0.2265	468.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	FDFT1			8	117026	17230751.0														SC_9068	SC_9068-Tumor		0
 Copy Number	FDCSP			4	70346630	95585220.0														SC_9068	SC_9068-Tumor		0
 Copy Number	FCRLB			1	25629952	173941767.0														SC_9068	SC_9068-Tumor		0
@@ -30772,7 +30749,6 @@ Copy Number	EXO1			1	224318285	248722774.0														SC_9068	SC_9068-Tumor		0
 Copy Number	EXD3			9	117087434	141016451.0														SC_9068	SC_9068-Tumor		0
 Copy Number	EXD2			14	52907444	106791309.0														SC_9068	SC_9068-Tumor		0
 Copy Number	EXD1			15	34823579	41829325.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	EWSR1	Intron		22	29686393	29686393.0	A	A	C	0.6129	124.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	EWSR1			22	25024808	32546468.0														SC_9068	SC_9068-Tumor		0
 Copy Number	EVX2			2	175994937	179667070.0														SC_9068	SC_9068-Tumor		0
 Copy Number	EVX1-AS			7	15652238	38313249.0														SC_9068	SC_9068-Tumor		0
@@ -31320,6 +31296,7 @@ Copy Number	DYX1C1-CCPG1			15	50751361	57555474.0														SC_9068	SC_9068-T
 Copy Number	DYX1C1			15	50751361	57555474.0														SC_9068	SC_9068-Tumor		0
 Copy Number	DYTN			2	202337801	219679482.0														SC_9068	SC_9068-Tumor		0
 Copy Number	DYSF			2	70905011	73653683.0														SC_9068	SC_9068-Tumor		0
+Somatic Variant	DYRK4	Silent	p.Q335Q	12	4716543	4716543.0	G	G	A	0.1594	138.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	DYRK4			12	3921607	5853483.0														SC_9068	SC_9068-Tumor		0
 Copy Number	DYRK3			1	205633786	224009154.0														SC_9068	SC_9068-Tumor		0
 Copy Number	DYRK2			12	64873904	76442246.0														SC_9068	SC_9068-Tumor		0
@@ -31808,6 +31785,7 @@ Copy Number	DGKH			13	42352194	51969621.0														SC_9068	SC_9068-Tumor		0
 Copy Number	DGKG			3	154802118	195622289.0														SC_9068	SC_9068-Tumor		0
 Copy Number	DGKE			17	51902418	81052322.0														SC_9068	SC_9068-Tumor		0
 Copy Number	DGKD			2	233273824	242815428.0														SC_9068	SC_9068-Tumor		0
+Somatic Variant	DGKB	Intron		7	14188873	14188874.0	-	-	G	0.1739	69.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	DGKB			7	5983105	14758310.0														SC_9068	SC_9068-Tumor		0
 Copy Number	DGKA			12	52715121	64803877.0														SC_9068	SC_9068-Tumor		0
 Copy Number	DGCR9			22	16282318	22989353.0														SC_9068	SC_9068-Tumor		0
@@ -32142,7 +32120,6 @@ Copy Number	CYP4F22			19	5700940	29699067.0														SC_9068	SC_9068-Tumor		
 Copy Number	CYP4F2			19	5700940	29699067.0														SC_9068	SC_9068-Tumor		0
 Copy Number	CYP4F12			19	5700940	29699067.0														SC_9068	SC_9068-Tumor		0
 Copy Number	CYP4F11			19	5700940	29699067.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	CYP4B1	Intron		1	47283706	47283706.0	C	C	A	0.0442	317.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	CYP4B1			1	25629952	173941767.0														SC_9068	SC_9068-Tumor		0
 Copy Number	CYP4A22-AS1			1	25629952	173941767.0														SC_9068	SC_9068-Tumor		0
 Copy Number	CYP4A22			1	25629952	173941767.0														SC_9068	SC_9068-Tumor		0
@@ -34075,7 +34052,7 @@ Copy Number	CPSF3L			1	70010	1412732.0														SC_9068	SC_9068-Tumor		0
 Copy Number	CPSF3			2	41629	25991737.0														SC_9068	SC_9068-Tumor		0
 Copy Number	CPSF2			14	52907444	106791309.0														SC_9068	SC_9068-Tumor		0
 Copy Number	CPSF1			8	145107803	146279545.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	CPS1	Intron		2	211444423	211444424.0	-	-	T	0.3034	145.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
+Somatic Variant	CPS1	Intron		2	211444423	211444424.0	-	-	T	0.2683	164.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	CPS1			2	202337801	219679482.0														SC_9068	SC_9068-Tumor		0
 Copy Number	CPQ			8	90775212	100205287.0														SC_9068	SC_9068-Tumor		0
 Copy Number	CPPED1			16	12162989	14969113.0														SC_9068	SC_9068-Tumor		0
@@ -34418,7 +34395,6 @@ Copy Number	CLN8			8	117026	17230751.0														SC_9068	SC_9068-Tumor		0
 Copy Number	CLN6			15	57565462	72947162.0														SC_9068	SC_9068-Tumor		0
 Copy Number	CLN5			13	52532682	95279427.0														SC_9068	SC_9068-Tumor		0
 Copy Number	CLN3			16	28394804	29465055.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	CLMP	5'UTR		11	122954392	122954392.0	C	C	G	0.1911	246.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	CLMP			11	61018755	134257555.0														SC_9068	SC_9068-Tumor		0
 Copy Number	CLMN			14	52907444	106791309.0														SC_9068	SC_9068-Tumor		0
 Copy Number	CLLU1OS			12	88554008	96374643.0														SC_9068	SC_9068-Tumor		0
@@ -34640,7 +34616,6 @@ Copy Number	CHMP3			2	73659421	89399827.0														SC_9068	SC_9068-Tumor		0
 Copy Number	CHMP2B			3	86115935	108380821.0														SC_9068	SC_9068-Tumor		0
 Copy Number	CHMP2A			19	59061404	59082758.0														SC_9068	SC_9068-Tumor		0
 Copy Number	CHMP1B			18	3502645	11889491.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	CHMP1A	Intron		16	89715750	89715750.0	A	A	G	0.4587	109.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	CHMP1A			16	74419341	90141882.0														SC_9068	SC_9068-Tumor		0
 Copy Number	CHML			1	224318285	248722774.0														SC_9068	SC_9068-Tumor		0
 Copy Number	CHM			X	49364863	140096955.0														SC_9068	SC_9068-Tumor		0
@@ -34760,7 +34735,7 @@ Copy Number	CEP76			18	12262970	22057528.0														SC_9068	SC_9068-Tumor		0
 Copy Number	CEP72			5	140833	3600376.0														SC_9068	SC_9068-Tumor		0
 Copy Number	CEP70			3	127396408	151161674.0														SC_9068	SC_9068-Tumor		0
 Copy Number	CEP68			2	61297637	68544441.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	CEP63	Intron		3	134265199	134265200.0	-	-	A	0.5057	87.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
+Somatic Variant	CEP63	Intron		3	134265199	134265200.0	-	-	A	0.449	98.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	CEP63			3	127396408	151161674.0														SC_9068	SC_9068-Tumor		0
 Copy Number	CEP57L1			6	35773861	148761545.0														SC_9068	SC_9068-Tumor		0
 Copy Number	CEP57			11	61018755	134257555.0														SC_9068	SC_9068-Tumor		0
@@ -34907,7 +34882,6 @@ Copy Number	CDK5RAP2			9	117087434	141016451.0														SC_9068	SC_9068-Tumo
 Copy Number	CDK5RAP1			20	30115387	62904955.0														SC_9068	SC_9068-Tumor		0
 Copy Number	CDK5R2			2	219679755	230634043.0														SC_9068	SC_9068-Tumor		0
 Copy Number	CDK5R1			17	27939574	31039215.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	CDK5	Intron		7	150752616	150752616.0	C	C	A	0.1739	299.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	CDK5			7	144074285	158334310.0														SC_9068	SC_9068-Tumor		0
 Copy Number	CDK4			12	52715121	64803877.0														SC_9068	SC_9068-Tumor		0
 Copy Number	CDK3			17	51902418	81052322.0														SC_9068	SC_9068-Tumor		0
@@ -35033,7 +35007,6 @@ Copy Number	CD7			17	51902418	81052322.0														SC_9068	SC_9068-Tumor		0
 Copy Number	CD69			12	8327050	10124288.0														SC_9068	SC_9068-Tumor		0
 Copy Number	CD68			17	5050491	15554925.0														SC_9068	SC_9068-Tumor		0
 Copy Number	CD63			12	52715121	64803877.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	CD6	Intron		11	60774037	60774037.0	T	T	A	0.431	116.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	CD6			11	60198399	60906303.0														SC_9068	SC_9068-Tumor		0
 Copy Number	CD5L			1	25629952	173941767.0														SC_9068	SC_9068-Tumor		0
 Copy Number	CD59			11	18428830	40137844.0														SC_9068	SC_9068-Tumor		0
@@ -35608,7 +35581,7 @@ Copy Number	CACNA1C-AS4			12	2229596	3048612.0														SC_9068	SC_9068-Tumo
 Copy Number	CACNA1C-AS3			12	2229596	3048612.0														SC_9068	SC_9068-Tumor		0
 Copy Number	CACNA1C-AS2			12	2229596	3048612.0														SC_9068	SC_9068-Tumor		0
 Copy Number	CACNA1C-AS1			12	2229596	3048612.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	CACNA1C	Intron		12	2743051	2743051.0	A	A	-	0.6609999999999999	177.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
+Somatic Variant	CACNA1C	Intron		12	2743051	2743051.0	A	A	-	0.5969	196.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	CACNA1C			12	1740602	2224713.0														SC_9068	SC_9068-Tumor		0
 Copy Number	CACNA1C			12	2229596	3048612.0														SC_9068	SC_9068-Tumor		0
 Copy Number	CACNA1B			9	117087434	141016451.0														SC_9068	SC_9068-Tumor		0
@@ -35669,7 +35642,6 @@ Copy Number	C9orf38			9	5714005	15623413.0														SC_9068	SC_9068-Tumor		0
 Copy Number	C9orf37			9	117087434	141016451.0														SC_9068	SC_9068-Tumor		0
 Rearrangement	C9orf3--IDUA	Fusion	C9orf3--IDUA	9	97845001							0.0	C9orf3	9	97845001.0	IDUA	4	994400.0		SC_9068			0
 Copy Number	C9orf3			9	96209981	100760962.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	C9orf24	Intron		9	34379182	34379182.0	A	A	G	0.2874	174.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	C9orf24			9	26842647	39177501.0														SC_9068	SC_9068-Tumor		0
 Copy Number	C9orf173			9	117087434	141016451.0														SC_9068	SC_9068-Tumor		0
 Copy Number	C9orf172			9	117087434	141016451.0														SC_9068	SC_9068-Tumor		0
@@ -36033,7 +36005,6 @@ Copy Number	C1orf110			1	25629952	173941767.0														SC_9068	SC_9068-Tumor
 Copy Number	C1orf109			1	25629952	173941767.0														SC_9068	SC_9068-Tumor		0
 Copy Number	C1orf106			1	190068266	205632748.0														SC_9068	SC_9068-Tumor		0
 Copy Number	C1orf105			1	25629952	173941767.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	C1orf101	Intron		1	244716122	244716122.0	T	T	G	0.1593	113.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	C1orf101			1	224318285	248722774.0														SC_9068	SC_9068-Tumor		0
 Copy Number	C1orf100			1	224318285	248722774.0														SC_9068	SC_9068-Tumor		0
 Copy Number	C1S			12	7075663	7344298.0														SC_9068	SC_9068-Tumor		0
@@ -36094,7 +36065,7 @@ Copy Number	C19orf40			19	30099618	52132331.0														SC_9068	SC_9068-Tumor
 Copy Number	C19orf38			19	5700940	29699067.0														SC_9068	SC_9068-Tumor		0
 Copy Number	C19orf35			19	2210511	3293446.0														SC_9068	SC_9068-Tumor		0
 Copy Number	C19orf33			19	30099618	52132331.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	C19orf26	Silent	p.A192A	19	1234621	1234621.0	G	G	T	0.3297	91.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
+Somatic Variant	C19orf26	Silent	p.A212A	19	1234621	1234621.0	G	G	T	0.3297	91.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	C19orf26			19	1089552	2207681.0														SC_9068	SC_9068-Tumor		0
 Copy Number	C19orf25			19	1089552	2207681.0														SC_9068	SC_9068-Tumor		0
 Copy Number	C19orf24			19	1089552	2207681.0														SC_9068	SC_9068-Tumor		0
@@ -36308,7 +36279,6 @@ Copy Number	C10orf68			10	30602902	53227598.0														SC_9068	SC_9068-Tumor
 Copy Number	C10orf67			10	18242468	28491202.0														SC_9068	SC_9068-Tumor		0
 Copy Number	C10orf62			10	92503449	101728996.0														SC_9068	SC_9068-Tumor		0
 Copy Number	C10orf55			10	75575007	75802913.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	C10orf54	3'UTR		10	73511009	73511009.0	G	G	T	0.040999999999999995	195.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	C10orf53			10	30602902	53227598.0														SC_9068	SC_9068-Tumor		0
 Copy Number	C10orf40			10	59956461	61926656.0														SC_9068	SC_9068-Tumor		0
 Copy Number	C10orf32-ASMT			10	103827561	124358613.0														SC_9068	SC_9068-Tumor		0
@@ -37195,7 +37165,6 @@ Copy Number	ARHGAP8			22	42956273	51237572.0														SC_9068	SC_9068-Tumor	
 Copy Number	ARHGAP6			X	11133108	49217854.0														SC_9068	SC_9068-Tumor		0
 Copy Number	ARHGAP5-AS1			14	30046664	38061918.0														SC_9068	SC_9068-Tumor		0
 Copy Number	ARHGAP5			14	30046664	38061918.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	ARHGAP44	3'UTR		17	12883476	12883476.0	C	C	G	0.5417	72.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	ARHGAP44			17	5050491	15554925.0														SC_9068	SC_9068-Tumor		0
 Copy Number	ARHGAP42			11	61018755	134257555.0														SC_9068	SC_9068-Tumor		0
 Copy Number	ARHGAP40			20	30115387	62904955.0														SC_9068	SC_9068-Tumor		0
@@ -37281,7 +37250,7 @@ Copy Number	AQP10			1	25629952	173941767.0														SC_9068	SC_9068-Tumor		0
 Copy Number	AQP1			7	15652238	38313249.0														SC_9068	SC_9068-Tumor		0
 Copy Number	APTX			9	26842647	39177501.0														SC_9068	SC_9068-Tumor		0
 Copy Number	APRT			16	74419341	90141882.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	APPL2	Intron		12	105592955	105592966.0	CATCTCTTAGTG	CATCTCTTAGTG	-	0.3023	43.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
+Somatic Variant	APPL2	Intron		12	105592955	105592966.0	CATCTCTTAGTG	CATCTCTTAGTG	-	0.2826	46.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	APPL2			12	96386585	110814023.0														SC_9068	SC_9068-Tumor		0
 Copy Number	APPL1			3	53882717	86114882.0														SC_9068	SC_9068-Tumor		0
 Copy Number	APPBP2			17	51902418	81052322.0														SC_9068	SC_9068-Tumor		0
@@ -37944,7 +37913,6 @@ Copy Number	ALS2			2	202337801	219679482.0														SC_9068	SC_9068-Tumor		0
 Copy Number	ALPPL2			2	233246079	233272729.0														SC_9068	SC_9068-Tumor		0
 Copy Number	ALPPL2			2	233273113	233273550.0														SC_9068	SC_9068-Tumor		0
 Copy Number	ALPPL2			2	233273824	242815428.0														SC_9068	SC_9068-Tumor		0
-Somatic Variant	ALPP	Intron		2	233244407	233244407.0	G	G	C	0.3012	166.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	ALPP			2	233246079	233272729.0														SC_9068	SC_9068-Tumor		0
 Copy Number	ALPP			2	230636350	233244648.0														SC_9068	SC_9068-Tumor		0
 Copy Number	ALPP			2	233245032	233245743.0														SC_9068	SC_9068-Tumor		0
@@ -38853,6 +38821,7 @@ Copy Number	AFTPH			2	61297637	68544441.0														SC_9068	SC_9068-Tumor		0
 Copy Number	AFP			4	70346630	95585220.0														SC_9068	SC_9068-Tumor		0
 Copy Number	AFMID			17	51902418	81052322.0														SC_9068	SC_9068-Tumor		0
 Copy Number	AFM			4	70346630	95585220.0														SC_9068	SC_9068-Tumor		0
+Somatic Variant	AFG3L2	Silent	p.P790P	18	12329588	12329588.0	G	G	A	0.5562	160.0									SC_9068	SC_9068-Tumor	SC_9068-Normal	0
 Copy Number	AFG3L2			18	12262970	22057528.0														SC_9068	SC_9068-Tumor		0
 Copy Number	AFG3L1P			16	74419341	90141882.0														SC_9068	SC_9068-Tumor		0
 Copy Number	AFF4			5	131303723	133948448.0														SC_9068	SC_9068-Tumor		0

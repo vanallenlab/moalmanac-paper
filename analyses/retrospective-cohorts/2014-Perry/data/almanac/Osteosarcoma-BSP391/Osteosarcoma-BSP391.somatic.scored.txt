@@ -1,0 +1,44 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Cancer Hotspot 3D				Copy Number	AMY1C	Deletion		1	104296869	104297688.0						0.0	0.0		0												Osteosarcoma-BSP391	BSP391_T		0	0	1	0	0	0	1
+Cancer Gene Census				Copy Number	MLLT4	Amplification		6	167789800	168480026.0						0.0	0.0		0												Osteosarcoma-BSP391	BSP391_T		0	0	0	1	0	0	1
+Cancer Pathway				Rearrangement	IGLV8-61	Fusion	IGLV8-61--IGLL5	chr22	22453622							0.0	0.0		0	6.0	IGLV8-61	chr22	22453622.0	IGLL5	chr22	23235964.0					Osteosarcoma-BSP391			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGLV4-60	Fusion	IGLV4-60--IGLL5	chr22	22517074							0.0	0.0		0	12.0	IGLV4-60	chr22	22517074.0	IGLL5	chr22	23235964.0					Osteosarcoma-BSP391			0	0	0	0	1	0	0
+Cancer Module				Somatic Variant	APLP2	Nonsense	p.Q574*	11	130005493	130005493.0	C	C	T	0.0275	109.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-BSP391	Osteosarcoma-BSP391-Tumor-SM-2RCAU	Osteosarcoma-BSP391-Normal-SM-2RCCA	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	GABBR1	Missense	p.R95C	6	29599179	29599179.0	G	G	A	0.0325	123.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-BSP391	Osteosarcoma-BSP391-Tumor-SM-2RCAU	Osteosarcoma-BSP391-Normal-SM-2RCCA	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	PCDH17	Missense	p.R952K	13	58298803	58298803.0	G	G	A	0.0517	58.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-BSP391	Osteosarcoma-BSP391-Tumor-SM-2RCAU	Osteosarcoma-BSP391-Normal-SM-2RCCA	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	UPP1	Missense	p.R219H	7	48146967	48146967.0	G	G	A	0.04	75.0	1.6e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-BSP391	Osteosarcoma-BSP391-Tumor-SM-2RCAU	Osteosarcoma-BSP391-Normal-SM-2RCCA	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	FBF1	Missense	p.R604Q	17	73916166	73916166.0	C	C	T	0.5	12.0	0.00019099999999999998	0.0		0								0.0	0.0	0.0		Osteosarcoma-BSP391	Osteosarcoma-BSP391-Tumor-SM-2RCAU	Osteosarcoma-BSP391-Normal-SM-2RCCA	0	0	0	0	0	1	1
+Cancer Module				Copy Number	KLRC3	Amplification		12	10572764	10587381.0						0.0	0.0		0												Osteosarcoma-BSP391	BSP391_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TCP10	Amplification		6	167789800	168480026.0						0.0	0.0		0												Osteosarcoma-BSP391	BSP391_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KIF25	Amplification		6	167789800	168480026.0						0.0	0.0		0												Osteosarcoma-BSP391	BSP391_T		0	0	0	0	0	1	1
+Cosmic				Somatic Variant	SLC25A6	Missense	p.T197M	X	1508142	1508142.0	G	G	A	0.0341	88.0	8e-06	0.0		0								0.0	0.0	0.0		Osteosarcoma-BSP391	Osteosarcoma-BSP391-Tumor-SM-2RCAU	Osteosarcoma-BSP391-Normal-SM-2RCCA	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	DHRS7B	Splice Site	p.Y27F	17	21092024	21092024.0	A	A	T	0.0274	329.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-BSP391	Osteosarcoma-BSP391-Tumor-SM-2RCAU	Osteosarcoma-BSP391-Normal-SM-2RCCA	0	0	0	0	0	0	1
+Cosmic				Copy Number	FRMD1	Amplification		6	167789800	168480026.0						0.0	0.0		0												Osteosarcoma-BSP391	BSP391_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	EIF3CL	Amplification		16	28390867	28415191.0						0.0	0.0		0												Osteosarcoma-BSP391	BSP391_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LCE3E	Deletion		1	152538154	152552664.0						0.0	0.0		0												Osteosarcoma-BSP391	BSP391_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LCE3D	Deletion		1	152538154	152552664.0						0.0	0.0		0												Osteosarcoma-BSP391	BSP391_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND6	Fusion	MT-ND6--MT-TE	chrM	14622							0.0	0.0		0	126.0	MT-ND6	chrM	14622.0	MT-TE	chrM	14717.0					Osteosarcoma-BSP391			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4	Fusion	MT-ND4--MT-ND4L	chrM	11044							0.0	0.0		0	65.0	MT-ND4	chrM	11044.0	MT-ND4L	chrM	10756.0					Osteosarcoma-BSP391			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND1	Fusion	MT-ND1--MT-TL1	chrM	3399							0.0	0.0		0	24.0	MT-ND1	chrM	3399.0	MT-TL1	chrM	3260.0					Osteosarcoma-BSP391			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CO3	Fusion	MT-CO3--MT-ATP6	chrM	9426							0.0	0.0		0	11.0	MT-CO3	chrM	9426.0	MT-ATP6	chrM	9204.0					Osteosarcoma-BSP391			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4L	Fusion	MT-ND4--MT-ND4L	chrM	11044							0.0	0.0		0	65.0	MT-ND4	chrM	11044.0	MT-ND4L	chrM	10756.0					Osteosarcoma-BSP391			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-CO3--MT-ATP6	chrM	9426							0.0	0.0		0	11.0	MT-CO3	chrM	9426.0	MT-ATP6	chrM	9204.0					Osteosarcoma-BSP391			0	0	0	0	0	0	1
+Cosmic				Rearrangement	IGLL5	Fusion	IGLV8-61--IGLL5	chr22	22453622							0.0	0.0		0	6.0	IGLV8-61	chr22	22453622.0	IGLL5	chr22	23235964.0					Osteosarcoma-BSP391			0	0	0	0	0	0	1
+Cosmic				Rearrangement	IGLL5	Fusion	IGLV4-60--IGLL5	chr22	22517074							0.0	0.0		0	12.0	IGLV4-60	chr22	22517074.0	IGLL5	chr22	23235964.0					Osteosarcoma-BSP391			0	0	0	0	0	0	1
+VUS				Copy Number	NKG2-E	Amplification		12	10572764	10587381.0						0.0	0.0		0												Osteosarcoma-BSP391	BSP391_T		0	0	0	0	0	0	0
+VUS				Copy Number	CCZ1B	Deletion		7	6854143	6863243.0						0.0	0.0		0												Osteosarcoma-BSP391	BSP391_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL009178.1	Amplification		6	167789800	168480026.0						0.0	0.0		0												Osteosarcoma-BSP391	BSP391_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-470B24.5	Amplification		6	167789800	168480026.0						0.0	0.0		0												Osteosarcoma-BSP391	BSP391_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-351J23.2	Amplification		6	167789800	168480026.0						0.0	0.0		0												Osteosarcoma-BSP391	BSP391_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-351J23.1	Amplification		6	167789800	168480026.0						0.0	0.0		0												Osteosarcoma-BSP391	BSP391_T		0	0	0	0	0	0	0
+VUS				Copy Number	MLLT4-AS1	Amplification		6	167789800	168480026.0						0.0	0.0		0												Osteosarcoma-BSP391	BSP391_T		0	0	0	0	0	0	0
+VUS				Copy Number	KIF25-AS1	Amplification		6	167789800	168480026.0						0.0	0.0		0												Osteosarcoma-BSP391	BSP391_T		0	0	0	0	0	0	0
+VUS				Copy Number	C6orf123	Amplification		6	167789800	168480026.0						0.0	0.0		0												Osteosarcoma-BSP391	BSP391_T		0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TC	Fusion	MT-TC--MT-TY	chrM	5788							0.0	0.0		0	34.0	MT-TC	chrM	5788.0	MT-TY	chrM	5875.0					Osteosarcoma-BSP391			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TA	Fusion	MT-TA--MT-TN	chrM	5638							0.0	0.0		0	19.0	MT-TA	chrM	5638.0	MT-TN	chrM	5689.0					Osteosarcoma-BSP391			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TA	Fusion	MT-TA--MT-TC	chrM	5599							0.0	0.0		0	5.0	MT-TA	chrM	5599.0	MT-TC	chrM	5800.0					Osteosarcoma-BSP391			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TY	Fusion	MT-TC--MT-TY	chrM	5788							0.0	0.0		0	34.0	MT-TC	chrM	5788.0	MT-TY	chrM	5875.0					Osteosarcoma-BSP391			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TN	Fusion	MT-TA--MT-TN	chrM	5638							0.0	0.0		0	19.0	MT-TA	chrM	5638.0	MT-TN	chrM	5689.0					Osteosarcoma-BSP391			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TC	Fusion	MT-TA--MT-TC	chrM	5599							0.0	0.0		0	5.0	MT-TA	chrM	5599.0	MT-TC	chrM	5800.0					Osteosarcoma-BSP391			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TE	Fusion	MT-ND6--MT-TE	chrM	14622							0.0	0.0		0	126.0	MT-ND6	chrM	14622.0	MT-TE	chrM	14717.0					Osteosarcoma-BSP391			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TL1	Fusion	MT-ND1--MT-TL1	chrM	3399							0.0	0.0		0	24.0	MT-ND1	chrM	3399.0	MT-TL1	chrM	3260.0					Osteosarcoma-BSP391			0	0	0	0	0	0	0

@@ -1,0 +1,1364 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Putatively Actionable		Putatively Actionable		Copy Number	BRAF	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		4	1	1	1	1	1	1
+Putatively Actionable	Putatively Actionable	Putatively Actionable		Copy Number	MET	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		4	1	0	1	1	1	1
+Investigate Actionability	Investigate Actionability		Investigate Actionability	Somatic Variant	BARD1	Missense	p.S704R	2	215593624	215593624.0	T	T	G	0.5965	57.0	0.0	0.0		0								5.0	0.8	0.33399999999999996		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	2	0	0	1	0	1	1
+Biologically Relevant				Copy Number	PMS2	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		1	1	0	1	1	0	1
+Biologically Relevant				Copy Number	EZH2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		1	1	0	1	0	1	1
+Biologically Relevant				Copy Number	POT1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		1	0	0	1	0	0	1
+Cancer Hotspot				Copy Number	RAC1	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	1	1	1	1	1	1
+Cancer Hotspot				Copy Number	CDK6	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	1	1	1	1	1	1
+Cancer Hotspot				Copy Number	KMT2C	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	1	1	1	0	0	1
+Cancer Hotspot				Copy Number	SMO	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	1	0	1	1	1	1
+Cancer Hotspot				Copy Number	HGF	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	1	0	0	1	0	1
+Cancer Hotspot				Copy Number	RHEB	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	1	0	0	0	1	1
+Cancer Hotspot				Copy Number	GTF2I	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	1	0	0	0	1	1
+Cancer Hotspot 3D				Copy Number	TRIM24	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	1	1	0	1	1
+Cancer Hotspot 3D				Copy Number	SSBP1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	1	0	1	1	1
+Cancer Hotspot 3D				Copy Number	CUL1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	1	0	1	0	1
+Cancer Hotspot 3D				Somatic Variant	ABCB1	Missense	p.A961T	7	87148688	87148688.0	C	C	T	0.3895	95.0	0.0	0.0		0								218.0	0.633	1.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	1	0	0	1	2
+Cancer Hotspot 3D				Somatic Variant	PRELID1	Missense	p.K172T	5	176733459	176733459.0	A	A	C	0.3636	22.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	ABCB1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	EPHA1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	POR	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	ZNF777	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	DPP6	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	DLX5	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Somatic Variant	AIFM3	Splice Site	p.L349L	22	21330826	21330826.0	G	G	C	0.4262	61.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	1	0	0	0	1
+Cancer Hotspot 3D				Copy Number	PAXIP1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	1	0	0	0	1
+Cancer Hotspot 3D				Copy Number	NCF1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	1	0	0	0	1
+Cancer Hotspot 3D				Copy Number	IQUB	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	1	0	0	0	1
+Cancer Hotspot 3D				Copy Number	ISPD	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	1	0	0	0	1
+Cancer Hotspot 3D				Copy Number	MDFIC	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	1	0	0	0	1
+Cancer Hotspot 3D				Copy Number	AOC1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	1	0	0	0	0
+Cancer Gene Census				Copy Number	CREB3L2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	1	1	0	1
+Cancer Gene Census				Somatic Variant	TRIM33	Missense	p.S920R	1	114948040	114948040.0	G	G	T	0.0267	187.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	1	0	1	1
+Cancer Gene Census				Somatic Variant	TRIM33	Splice Site	p.H621N	1	114964258	114964258.0	G	G	T	0.4231	78.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	1	0	1	1
+Cancer Gene Census				Somatic Variant	DDX5	Splice Site	p.SV147fs	17	62500099	62500102.0	ACAG	ACAG	-	0.2609	161.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	ETV1	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	AKAP9	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	FAM131B	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	HIP1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	CNTNAP2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	MNX1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	ELN	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	CUX1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	GRM3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	1	0	1	1
+Cancer Gene Census				Somatic Variant	TRIP11	Missense	p.Q99E	14	92491671	92491671.0	G	G	C	0.5102	49.0	0.0	0.0		0								2.0	1.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	1	0	0	2
+Cancer Gene Census				Somatic Variant	CRTC3	Missense	p.E215D	15	91161146	91161146.0	G	G	C	0.4138	87.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	1	0	0	1
+Cancer Gene Census				Copy Number	KIAA1549	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	1	0	0	1
+Cancer Gene Census				Copy Number	TRRAP	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	1	0	0	1
+Cancer Gene Census				Copy Number	SND1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	1	0	0	1
+Cancer Pathway				Somatic Variant	CAMK2B	Missense	p.A431T	7	44259810	44259810.0	C	C	T	0.1296	54.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	1	1	1
+Cancer Pathway				Somatic Variant	CDC6	Missense	p.S123L	17	38447499	38447499.0	C	C	T	0.5896	173.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	PIK3CG	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	LAMB1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	FZD1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	RPA3	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	PRKAR2B	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	PSMC2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	RFC2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	XRCC2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	WNT2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	SHH	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	SHFM1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	ARPC1B	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	ARPC1A	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	CAV1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	MCM7	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	DBF4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	FZD9	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	1	1	1
+Cancer Pathway				Somatic Variant	GRIP1	Missense	p.T882M	12	66765685	66765685.0	G	G	A	0.2761	163.0	1.7e-05	0.0		0								10.0	0.4	0.2985		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	1	0	2
+Cancer Pathway				Copy Number	WNT16	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	1	0	1
+Cancer Pathway				Copy Number	WASL	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	1	0	1
+Cancer Pathway				Copy Number	LAMB4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	1	0	1
+Cancer Module				Somatic Variant	HSPD1	Missense	p.H267N	2	198358118	198358118.0	G	G	T	0.4345	168.0	0.0	0.0		0								392.0	0.4923	1.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	BHLHE40	Missense	p.S256C	3	5024904	5024904.0	A	A	T	0.6393	122.0	0.0	0.0		0								257.0	0.6148	1.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	ACOX1	Missense	p.C449Y	17	73945931	73945931.0	C	C	T	0.5589999999999999	161.0	0.0	0.0		0								31.0	0.5484	1.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	ACADL	Missense	p.Q153R	2	211081149	211081149.0	T	T	C	0.322	59.0	0.0	0.0		0								61.0	0.4098	0.9999		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	TM7SF3	Missense	p.H56N	12	27156249	27156249.0	G	G	T	0.35	60.0	0.0	0.0		0								40.0	0.275	0.9992		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	SLC2A2	Missense	p.L46S	3	170732492	170732492.0	A	A	G	0.2703	185.0	0.0	0.0		0								31.0	0.2258	0.9769		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	TAF9B	Missense	p.P211T	X	77387232	77387232.0	G	G	T	0.2989	87.0	0.0	0.0		0								26.0	0.2692	0.9602		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	ARL4A	Missense	p.K176N	7	12728407	12728407.0	G	G	C	0.4559	136.0	0.0	0.0		0								13.0	0.6154	0.9048		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	STK25	Missense	p.S331I	2	242437690	242437690.0	C	C	A	0.0503	179.0	0.0	0.0		0								141.0	0.0496	0.8984		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	SRCAP	Missense	p.P1794A	16	30736125	30736125.0	C	C	G	0.321	81.0	1.6e-05	0.0		0								19.0	0.2632	0.8864		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	SLC6A6	Missense	p.D287N	3	14508150	14508150.0	G	G	A	0.5935	155.0	0.0	0.0		0								5.0	0.4	0.3271		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	CELSR1	Missense	p.I675V	22	46931045	46931045.0	T	T	C	0.3333	33.0	0.0	0.0		0								7.0	0.7143	0.2073		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	DST	Missense	p.T3270K	6	56468984	56468984.0	G	G	T	1.0	2.0	0.0	0.0		0								2.0	1.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	SPINK5	Missense	p.V938F	5	147505159	147505159.0	G	G	T	0.52	50.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	COL5A3	Missense	p.G800E	19	10096525	10096525.0	C	C	T	0.5297	387.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	SVEP1	Splice Site		9	113234604	113234615.0	CTGGATAGTCGG	CTGGATAGTCGG	-	0.3478	46.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	ATP7B	Frameshift	p.E412fs	13	52548120	52548120.0	T	T	-	0.4228	123.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	TIMELESS	Missense	p.R434H	12	56822670	56822670.0	C	C	T	0.29	100.0	8e-06	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	ADAM15	Missense	p.S669C	1	155032387	155032387.0	A	A	T	0.4098	366.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	CD180	Missense	p.H332R	5	66479676	66479676.0	T	T	C	0.4176	182.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	SLC6A7	Missense	p.F245L	5	149580661	149580661.0	T	T	C	0.4681	94.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	PHRF1	Nonsense	p.E248*	11	597418	597418.0	G	G	T	0.2	25.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	DSCAM	Missense	p.K539E	21	41710196	41710196.0	T	T	C	0.764	89.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	ISG20L2	Missense	p.L306F	1	156693972	156693972.0	G	G	A	0.0825	194.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	LANCL2	Missense	p.G105A	7	55459595	55459595.0	G	G	C	0.1837	147.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	KCNS2	Frameshift	p.Q420fs	8	99441466	99441466.0	A	A	-	0.4583	216.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	NXF1	Frameshift	p.L315fs	11	62567920	62567921.0	-	-	G	0.3662	71.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	SSH1	Missense	p.H907L	12	109182194	109182194.0	T	T	A	0.6798	178.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	EIF5	Frameshift	p.K407fs	14	103807312	103807312.0	A	A	-	0.3191	47.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	NR2F2	Frameshift	p.K141fs	15	96875754	96875755.0	-	-	T	0.2895	76.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	COQ9	Nonsense	p.Q281*	16	57494525	57494525.0	C	C	T	0.1569	102.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	KCNJ2	Missense	p.R82Q	17	68171425	68171425.0	G	G	A	0.3364	217.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	PCSK2	Insertion	p.3_3G>GG	20	17207956	17207957.0	-	-	GGT	0.5753	186.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	HSPA13	Missense	p.R340S	21	15746336	15746336.0	G	G	T	0.1154	26.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	POLDIP3	Frameshift	p.P159fs	22	42998037	42998037.0	G	G	-	0.3842	177.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	MBTPS2	Missense	p.Y18H	X	21857904	21857904.0	T	T	C	1.0	4.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	1	1
+Cancer Module				Copy Number	PCLO	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	OR2A1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PPP1R3A	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZC3HC1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MGAM	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	THSD7A	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PON1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PTPRN2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TMEM140	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TBXAS1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	STAG3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CLCN1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	COG5	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LRRC17	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DNAJC30	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PHF14	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZDHHC4	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	POMZP3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PTPN12	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PAX4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PARP12	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNF3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TRIP6	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC4A2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ARHGEF5	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ATP5J2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ASNS	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	BAZ1B	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CLIP2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	COL1A2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CNOT4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CALD1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CADPS2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LRCH4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LMTK2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KEL	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KCNH2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	AASS	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NRCAM	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NUP205	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DUS4L	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CYP3A7	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FLNC	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ICA1	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MIOS	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FSCN1	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KDELR2	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	AIMP2	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RNF216	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GLCCI1	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ARL4A	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NDUFA4	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	POP7	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PON3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PON2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	POLR2J	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PTPRZ1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PTN	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PTCD1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PRSS1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ORC5	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ORAI2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	OR2F1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PLOD3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PIP	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PILRB	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PEX1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PEG10	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PDK4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PDIA4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PDAP1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PCOLCE	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RARRES2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RNF133	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	REPIN1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RELN	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TRIM4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TFR2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TFPI2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TFEC	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TES	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TPK1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TP53TG1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNF282	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNF212	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZKSCAN5	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNF655	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNF767	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZYX	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZP3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNHIT1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	YWHAG	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	UBE2H	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	UBE3C	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	WBSCR22	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	VGF	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SRPK2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	STEAP1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SRRT	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TAF6	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TAC1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SYPL1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	STX1A	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SRI	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC25A13	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SH2B2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SGCE	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SERPINE1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SEMA3C	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SEMA3A	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC26A3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SMARCD3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ARF5	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	AP1S1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ANKRD7	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ALKBH4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	AKR1D1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	AKR1B1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	BCAP29	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	BAIAP2L1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	AZGP1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ATP6V1F	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	AHCYL2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ACTL6B	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	AGAP3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ADCK2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ACTR3B	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ACHE	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CLDN3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CLDN15	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CEP41	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CDK5	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CD36	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CCL26	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CLDN4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CPA2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CPA1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	COPS6	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CAPZA2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CCDC132	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CAV2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CASP2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CALU	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CACNA2D1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ABCB8	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ABCB4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CROT	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MDH2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MAGI2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LRRN3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LRRC61	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LRRC4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MEST	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KLHDC10	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LIMK1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LEP	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NDUFA5	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NAMPT	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NPTX2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	OPN1SW	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NRF1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MTPN	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MKRN1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	JHDM1D	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EN2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EIF4H	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DYNC1I1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DNAJB9	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	IRF5	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FAM3C	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FAM115A	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ERVW-1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EPO	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EPHB6	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EPHB4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DGKI	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CYP3A5	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CYP3A4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GRM8	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GPR37	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HBP1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	IMMP2L	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	INSIG1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	IMPDH1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HSPB1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FSCN3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FOXP2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FKBP6	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FGL2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GNG11	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GNAI1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GIMAP5	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GIMAP4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GIGYF1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PFKFB1	Deletion		X	54988163	54988295.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TMEM120A	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	1	0
+Cosmic				Somatic Variant	EIF2B5	Missense	p.D641N	3	183861938	183861938.0	G	G	A	0.2578	446.0	4.1e-05	0.0		0								116.0	0.319	1.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	KNDC1	Missense	p.V534I	10	135009191	135009191.0	G	G	A	0.3636	33.0	2.5e-05	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	BPNT1	Missense	p.Y293C	1	220232235	220232235.0	T	T	C	0.152	171.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	LRRC1	Missense	p.P481Q	6	53787458	53787458.0	C	C	A	0.8802	192.0	0.0	0.0		0								38.0	1.0	1.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	ZNF503	Missense	p.P474Q	10	77159027	77159027.0	G	G	T	0.7586	29.0	0.0	0.0		0								35.0	0.6	1.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	PLEKHG2	Missense	p.P1184S	19	39915323	39915323.0	C	C	T	0.428	250.0	0.0	0.0		0								13.0	0.3846	0.8725		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	NEK8	Missense	p.P492A	17	27067537	27067537.0	C	C	G	0.2721	272.0	0.0	0.0		0								11.0	0.5455	0.3552		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	SMPD4	Missense	p.D77N	2	130932501	130932501.0	C	C	T	0.0702	228.0	0.0	0.0		0								16.0	0.25	0.0312		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	OR2J3	Frameshift	p.S270fs	6	29080474	29080475.0	TT	TT	-	0.875	80.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	OR5P2	Missense	p.S184T	11	7817940	7817940.0	A	A	T	0.3846	78.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	SDK1	Missense	p.T1188S	7	4153049	4153049.0	C	C	G	0.0641	359.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	DPP10	Missense	p.T754N	2	116598392	116598392.0	C	C	A	0.4697	66.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	GLB1L3	Missense	p.N117H	11	134147793	134147793.0	A	A	C	0.4054	37.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	CACNA1H	Missense	p.I1621T	16	1263882	1263882.0	T	T	C	0.6333	30.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	PCDHB1	Missense	p.A783V	5	140433403	140433403.0	C	C	T	0.0299	134.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	TMEM67	Missense	p.N251T	8	94792858	94792858.0	A	A	C	0.4545	253.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	NLRP5	Missense	p.T800I	19	56544099	56544099.0	C	C	T	0.3769	130.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	DENND5B	Missense	p.M82T	12	31633182	31633182.0	A	A	G	0.4286	7.0	8e-06	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	EIF4G3	Missense	p.A211V	1	21276537	21276537.0	G	G	A	0.1795	39.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	EIF4G3	Missense	p.A211S	1	21276538	21276538.0	C	C	A	0.1579	38.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	IGSF9	Missense	p.P995H	1	159898194	159898194.0	G	G	T	0.6	10.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	ASB4	Missense	p.H269L	7	95157443	95157443.0	A	A	T	0.0357	112.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	OR10A5	Missense	p.I222M	11	6867579	6867579.0	T	T	G	0.0259	232.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	CD248	Frameshift	p.I645fs	11	66082566	66082566.0	T	T	-	0.4344	122.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	USP3	Missense	p.S469A	15	63882867	63882867.0	T	T	G	0.3867	181.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	HMSD	Missense	p.I49V	18	61621714	61621714.0	A	A	G	0.0956	136.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	IGLL5	Missense	p.P156S	22	23237695	23237695.0	C	C	T	0.3659	41.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	SPIN3	Missense	p.A125G	X	57021007	57021007.0	G	G	C	0.0423	189.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	RAB37	Missense	p.V40I	17	72736931	72736931.0	G	G	A	0.0608	411.0	8e-06	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	RPP40	Missense	p.H161R	6	4998958	4998958.0	T	T	C	0.9524	21.0	0.000132	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	0	1
+Cosmic				Copy Number	MUC3A	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MUC17	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TNRC18	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZC3HAV1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM71F2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RSPH10B	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM176B	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	WBSCR27	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	STEAP2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TAS2R4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2A5	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2A25	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CDHR3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C7orf63	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NOM1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2A2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2A14	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	POM121	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PVRIG	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM176A	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TRIM50	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	UPK3B	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SAMD9	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	STEAP4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ASB15	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CFTR	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CPED1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CPA4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	METTL2B	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRBA1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NAPEPLD	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2A12	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MLXIPL	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM115C	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FBXL13	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GTPBP10	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GALNTL5	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MEOX2	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FBXL18	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	COL28A1	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	USP42	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	POM121C	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRSS37	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRKRIP1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR6V1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR6B1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2AE1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PILRA	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RAB19	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RASA4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RINT1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TECPR1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM213	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF398	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TRIM74	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF862	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF786	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF783	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	WBSCR28	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	WDR91	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	VPS37D	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TAS2R5	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TAS2R16	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TAS2R41	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TAS2R38	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SVOPL	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SAMD9L	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SRCRB4D	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC13A1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC37A3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	AKR1B10	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ATP6V0A4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ATG9B	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCL24	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCDC136	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C7orf55	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CALCR	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	KLF14	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NOS3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DTX2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DENND2A	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CTTNBP2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GTF2IRD2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GAL3ST4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FBXO24	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Rearrangement	MACC1	Fusion	MACC1--AC005062.2	chr7	20256922							0.0	0.0		0	5.0	MACC1	chr7	20256922.0	AC005062.2	chr7	20085184.0					KIRP-AL-3468			0	0	0	0	0	0	1
+Cosmic				Copy Number	RSPH10B2	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C7orf26	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCZ1	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C1GALT1	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SCIN	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	AGMO	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	AC073343.1	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC29A4	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GRID2IP	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM106B	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	VWDE	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	EIF2AK1	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	WIPI2	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF12	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DGKB	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DAGLB	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NXPH1	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OCM	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF853	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CYTH3	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ACTB	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RP11-1220K2.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRKAG2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	POLR2J3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	POLR2J2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PODXL	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PPP1R9A	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PMS2P3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PUS7	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRSS58	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRRT4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PNPLA8	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PMPCB	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RABL5	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR9A4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR9A2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR6W1P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2F2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2A7	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PLXNA4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PHTF2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RNF32	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RNF148	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RHBDD2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RBM33	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RBM28	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RASA4B	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TRIM56	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM209	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM168	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM139	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM130	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	THAP5	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM229A	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM60	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TNPO3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMUB1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TRIM73	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF746	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF467	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF425	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF394	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF277	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZKSCAN1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZCWPW1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZC3HAV1L	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF775	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZSCAN21	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF804B	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF800	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF789	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZAN	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TTC26	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TSPAN33	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TSPAN12	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TSGA13	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TSC22D4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TRPV6	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TRPV5	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	UBN2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	UFSP1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	WEE2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	WDR86	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	WBSCR16	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	UPK3BL	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TBL2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TAS2R60	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RSBN1L	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2A42	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RUNDC3B	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	STAG3L3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	STAG3L2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	STAG3L1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ST7	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TAS2R40	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TAS2R39	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TAS2R3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	STRA8	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	STYXL1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	STRIP2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SRRM3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC25A40	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC13A4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC12A9	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SEMA3E	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SEMA3D	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SAP25	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC26A4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SPDYE3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SPDYE2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SPAM1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SMURF1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC26A5	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC35B4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ARMC10	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ARHGEF35	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	AP4M1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ANKIB1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	AKR1B15	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ASB10	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ATXN7L1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ATP6V0E2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ASZ1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ASIC3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ASB4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	AGK	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	AGFG2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	AGBL3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ADAM22	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ACN9	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	BCL7B	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CLEC2L	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CLDN12	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CHRM2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CHPF2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CHCHD3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CDK14	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CLEC5A	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	BET1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CPSF4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CPA5	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	COPG2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CNPY4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CNPY1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCDC71L	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCDC146	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C7orf61	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C7orf60	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C7orf49	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C7orf43	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C7orf34	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C7orf33	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C7orf13	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	BUD31	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	BRI3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	BPGM	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	BHLHA15	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C7orf62	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C7orf66	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CBLL1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CASD1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C7orf73	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CALN1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ABHD11	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ABCF2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	AC009365.3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CRYGN	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MBLAC1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	LUZP6	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	LUC7L2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRWD1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRRD1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MEPCE	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRGUK	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRIT1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	KPNA7	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	KLRG2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	KIAA1324L	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	KIAA1147	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	KCP	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	LMOD2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	LMBR1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	LAT2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	LHFPL3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MUC12	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NOBOX	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NDUFB2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NAA38	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MYL10	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MYH16	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OCM2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NUB1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NSUN5P2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NSUN5P1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NSUN5	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MTERF	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MRPS33	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MOSPD3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MOGAT3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MKLN1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	KCND2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	EFCAB10	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DOCK4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DNAJC2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DNAJB6	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM200A	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM185A	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM180A	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM133B	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	EXOC4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DMTF1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DLX6	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CTAGE8	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CTAGE4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DLD	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CYP51A1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CYP3A43	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM71F1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FASTK	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GTF2IRD2B	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GTF2IRD1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GSTK1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GPR85	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	HEPACAM2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ING3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	IFRD1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	HYAL4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	HTR5A	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	HIPK2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GPR22	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GPC2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GNGT1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GATS	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GALNT11	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FIS1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FEZF1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GATAD1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GATSL1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GATSL2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GNB2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GNAT3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GJC3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GIMAP8	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GIMAP7	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GIMAP6	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GIMAP2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GIMAP1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GCC1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GBX1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND6	Fusion	MT-ND6--MT-ND5	chrM	14256							0.0	0.0		0	14.0	MT-ND6	chrM	14256.0	MT-ND5	chrM	14128.0					KIRP-AL-3468			0	0	0	0	0	0	1
+Cosmic				Rearrangement	ST7	Fusion	ST7-OT4--ST7	chr7	116595207							0.0	0.0		0	10.0	ST7-OT4	chr7	116595207.0	ST7	chr7	116738667.0					KIRP-AL-3468			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND5	Fusion	MT-ND6--MT-ND5	chrM	14256							0.0	0.0		0	14.0	MT-ND6	chrM	14256.0	MT-ND5	chrM	14128.0					KIRP-AL-3468			0	0	0	0	0	0	1
+VUS				Somatic Variant	GAREM	Missense	p.P224S	18	29867890	29867890.0	G	G	A	0.3858	127.0	0.0	0.0		0								9.0	0.6667	0.4851		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	0	0
+VUS				Somatic Variant	RP11-287D1.3	Missense	p.L120V	2	74589259	74589259.0	G	G	C	0.5	78.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	0	0
+VUS				Somatic Variant	SPATA31D1	Frameshift	p.K1440fs	9	84609703	84609703.0	A	A	-	0.3816	76.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-3468	KIRP-AL-3468-TP	KIRP-AL-3468-NB	0	0	0	0	0	0	0
+VUS				Copy Number	FAM220A	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTAGE15	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	GSAP	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	CCZ1B	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	NYAP1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC079804.1	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006458.3	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1275H24.1	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	FLJ20306	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC007009.1	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC007009.2	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC007128.1	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC007161.5	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RPA3-AS1	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC009473.1	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1275H24.2	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006373.1	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006041.1	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005550.3	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005550.4	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005550.5	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006000.5	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1159O4.1	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006042.6	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3683	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006042.7	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1159O4.2	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006150.1	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006150.2	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-855F16.1	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1275H24.3	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP228	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC092171.2	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	ANKRD61	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC092104.1	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC092104.2	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC092104.3	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC092104.4	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC092104.5	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC092171.4	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC079756.1	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC093376.1	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC093620.5	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNF216-IT1	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC079804.2	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC079742.4	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC011288.2	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC011891.5	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-534P	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC060834.3	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL556P	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC073343.13	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC073343.2	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-218P	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL851P	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-215P	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005532.5	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006483.1	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR589	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC004895.4	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC004895.1	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	PMS2CL	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC004538.3	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC004535.2	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC004160.4	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-611L7.1	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	ZNF815P	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-161C1.1	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-594A5.1	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005281.2	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005019.3	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1007H16.1	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-196O16.1	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005281.1	Amplification		7	5220675	16169658.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-274B21.10	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-177P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-142A5.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1328P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-162P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-395B7.7	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-3B12.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1322P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-3B12.3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1272P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-3B12.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-395B7.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-395B7.4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-206P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1198P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-390E23.6	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-390E23.3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-38M8.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-36B6.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-332K15.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-328J2.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-325F22.5	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-223P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-267P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-274P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-11P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1136P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1184P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1154P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU1-82P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU4-16P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-458K10.3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-458K10.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU4-31P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU4-74P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1010P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-102P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-458K10.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1070P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1080P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-10P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-44M6.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-448A19.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-445N20.3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-3B12.5	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-148K1.12	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-163E9.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-148K1.10	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-143I21.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-180C16.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1104P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-337P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-296P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-392P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-364P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-114L10.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-54P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-306G20.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNY1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-251G23.5	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNY3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNY4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-264K23.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-2E11.9	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-2E11.5	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-138A9.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNY5	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-2E11.10	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-22N19.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-134L10.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-132A1.4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-286H14.8	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-274B21.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-132A1.3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-115N4.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-126L15.4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-286H14.6	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-286H14.4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-274B21.9	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-307C18.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-309L24.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-274B21.8	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-650P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-393P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-138A9.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-517P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-325F22.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-212P7.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-530P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-313P13.5	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-532P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-309L24.9	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-581P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-604P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-155G14.6	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-27P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-849P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-863P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-911P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-956P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6ATAC40P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-154P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-212P7.3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-16P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-309L24.4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-188P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-20P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-797P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU1-72P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	PPP1R35	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	PRKAG2-AS1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	PRSS3P3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	PRSS3P2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	OR9N1P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	OR9A3P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	OR9A1P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	OR2A9P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	PAXIP1-AS1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	PCOLCE-AS1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	PAXIP1-AS2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU1-58P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP236	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-476H24.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP234	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP233	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL8P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL869P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL845P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL81P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL811P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL7P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL771P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL76P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL750P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL72P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL642P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL625P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP235	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP237	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL549P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP238	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP250	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP249	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP248	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP247	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP246	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP245	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP244	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP243	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP242	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP241	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP240	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP239	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL569P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL535P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP277	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP198	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP187	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP174	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP129	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP104	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RBM48	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP223	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP280	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL521P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP54	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL481P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL478P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL456P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL416P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL377P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL35P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL306P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL265P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL252P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL212P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL207P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL161P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL142P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL13P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP86	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-467H10.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-584D14.6	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-506M12.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV5-6	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV5-4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV5-3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV5-1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV4-2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV4-1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV30	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV3-1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV29-1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV28	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV27	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV25-1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV24-1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV23-1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV20-1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV5-5	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV5-7	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV6-1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV9	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV7-8	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV7-7	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV7-6	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV7-4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV7-3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV7-1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV6-9	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV6-8	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV6-7	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV6-6	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV6-5	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV6-4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV19	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV11-2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV11-1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV10-2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TMEM178B	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TMEM243	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBJ2-2P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBV10-1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBJ2-7	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBJ2-6	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBJ2-5	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBJ2-4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBJ2-3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBJ2-2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBJ2-1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TRBC2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-514P8.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	ZBED6CL	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	snoZ185	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	hsa-mir-490	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	hsa-mir-335	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	ZSCAN25	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	U66059.58	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	U66059.29	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	U1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TYW1B	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	TSRM	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	WEE2-AS1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	WDR86-AS1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1121A15.3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1070G24.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1048B16.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1006K12.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-813F11.4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-800G7.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-797C5.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-778K6.3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-751H13.7	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-745K6.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-742N3.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-669B10.3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-639J15.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-630C24.3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-607J23.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-604G5.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1101C3.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1121E10.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1136G13.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RPL13AP17	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-981O7.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-921G16.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-921G16.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-912I13.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-899E9.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-894A10.6	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-894A10.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-884M6.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-842K16.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-842K16.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1186P10.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1185I7.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1142J19.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-593H12.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-584D14.7	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-584D14.5	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-682N22.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-645N11.3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-644N4.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-634H22.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-62J1.4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-61L23.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-61D3.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-5C23.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-5C23.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-563K23.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-560I19.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-545G3.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-514P8.8	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-514P8.7	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-514P8.6	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-728K20.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-728K20.3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-731K22.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-775D22.3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-555L14.4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-548D19.3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-545C24.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP13-452N2.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-807H17.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-796I2.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-775D22.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-736E3.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-758P17.3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-758P17.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-757A13.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-744I24.3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-744I24.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-738B7.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	RSBN1L-AS1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	STAG3L5P-PVRIG2P-PILRB	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	STAG3L5P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	ST7-OT4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	ST7-AS2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	ST7-AS1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	SSPO	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	SSMEM1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	STEAP2-AS1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	SLC26A4-AS1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	SPDYE2B	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD46	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	SNORA14A	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	SMKR1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	snosnR60_Z15	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AZGP1P1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	ATP6V0E2-AS1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	ATP5J2-PTCD1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC093668.3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC093668.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC092849.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC092022.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC091738.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC091736.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC091320.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC084872.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC084368.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC083884.8	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC083875.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC083867.4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC083862.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC079799.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC079781.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC093673.5	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC099552.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC099552.3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AF104455.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	ACTR3C	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC099552.4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC144652.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC118138.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC106873.4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC105052.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC104133.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC078842.3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	COL26A1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	C7orf55-LUC7L2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	BLACE	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	C7orf76	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC078842.4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC074183.4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	OR2A20P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005008.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC004980.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC004969.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC004941.3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC004893.11	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC004878.8	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC004878.7	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC004878.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC004875.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC004862.6	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC004851.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC004745.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC004492.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC004458.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC004112.4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC004014.3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC004980.7	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005009.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005631.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005009.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005522.7	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005518.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005488.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005487.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005276.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005229.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005161.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005159.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005088.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005077.5	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005077.12	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005076.5	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005071.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005048.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005020.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC004012.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC003991.3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC003988.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC003984.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC002066.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC002064.5	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC002064.4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC000370.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC000124.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC000123.4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC000120.7	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC000111.6	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC000111.3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC000099.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC002066.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC002076.10	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC002127.4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC002465.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC003968.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC003092.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC003092.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC003088.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC003084.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC002467.7	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC002463.3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC002383.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC002456.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC002454.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC002451.3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC002451.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC002429.5	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC002386.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005534.8	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006004.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC073934.6	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC068610.3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC024084.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC024082.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC022173.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC021218.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC020606.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC018643.4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC018635.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC018464.3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC016831.7	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC015987.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC015987.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC011625.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC010091.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC009784.3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC009784.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC025594.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC068610.5	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006007.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC069294.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC073842.19	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC073647.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC073635.5	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC073626.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC073342.12	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC073342.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC073320.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC073236.3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC073133.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC073133.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC073130.3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC073130.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC073127.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC073071.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC073063.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC009542.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC009518.8	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC009518.4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC009403.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006452.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006378.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006372.6	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006372.5	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006372.4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006372.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006322.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006159.5	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006159.4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006159.3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006145.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006019.4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006019.3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006014.8	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006014.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006926.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006967.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006988.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC008085.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC009365.4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC009276.4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC008163.4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC008154.5	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC008154.4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC008060.8	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006995.8	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC008060.7	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC008060.5	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC007567.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC007566.10	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC007078.4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC007003.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MAGI2-IT1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MAGI2-AS3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MAGI2-AS2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MAGI2-AS1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	LSMEM1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTA-254O6.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3907	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3666	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3609	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR335	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR29B1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR25	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR183	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR182	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR129-1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1285-1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1255B1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR106B	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	KMT2E-AS1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	KMT2E	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	LAMTOR4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00998	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01007	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01006	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01004	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01003	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00996	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00972	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00035	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	LHFPL3-AS1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4284	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4285	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4467	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	NFE4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	NDUFB2-AS1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	NCF1B	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	NAT16	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	OR2A1-AS1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	OR10AC1P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MTRNR2L6	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4468	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR592	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR591	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR590	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR5692C2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR5692A1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR548O	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR548F4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR5090	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR490	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR489	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4658	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4653	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4652	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4651	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4650-2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR593	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR653	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR671	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MNX1-AS1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MOXD2P	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MNX1-AS2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR93	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MKLN1-AS2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MKLN1-AS1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR96	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	JHDM1D-AS1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	DTX2P1-UPK3BP1-PMS2P11	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	DPY19L2P4	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	DPY19L2P2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	DOCK4-AS1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	EPHA1-AS1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	FABP5P3	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	DLX6-AS2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	DLX6-AS1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-161K23.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-152G17.6	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-13L3.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-13F3.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-111H14.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-111F10.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-107G13.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTAGE6	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTA-363E19.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTA-360L10.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTA-357J21.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTA-339C12.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-167B5.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-167B5.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-181H17.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-30L5.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-51J22.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	GTF2IRD2P1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	GS1-293C5.1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	GS1-259H13.2	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	GS1-259H13.10	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	IQCA1P1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	IMMP2L-IT1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	HILPDA	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	HTR5A-AS1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	FLJ00325	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number	FEZF1-AS1	Amplification		7	71696627	157339589.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Copy Number		Deletion		X	35659979	35660211.0						0.0	0.0		0												KIRP-AL-3468	TCGA-AL-3468-01		0	0	0	0	0	0	0
+VUS				Rearrangement	ST7-OT4	Fusion	ST7-OT4--ST7	chr7	116595207							0.0	0.0		0	10.0	ST7-OT4	chr7	116595207.0	ST7	chr7	116738667.0					KIRP-AL-3468			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-96H19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	20.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	47046173.0					KIRP-AL-3468			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-446N19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	20.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	47046173.0					KIRP-AL-3468			0	0	0	0	0	0	0
+VUS				Rearrangement	AC005062.2	Fusion	MACC1--AC005062.2	chr7	20256922							0.0	0.0		0	5.0	MACC1	chr7	20256922.0	AC005062.2	chr7	20085184.0					KIRP-AL-3468			0	0	0	0	0	0	0

@@ -1,0 +1,238 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Investigate Actionability	Investigate Actionability			Somatic Variant	SMARCA4	Missense	p.E821K	19	11129655	11129655.0	G	G	A	0.7477	214.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-A5DJ	KIRP-AL-A5DJ-TP	KIRP-AL-A5DJ-NB	2	2	0	1	0	1	2
+Cancer Hotspot				Somatic Variant	KMT2C	Missense	p.E3812D	7	151859226	151859226.0	C	C	A	0.2069	29.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-A5DJ	KIRP-AL-A5DJ-TP	KIRP-AL-A5DJ-NB	0	1	1	1	0	0	2
+Cancer Hotspot 3D				Copy Number	ATXN1	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	1	0	0	0	1
+Cancer Gene Census				Somatic Variant	RANBP2	Missense	p.L3044V	2	109399079	109399079.0	T	T	G	0.2466	73.0	0.0	0.0		0								32.0	0.2188	0.9543		KIRP-AL-A5DJ	KIRP-AL-A5DJ-TP	KIRP-AL-A5DJ-NB	0	0	0	1	0	1	2
+Cancer Gene Census				Copy Number	DEK	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	1	0	1	1
+Cancer Pathway				Rearrangement	IGKC	Fusion	IGKV4-1--IGKC	chr2	89185484							0.0	0.0		0	1852.0	IGKV4-1	chr2	89185484.0	IGKC	chr2	89157196.0					KIRP-AL-A5DJ			0	0	0	0	1	1	0
+Cancer Pathway				Rearrangement	IGLV1-44	Fusion	IGLV1-44--IGLJ2	chr22	22735712							0.0	0.0		0	7.0	IGLV1-44	chr22	22735712.0	IGLJ2	chr22	23241797.0					KIRP-AL-A5DJ			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGLV1-40	Fusion	IGLV1-40--IGLJ3	chr22	22764613							0.0	0.0		0	769.0	IGLV1-40	chr22	22764613.0	IGLJ3	chr22	23247170.0					KIRP-AL-A5DJ			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGKV4-1	Fusion	IGKV4-1--IGKJ3	chr2	89185668							0.0	0.0		0	646.0	IGKV4-1	chr2	89185668.0	IGKJ3	chr2	89160770.0					KIRP-AL-A5DJ			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGKV4-1	Fusion	IGKV4-1--IGKC	chr2	89185484							0.0	0.0		0	1852.0	IGKV4-1	chr2	89185484.0	IGKC	chr2	89157196.0					KIRP-AL-A5DJ			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGKV4-1	Fusion	IGKV4-1--AC096579.7	chr2	89185668							0.0	0.0		0	2442.0	IGKV4-1	chr2	89185668.0	AC096579.7	chr2	89160770.0					KIRP-AL-A5DJ			0	0	0	0	1	0	0
+Cancer Module				Somatic Variant	QARS	Missense	p.L661Q	3	49135888	49135888.0	A	A	T	0.3021	96.0	0.0	0.0		0								758.0	0.3311	1.0		KIRP-AL-A5DJ	KIRP-AL-A5DJ-TP	KIRP-AL-A5DJ-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	MAGEC1	Missense	p.G986W	X	140996146	140996146.0	G	G	T	0.2992	127.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-A5DJ	KIRP-AL-A5DJ-TP	KIRP-AL-A5DJ-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	CD163	Missense	p.A251V	12	7651490	7651490.0	G	G	A	0.2165	97.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-A5DJ	KIRP-AL-A5DJ-TP	KIRP-AL-A5DJ-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	NUP205	Missense	p.R748H	7	135282924	135282924.0	G	G	A	0.3415	82.0	2.5e-05	0.0		0								0.0	0.0	0.0		KIRP-AL-A5DJ	KIRP-AL-A5DJ-TP	KIRP-AL-A5DJ-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	CLCN3	Missense	p.I540T	4	170625204	170625204.0	T	T	C	0.2941	170.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-A5DJ	KIRP-AL-A5DJ-TP	KIRP-AL-A5DJ-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	EFCAB11	Missense	p.E153K	14	90263622	90263622.0	C	C	T	0.0455	66.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-A5DJ	KIRP-AL-A5DJ-TP	KIRP-AL-A5DJ-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	BIK	Missense	p.G65W	22	43523734	43523734.0	G	G	T	0.2162	37.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-A5DJ	KIRP-AL-A5DJ-TP	KIRP-AL-A5DJ-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	GABRA3	Missense	p.R34Q	X	151532942	151532942.0	C	C	T	0.4494	89.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-A5DJ	KIRP-AL-A5DJ-TP	KIRP-AL-A5DJ-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	HAO1	Missense	p.R145W	20	7894923	7894923.0	G	G	A	0.2383	256.0	5.7999999999999994e-05	0.0		0								0.0	0.0	0.0		KIRP-AL-A5DJ	KIRP-AL-A5DJ-TP	KIRP-AL-A5DJ-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	PCBP4	Missense	p.G114S	3	51994252	51994252.0	C	C	T	0.2024	252.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-A5DJ	KIRP-AL-A5DJ-TP	KIRP-AL-A5DJ-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	XRN1	Missense	p.S1547L	3	142031582	142031582.0	G	G	A	0.2039	103.0	6.6e-05	0.0		0								0.0	0.0	0.0		KIRP-AL-A5DJ	KIRP-AL-A5DJ-TP	KIRP-AL-A5DJ-NB	0	0	0	0	0	1	1
+Cancer Module				Copy Number	HIVEP1	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RREB1	Amplification		6	6997867	7507717.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	F13A1	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PRPF4B	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GMPR	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KIF13A	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DSP	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EDN1	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NUP153	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MYLIP	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FAM50B	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LY86	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NRN1	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC22A23	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CDYL	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TFAP2A	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TPMT	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GCM2	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ID4	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	JARID2	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ELOVL2	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EEF1E1	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	BMP6	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CAP2	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CD83	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MAK	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TXNDC5	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NEDD9	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RANBP9	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PAK1IP1	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NOL7	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SSR1	Amplification		6	6997867	7507717.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MSX1	Deletion		4	4867822	4880597.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	IGLJ3	Fusion	IGLV1-40--IGLJ3	chr22	22764613							0.0	0.0		0	769.0	IGLV1-40	chr22	22764613.0	IGLJ3	chr22	23247170.0					KIRP-AL-A5DJ			0	0	0	0	0	1	0
+Cosmic				Somatic Variant	GFM2	Missense	p.K725N	5	74018240	74018240.0	T	T	G	0.0649	77.0	0.0	0.0		0								45.0	0.1111	0.43		KIRP-AL-A5DJ	KIRP-AL-A5DJ-TP	KIRP-AL-A5DJ-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	C11orf45	Missense	p.R129H	11	128772504	128772504.0	C	C	T	0.4545	55.0	9.9e-05	0.0		0								4.0	1.0	0.0487		KIRP-AL-A5DJ	KIRP-AL-A5DJ-TP	KIRP-AL-A5DJ-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	MEGF6	Missense	p.A492V	1	3425692	3425692.0	G	G	A	0.25	28.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-A5DJ	KIRP-AL-A5DJ-TP	KIRP-AL-A5DJ-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ZNF502	Splice Site	p.G19V	3	44762365	44762365.0	G	G	T	0.46	50.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-A5DJ	KIRP-AL-A5DJ-TP	KIRP-AL-A5DJ-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ADCY9	Missense	p.R428C	16	4164162	4164162.0	G	G	A	0.1852	108.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-A5DJ	KIRP-AL-A5DJ-TP	KIRP-AL-A5DJ-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	KCNK9	Missense	p.E335K	8	140630623	140630623.0	C	C	T	0.4269	171.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-A5DJ	KIRP-AL-A5DJ-TP	KIRP-AL-A5DJ-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	GCDH	Missense	p.R82C	19	13002761	13002761.0	C	C	T	0.1667	120.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-A5DJ	KIRP-AL-A5DJ-TP	KIRP-AL-A5DJ-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	FRMPD3	Missense	p.R1356T	X	106845237	106845237.0	G	G	C	0.1282	39.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-A5DJ	KIRP-AL-A5DJ-TP	KIRP-AL-A5DJ-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	NDRG4	Missense	p.T236M	16	58541744	58541744.0	C	C	T	0.1429	91.0	1.6e-05	0.0		0								0.0	0.0	0.0		KIRP-AL-A5DJ	KIRP-AL-A5DJ-TP	KIRP-AL-A5DJ-NB	0	0	0	0	0	0	1
+Cosmic				Copy Number	PXDC1	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SYCP2L	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SIRT5	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SNRNP48	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ERVFRD-1	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GCNT2	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OFCC1	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	LYRM4	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FARS2	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PPP1R3G	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C6orf201	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RPP40	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ECI2	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ADTRP	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC35B3	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TBC1D7	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM14B	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM14C	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM170B	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM8A1	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GCNT6	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GFOD1	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MBOAT1	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	KDM1B	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C6orf52	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DTNBP1	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RNF144B	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RNF182	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PHACTR1	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RBM24	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NHLRC1	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RIOK1	Amplification		6	6997867	7507717.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CAGE1	Amplification		6	6997867	7507717.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	1
+VUS				Copy Number	FAM217A	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-274H24.1	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-470L22.1	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP202	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-430A16.1	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL221P	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-406P24.4	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-406P24.3	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-400B16.4	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-400B16.3	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-400B16.1	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-380B8.4	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	LY86-AS1	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RMRPP2	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3691	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR5683	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-420L9.4	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-420L9.5	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-428J1.5	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-428J1.4	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-256G22.2	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-223B1.1	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	C6ORF50	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-80N2.2	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-80N2.3	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-140K8.1	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL162381.1	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-529N6.2	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-529N6.1	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL157775.1	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-527G5.1	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-140K8.5	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-232P20.1	Amplification		6	3451953	6764583.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-257A7.4	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-203H2.2	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-223E5.4	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-401E14.2	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-359N11.2	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-360O19.4	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-290I10.3	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-359N11.1	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-257A7.5	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-354I10.1	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-203H2.1	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-330A16.1	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-290I10.5	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-290I10.7	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-314C16.1	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-125M16.1	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-421M1.8	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-146I2.1	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-239H6.2	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-456H18.1	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-625H18.2	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	SMIM13	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	STMND1	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-510L9.1	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	TFAP2A-AS1	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-512B11.3	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-500L14.2	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-456H18.2	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-716O23.1	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-500C11.3	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-560J1.2	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-637O19.2	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-637O19.3	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-679B17.2	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-686D16.1	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-151F17.2	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-471C18.2	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-716O23.2	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-380E11.2	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-413H6.2	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-448I9.1	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-448I9.2	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-471C18.1	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-167F1.2	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-645P	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-151F17.1	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	GFOD1-AS1	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	HULC	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	JARID2-AS1	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00518	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	ELOVL2-AS1	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	EEF1E1-BLOC1S5	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL050335.1	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL354680.1	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL441883.1	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL583828.1	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	BLOC1S5	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	BLOC1S5-TXNDC5	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-91P	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	MCUR1	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1114P	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL332P	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP204	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP205	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU1-11P	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU1-64P	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-190P	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP204	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-263P	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-522P	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	AL034375.1	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-793P	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-801P	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6ATAC21P	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-133P	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP293	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP203	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4639	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR548A1	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR5689	Amplification		6	7509966	20344428.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-556O15.1	Amplification		6	6997867	7507717.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-405O10.2	Amplification		6	6997867	7507717.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-69L16.4	Amplification		6	6997867	7507717.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	TMPRSS4-AS1	Deletion		11	117918702	117926735.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2650P22.1	Deletion		15	52306351	52307150.0						0.0	0.0		0												KIRP-AL-A5DJ	TCGA-AL-A5DJ-01		0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-96H19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46848924							0.0	0.0		0	15.0	RP11-96H19.1	chr12	46848924.0	RP11-446N19.1	chr12	47046173.0					KIRP-AL-A5DJ			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKV3-20	Fusion	IGKV3-20--IGKJ2	chr2	89442058							0.0	0.0		0	142.0	IGKV3-20	chr2	89442058.0	IGKJ2	chr2	89161074.0					KIRP-AL-A5DJ			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKV3-20	Fusion	IGKV3-20--AC096579.13	chr2	89442058							0.0	0.0		0	142.0	IGKV3-20	chr2	89442058.0	AC096579.13	chr2	89161074.0					KIRP-AL-A5DJ			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKV3-15	Fusion	IGKV3-15--IGKJ4	chr2	89384674							0.0	0.0		0	79.0	IGKV3-15	chr2	89384674.0	IGKJ4	chr2	89160432.0					KIRP-AL-A5DJ			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKV1-39	Fusion	IGKV1-39--IGKJ1	chr2	89619384							0.0	0.0		0	110.0	IGKV1-39	chr2	89619384.0	IGKJ1	chr2	89161435.0					KIRP-AL-A5DJ			0	0	0	0	0	0	0
+VUS				Rearrangement	IGHGP	Fusion	IGHGP--IGH@	chr14	106134590							0.0	0.0		0	246.0	IGHGP	chr14	106134590.0	IGH@	chr14	106235580.0					KIRP-AL-A5DJ			0	0	0	0	0	0	0
+VUS				Rearrangement	IGHGP	Fusion	IGHGP--IGH-@	chr14	106134694							0.0	0.0		0	149.0	IGHGP	chr14	106134694.0	IGH-@	chr14	106235672.0					KIRP-AL-A5DJ			0	0	0	0	0	0	0
+VUS				Rearrangement	IGH@	Fusion	IGH@--IGHGP	chr14	106109605							0.0	0.0		0	1457.0	IGH@	chr14	106109605.0	IGHGP	chr14	106134725.0					KIRP-AL-A5DJ			0	0	0	0	0	0	0
+VUS				Rearrangement	IGH-@	Fusion	IGH-@--IGHGP	chr14	106110957							0.0	0.0		0	899.0	IGH-@	chr14	106110957.0	IGHGP	chr14	106136122.0					KIRP-AL-A5DJ			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-446N19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46848924							0.0	0.0		0	15.0	RP11-96H19.1	chr12	46848924.0	RP11-446N19.1	chr12	47046173.0					KIRP-AL-A5DJ			0	0	0	0	0	0	0
+VUS				Rearrangement	IGLJ2	Fusion	IGLV1-44--IGLJ2	chr22	22735712							0.0	0.0		0	7.0	IGLV1-44	chr22	22735712.0	IGLJ2	chr22	23241797.0					KIRP-AL-A5DJ			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKJ3	Fusion	IGKV4-1--IGKJ3	chr2	89185668							0.0	0.0		0	646.0	IGKV4-1	chr2	89185668.0	IGKJ3	chr2	89160770.0					KIRP-AL-A5DJ			0	0	0	0	0	0	0
+VUS				Rearrangement	AC096579.7	Fusion	IGKV4-1--AC096579.7	chr2	89185668							0.0	0.0		0	2442.0	IGKV4-1	chr2	89185668.0	AC096579.7	chr2	89160770.0					KIRP-AL-A5DJ			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKJ2	Fusion	IGKV3-20--IGKJ2	chr2	89442058							0.0	0.0		0	142.0	IGKV3-20	chr2	89442058.0	IGKJ2	chr2	89161074.0					KIRP-AL-A5DJ			0	0	0	0	0	0	0
+VUS				Rearrangement	AC096579.13	Fusion	IGKV3-20--AC096579.13	chr2	89442058							0.0	0.0		0	142.0	IGKV3-20	chr2	89442058.0	AC096579.13	chr2	89161074.0					KIRP-AL-A5DJ			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKJ4	Fusion	IGKV3-15--IGKJ4	chr2	89384674							0.0	0.0		0	79.0	IGKV3-15	chr2	89384674.0	IGKJ4	chr2	89160432.0					KIRP-AL-A5DJ			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKJ1	Fusion	IGKV1-39--IGKJ1	chr2	89619384							0.0	0.0		0	110.0	IGKV1-39	chr2	89619384.0	IGKJ1	chr2	89161435.0					KIRP-AL-A5DJ			0	0	0	0	0	0	0
+VUS				Rearrangement	IGH@	Fusion	IGHGP--IGH@	chr14	106134590							0.0	0.0		0	246.0	IGHGP	chr14	106134590.0	IGH@	chr14	106235580.0					KIRP-AL-A5DJ			0	0	0	0	0	0	0
+VUS				Rearrangement	IGH-@	Fusion	IGHGP--IGH-@	chr14	106134694							0.0	0.0		0	149.0	IGHGP	chr14	106134694.0	IGH-@	chr14	106235672.0					KIRP-AL-A5DJ			0	0	0	0	0	0	0
+VUS				Rearrangement	IGHGP	Fusion	IGH@--IGHGP	chr14	106109605							0.0	0.0		0	1457.0	IGH@	chr14	106109605.0	IGHGP	chr14	106134725.0					KIRP-AL-A5DJ			0	0	0	0	0	0	0
+VUS				Rearrangement	IGHGP	Fusion	IGH-@--IGHGP	chr14	106110957							0.0	0.0		0	899.0	IGH-@	chr14	106110957.0	IGHGP	chr14	106136122.0					KIRP-AL-A5DJ			0	0	0	0	0	0	0

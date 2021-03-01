@@ -1,0 +1,5 @@
+patient_id	feature_display	tested_subfeature	therapy_name	n_mut	n_wt	n_mut_tested	n_wt_tested	mut_ic50_median	mut_ic50_mean	mut_ic50_std	wt_ic50_median	wt_ic50_mean	wt_ic50_std	pvalue_mww	statistic
+Osteosarcoma-JNS538	BRIP1 p.E1071D (Missense)	BRIP1	Olaparib	137	1686	81	681	97.835	201.839	284.91	72.821	159.13	326.685	0.049	23899.0
+Osteosarcoma-JNS538	BRIP1 p.E1071D (Missense)	BRIP1 Somatic Variant	Olaparib	85	1738	52	710	76.17	125.105	143.043	75.933	166.494	331.835	0.834	18781.0
+Osteosarcoma-JNS538	BRIP1 p.E1071D (Missense)	BRIP1 Somatic Variant Missense	Olaparib	69	1754	41	721	75.198	126.748	151.095	76.59	165.769	329.615	0.699	15311.0
+Osteosarcoma-JNS538	BRIP1 p.E1071D (Missense)	BRIP1 Somatic Variant Missense p.E1071D	Olaparib	0	1823	0	762				75.933	163.67	322.6	nan	

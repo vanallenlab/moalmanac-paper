@@ -1,0 +1,10 @@
+patient_id	feature_display	tested_subfeature	therapy_name	n_mut	n_wt	n_mut_tested	n_wt_tested	mut_ic50_median	mut_ic50_mean	mut_ic50_std	wt_ic50_median	wt_ic50_mean	wt_ic50_std	pvalue_mww	statistic
+Osteosarcoma-RCP466	COL1A1--USP6 Fusion	COL1A1	Imatinib	130	1693	37	370	19.015	20.406	11.327	18.171	21.375	16.435	0.835	6702.0
+Osteosarcoma-RCP466	COL1A1--USP6 Fusion	USP6	Imatinib	208	1615	58	349	17.41	20.245	11.526	18.401	21.46	16.668	0.955	10074.0
+Osteosarcoma-RCP466	COL1A1--USP6 Fusion	COL1A1 Fusions	Imatinib	1	1822	0	407				18.312	21.287	16.03	nan	
+Osteosarcoma-RCP466	COL1A1--USP6 Fusion	USP6 Fusions	Imatinib	0	1823	0	407				18.312	21.287	16.03	nan	
+Osteosarcoma-RCP466	COL1A1--USP6 Fusion	COL1A1--USP6	Imatinib	0	1823	0	407				18.312	21.287	16.03	nan	
+Osteosarcoma-RCP466	AKT1 p.T138M (Missense)	AKT1	MK-2206	118	1705	59	712	24.462	92.919	184.213	18.931	70.13	197.902	0.207	18928.0
+Osteosarcoma-RCP466	AKT1 p.T138M (Missense)	AKT1 Somatic Variant	MK-2206	29	1794	16	755	17.151	55.465	78.958	19.172	72.222	198.62	0.597	6506.0
+Osteosarcoma-RCP466	AKT1 p.T138M (Missense)	AKT1 Somatic Variant Missense	MK-2206	25	1798	15	756	14.618	55.691	81.724	19.222	72.195	198.489	0.453	6312.0
+Osteosarcoma-RCP466	AKT1 p.T138M (Missense)	AKT1 Somatic Variant Missense p.T138M	MK-2206	0	1823	0	771				19.172	71.874	196.869	nan	

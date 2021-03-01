@@ -1,0 +1,1284 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Putatively Actionable			Putatively Actionable	Copy Number	TP53	Deletion		17	7591715	7623470						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		4	1	1	1	1	1	1
+Putatively Actionable			Putatively Actionable	Copy Number	RB1	Deletion		13	48985273	50623226						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		4	1	1	1	1	1	1
+Putatively Actionable			Putatively Actionable	Copy Number	MYC	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		4	1	0	1	1	1	1
+Biologically Relevant				Copy Number	FLT3	Amplification		13	27254939	28608394						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		1	1	0	1	1	1	1
+Biologically Relevant				Copy Number	RUNX1T1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		1	0	0	1	1	1	1
+Biologically Relevant				Copy Number	ESRP1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		1	0	0	0	0	1	1
+Cancer Hotspot				Somatic Variant	KMT2C	Missense	p.Q3481R	7	151860220	151860220	T	T	C	0.1802	172.0	0.0	0.0		0								42.0	0.2143	0.9471		Osteosarcoma-MSF790	Osteosarcoma-MSF790-Tumor-SM-2RCBE	Osteosarcoma-MSF790-Normal-SM-2RCCT	0	1	1	1	0	0	2
+Cancer Hotspot				Copy Number	RECQL4	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	1	0	1	0	1	1
+Cancer Hotspot				Copy Number	PREX2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	1	0	1	0	0	1
+Cancer Hotspot				Copy Number	CYSLTR2	Deletion		13	48985273	50623226						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	1	0	1	0	0	1
+Cancer Hotspot				Copy Number	TCEB1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	1	0	0	1	1	1
+Cancer Hotspot				Copy Number	LYN	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	1	0	0	0	1	1
+Cancer Hotspot				Copy Number	PRDM14	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	1	0	0	0	0	1
+Cancer Hotspot 3D				Copy Number	NEDD8	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	1	0	1	1	1
+Cancer Hotspot 3D				Copy Number	TOX	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	E2F5	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	FLT1	Amplification		13	28608395	29856252						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	COL22A1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	1	0	0	0	1
+Cancer Hotspot 3D				Copy Number	POTEF	Deletion		2	130857999	130865902						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	1	0	0	0	1
+Cancer Hotspot 3D				Copy Number	ZNF572	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	1	0	0	0	1
+Cancer Hotspot 3D				Copy Number	RALYL	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	1	0	0	0	1
+Cancer Hotspot 3D				Copy Number	SDR39U1	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	1	0	0	0	1
+Cancer Gene Census				Copy Number	NCOA2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	1	1	1	1
+Cancer Gene Census				Copy Number	NBN	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	1	1	0	1
+Cancer Gene Census				Copy Number	CDH17	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	CSMD3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	CDX2	Amplification		13	27254939	28608394						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	FAM135B	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	PABPC1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	UBR5	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	COX6C	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	EIF3E	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	HEY1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	EXT1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	RAD21	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	1	0	1	1
+Cancer Gene Census				Somatic Variant	MN1	Missense	p.A1045T	22	28193399	28193399	C	C	T	0.125	184.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-MSF790	Osteosarcoma-MSF790-Tumor-SM-2RCBE	Osteosarcoma-MSF790-Normal-SM-2RCCT	0	0	0	1	0	0	2
+Cancer Gene Census				Copy Number	PLAG1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	1	0	0	1
+Cancer Gene Census				Copy Number	RSPO2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	1	0	0	1
+Cancer Gene Census				Copy Number	CHCHD7	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	1	0	0	1
+Cancer Gene Census				Copy Number	CNBD1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	1	0	0	1
+Cancer Gene Census				Copy Number	NDRG1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	1	0	0	1
+Cancer Pathway				Somatic Variant	GLI2	Missense	p.I64T	2	121684979	121684979	T	T	C	0.2625	240.0	0.0	0.0		0								15.0	0.2667	0.5849		Osteosarcoma-MSF790	Osteosarcoma-MSF790-Tumor-SM-2RCBE	Osteosarcoma-MSF790-Normal-SM-2RCCT	0	0	0	0	1	1	2
+Cancer Pathway				Copy Number	GZMB	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	PSME2	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	KIR2DL3	Deletion		19	55262849	55264223						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	RAD54B	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	CCNE2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	SLC7A8	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	PSMB5	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	PSME1	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	1	1	1
+Cancer Pathway				Somatic Variant	CDC23	Missense	p.R344C	5	137528329	137528329	G	G	A	0.0909	33.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-MSF790	Osteosarcoma-MSF790-Tumor-SM-2RCBE	Osteosarcoma-MSF790-Normal-SM-2RCCT	0	0	0	0	1	0	2
+Cancer Pathway				Copy Number	FZD6	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	1	0	1
+Cancer Pathway				Copy Number	PTK2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	1	0	1
+Cancer Pathway				Copy Number	IGLC3	Amplification		22	23242908	23249081						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	1	0	0
+Cancer Pathway				Copy Number	IGLC2	Amplification		22	23242908	23249081						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	1	0	0
+Cancer Module				Somatic Variant	INTS1	Missense	p.R348M	7	1538705	1538705	C	C	A	0.2143	14.0	0.0	0.0		0								76.0	0.2368	0.987		Osteosarcoma-MSF790	Osteosarcoma-MSF790-Tumor-SM-2RCBE	Osteosarcoma-MSF790-Normal-SM-2RCCT	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	MYO15A	Missense	p.S199P	17	18022709	18022709	T	T	C	0.0612	49.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-MSF790	Osteosarcoma-MSF790-Tumor-SM-2RCBE	Osteosarcoma-MSF790-Normal-SM-2RCCT	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	URB2	Missense	p.E1483D	1	229794918	229794918	G	G	T	0.027999999999999997	143.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-MSF790	Osteosarcoma-MSF790-Tumor-SM-2RCBE	Osteosarcoma-MSF790-Normal-SM-2RCCT	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	C1QB	Missense	p.G109D	1	22987449	22987449	G	G	A	0.3506	77.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-MSF790	Osteosarcoma-MSF790-Tumor-SM-2RCBE	Osteosarcoma-MSF790-Normal-SM-2RCCT	0	0	0	0	0	1	1
+Cancer Module				Copy Number	TG	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ACIN1	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PLEC	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PARP10	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZC3H3	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ODF1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC39A4	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TRPA1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZFPM2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SPAG1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NFATC4	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CYP11B2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LRRCC1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PCK2	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MMP14	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC45A4	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DENND3	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LRRC6	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ATAD2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MTBP	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	WRAP53	Deletion		17	7591715	7623470						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SETDB2	Deletion		13	48985273	50623226						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LY96	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LACTB2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PEX2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RIPK2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CA3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ASPH	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SDC2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EYA1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GEM	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SULF1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HNF4G	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MYH7	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DHRS4	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RBM23	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	AP1G2	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EFS	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RABGGTA	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GPT	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CYC1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ENPP2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GPR20	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LY6D	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MAPK15	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ANXA13	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NOV	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TPTE2	Amplification		13	19747751	20048467						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	WASF3	Amplification		13	27254939	28608394						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GTF3A	Amplification		13	27254939	28608394						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RPL21	Amplification		13	27254939	28608394						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MYBL1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NCALD	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NSMAF	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MTFR1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MMP16	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MSC	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KCNB2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KCNS2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KCNV1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KLF10	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LAPTM4B	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	OXR1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	OSGIN2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PAG1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PDE7A	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PDP1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PENK	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RAB2A	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RIMS2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PKIA	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PLEKHF2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PMP2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	POLR2K	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CA2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CA8	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CALB1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TRAM1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CA1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ATP6V1C1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	BAALC	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TTPA	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	C8orf34	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CHD7	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TPD52	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TP53INP1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	COPS5	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CPA6	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CSPP1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	UQCRB	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNF706	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	VCPIP1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ANGPT1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	WWP1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	XKR4	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZBTB10	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ENY2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DPYS	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DNAJC5B	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC25A32	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GDAP1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FABP5	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GGH	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FABP4	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RPL7	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CYP7A1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	IL7	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SYBU	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	IMPA1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	IMPAD1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	INTS8	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TERF1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HRSP12	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	STK3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DECR1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	STMN2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ADCY4	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GZMH	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	JPH4	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZFHX2	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RNF31	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	IRF9	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CMA1	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DHRS1	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DHRS2	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CPNE6	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CEBPE	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	STXBP6	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TM9SF1	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TGM1	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CTSG	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NRL	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	REM2	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LTB4R	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RIPK3	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PRMT5	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SQLE	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TNFRSF11B	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TMEM65	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TAF2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ST3GAL1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLURP1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLA	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TRIB1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZHX2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNF251	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNF16	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZFP41	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	WDYHV1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TRPS1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RPL8	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PTP4A3	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FBXL6	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FBXO32	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DSCC1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EEF1D	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EIF3H	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EXOSC4	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LRRC14	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LY6E	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LY6H	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HAS2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HSF1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KCNQ3	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KHDRBS3	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KIAA0196	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ADCY8	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ARC	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	BOP1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RNF139	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PHF20L1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PUF60	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PYCRL	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RHPN1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PSCA	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MTSS1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MRPL13	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TUBA3C	Amplification		13	19747751	20048467						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EFNB3	Deletion		17	7591715	7623470						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PSEN2	Deletion		1	227068097	227300866						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ADCK3	Deletion		1	227068097	227300866						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LPAR6	Deletion		13	48985273	50623226						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RCBTB2	Deletion		13	48985273	50623226						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CDADC1	Deletion		13	48985273	50623226						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TRIM13	Deletion		13	48985273	50623226						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MAL2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	0
+Cancer Module				Copy Number	IGLJ3	Amplification		22	23242908	23249081						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	0
+Cancer Module				Copy Number	RPS20	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	0
+Cancer Module				Copy Number	DCAF11	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	0
+Cancer Module				Copy Number	DLEU2	Deletion		13	48985273	50623226						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	1	0
+Cosmic				Somatic Variant	ANGPTL6	Missense	p.R376W	19	10204121	10204121	G	G	A	0.0811	37.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-MSF790	Osteosarcoma-MSF790-Tumor-SM-2RCBE	Osteosarcoma-MSF790-Normal-SM-2RCCT	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	LRRC7	Missense	p.R10C	1	70225915	70225915	C	C	T	0.3529	51.0	8e-06	0.0		0								0.0	0.0	0.0		Osteosarcoma-MSF790	Osteosarcoma-MSF790-Tumor-SM-2RCBE	Osteosarcoma-MSF790-Normal-SM-2RCCT	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	CNTN4	Missense	p.N104K	3	2787335	2787335	C	C	A	0.1957	92.0	0.0	0.0		0								22.0	0.3636	0.6526		Osteosarcoma-MSF790	Osteosarcoma-MSF790-Tumor-SM-2RCBE	Osteosarcoma-MSF790-Normal-SM-2RCCT	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	RHCE	Splice Site		1	25712201	25712201	C	C	T	0.1388	281.0	0.0	0.0		0								3.0	0.6667	0.0		Osteosarcoma-MSF790	Osteosarcoma-MSF790-Tumor-SM-2RCBE	Osteosarcoma-MSF790-Normal-SM-2RCCT	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	FAM161B	Missense	p.M178V	14	74413020	74413020	T	T	C	0.0341	88.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-MSF790	Osteosarcoma-MSF790-Tumor-SM-2RCBE	Osteosarcoma-MSF790-Normal-SM-2RCCT	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	NOXA1	Missense	p.E100D	9	140322524	140322524	G	G	T	0.4	5.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-MSF790	Osteosarcoma-MSF790-Tumor-SM-2RCBE	Osteosarcoma-MSF790-Normal-SM-2RCCT	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	UBA1	Missense	p.H712Y	X	47069457	47069457	C	C	T	0.0331	151.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-MSF790	Osteosarcoma-MSF790-Tumor-SM-2RCBE	Osteosarcoma-MSF790-Normal-SM-2RCCT	0	0	0	0	0	0	1
+Cosmic				Copy Number	PKHD1L1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2L8	Deletion		1	247768636	248617325						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RP1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2T12	Deletion		1	247768636	248617325						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TOP1MT	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KLHL38	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2M7	Deletion		1	247768636	248617325						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2T8	Deletion		1	247768636	248617325						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR11L1	Deletion		1	247768636	248617325						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM70	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OC90	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR14I1	Deletion		1	248801336	249212814						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2T35	Deletion		1	248801336	249212814						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2W3	Deletion		1	247768636	248617325						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MTDH	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RBM12B	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PSKH2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CNGB3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MTUS2	Amplification		13	28608395	29856252						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	HOMEZ	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KHNYN	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DHRS4L2	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NYNRIN	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MRPL52	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TONSL	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TIGD5	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SCRIB	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TSNARE1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DEPTOR	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GSDMC	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GSDMD	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ADCK5	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OPLAH	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM118A	Deletion		22	45723471	45724609						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DNAH2	Deletion		17	7591715	7623470						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2T27	Deletion		1	248801336	249212814						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR14C36	Deletion		1	247768636	248617325						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR14A16	Deletion		1	247768636	248617325						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2M2	Deletion		1	247768636	248617325						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MTIF3	Amplification		13	27254939	28608394						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LNX2	Amplification		13	27254939	28608394						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MATN2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MCMDC2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NIPAL2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NUDCD1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MOS	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	POP1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PTDSS1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	AZIN1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	BHLHE22	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CHMP4C	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM67	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CPNE3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	VPS13B	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SNX31	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC10A5	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLCO5A1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TGS1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DCAF13	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IPO4	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CHMP4A	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MYH6	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	REC8	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRRC16B	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	BCL2L2	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SPATC1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC30A8	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SCRT1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF707	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF7	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF696	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF623	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF517	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TRMT12	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	WISP1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM83H	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM91A1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FER1L6	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GLI4	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	EFR3A	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	EPPK1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRRC24	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LYPD2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MAF1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MAFA	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ASAP1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C8orf31	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C8orf76	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	COL14A1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NRBP2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CDC42BPA	Deletion		1	227068097	227300866						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2T1	Deletion		1	247768636	248617325						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR6F1	Deletion		1	247768636	248617325						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2G3	Deletion		1	247768636	248617325						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2AK2	Deletion		1	247768636	248617325						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR13G1	Deletion		1	247768636	248617325						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2T6	Deletion		1	247768636	248617325						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2T4	Deletion		1	247768636	248617325						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TRIM58	Deletion		1	247768636	248617325						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2T2	Deletion		1	247768636	248617325						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2T33	Deletion		1	247768636	248617325						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ARL11	Deletion		13	48985273	50623226						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RCBTB1	Deletion		13	48985273	50623226						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PDX1	Amplification		13	27254939	28608394						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RASL11A	Amplification		13	27254939	28608394						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ATP5EP2	Amplification		13	27254939	28608394						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	USP12	Amplification		13	27254939	28608394						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GSX1	Amplification		13	27254939	28608394						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	POLR1D	Amplification		13	27254939	28608394						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GPR12	Amplification		13	27254939	28608394						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NDUFAF6	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NECAB1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NKAIN3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MTERFD1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MRPS28	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRP12	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRRC69	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KIAA1429	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RNF19A	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OSR2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OTUD6B	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RP11-383H13.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PI15	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RBM12B-AS1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RDH10	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	REXO1L1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	REXO1L10P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	REXO1L11P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RGS22	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PPP1R42	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CA13	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TRIQK	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TRIM55	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TRHR	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TSPYL5	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ATP6V0D2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	UBE2W	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C8orf37	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C8orf44	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C8orf46	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C8orf47	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C8orf59	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CLVS1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM68	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM64	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM55A	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM74	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CRH	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CRISPLD1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	UBXN2B	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ABRA	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF704	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZFHX4	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ARMC1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ANKRD46	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ARFGEF1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	XKR9	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZFAND1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	YTHDF3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ADHFE1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	YWHAZ	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GRHL2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SNX16	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	EBAG9	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DPY19L4	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FSBP	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FBXO43	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SGK3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM92A1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC26A7	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC7A13	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GDF6	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM110B	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FABP9	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SDR16C5	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SDCBP	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FABP12	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CYP7B1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CTHRC1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RPL30	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TCF24	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	JPH1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	STAU2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RRS1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RRM2B	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DCAF4L2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC46A3	Amplification		13	28608395	29856252						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PAN3	Amplification		13	28608395	29856252						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	POMP	Amplification		13	28608395	29856252						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	HAUS4	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IL25	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FITM1	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GMPR2	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC22A17	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PABPN1	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CMTM5	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CIDEB	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CDH24	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRP10	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TINF2	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NGDN	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CBLN3	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LTB4R2	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	THTPA	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C14orf119	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PPP1R3E	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MDP1	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PSMB11	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RP11-80A15.1	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TSSK4	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C14orf93	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C14orf164	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM75	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM71	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TATDN1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TRAPPC9	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SNTB1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SHARPIN	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF34	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF252P	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF250	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZHX1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZFAT	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	VPS28	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	UTP23	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TSTA3	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SAMD12	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM203A	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM49B	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM83A	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM84B	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FOXH1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GML	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GPAA1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GPIHBP1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM203B	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CYHR1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CYP11B1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DERL1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DGAT1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GRINA	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LY6K	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LYNX1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KIFC2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	HHLA1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KCNK9	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KIAA1875	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MFSD3	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	COMMD5	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CPSF1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	COLEC10	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ARHGAP39	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	BAI1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C8orf33	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C8orf82	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCDC166	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CHRAC1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MED30	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	POU5F1B	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PPP1R16A	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NDUFB9	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NSMCE2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NAPRT1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF672	Deletion		1	248801336	249212814						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SH3BP5L	Deletion		1	248801336	249212814						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PGBD2	Deletion		1	248801336	249212814						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF692	Deletion		1	248801336	249212814						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2L2	Deletion		1	247768636	248617325						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2M5	Deletion		1	247768636	248617325						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2AJ1	Deletion		1	247768636	248617325						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR1C1	Deletion		1	247768636	248617325						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR14K1	Deletion		1	247768636	248617325						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR14A2	Deletion		1	247768636	248617325						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2L3	Deletion		1	247768636	248617325						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2L13	Deletion		1	247768636	248617325						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2M4	Deletion		1	247768636	248617325						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR2M3	Deletion		1	247768636	248617325						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SPRYD7	Deletion		13	48985273	50623226						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	EBPL	Deletion		13	48985273	50623226						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FNDC3A	Deletion		13	48985273	50623226						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CAB39L	Deletion		13	48985273	50623226						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KCNRG	Deletion		13	48985273	50623226						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KPNA3	Deletion		13	48985273	50623226						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PHF11	Deletion		13	48985273	50623226						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MLNR	Deletion		13	48985273	50623226						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	1
+VUS				Copy Number	SBSPON	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	TBC1D31	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	MROH6	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	URAD	Amplification		13	27254939	28608394						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	NOP9	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	MROH1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGLJ2	Amplification		22	23242908	23249081						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	USP12-AS2	Amplification		13	27254939	28608394						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00543	Amplification		13	27254939	28608394						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	PDX1-AS1	Amplification		13	27254939	28608394						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01079	Amplification		13	27254939	28608394						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL272P	Amplification		13	27254939	28608394						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY1P1	Amplification		13	27254939	28608394						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL159977.1	Amplification		13	27254939	28608394						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-70P	Amplification		13	27254939	28608394						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00412	Amplification		13	27254939	28608394						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD102	Amplification		13	27254939	28608394						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-73P	Amplification		13	27254939	28608394						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-63P	Amplification		13	27254939	28608394						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	USP12-AS1	Amplification		13	27254939	28608394						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1145L24.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR378D2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4661	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-716D16.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4470	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1144P22.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-730G20.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4471	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-744J10.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-731N10.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3151	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-787D18.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-787D18.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-120I21.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-778D12.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-115I9.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-114O8.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR124-2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1273A	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-758M4.4	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-758M4.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-756K15.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-706J10.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1149M10.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1149M10.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3150B	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-707M3.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR599	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-706J10.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR548A3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-6I2.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1102P16.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	NACAP1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-697M17.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1101K5.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-696P8.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-68L18.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-10N23.5	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1112C15.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-706J10.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR5680	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR5681A	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR5708	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-79H23.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1114I9.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR875	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1112C15.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-705O24.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-6I2.4	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-705O24.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-705O24.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-700E23.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-700E23.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-790J24.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-328K2.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-7F18.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-152P17.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1639H6.4	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1732A1.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6ATAC8P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-173C10.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1930G5.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1930G5.4	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1958F4.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1958F4.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1980E6.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1991G8.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-431C1.4	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-431C1.5	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-388N13.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP13-923O23.6	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-152P17.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1639H6.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1615E4.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1615E4.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1460A1.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1299A7.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1410C5.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1410C5.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1410C5.5	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1448A5.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1458E12.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1460A1.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1460A1.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1608C10.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1460A1.5	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1507C5.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1507C5.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1507C5.4	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1517D11.4	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1562D12.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-379I19.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-379I19.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-122A21.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-99H20.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01030	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-91P17.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-91I20.4	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-91I20.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-91I20.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-91I20.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-90D11.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-326E22.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-662G23.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-122C21.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-122A3.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-865I6.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-92K15.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00968	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00967	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-142A23.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-140I16.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-37B2.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-956J14.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-127H5.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00966	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-946L20.4	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-946L20.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00534	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00535	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-941H19.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00588	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-92K15.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-664D7.4	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-649G15.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-10N23.4	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP271	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL798P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-388K12.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP265	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP266	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP267	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP268	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP269	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP270	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP272	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU1-101P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP273	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP274	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP275	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-38H17.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-44D19.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-446E9.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-434I12.4	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-434I12.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL777P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL685P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL675P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-388K12.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP231	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP249	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP29	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP85	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP97	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL107P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL135P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL19P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-45K10.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL308P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL323P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL350P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-44N12.5	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-44N12.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL41P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL563P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-434I12.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-10N23.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-403D15.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1300P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1324P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-13P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-422N16.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-177P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-285P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-410L14.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-596P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-402L5.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-395G23.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-690P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-3N13.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-703P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-748P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-174P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-102P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-914P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-925P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-396J6.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-67P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1224P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1220P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU11-6P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU2-54P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU2-67P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU2-71P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-85P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU4-37P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU4-50P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU4-83P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1011P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1040P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1092P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1172P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1197P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1202P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-84P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1209P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1213P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-463D19.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-463D19.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP135	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-577N1.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-574O7.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-573J24.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-386D6.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-386D6.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RMDN1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-386G21.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-386G21.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-531A24.7	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-579E24.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-579E24.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-586K2.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-587H10.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-382J12.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-659E9.4	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-659E9.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1084E5.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-653B10.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1208A12.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-648L3.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-642D21.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-642D21.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-642C5.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-628E19.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-600K15.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-594N15.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-594N15.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-58O3.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-587H10.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-531A24.5	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-48D4.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-48B3.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-100L22.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-100L22.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-100L22.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-16A9.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-48B3.4	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-100L22.4	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AB015752.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-531A24.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-521I2.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-388G22.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-51M18.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-513O17.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-513O17.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-102F4.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1254G8.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-173C10.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1205A7.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	C8orf87	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-347C18.5	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-25K19.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CASC9	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-257P3.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-267M23.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-219B4.7	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-267M23.4	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	C8orf44-SGK3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	C8orf56	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-118P15.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-238I10.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2006H14.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2272D18.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2284J15.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2320G14.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2339F6.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2340D6.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2340D6.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-22C11.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-21C4.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-21C17.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTA-397H3.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTA-392E5.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-246K15.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-351E7.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CPQ	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-354A14.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1184D12.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC104986.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-317J10.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC025674.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-313C15.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-32K4.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-302J23.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-300E4.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-333A23.4	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC084082.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-33I11.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC090574.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC091096.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC099805.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC100817.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC103816.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC104012.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-281N10.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC023632.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-317J10.4	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-318K15.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC009941.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-320N21.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	hsa-mir-3149	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-31K23.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC012564.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC013751.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC022861.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC016194.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-318M2.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC016885.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC018607.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC022182.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC022182.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-318M2.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	ZFHX4-AS1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC105081.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-346I3.4	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-26J3.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-26J3.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-347C18.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AP000428.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AP001205.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AP001572.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AP003354.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AP003356.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AP003471.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AP003471.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AP003550.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC105242.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC109335.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-280G9.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC116154.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC117834.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC120194.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-27P7.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-27N21.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	ZC2HC1A	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AF070718.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AF121898.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	YTHDF3-AS1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2532N20.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-35G22.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6ATAC41P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1C8.6	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-172E10.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-16E18.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1C8.5	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-163N6.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	EMC2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-159H10.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD54	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	GS1-251I9.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD87	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORA20	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	GS1-251I9.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	GS1-251I9.4	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-363E6.4	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1C8.7	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNHG6	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-17A4.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-17A4.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-17A4.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-17A4.4	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-363E6.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	SDR16C6P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1C8.4	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1D12.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	GS1-5L10.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1043D8.8	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-3025N20.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-211F2.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	IMPA1P	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-3239E11.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-219B4.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-3118D11.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-3118D11.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-3025N20.3	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1043D8.6	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-3046C4.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-219B4.5	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1000E4.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-219B4.6	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1107E3.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2571E19.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1083B1.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1047C11.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1D12.2	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	STAU2-AS1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1047C11.1	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	DCSTAMP	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-157I4.4	Amplification		8	55536978	113241372						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-82P	Amplification		13	28608395	29856252						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	MTUS2-AS2	Amplification		13	28608395	29856252						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-53P	Amplification		13	28608395	29856252						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL596092.1	Amplification		13	28608395	29856252						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	PAN3-AS1	Amplification		13	28608395	29856252						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL136419.6	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL132780.1	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-802P	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AJUBA	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1046P	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1138P	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-298I3.1	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL049829.1	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-934B9.3	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00596	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-298I3.4	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP383	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-124D2.7	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-298I3.5	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4707	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-104E19.1	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	DHRS4-AS1	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR208B	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	NEDD8-MDP1	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-66N24.4	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-66N24.3	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2201G16.1	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-388E23.2	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR208A	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-124D2.3	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-468E2.9	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-468E2.6	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-468E2.5	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-468E2.4	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-468E2.2	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP205	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	BCL2L2-PABPN1	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	EMC9	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	PRMT5-AS1	Amplification		14	23302375	25326615						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-383J24.6	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-381I15.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-343P9.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-382A18.2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-37N22.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-398G24.2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-351C8.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-369K17.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-383J24.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AARD	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-398H6.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	TMEM249	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	THEM6	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORA72	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	SLC52A2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	SCXB	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	SCXA	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-3G20.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	hsa-mir-3669	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	ZNF252P-AS1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	ZHX1-C8ORF76	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	ZFAT-AS1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	WISP1-UT1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1047A19.4	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-473O4.5	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-654G14.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-629O1.2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-622O11.4	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-557C18.4	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-557C18.3	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-550A5.2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-539E17.5	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-536K17.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-532M24.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-520P18.5	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-513H8.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-4K16.2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-489O18.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-473O4.4	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP13-582O9.7	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-473O4.3	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-452N4.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-44N11.3	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-44N11.2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-44N11.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-431D12.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-429J17.8	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-429J17.7	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-429J17.5	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-429J17.4	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-429J17.2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-419K12.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-3G20.2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-65D17.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-661A12.12	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-661A12.14	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-661A12.5	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP13-582O9.5	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP13-467H17.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-973F15.2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-973F15.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-96B2.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-959I15.4	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-953B20.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-94A24.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-909N17.3	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-89M16.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-89K10.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-809O17.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-785H20.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-775B15.2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-760H22.2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-737F9.2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-737F9.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-713M15.2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-713M15.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-706C16.8	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-706C16.7	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-706C16.5	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-6D1.3	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-697B24.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-67H2.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-661A12.9	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-661A12.7	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-909N17.2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-324F11.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	FAM83A-AS1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	FAM83H-AS1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	FER1L6-AS1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	FER1L6-AS2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-3065J16.9	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-3135A9.3	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-3064M3.7	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	KM-PA-2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00536	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00861	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-30J20.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00977	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00051	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	GS1-393G12.12	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	GS1-393G12.14	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	HAS2-AS1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	HPYR1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	JRK	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1471A8.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	KB-1568E2.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	KIAA0196-AS1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-3065J16.6	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-3064M3.4	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC103863.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC104592.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC105049.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC107890.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC110280.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC138647.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC145123.2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AF130343.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AF178030.2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AF186192.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AF186192.5	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AF186192.6	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AF216667.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AF230666.2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AF235103.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AGO2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC104417.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC090573.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AP006547.3	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC087793.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC011626.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC011652.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC011652.2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC016178.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC016178.2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC016405.2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC022681.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC022909.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC023590.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC024996.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC027238.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC068570.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC083843.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC083843.2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC083843.3	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC084125.3	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC084125.4	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-3064M3.3	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTA-204B4.2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-137K3.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2292P10.2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2292P10.4	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2309H9.3	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2342N23.3	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2501M5.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2517M14.5	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2517M22.14	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2517M22.16	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2517M22.17	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2517M22.9	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2534J5.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2552K11.2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2588J1.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-3064M3.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	C8orf17	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CASC11	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CASC7	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CASC8	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CCAT1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	CCDC26	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00964	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1205	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP277	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL228P	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL329P	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL395P	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL396P	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL590P	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL826P	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP276	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP278	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-144P	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNF139-AS1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU1-106P	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU1-35P	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU11-4P	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU4-25P	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1255P	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP226	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP206	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP155	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP153	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	PCAT2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1207	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	PVT1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RAD21-AS1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RHPN1-AS1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-12P	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-220P	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-238K6.2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-128L5.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-136O12.2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-149P24.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-157E21.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-158K1.3	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-174I12.2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-238K6.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-245A18.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-442P	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-255B23.4	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-267L5.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-26E5.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-273G15.2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-278I4.2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-284H18.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-299M14.2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-10J21.6	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-10J21.5	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-10J21.4	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-10J21.3	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-628P	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-756P	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-869P	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-875P	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-109P	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-181P	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY4P5	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-103H7.1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-103H7.2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-103H7.3	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-103H7.5	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1057B8.2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1082L8.2	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1082L8.3	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1082L8.4	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	PCAT1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	MROH5	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR939	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR937	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR661	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR548AA1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR5194	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4664	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4663	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4662B	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4472-1	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3686	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3610	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR30D	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR30B	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR2053	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR151A	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1234	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1208	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	hsa-mir-3673	Amplification		8	113243522	146279795						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00421	Amplification		13	19747751	20048467						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-385E5.5	Amplification		13	19747751	20048467						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-408E5.4	Amplification		13	19747751	20048467						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-408E5.5	Amplification		13	19747751	20048467						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-199F11.2	Deletion		17	7591715	7623470						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1087E8.3	Deletion		1	227068097	227300866						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL672294.1	Deletion		1	248801336	249212814						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1205P	Deletion		1	248801336	249212814						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3124	Deletion		1	248801336	249212814						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	LYPD8	Deletion		1	248801336	249212814						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	XX-CR54.1	Deletion		1	248801336	249212814						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	XX-CR54.3	Deletion		1	248801336	249212814						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-978I15.10	Deletion		1	247768636	248617325						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-691P	Deletion		1	247768636	248617325						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	OR2L5	Deletion		1	247768636	248617325						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-634B7.5	Deletion		1	247768636	248617325						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-634B7.4	Deletion		1	247768636	248617325						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	OR2T7	Deletion		1	247768636	248617325						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01077	Deletion		13	48985273	50623226						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR16-1	Deletion		13	48985273	50623226						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3613	Deletion		13	48985273	50623226						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00462	Deletion		13	48985273	50623226						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL161421.1	Deletion		13	48985273	50623226						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-60P	Deletion		13	48985273	50623226						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL136218.1	Deletion		13	48985273	50623226						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL136123.1	Deletion		13	48985273	50623226						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY3P2	Deletion		13	48985273	50623226						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY4P30	Deletion		13	48985273	50623226						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY4P9	Deletion		13	48985273	50623226						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL137118.1	Deletion		13	48985273	50623226						0.0	0.0		0												Osteosarcoma-MSF790	MSF790_T		0	0	0	0	0	0	0

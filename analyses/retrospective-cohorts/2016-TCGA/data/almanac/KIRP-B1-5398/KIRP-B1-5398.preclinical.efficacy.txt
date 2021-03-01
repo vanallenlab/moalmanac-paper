@@ -1,0 +1,9 @@
+patient_id	feature_display	tested_subfeature	therapy_name	n_mut	n_wt	n_mut_tested	n_wt_tested	mut_ic50_median	mut_ic50_mean	mut_ic50_std	wt_ic50_median	wt_ic50_mean	wt_ic50_std	pvalue_mww	statistic
+KIRP-B1-5398	BRAF p.N581S (Splice Site)	BRAF	Dabrafenib	264	1559	136	621	34.824	120.732	228.705	121.915	244.298	422.653	2.322e-12	58428.0
+KIRP-B1-5398	BRAF p.N581S (Splice Site)	BRAF Somatic Variant	Dabrafenib	184	1639	98	659	19.092	80.76	176.13	120.697	243.118	416.712	7.627e-17	49130.0
+KIRP-B1-5398	BRAF p.N581S (Splice Site)	BRAF Somatic Variant Splice Site	Dabrafenib	3	1820	2	755	70.064	70.064	18.038	106.924	222.502	398.059	0.592	921.0
+KIRP-B1-5398	BRAF p.N581S (Splice Site)	BRAF Somatic Variant Splice Site p.N581S	Dabrafenib	0	1823	0	757				106.703	222.099	397.61	nan	
+KIRP-B1-5398	BRAF p.N581S (Splice Site)	BRAF	Trametinib	264	1559	137	634	0.516	5.862	27.545	2.112	7.605	32.168	2.344e-09	57546.5
+KIRP-B1-5398	BRAF p.N581S (Splice Site)	BRAF Somatic Variant	Trametinib	184	1639	99	672	0.364	4.887	30.17	2.152	7.65	31.568	9.083e-13	48043.5
+KIRP-B1-5398	BRAF p.N581S (Splice Site)	BRAF Somatic Variant Splice Site	Trametinib	3	1820	2	769	5.994	5.994	1.347	1.828	7.298	31.427	0.268	420.0
+KIRP-B1-5398	BRAF p.N581S (Splice Site)	BRAF Somatic Variant Splice Site p.N581S	Trametinib	0	1823	0	771				1.844	7.295	31.386	nan	

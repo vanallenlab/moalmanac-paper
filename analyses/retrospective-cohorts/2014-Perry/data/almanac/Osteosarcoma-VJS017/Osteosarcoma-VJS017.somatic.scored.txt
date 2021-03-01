@@ -1,0 +1,73 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Cancer Gene Census				Copy Number	KTN1	Deletion		14	56119316	56120040.0						0.0	0.0		0												Osteosarcoma-VJS017	VJS017_T		0	0	0	1	0	0	1
+Cancer Pathway				Rearrangement	FCGR3A	Fusion	FCGR3A--FCGR3B	chr1	161512177							0.0	0.0		0	122.0	FCGR3A	chr1	161512177.0	FCGR3B	chr1	161593799.0					Osteosarcoma-VJS017			0	0	0	0	1	1	1
+Cancer Pathway				Rearrangement	IGLV8-61	Fusion	IGLV8-61--IGLC3	chr22	22453216							0.0	0.0		0	22.0	IGLV8-61	chr22	22453216.0	IGLC3	chr22	23248512.0					Osteosarcoma-VJS017			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGLV7-43	Fusion	IGLV7-43--IGLL5	chr22	22749827							0.0	0.0		0	9.0	IGLV7-43	chr22	22749827.0	IGLL5	chr22	23235965.0					Osteosarcoma-VJS017			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGLV7-43	Fusion	IGLV7-43--IGLJ3	chr22	22749825							0.0	0.0		0	53.0	IGLV7-43	chr22	22749825.0	IGLJ3	chr22	23247170.0					Osteosarcoma-VJS017			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGLV1-44	Fusion	IGLV1-44--IGLL5	chr22	22735708							0.0	0.0		0	62.0	IGLV1-44	chr22	22735708.0	IGLL5	chr22	23235956.0					Osteosarcoma-VJS017			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGLV1-44	Fusion	IGLV1-44--IGLJ1	chr22	22735708							0.0	0.0		0	22.0	IGLV1-44	chr22	22735708.0	IGLJ1	chr22	23235956.0					Osteosarcoma-VJS017			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGKV4-1	Fusion	IGKV4-1--AC096579.7	chr2	89185668							0.0	0.0		0	626.0	IGKV4-1	chr2	89185668.0	AC096579.7	chr2	89161074.0					Osteosarcoma-VJS017			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGLC3	Fusion	IGLV8-61--IGLC3	chr22	22453216							0.0	0.0		0	22.0	IGLV8-61	chr22	22453216.0	IGLC3	chr22	23248512.0					Osteosarcoma-VJS017			0	0	0	0	1	0	0
+Cancer Module				Somatic Variant	LMBRD1	Missense	p.A432V	6	70408978	70408978.0	G	G	A	0.0492	61.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-VJS017	Osteosarcoma-VJS017-Tumor-SM-2RCBO	Osteosarcoma-VJS017-Normal-SM-2RCD4	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	GIGYF2	Missense	p.E486G	2	233659650	233659650.0	A	A	G	0.0263	114.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-VJS017	Osteosarcoma-VJS017-Tumor-SM-2RCBO	Osteosarcoma-VJS017-Normal-SM-2RCD4	0	0	0	0	0	1	1
+Cancer Module				Rearrangement	C15orf57	Fusion	C15orf57--CBX3	chr15	40854180							0.0	0.0		0	10.0	C15orf57	chr15	40854180.0	CBX3	chr7	26241365.0					Osteosarcoma-VJS017			0	0	0	0	0	1	1
+Cancer Module				Copy Number	SIGLEC5	Amplification		19	52132988	52150264.0						0.0	0.0		0												Osteosarcoma-VJS017	VJS017_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	HPD	Fusion	ANKS1B--HPD	chr12	100048845							0.0	0.0		0	10.0	ANKS1B	chr12	100048845.0	HPD	chr12	122281738.0					Osteosarcoma-VJS017			0	0	0	0	0	1	1
+Cancer Module				Copy Number	TMEM65	Amplification		8	124975266	125603728.0						0.0	0.0		0												Osteosarcoma-VJS017	VJS017_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RNF139	Amplification		8	124975266	125603728.0						0.0	0.0		0												Osteosarcoma-VJS017	VJS017_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MTSS1	Amplification		8	124975266	125603728.0						0.0	0.0		0												Osteosarcoma-VJS017	VJS017_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GOLGA8A	Deletion		15	34673360	34823953.0						0.0	0.0		0												Osteosarcoma-VJS017	VJS017_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	FCGR3B	Fusion	FCGR3A--FCGR3B	chr1	161512177							0.0	0.0		0	122.0	FCGR3A	chr1	161512177.0	FCGR3B	chr1	161593799.0					Osteosarcoma-VJS017			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	CBX3	Fusion	C15orf57--CBX3	chr15	40854180							0.0	0.0		0	10.0	C15orf57	chr15	40854180.0	CBX3	chr7	26241365.0					Osteosarcoma-VJS017			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	IGLJ3	Fusion	IGLV7-43--IGLJ3	chr22	22749825							0.0	0.0		0	53.0	IGLV7-43	chr22	22749825.0	IGLJ3	chr22	23247170.0					Osteosarcoma-VJS017			0	0	0	0	0	1	0
+Cancer Module				Rearrangement	IGLJ3	Fusion	IGLV1-51--IGLJ3	chr22	22677322							0.0	0.0		0	79.0	IGLV1-51	chr22	22677322.0	IGLJ3	chr22	23247168.0					Osteosarcoma-VJS017			0	0	0	0	0	1	0
+Cosmic				Somatic Variant	HGS	Missense	p.G653R	17	79667571	79667571.0	G	G	A	0.0328	122.0	0.0	0.0		0								76.0	0.0526	0.3625		Osteosarcoma-VJS017	Osteosarcoma-VJS017-Tumor-SM-2RCBO	Osteosarcoma-VJS017-Normal-SM-2RCD4	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	PDZD7	Missense	p.R208W	10	102782063	102782063.0	G	G	A	0.0455	66.0	0.000181	0.0		0								0.0	0.0	0.0		Osteosarcoma-VJS017	Osteosarcoma-VJS017-Tumor-SM-2RCBO	Osteosarcoma-VJS017-Normal-SM-2RCD4	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	SAP18	Missense	p.R132K	13	21721357	21721357.0	G	G	A	0.0222	135.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-VJS017	Osteosarcoma-VJS017-Tumor-SM-2RCBO	Osteosarcoma-VJS017-Normal-SM-2RCD4	0	0	0	0	0	0	1
+Cosmic				Copy Number	FER1L6	Amplification		8	124975266	125603728.0						0.0	0.0		0												Osteosarcoma-VJS017	VJS017_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	PITPNM2	Fusion	PITPNM2--ANKS1B	chr12	123594932							0.0	0.0		0	14.0	PITPNM2	chr12	123594932.0	ANKS1B	chr12	100048988.0					Osteosarcoma-VJS017			0	0	0	0	0	0	1
+Cosmic				Copy Number	TRMT12	Amplification		8	124975266	125603728.0						0.0	0.0		0												Osteosarcoma-VJS017	VJS017_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GOLGA8B	Deletion		15	34673360	34823953.0						0.0	0.0		0												Osteosarcoma-VJS017	VJS017_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SIGLEC14	Amplification		19	52132988	52150264.0						0.0	0.0		0												Osteosarcoma-VJS017	VJS017_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM21A	Amplification		10	51859486	51866477.0						0.0	0.0		0												Osteosarcoma-VJS017	VJS017_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TATDN1	Amplification		8	124975266	125603728.0						0.0	0.0		0												Osteosarcoma-VJS017	VJS017_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NDUFB9	Amplification		8	124975266	125603728.0						0.0	0.0		0												Osteosarcoma-VJS017	VJS017_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND1	Fusion	MT-ND1--MT-TL1	chrM	3346							0.0	0.0		0	22.0	MT-ND1	chrM	3346.0	MT-TL1	chrM	3250.0					Osteosarcoma-VJS017			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-ATP6--MT-ATP8	chrM	8775							0.0	0.0		0	53.0	MT-ATP6	chrM	8775.0	MT-ATP8	chrM	8472.0					Osteosarcoma-VJS017			0	0	0	0	0	0	1
+Cosmic				Rearrangement	ANKS1B	Fusion	ANKS1B--HPD	chr12	100048845							0.0	0.0		0	10.0	ANKS1B	chr12	100048845.0	HPD	chr12	122281738.0					Osteosarcoma-VJS017			0	0	0	0	0	0	1
+Cosmic				Rearrangement	ANKS1B	Fusion	PITPNM2--ANKS1B	chr12	123594932							0.0	0.0		0	14.0	PITPNM2	chr12	123594932.0	ANKS1B	chr12	100048988.0					Osteosarcoma-VJS017			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP8	Fusion	MT-ATP6--MT-ATP8	chrM	8775							0.0	0.0		0	53.0	MT-ATP6	chrM	8775.0	MT-ATP8	chrM	8472.0					Osteosarcoma-VJS017			0	0	0	0	0	0	1
+Cosmic				Rearrangement	ARL17B	Fusion	KANSL1--ARL17B	chr17	44171926							0.0	0.0		0	7.0	KANSL1	chr17	44171926.0	ARL17B	chr17	44430296.0					Osteosarcoma-VJS017			0	0	0	0	0	0	1
+Cosmic				Rearrangement	IGLL5	Fusion	IGLV7-43--IGLL5	chr22	22749827							0.0	0.0		0	9.0	IGLV7-43	chr22	22749827.0	IGLL5	chr22	23235965.0					Osteosarcoma-VJS017			0	0	0	0	0	0	1
+Cosmic				Rearrangement	IGLL5	Fusion	IGLV1-44--IGLL5	chr22	22735708							0.0	0.0		0	62.0	IGLV1-44	chr22	22735708.0	IGLL5	chr22	23235956.0					Osteosarcoma-VJS017			0	0	0	0	0	0	1
+VUS				Rearrangement	KANSL1	Fusion	KANSL1--ARL17B	chr17	44171926							0.0	0.0		0	7.0	KANSL1	chr17	44171926.0	ARL17B	chr17	44430296.0					Osteosarcoma-VJS017			0	0	0	0	0	0	0
+VUS				Copy Number	RNF139-AS1	Amplification		8	124975266	125603728.0						0.0	0.0		0												Osteosarcoma-VJS017	VJS017_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-959I15.4	Amplification		8	124975266	125603728.0						0.0	0.0		0												Osteosarcoma-VJS017	VJS017_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-532M24.1	Amplification		8	124975266	125603728.0						0.0	0.0		0												Osteosarcoma-VJS017	VJS017_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-383J24.6	Amplification		8	124975266	125603728.0						0.0	0.0		0												Osteosarcoma-VJS017	VJS017_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-383J24.1	Amplification		8	124975266	125603728.0						0.0	0.0		0												Osteosarcoma-VJS017	VJS017_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-37N22.1	Amplification		8	124975266	125603728.0						0.0	0.0		0												Osteosarcoma-VJS017	VJS017_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-158K1.3	Amplification		8	124975266	125603728.0						0.0	0.0		0												Osteosarcoma-VJS017	VJS017_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-756P	Amplification		8	124975266	125603728.0						0.0	0.0		0												Osteosarcoma-VJS017	VJS017_T		0	0	0	0	0	0	0
+VUS				Copy Number	FER1L6-AS2	Amplification		8	124975266	125603728.0						0.0	0.0		0												Osteosarcoma-VJS017	VJS017_T		0	0	0	0	0	0	0
+VUS				Copy Number	FER1L6-AS1	Amplification		8	124975266	125603728.0						0.0	0.0		0												Osteosarcoma-VJS017	VJS017_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1233-2	Deletion		15	34673360	34823953.0						0.0	0.0		0												Osteosarcoma-VJS017	VJS017_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1233-1	Deletion		15	34673360	34823953.0						0.0	0.0		0												Osteosarcoma-VJS017	VJS017_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHV3-9	Deletion		14	106538827	106552979.0						0.0	0.0		0												Osteosarcoma-VJS017	VJS017_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHV1-8	Deletion		14	106538827	106552979.0						0.0	0.0		0												Osteosarcoma-VJS017	VJS017_T		0	0	0	0	0	0	0
+VUS				Rearrangement	TRAV9-2	Fusion	TRAV9-2--TRAJ12	chr14	22409845							0.0	0.0		0	5.0	TRAV9-2	chr14	22409845.0	TRAJ12	chr14	23000890.0					Osteosarcoma-VJS017			0	0	0	0	0	0	0
+VUS				Rearrangement	TRAV8-3	Fusion	TRAV8-3--TRAC	chr14	22321003							0.0	0.0		0	12.0	TRAV8-3	chr14	22321003.0	TRAC	chr14	23016447.0					Osteosarcoma-VJS017			0	0	0	0	0	0	0
+VUS				Rearrangement	TRAV13-1	Fusion	TRAV13-1--TRAC	chr14	22337543							0.0	0.0		0	25.0	TRAV13-1	chr14	22337543.0	TRAC	chr14	23016447.0					Osteosarcoma-VJS017			0	0	0	0	0	0	0
+VUS				Rearrangement	IGLV1-51	Fusion	IGLV1-51--IGLJ3	chr22	22677322							0.0	0.0		0	79.0	IGLV1-51	chr22	22677322.0	IGLJ3	chr22	23247168.0					Osteosarcoma-VJS017			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKV3-20	Fusion	IGKV3-20--IGKJ1	chr2	89442058							0.0	0.0		0	82.0	IGKV3-20	chr2	89442058.0	IGKJ1	chr2	89161435.0					Osteosarcoma-VJS017			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKV1-39	Fusion	IGKV1-39--IGKJ5	chr2	89619383							0.0	0.0		0	10.0	IGKV1-39	chr2	89619383.0	IGKJ5	chr2	89160116.0					Osteosarcoma-VJS017			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKV1-39	Fusion	IGKV1-39--IGKJ4	chr2	89619383							0.0	0.0		0	23.0	IGKV1-39	chr2	89619383.0	IGKJ4	chr2	89160434.0					Osteosarcoma-VJS017			0	0	0	0	0	0	0
+VUS				Rearrangement	TRAJ12	Fusion	TRAV9-2--TRAJ12	chr14	22409845							0.0	0.0		0	5.0	TRAV9-2	chr14	22409845.0	TRAJ12	chr14	23000890.0					Osteosarcoma-VJS017			0	0	0	0	0	0	0
+VUS				Rearrangement	TRAC	Fusion	TRAV8-3--TRAC	chr14	22321003							0.0	0.0		0	12.0	TRAV8-3	chr14	22321003.0	TRAC	chr14	23016447.0					Osteosarcoma-VJS017			0	0	0	0	0	0	0
+VUS				Rearrangement	TRAC	Fusion	TRAV13-1--TRAC	chr14	22337543							0.0	0.0		0	25.0	TRAV13-1	chr14	22337543.0	TRAC	chr14	23016447.0					Osteosarcoma-VJS017			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TL1	Fusion	MT-ND1--MT-TL1	chrM	3346							0.0	0.0		0	22.0	MT-ND1	chrM	3346.0	MT-TL1	chrM	3250.0					Osteosarcoma-VJS017			0	0	0	0	0	0	0
+VUS				Rearrangement	IGLJ1	Fusion	IGLV1-44--IGLJ1	chr22	22735708							0.0	0.0		0	22.0	IGLV1-44	chr22	22735708.0	IGLJ1	chr22	23235956.0					Osteosarcoma-VJS017			0	0	0	0	0	0	0
+VUS				Rearrangement	AC096579.7	Fusion	IGKV4-1--AC096579.7	chr2	89185668							0.0	0.0		0	626.0	IGKV4-1	chr2	89185668.0	AC096579.7	chr2	89161074.0					Osteosarcoma-VJS017			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKJ1	Fusion	IGKV3-20--IGKJ1	chr2	89442058							0.0	0.0		0	82.0	IGKV3-20	chr2	89442058.0	IGKJ1	chr2	89161435.0					Osteosarcoma-VJS017			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKJ5	Fusion	IGKV1-39--IGKJ5	chr2	89619383							0.0	0.0		0	10.0	IGKV1-39	chr2	89619383.0	IGKJ5	chr2	89160116.0					Osteosarcoma-VJS017			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKJ4	Fusion	IGKV1-39--IGKJ4	chr2	89619383							0.0	0.0		0	23.0	IGKV1-39	chr2	89619383.0	IGKJ4	chr2	89160434.0					Osteosarcoma-VJS017			0	0	0	0	0	0	0

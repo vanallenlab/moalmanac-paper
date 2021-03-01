@@ -1,0 +1,9 @@
+patient_id	feature_display	tested_subfeature	therapy_name	n_mut	n_wt	n_mut_tested	n_wt_tested	mut_ic50_median	mut_ic50_mean	mut_ic50_std	wt_ic50_median	wt_ic50_mean	wt_ic50_std	pvalue_mww	statistic
+KIRP-4A-A93X	MET p.I878S (Missense)	MET	SU11274	199	1624	123	801	58.163	79.735	81.446	42.785	68.665	76.237	0.129	45080.0
+KIRP-4A-A93X	MET p.I878S (Missense)	MET Somatic Variant	SU11274	88	1735	57	867	50.407	79.148	84.131	43.459	69.547	76.52	0.485	23347.0
+KIRP-4A-A93X	MET p.I878S (Missense)	MET Somatic Variant Missense	SU11274	74	1749	46	878	52.016	72.185	69.765	43.659	70.032	77.392	0.663	19425.0
+KIRP-4A-A93X	MET p.I878S (Missense)	MET Somatic Variant Missense p.I878S	SU11274	0	1823	0	924				44.064	70.139	76.997	nan	
+KIRP-4A-A93X	CHEK2 p.H186N (Missense)	CHEK2	Olaparib	115	1708	69	693	98.605	234.899	407.385	73.624	156.577	312.382	0.096	21008.0
+KIRP-4A-A93X	CHEK2 p.H186N (Missense)	CHEK2 Somatic Variant	Olaparib	45	1778	28	734	74.525	104.324	98.148	75.933	165.934	327.95	0.656	10785.0
+KIRP-4A-A93X	CHEK2 p.H186N (Missense)	CHEK2 Somatic Variant Missense	Olaparib	38	1785	23	739	52.32	92.956	103.755	77.143	165.87	326.852	0.214	9790.0
+KIRP-4A-A93X	CHEK2 p.H186N (Missense)	CHEK2 Somatic Variant Missense p.H186N	Olaparib	0	1823	0	762				75.933	163.67	322.6	nan	

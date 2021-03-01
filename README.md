@@ -1,8 +1,8 @@
 # Molecular Oncology Almanac Paper
-Analyses for the Molecular Oncology Almanac publication. Some common code used by multiple notebooks, mostly style preferences for figures, can be found in `common/` and all figures produced in this repository can be found in `figures/`. 
+Analyses for the Molecular Oncology Almanac publication. Some common code used by multiple notebooks, mostly style preferences for figures, can be found in `common/`. All figures produced in this repository can be found in `figures/` and tables under `tables/`. 
 
 ## Installation
-Code in this repository uses Python 3.7 and there is one R script in `analyses/knowledge-bases/pmid-comparison/`. The R script contains the package installation. For Python,  we recommend using a [virtual environment](https://docs.python.org/3/tutorial/venv.html) and running Python with either [Anaconda](https://www.anaconda.com/download/) or  [Miniconda](https://conda.io/miniconda.html). After installing Anaconda or Miniconda, you can set up by running
+Code in this repository uses Python 3.7 and there is one R script in `analyses/knowledge-bases/`. The R script contains the package installation. For Python,  we recommend using a [virtual environment](https://docs.python.org/3/tutorial/venv.html) and running Python with either [Anaconda](https://www.anaconda.com/download/) or  [Miniconda](https://conda.io/miniconda.html). After installing Anaconda or Miniconda, you can set up by running
 
 ```bash
 conda create -y -n moalmanac-paper python=3.7

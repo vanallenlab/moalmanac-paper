@@ -1,0 +1,5 @@
+patient_id	feature_display	tested_subfeature	therapy_name	n_mut	n_wt	n_mut_tested	n_wt_tested	mut_ic50_median	mut_ic50_mean	mut_ic50_std	wt_ic50_median	wt_ic50_mean	wt_ic50_std	pvalue_mww	statistic
+KIRP-AL-7173	MET p.H1112Y (Missense)	MET	SU11274	199	1624	123	801	58.163	79.735	81.446	42.785	68.665	76.237	0.129	45080.0
+KIRP-AL-7173	MET p.H1112Y (Missense)	MET Somatic Variant	SU11274	88	1735	57	867	50.407	79.148	84.131	43.459	69.547	76.52	0.485	23347.0
+KIRP-AL-7173	MET p.H1112Y (Missense)	MET Somatic Variant Missense	SU11274	74	1749	46	878	52.016	72.185	69.765	43.659	70.032	77.392	0.663	19425.0
+KIRP-AL-7173	MET p.H1112Y (Missense)	MET Somatic Variant Missense p.H1112Y	SU11274	0	1823	0	924				44.064	70.139	76.997	nan	

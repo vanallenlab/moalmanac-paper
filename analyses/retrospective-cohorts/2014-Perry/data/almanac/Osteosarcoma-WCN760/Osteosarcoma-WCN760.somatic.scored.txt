@@ -1,0 +1,513 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Investigate Actionability		Investigate Actionability	Investigate Actionability	Somatic Variant	TP53	Missense	p.R267W	17	7577139	7577139.0	G	G	A	0.5	10.0	0.0	0.0		0								81.0	0.5185	1.0		Osteosarcoma-WCN760	Osteosarcoma-WCN760-Tumor-SM-2RCBT	Osteosarcoma-WCN760-Normal-SM-2RCD9	3	2	1	1	1	1	2
+Biologically Relevant				Copy Number	FLCN	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		1	0	0	1	1	0	1
+Biologically Relevant				Copy Number	COL1A1	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		1	0	0	1	0	1	1
+Cancer Hotspot				Copy Number	ARID1B	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	1	0	1	0	1	1
+Cancer Hotspot 3D				Rearrangement	CARM1	Fusion	PIGL--CARM1	chr17	16120775							0.0	0.0		0	13.0	PIGL	chr17	16120775.0	CARM1	chr19	11018715.0					Osteosarcoma-WCN760			0	0	1	0	1	0	1
+Cancer Hotspot 3D				Copy Number	PLG	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	UQCRFS1	Amplification		19	29698203	30165838.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	THBS2	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	TUBB4A	Deletion		19	6147205	6496484.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	1	0	0	1	0
+Cancer Hotspot 3D				Rearrangement	DOCK6	Fusion	DOCK6--CTD-2562J15.6	chr19	11325229							0.0	0.0		0	9.0	DOCK6	chr19	11325229.0	CTD-2562J15.6	chr19	16403781.0					Osteosarcoma-WCN760			0	0	1	0	0	0	1
+Cancer Gene Census				Copy Number	NCOR1	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	1	1	1	1
+Cancer Gene Census				Rearrangement	NCOR1	Fusion	NCOR1--ZNF536	chr17	16118676							0.0	0.0		0	32.0	NCOR1	chr17	16118676.0	ZNF536	chr19	31134444.0					Osteosarcoma-WCN760			0	0	0	1	1	1	1
+Cancer Gene Census				Rearrangement	NCOR1	Fusion	NCOR1--TOM1L2	chr17	15952159							0.0	0.0		0	14.0	NCOR1	chr17	15952159.0	TOM1L2	chr17	17810845.0					Osteosarcoma-WCN760			0	0	0	1	1	1	1
+Cancer Gene Census				Rearrangement	NCOR1	Fusion	NCOR1--DSCAM	chr17	16097776							0.0	0.0		0	26.0	NCOR1	chr17	16097776.0	DSCAM	chr21	41516658.0					Osteosarcoma-WCN760			0	0	0	1	1	1	1
+Cancer Gene Census				Copy Number	MLLT1	Deletion		19	6147205	6496484.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	QKI	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	KAT7	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	1	0	1	1
+Cancer Gene Census				Rearrangement	MAF	Fusion	MAF--RP11-679B19.2	chr16	79619777							0.0	0.0		0	5.0	MAF	chr16	79619777.0	RP11-679B19.2	chr16	79246798.0					Osteosarcoma-WCN760			0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	FGFR1OP	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	1	0	0	1
+Cancer Gene Census				Copy Number	MLLT4	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	1	0	0	1
+Cancer Gene Census				Copy Number	EZR	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	1	0	0	1
+Cancer Pathway				Somatic Variant	LAMB3	Missense	p.D565N	1	209799276	209799276.0	C	C	T	0.4634	41.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WCN760	Osteosarcoma-WCN760-Tumor-SM-2RCBT	Osteosarcoma-WCN760-Normal-SM-2RCD9	0	0	0	0	1	1	2
+Cancer Pathway				Somatic Variant	LAMB3	Missense	p.D537Y	1	209799360	209799360.0	C	C	A	0.3182	66.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WCN760	Osteosarcoma-WCN760-Tumor-SM-2RCBT	Osteosarcoma-WCN760-Normal-SM-2RCD9	0	0	0	0	1	1	2
+Cancer Pathway				Somatic Variant	LAMB3	Missense	p.D626N	1	209799093	209799093.0	C	C	T	0.2348	115.0	8e-06	0.0		0								0.0	0.0	0.0		Osteosarcoma-WCN760	Osteosarcoma-WCN760-Tumor-SM-2RCBT	Osteosarcoma-WCN760-Normal-SM-2RCD9	0	0	0	0	1	1	2
+Cancer Pathway				Copy Number	ITGA3	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	PSMB1	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	SOD2	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	UBB	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	TOP3B	Deletion		22	22312612	22569911.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	EME1	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	1	0	1
+Cancer Pathway				Copy Number	TOP3A	Amplification		17	18165783	18234237.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	1	0	1
+Cancer Pathway				Copy Number	IGLV4-69	Deletion		22	22312612	22569911.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	1	0	0
+Cancer Pathway				Copy Number	IGLV10-54	Deletion		22	22312612	22569911.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	1	0	0
+Cancer Pathway				Copy Number	IGLV4-60	Deletion		22	22312612	22569911.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	1	0	0
+Cancer Pathway				Copy Number	IGLV11-55	Deletion		22	22312612	22569911.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	1	0	0
+Cancer Pathway				Copy Number	IGLV8-61	Deletion		22	22312612	22569911.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	1	0	0
+Cancer Module				Somatic Variant	TANC2	Missense	p.A1173E	17	61489022	61489022.0	C	C	A	0.1533	137.0	0.0	0.0		0								23.0	0.2174	0.4965		Osteosarcoma-WCN760	Osteosarcoma-WCN760-Tumor-SM-2RCBT	Osteosarcoma-WCN760-Normal-SM-2RCD9	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	NCF2	Missense	p.R188K	1	183542366	183542366.0	C	C	T	0.1337	359.0	0.000799	0.0		0								0.0	0.0	0.0		Osteosarcoma-WCN760	Osteosarcoma-WCN760-Tumor-SM-2RCBT	Osteosarcoma-WCN760-Normal-SM-2RCD9	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	FCRL2	Missense	p.E259G	1	157738311	157738311.0	T	T	C	0.3395	271.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WCN760	Osteosarcoma-WCN760-Tumor-SM-2RCBT	Osteosarcoma-WCN760-Normal-SM-2RCD9	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	TBX5	Splice Site	p.S252R	12	114804196	114804196.0	A	A	C	0.2353	68.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WCN760	Osteosarcoma-WCN760-Tumor-SM-2RCBT	Osteosarcoma-WCN760-Normal-SM-2RCD9	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	RCBTB2	Missense	p.L347F	13	49076938	49076938.0	G	G	A	0.03	100.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WCN760	Osteosarcoma-WCN760-Tumor-SM-2RCBT	Osteosarcoma-WCN760-Normal-SM-2RCD9	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	PRPSAP2	Missense	p.R181S	17	18793149	18793149.0	G	G	T	0.0682	821.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WCN760	Osteosarcoma-WCN760-Tumor-SM-2RCBT	Osteosarcoma-WCN760-Normal-SM-2RCD9	0	0	0	0	0	1	2
+Cancer Module				Copy Number	LPA	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SPATA20	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MYO15A	Amplification		17	17964907	18045819.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MYCBPAP	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MPRIP	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ALDH3A1	Amplification		17	19458273	19872026.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	AKAP10	Amplification		17	19458273	19872026.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SREBF1	Amplification		17	17718397	17788334.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	T	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TBP	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC22A1	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	IGF2R	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SYNJ2	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MRPL18	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CELA3A	Deletion		1	22327916	22336602.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	MPRIP	Fusion	MPRIP--AC022596.2	chr17	16981390							0.0	0.0		0	16.0	MPRIP	chr17	16981390.0	AC022596.2	chr17	16753867.0					Osteosarcoma-WCN760			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	PRR4	Fusion	RP11-785H5.2--PRR4	chr12	11323866							0.0	0.0		0	5.0	RP11-785H5.2	chr12	11323866.0	PRR4	chr12	11199787.0					Osteosarcoma-WCN760			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	SPARCL1	Fusion	RP11-742B18.1--SPARCL1	chr4	88651515							0.0	0.0		0	9.0	RP11-742B18.1	chr4	88651515.0	SPARCL1	chr4	88420737.0					Osteosarcoma-WCN760			0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNF624	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SHMT1	Amplification		17	18165783	18234237.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RPS6KA2	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TTLL2	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TCP10	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC22A2	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ACAT2	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TIAM2	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ABCC3	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	TIAM2	Fusion	TIAM2--MYH14	chr6	155500590							0.0	0.0		0	7.0	TIAM2	chr6	155500590.0	MYH14	chr19	50792693.0					Osteosarcoma-WCN760			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	NOTCH3	Fusion	NOTCH3--MOB3A	chr19	15294653							0.0	0.0		0	49.0	NOTCH3	chr19	15294653.0	MOB3A	chr19	2076999.0					Osteosarcoma-WCN760			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	EPN2	Fusion	EPN2--VMP1	chr17	19215457							0.0	0.0		0	7.0	EPN2	chr17	19215457.0	VMP1	chr17	57808782.0					Osteosarcoma-WCN760			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	CTSC	Fusion	CTSC--RAB38	chr11	88033698							0.0	0.0		0	5.0	CTSC	chr11	88033698.0	RAB38	chr11	87847308.0					Osteosarcoma-WCN760			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	FUT6	Fusion	LONP1--FUT6	chr19	5705783							0.0	0.0		0	6.0	LONP1	chr19	5705783.0	FUT6	chr19	5832590.0					Osteosarcoma-WCN760			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	LEPR	Fusion	LEPROT--LEPR	chr1	65891061							0.0	0.0		0	10.0	LEPROT	chr1	65891061.0	LEPR	chr1	66031229.0					Osteosarcoma-WCN760			0	0	0	0	0	1	1
+Cancer Module				Copy Number	DRG2	Amplification		17	17964907	18045819.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TRPV2	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	COPS3	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TNFRSF13B	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PIGL	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ADORA2B	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNF286A	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GRAP	Amplification		17	18506667	18967699.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PRPSAP2	Amplification		17	18506667	18967699.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC47A1	Amplification		17	19458273	19872026.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ALDH3A2	Amplification		17	19458273	19872026.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ALKBH5	Amplification		17	18047563	18158829.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FLII	Amplification		17	18047563	18158829.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ATPAF2	Amplification		17	17796723	17957800.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NT5M	Amplification		17	17151988	17713005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PEMT	Amplification		17	17151988	17713005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MED9	Amplification		17	17151988	17713005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CLPP	Deletion		19	6147205	6496484.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RFX2	Deletion		19	6147205	6496484.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KHSRP	Deletion		19	6147205	6496484.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HP	Deletion		16	72090286	72093337.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HPR	Deletion		16	72090286	72093337.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SMOC2	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DLL1	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PHF10	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PDE10A	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PDCD2	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KIF25	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RNASET2	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CCR6	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC22A3	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TFB1M	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DYNLT1	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TAGAP	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	WTAP	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SNX9	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MAS1	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SGCA	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LUC7L3	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PDK2	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PPP1R9B	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DLX3	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MRPL27	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DLX4	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	RAB3GAP2	Fusion	RAB3GAP2--RP11-547I7.1	chr1	220326527							0.0	0.0		0	16.0	RAB3GAP2	chr1	220326527.0	RP11-547I7.1	chr1	190331193.0					Osteosarcoma-WCN760			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	PRR16	Fusion	PRR16--CTD-2334D19.1	chr5	119800340							0.0	0.0		0	30.0	PRR16	chr5	119800340.0	CTD-2334D19.1	chr5	120125649.0					Osteosarcoma-WCN760			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	PKIB	Fusion	PKIB--CDC5L	chr6	122793186							0.0	0.0		0	8.0	PKIB	chr6	122793186.0	CDC5L	chr6	44413392.0					Osteosarcoma-WCN760			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	PIGL	Fusion	PIGL--CARM1	chr17	16120775							0.0	0.0		0	13.0	PIGL	chr17	16120775.0	CARM1	chr19	11018715.0					Osteosarcoma-WCN760			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	LONP1	Fusion	LONP1--FUT6	chr19	5705783							0.0	0.0		0	6.0	LONP1	chr19	5705783.0	FUT6	chr19	5832590.0					Osteosarcoma-WCN760			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	C19orf12	Fusion	C19orf12--CTD-2207O23.3	chr19	30205814							0.0	0.0		0	78.0	C19orf12	chr19	30205814.0	CTD-2207O23.3	chr19	7534790.0					Osteosarcoma-WCN760			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	C19orf12	Fusion	C19orf12--ARHGEF18	chr19	30205814							0.0	0.0		0	78.0	C19orf12	chr19	30205814.0	ARHGEF18	chr19	7534790.0					Osteosarcoma-WCN760			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	MYH14	Fusion	TIAM2--MYH14	chr6	155500590							0.0	0.0		0	7.0	TIAM2	chr6	155500590.0	MYH14	chr19	50792693.0					Osteosarcoma-WCN760			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	SOX5	Fusion	RP11-444D3.1--SOX5	chr12	24366277							0.0	0.0		0	6.0	RP11-444D3.1	chr12	24366277.0	SOX5	chr12	24048958.0					Osteosarcoma-WCN760			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	EYA1	Fusion	RP11-1102P16.1--EYA1	chr8	72447979							0.0	0.0		0	7.0	RP11-1102P16.1	chr8	72447979.0	EYA1	chr8	72268746.0					Osteosarcoma-WCN760			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	CDC5L	Fusion	PKIB--CDC5L	chr6	122793186							0.0	0.0		0	8.0	PKIB	chr6	122793186.0	CDC5L	chr6	44413392.0					Osteosarcoma-WCN760			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	PCDHGC3	Fusion	PCDHGA2--PCDHGC3	chr5	140720962							0.0	0.0		0	17.0	PCDHGA2	chr5	140720962.0	PCDHGC3	chr5	140874374.0					Osteosarcoma-WCN760			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	DSCAM	Fusion	NCOR1--DSCAM	chr17	16097776							0.0	0.0		0	26.0	NCOR1	chr17	16097776.0	DSCAM	chr21	41516658.0					Osteosarcoma-WCN760			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	VMP1	Fusion	EPN2--VMP1	chr17	19215457							0.0	0.0		0	7.0	EPN2	chr17	19215457.0	VMP1	chr17	57808782.0					Osteosarcoma-WCN760			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	COPS3	Fusion	DNAH14--COPS3	chr1	225117537							0.0	0.0		0	27.0	DNAH14	chr1	225117537.0	COPS3	chr17	17179478.0					Osteosarcoma-WCN760			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	ATPAF2	Fusion	C17orf76-AS1--ATPAF2	chr17	16344444							0.0	0.0		0	14.0	C17orf76-AS1	chr17	16344444.0	ATPAF2	chr17	17942364.0					Osteosarcoma-WCN760			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	MOB3A	Fusion	NOTCH3--MOB3A	chr19	15294653							0.0	0.0		0	49.0	NOTCH3	chr19	15294653.0	MOB3A	chr19	2076999.0					Osteosarcoma-WCN760			0	0	0	0	0	1	0
+Cosmic				Somatic Variant	SPECC1L	Missense	p.I771T	22	24726315	24726315.0	T	T	C	0.2378	185.0	0.0	0.0		0								126.0	0.1746	1.0		Osteosarcoma-WCN760	Osteosarcoma-WCN760-Tumor-SM-2RCBT	Osteosarcoma-WCN760-Normal-SM-2RCD9	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	RSBN1L	Missense	p.Q78H	7	77326020	77326020.0	G	G	C	0.16	25.0	0.0	0.0		0								21.0	0.4762	0.5191		Osteosarcoma-WCN760	Osteosarcoma-WCN760-Tumor-SM-2RCBT	Osteosarcoma-WCN760-Normal-SM-2RCD9	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	TECTA	Missense	p.Y330C	11	120989213	120989213.0	A	A	G	0.1448	145.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WCN760	Osteosarcoma-WCN760-Tumor-SM-2RCBT	Osteosarcoma-WCN760-Normal-SM-2RCD9	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	OR8K5	Missense	p.A237S	11	55927085	55927085.0	C	C	A	0.25	52.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WCN760	Osteosarcoma-WCN760-Tumor-SM-2RCBT	Osteosarcoma-WCN760-Normal-SM-2RCD9	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	DPPA3	Missense	p.E20K	12	7864224	7864224.0	G	G	A	0.3667	60.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WCN760	Osteosarcoma-WCN760-Tumor-SM-2RCBT	Osteosarcoma-WCN760-Normal-SM-2RCD9	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	TFIP11	Missense	p.R739W	22	26888278	26888278.0	G	G	A	0.0179	224.0	8e-06	0.0		0								0.0	0.0	0.0		Osteosarcoma-WCN760	Osteosarcoma-WCN760-Tumor-SM-2RCBT	Osteosarcoma-WCN760-Normal-SM-2RCD9	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	OR3A1	Nonsense	p.R264*	17	3195087	3195087.0	G	G	A	0.0348	115.0	0.00025499999999999996	0.0		0								0.0	0.0	0.0		Osteosarcoma-WCN760	Osteosarcoma-WCN760-Tumor-SM-2RCBT	Osteosarcoma-WCN760-Normal-SM-2RCD9	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	TTC19	Missense	p.N231I	17	15928346	15928346.0	A	A	T	0.0907	816.0	0.0	0.0		0								410.0	0.0756	1.0		Osteosarcoma-WCN760	Osteosarcoma-WCN760-Tumor-SM-2RCBT	Osteosarcoma-WCN760-Normal-SM-2RCD9	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	TONSL	Missense	p.M840I	8	145661296	145661296.0	C	C	A	0.1304	23.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WCN760	Osteosarcoma-WCN760-Tumor-SM-2RCBT	Osteosarcoma-WCN760-Normal-SM-2RCD9	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	KIAA0895	Missense	p.R251C	7	36373711	36373711.0	G	G	A	0.2963	108.0	8e-06	0.0		0								0.0	0.0	0.0		Osteosarcoma-WCN760	Osteosarcoma-WCN760-Tumor-SM-2RCBT	Osteosarcoma-WCN760-Normal-SM-2RCD9	0	0	0	0	0	0	1
+Cosmic				Copy Number	FNDC1	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RAI1	Amplification		17	17151988	17713005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C6orf118	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FBXW10	Amplification		17	18506667	18967699.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SMCR8	Amplification		17	18165783	18234237.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MAP3K4	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PARK2	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	PCDHGA2	Fusion	PCDHGA2--PCDHGC5	chr5	140720962							0.0	0.0		0	17.0	PCDHGA2	chr5	140720962.0	PCDHGC5	chr5	140874374.0					Osteosarcoma-WCN760			0	0	0	0	0	0	1
+Cosmic				Rearrangement	PCDHGA2	Fusion	PCDHGA2--PCDHGC4	chr5	140720962							0.0	0.0		0	17.0	PCDHGA2	chr5	140720962.0	PCDHGC4	chr5	140874374.0					Osteosarcoma-WCN760			0	0	0	0	0	0	1
+Cosmic				Rearrangement	PCDHGA2	Fusion	PCDHGA2--PCDHGC3	chr5	140720962							0.0	0.0		0	17.0	PCDHGA2	chr5	140720962.0	PCDHGC3	chr5	140874374.0					Osteosarcoma-WCN760			0	0	0	0	0	0	1
+Cosmic				Rearrangement	ARHGEF18	Fusion	C19orf12--ARHGEF18	chr19	30205814							0.0	0.0		0	78.0	C19orf12	chr19	30205814.0	ARHGEF18	chr19	7534790.0					Osteosarcoma-WCN760			0	0	0	0	0	0	1
+Cosmic				Copy Number	CCDC144A	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM83G	Amplification		17	18506667	18967699.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TBC1D28	Amplification		17	18506667	18967699.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TRIM16L	Amplification		17	18506667	18967699.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ULK2	Amplification		17	19458273	19872026.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LLGL1	Amplification		17	18047563	18158829.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRRC48	Amplification		17	17796723	17957800.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DENND1C	Deletion		19	6147205	6496484.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ACSBG2	Deletion		19	6147205	6496484.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC25A23	Deletion		19	6147205	6496484.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FRMD1	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GPR31	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RSPH3	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM181	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SYTL3	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRAMEF10	Deletion		1	12954165	12955930.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM92	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ANKRD40	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	XYLT2	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRB1	Deletion		12	11505789	11507188.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	RNF152	Fusion	RNF152--RP11-879F14.2	chr18	59560028							0.0	0.0		0	5.0	RNF152	chr18	59560028.0	RP11-879F14.2	chr18	59259856.0					Osteosarcoma-WCN760			0	0	0	0	0	0	1
+Cosmic				Rearrangement	RNF152	Fusion	RNF152--RP11-879F14.1	chr18	59560028							0.0	0.0		0	5.0	RNF152	chr18	59560028.0	RP11-879F14.1	chr18	59259856.0					Osteosarcoma-WCN760			0	0	0	0	0	0	1
+Cosmic				Rearrangement	RIN2	Fusion	RP1-122P22.2--RIN2	chr20	19780391							0.0	0.0		0	8.0	RP1-122P22.2	chr20	19780391.0	RIN2	chr20	19915743.0					Osteosarcoma-WCN760			0	0	0	0	0	0	1
+Cosmic				Rearrangement	PCDHGC5	Fusion	PCDHGA2--PCDHGC5	chr5	140720962							0.0	0.0		0	17.0	PCDHGA2	chr5	140720962.0	PCDHGC5	chr5	140874374.0					Osteosarcoma-WCN760			0	0	0	0	0	0	1
+Cosmic				Rearrangement	FRY	Fusion	EEF1DP3--FRY	chr13	32520318							0.0	0.0		0	5.0	EEF1DP3	chr13	32520318.0	FRY	chr13	32652971.0					Osteosarcoma-WCN760			0	0	0	0	0	0	1
+Cosmic				Rearrangement	RAB38	Fusion	CTSC--RAB38	chr11	88033698							0.0	0.0		0	5.0	CTSC	chr11	88033698.0	RAB38	chr11	87847308.0					Osteosarcoma-WCN760			0	0	0	0	0	0	1
+Cosmic				Copy Number	PLEKHF1	Amplification		19	29698203	30165838.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	POP4	Amplification		19	29698203	30165838.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	VSTM2B	Amplification		19	29698203	30165838.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF536	Amplification		19	31025502	31048323.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CENPV	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TTC19	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM211A	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TBC1D26	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PLD6	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF287	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZSWIM7	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRT17P1	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC5A10	Amplification		17	18506667	18967699.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCDC144B	Amplification		17	18506667	18967699.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF286B	Amplification		17	18506667	18967699.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC47A2	Amplification		17	19458273	19872026.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TOM1L2	Amplification		17	17718397	17788334.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RASD1	Amplification		17	17151988	17713005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PSPN	Deletion		19	6147205	6496484.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CRB3	Deletion		19	6147205	6496484.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ALKBH7	Deletion		19	6147205	6496484.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ACER1	Deletion		19	6147205	6496484.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC25A41	Deletion		19	6147205	6496484.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GTF2F1	Deletion		19	6147205	6496484.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	UNC93A	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	WDR27	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SDIM1	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TCP10L2	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TCTE3	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SFT2D1	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRR18	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DACT2	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PACRG	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM120B	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	AGPAT4	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C6orf120	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	AL078585.1	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF414	Deletion		19	8550235	8592020.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRAM1	Deletion		19	8550235	8592020.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	HNRNPM	Deletion		19	8550235	8592020.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MYO1F	Deletion		19	8550235	8592020.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	POTEG	Deletion		14	19553165	19559416.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SERAC1	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GTF2H5	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZDHHC14	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM242	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TULP4	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TCP1	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C6orf99	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CLDN20	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LPAL2	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NOX3	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PNLDC1	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CHAD	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CACNA1G	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ACSF2	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TAC4	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SAMD14	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RSAD1	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRRC59	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	EPN3	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	UPF1	Deletion		19	18963544	18965890.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	TTC19	Fusion	TTC19--DISP1	chr17	15909882							0.0	0.0		0	6.0	TTC19	chr17	15909882.0	DISP1	chr1	223116149.0					Osteosarcoma-WCN760			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND6	Fusion	MT-ND6--MT-TE	chrM	14479							0.0	0.0		0	16.0	MT-ND6	chrM	14479.0	MT-TE	chrM	14713.0					Osteosarcoma-WCN760			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4	Fusion	MT-ND4--MT-ND4L	chrM	10826							0.0	0.0		0	17.0	MT-ND4	chrM	10826.0	MT-ND4L	chrM	10745.0					Osteosarcoma-WCN760			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-ATP6--MT-ATP8	chrM	8682							0.0	0.0		0	18.0	MT-ATP6	chrM	8682.0	MT-ATP8	chrM	8464.0					Osteosarcoma-WCN760			0	0	0	0	0	0	1
+Cosmic				Rearrangement	LEPROT	Fusion	LEPROT--LEPR	chr1	65891061							0.0	0.0		0	10.0	LEPROT	chr1	65891061.0	LEPR	chr1	66031229.0					Osteosarcoma-WCN760			0	0	0	0	0	0	1
+Cosmic				Rearrangement	DNAH14	Fusion	DNAH14--COPS3	chr1	225117537							0.0	0.0		0	27.0	DNAH14	chr1	225117537.0	COPS3	chr17	17179478.0					Osteosarcoma-WCN760			0	0	0	0	0	0	1
+Cosmic				Rearrangement	DISP1	Fusion	TTC19--DISP1	chr17	15909882							0.0	0.0		0	6.0	TTC19	chr17	15909882.0	DISP1	chr1	223116149.0					Osteosarcoma-WCN760			0	0	0	0	0	0	1
+Cosmic				Rearrangement	TAS2R14	Fusion	RP11-785H5.2--TAS2R14	chr12	11323866							0.0	0.0		0	5.0	RP11-785H5.2	chr12	11323866.0	TAS2R14	chr12	11199787.0					Osteosarcoma-WCN760			0	0	0	0	0	0	1
+Cosmic				Rearrangement	PCDHGC4	Fusion	PCDHGA2--PCDHGC4	chr5	140720962							0.0	0.0		0	17.0	PCDHGA2	chr5	140720962.0	PCDHGC4	chr5	140874374.0					Osteosarcoma-WCN760			0	0	0	0	0	0	1
+Cosmic				Rearrangement	ZNF536	Fusion	NCOR1--ZNF536	chr17	16118676							0.0	0.0		0	32.0	NCOR1	chr17	16118676.0	ZNF536	chr19	31134444.0					Osteosarcoma-WCN760			0	0	0	0	0	0	1
+Cosmic				Rearrangement	TOM1L2	Fusion	NCOR1--TOM1L2	chr17	15952159							0.0	0.0		0	14.0	NCOR1	chr17	15952159.0	TOM1L2	chr17	17810845.0					Osteosarcoma-WCN760			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4L	Fusion	MT-ND4--MT-ND4L	chrM	10826							0.0	0.0		0	17.0	MT-ND4	chrM	10826.0	MT-ND4L	chrM	10745.0					Osteosarcoma-WCN760			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP8	Fusion	MT-ATP6--MT-ATP8	chrM	8682							0.0	0.0		0	18.0	MT-ATP6	chrM	8682.0	MT-ATP8	chrM	8464.0					Osteosarcoma-WCN760			0	0	0	0	0	0	1
+Cosmic				Rearrangement	FAM211A	Fusion	GID4--FAM211A	chr17	17948520							0.0	0.0		0	34.0	GID4	chr17	17948520.0	FAM211A	chr17	16351274.0					Osteosarcoma-WCN760			0	0	0	0	0	0	1
+VUS				Somatic Variant	AGO3	Missense	p.V128I	1	36437694	36437694.0	G	G	A	0.2281	57.0	0.0	0.0		0								32.0	0.1562	0.9275		Osteosarcoma-WCN760	Osteosarcoma-WCN760-Tumor-SM-2RCBT	Osteosarcoma-WCN760-Normal-SM-2RCD9	0	0	0	0	0	0	0
+VUS				Somatic Variant	CMTR2	Missense	p.L346P	16	71318787	71318787.0	A	A	G	0.0536	56.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WCN760	Osteosarcoma-WCN760-Tumor-SM-2RCBT	Osteosarcoma-WCN760-Normal-SM-2RCD9	0	0	0	0	0	0	0
+VUS				Copy Number	TVP23B	Amplification		17	18506667	18967699.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	GID4	Amplification		17	17964907	18045819.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-32O4.2	Amplification		19	29698203	30165838.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-525D6.1	Amplification		19	29698203	30165838.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL340P	Amplification		19	29698203	30165838.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-525D6.5	Amplification		19	29698203	30165838.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-525D6.2	Amplification		19	29698203	30165838.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-219A15.4	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL775P	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-219A15.2	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP436	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL620P	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	KRT16P2	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL442P	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	MPRIP-AS1	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-45M22.5	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	TBC1D27	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-3157E16.1	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-416I2.1	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-45M22.3	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-219A15.1	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC055811.1	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-77H15.1	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1288	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC104024.2	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC104024.1	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC093484.4	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-92B11.4	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC022596.6	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC022596.2	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC015922.6	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC015922.5	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC005324.7	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC005324.6	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC002553.1	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-45M22.4	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-138I1.2	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-862P	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-138I1.4	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-767P	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	C17orf76-AS1	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-405P	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-138I1.3	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-92B11.3	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-314P	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	USP32P1	Amplification		17	15638411	17151126.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD3B-1	Amplification		17	18506667	18967699.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-815I9.4	Amplification		17	18506667	18967699.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD3B-2	Amplification		17	18506667	18967699.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	snoMBII-202	Amplification		17	18506667	18967699.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL639P	Amplification		17	18506667	18967699.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2145A24.3	Amplification		17	18506667	18967699.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL627P	Amplification		17	18506667	18967699.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC090286.4	Amplification		17	18506667	18967699.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2145A24.4	Amplification		17	18506667	18967699.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC025627.7	Amplification		17	19458273	19872026.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1113L8.1	Amplification		17	19458273	19872026.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-311F12.2	Amplification		17	19458273	19872026.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-78O7.2	Amplification		17	19458273	19872026.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORA59B	Amplification		17	19458273	19872026.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-209D14.4	Amplification		17	19458273	19872026.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-311F12.1	Amplification		17	19458273	19872026.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2104P17.1	Amplification		17	19458273	19872026.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-178F10.3	Amplification		17	18165783	18234237.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIEF2	Amplification		17	18165783	18234237.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-178F10.1	Amplification		17	18165783	18234237.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR33B	Amplification		17	17718397	17788334.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-258F1.1	Amplification		17	18047563	18158829.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-524F11.2	Amplification		17	17151988	17713005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-524F11.1	Amplification		17	17151988	17713005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RAI1-AS1	Amplification		17	17151988	17713005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	SMCR5	Amplification		17	17151988	17713005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	SMCR2	Amplification		17	17151988	17713005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-253P7.1	Amplification		17	17151988	17713005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-468P	Amplification		17	17151988	17713005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-180A7.3	Deletion		19	6147205	6496484.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-503J8.4	Deletion		19	6147205	6496484.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2396E7.10	Deletion		19	6147205	6496484.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2396E7.9	Deletion		19	6147205	6496484.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-180A7.6	Deletion		19	6147205	6496484.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-180A7.8	Deletion		19	6147205	6496484.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-503J8.6	Deletion		19	6147205	6496484.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3940	Deletion		19	6147205	6496484.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-503C24.3	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RPS6KA2-AS1	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-894D12.4	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-894D12.3	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-826L7.1	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1086L22.1	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-655C5.4	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-894D12.5	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-495K2.2	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	XXyac-YX65C7_A.2	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	XXyac-YX65C7_A.3	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-81D8.3	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	Z98049.1	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RPS6KA2-IT1	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-39J2.1	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-266L20.9	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-266L20.4	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-266L20.2	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-257A15.1	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-230L10.1	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-182D15.2	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-168L15.5	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-495K2.3	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-235G24.3	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-235G24.1	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-351J23.2	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-503C24.2	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-503C24.6	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-503C24.1	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-417E7.2	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-417E7.1	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-514O12.4	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-351J23.1	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-495K2.1	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-517H2.6	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-347L18.1	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-568A7.2	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-302L19.3	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-302L19.1	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-300M24.1	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-568A7.3	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-252P19.2	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-252P19.1	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-428L16.1	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-428L16.2	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-470B24.5	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-503C24.4	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-730P	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-167A14.2	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	ERMARD	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	MPC1	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL366P	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	MLLT4-AS1	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4644	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3939	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	KIF25-AS1	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1913	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00242	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00473	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00574	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-155D22.2	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-137D17.2	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-153P	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL590482.1	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	C6orf123	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-137D17.1	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL009178.1	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-125N5.2	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL035697.1	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-140C12.2	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-155D22.1	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP226	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	CAHM	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL513547.1	Deletion		6	161071118	170893087.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	AIRN	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-933K21.3	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORA29	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	SYNJ2-IT1	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	FNDC1-IT1	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	EZR-AS1	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL591025.1	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL590703.1	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-288H12.3	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-732M18.2	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-125D12.2	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4466	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-52J3.3	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-52J3.2	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-518I13.1	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-293P	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	OSTCP1	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-125D12.1	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-13P5.1	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-477D19.2	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-13P5.2	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU4ATAC18P	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-230C9.2	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-230C9.3	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-230C9.4	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL173P	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3918	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-732M18.3	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-288H12.4	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-111C20.4	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-137K2.2	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1202	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-403L10.3	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-393E18.2	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-249F5.3	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-786P	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-257I9.2	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-152P	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-111C20.3	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-276N6.2	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3692	Deletion		6	155503108	161033005.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	PRAMENP	Deletion		22	22312612	22569911.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	LL22NC03-23C6.13	Deletion		22	22312612	22569911.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGLV6-57	Deletion		22	22312612	22569911.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1313P	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-22K21.2	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC002401.1	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	CACNA1G-AS1	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1094H24.4	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1094H24.3	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-117B12.4	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-294J22.6	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	HILS1	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-893F2.14	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-893F2.15	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-893F2.5	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-893F2.6	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-893F2.9	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-94C24.11	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-94C24.6	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-94C24.8	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-875H18.4	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-893F2.13	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-304F15.7	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-304F15.6	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-304F15.4	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-304F15.3	Deletion		17	47882473	48828274.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL768P	Deletion		1	22327916	22336602.0						0.0	0.0		0												Osteosarcoma-WCN760	WCN760_T		0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-820L6.1	Fusion	RP11-820L6.1--RP11-166D19.1	chr11	122051044							0.0	0.0		0	6.0	RP11-820L6.1	chr11	122051044.0	RP11-166D19.1	chr11	121937142.0					Osteosarcoma-WCN760			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-785H5.2	Fusion	RP11-785H5.2--TAS2R14	chr12	11323866							0.0	0.0		0	5.0	RP11-785H5.2	chr12	11323866.0	TAS2R14	chr12	11199787.0					Osteosarcoma-WCN760			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-785H5.2	Fusion	RP11-785H5.2--PRR4	chr12	11323866							0.0	0.0		0	5.0	RP11-785H5.2	chr12	11323866.0	PRR4	chr12	11199787.0					Osteosarcoma-WCN760			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-742B18.1	Fusion	RP11-742B18.1--SPARCL1	chr4	88651515							0.0	0.0		0	9.0	RP11-742B18.1	chr4	88651515.0	SPARCL1	chr4	88420737.0					Osteosarcoma-WCN760			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-680G10.1	Fusion	RP11-680G10.1--GSE1	chr16	85391249							0.0	0.0		0	6.0	RP11-680G10.1	chr16	85391249.0	GSE1	chr16	85682158.0					Osteosarcoma-WCN760			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-444D3.1	Fusion	RP11-444D3.1--SOX5	chr12	24366277							0.0	0.0		0	6.0	RP11-444D3.1	chr12	24366277.0	SOX5	chr12	24048958.0					Osteosarcoma-WCN760			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-400N13.3	Fusion	RP11-400N13.3--RP11-815M8.1	chr1	222231756							0.0	0.0		0	14.0	RP11-400N13.3	chr1	222231756.0	RP11-815M8.1	chr1	222092054.0					Osteosarcoma-WCN760			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-1102P16.1	Fusion	RP11-1102P16.1--EYA1	chr8	72447979							0.0	0.0		0	7.0	RP11-1102P16.1	chr8	72447979.0	EYA1	chr8	72268746.0					Osteosarcoma-WCN760			0	0	0	0	0	0	0
+VUS				Rearrangement	RP1-122P22.2	Fusion	RP1-122P22.2--RIN2	chr20	19780391							0.0	0.0		0	8.0	RP1-122P22.2	chr20	19780391.0	RIN2	chr20	19915743.0					Osteosarcoma-WCN760			0	0	0	0	0	0	0
+VUS				Rearrangement	GID4	Fusion	GID4--FAM211A	chr17	17948520							0.0	0.0		0	34.0	GID4	chr17	17948520.0	FAM211A	chr17	16351274.0					Osteosarcoma-WCN760			0	0	0	0	0	0	0
+VUS				Rearrangement	EEF1DP3	Fusion	EEF1DP3--FRY	chr13	32520318							0.0	0.0		0	5.0	EEF1DP3	chr13	32520318.0	FRY	chr13	32652971.0					Osteosarcoma-WCN760			0	0	0	0	0	0	0
+VUS				Rearrangement	CTC-786C10.1	Fusion	CTC-786C10.1--RP11-680G10.1	chr16	85205413							0.0	0.0		0	12.0	CTC-786C10.1	chr16	85205413.0	RP11-680G10.1	chr16	85391069.0					Osteosarcoma-WCN760			0	0	0	0	0	0	0
+VUS				Rearrangement	C17orf76-AS1	Fusion	C17orf76-AS1--ATPAF2	chr17	16344444							0.0	0.0		0	14.0	C17orf76-AS1	chr17	16344444.0	ATPAF2	chr17	17942364.0					Osteosarcoma-WCN760			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-166D19.1	Fusion	RP11-820L6.1--RP11-166D19.1	chr11	122051044							0.0	0.0		0	6.0	RP11-820L6.1	chr11	122051044.0	RP11-166D19.1	chr11	121937142.0					Osteosarcoma-WCN760			0	0	0	0	0	0	0
+VUS				Rearrangement	GSE1	Fusion	RP11-680G10.1--GSE1	chr16	85391249							0.0	0.0		0	6.0	RP11-680G10.1	chr16	85391249.0	GSE1	chr16	85682158.0					Osteosarcoma-WCN760			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-815M8.1	Fusion	RP11-400N13.3--RP11-815M8.1	chr1	222231756							0.0	0.0		0	14.0	RP11-400N13.3	chr1	222231756.0	RP11-815M8.1	chr1	222092054.0					Osteosarcoma-WCN760			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-879F14.2	Fusion	RNF152--RP11-879F14.2	chr18	59560028							0.0	0.0		0	5.0	RNF152	chr18	59560028.0	RP11-879F14.2	chr18	59259856.0					Osteosarcoma-WCN760			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-879F14.1	Fusion	RNF152--RP11-879F14.1	chr18	59560028							0.0	0.0		0	5.0	RNF152	chr18	59560028.0	RP11-879F14.1	chr18	59259856.0					Osteosarcoma-WCN760			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-547I7.1	Fusion	RAB3GAP2--RP11-547I7.1	chr1	220326527							0.0	0.0		0	16.0	RAB3GAP2	chr1	220326527.0	RP11-547I7.1	chr1	190331193.0					Osteosarcoma-WCN760			0	0	0	0	0	0	0
+VUS				Rearrangement	CTD-2334D19.1	Fusion	PRR16--CTD-2334D19.1	chr5	119800340							0.0	0.0		0	30.0	PRR16	chr5	119800340.0	CTD-2334D19.1	chr5	120125649.0					Osteosarcoma-WCN760			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TE	Fusion	MT-ND6--MT-TE	chrM	14479							0.0	0.0		0	16.0	MT-ND6	chrM	14479.0	MT-TE	chrM	14713.0					Osteosarcoma-WCN760			0	0	0	0	0	0	0
+VUS				Rearrangement	AC022596.2	Fusion	MPRIP--AC022596.2	chr17	16981390							0.0	0.0		0	16.0	MPRIP	chr17	16981390.0	AC022596.2	chr17	16753867.0					Osteosarcoma-WCN760			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-679B19.2	Fusion	MAF--RP11-679B19.2	chr16	79619777							0.0	0.0		0	5.0	MAF	chr16	79619777.0	RP11-679B19.2	chr16	79246798.0					Osteosarcoma-WCN760			0	0	0	0	0	0	0
+VUS				Rearrangement	CTD-2562J15.6	Fusion	DOCK6--CTD-2562J15.6	chr19	11325229							0.0	0.0		0	9.0	DOCK6	chr19	11325229.0	CTD-2562J15.6	chr19	16403781.0					Osteosarcoma-WCN760			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-680G10.1	Fusion	CTC-786C10.1--RP11-680G10.1	chr16	85205413							0.0	0.0		0	12.0	CTC-786C10.1	chr16	85205413.0	RP11-680G10.1	chr16	85391069.0					Osteosarcoma-WCN760			0	0	0	0	0	0	0
+VUS				Rearrangement	CTD-2207O23.3	Fusion	C19orf12--CTD-2207O23.3	chr19	30205814							0.0	0.0		0	78.0	C19orf12	chr19	30205814.0	CTD-2207O23.3	chr19	7534790.0					Osteosarcoma-WCN760			0	0	0	0	0	0	0

@@ -1,0 +1,275 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Putatively Actionable			Putatively Actionable	Copy Number	RB1	Deletion		13	48517254	48955831.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		4	1	1	1	1	1	1
+Biologically Relevant				Rearrangement	TP53	Fusion	FBXO28--TP53	chr1	224302098							0.0	0.0		0	5.0	FBXO28	chr1	224302098.0	TP53	chr17	7579940.0					Osteosarcoma-RRZ637			1	1	1	1	1	1	1
+Biologically Relevant				Copy Number	FANCL	Deletion		2	56611151	58431613.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		1	0	0	0	0	1	1
+Cancer Hotspot				Somatic Variant	HIST1H3B	Missense	p.E106Q	6	26031973	26031973.0	C	C	G	0.0864	81.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRZ637	Osteosarcoma-RRZ637-Tumor-SM-2RCBK	Osteosarcoma-RRZ637-Normal-SM-2RCCZ	0	2	1	1	0	0	2
+Cancer Hotspot				Rearrangement	SMAD2	Fusion	SMAD2--RP11-693L9.2	chr18	45457171							0.0	0.0		0	32.0	SMAD2	chr18	45457171.0	RP11-693L9.2	chr18	55628856.0					Osteosarcoma-RRZ637			0	1	0	1	1	0	1
+Cancer Hotspot				Copy Number	CYSLTR2	Deletion		13	49063995	50623226.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	1	0	1	0	0	1
+Cancer Hotspot				Somatic Variant	PRDM14	Nonsense	p.C519*	8	70964471	70964471.0	G	G	T	0.1677	167.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRZ637	Osteosarcoma-RRZ637-Tumor-SM-2RCBK	Osteosarcoma-RRZ637-Normal-SM-2RCCZ	0	1	0	0	0	0	2
+Cancer Hotspot 3D				Copy Number	IL6ST	Amplification		5	55247040	55528992.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	1	1	1	1	1
+Cancer Hotspot 3D				Rearrangement	COL3A1	Fusion	COL6A3--COL3A1	chr2	238305370							0.0	0.0		0	7.0	COL6A3	chr2	238305370.0	COL3A1	chr2	189849486.0					Osteosarcoma-RRZ637			0	0	1	1	0	1	1
+Cancer Hotspot 3D				Copy Number	ACP1	Deletion		2	41356	669716.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	ING2	Amplification		4	184189874	185552563.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	HBA2	Deletion		16	223066	227207.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Rearrangement	SMURF2	Fusion	SMURF2--RP11-2F9.4	chr17	62589558							0.0	0.0		0	59.0	SMURF2	chr17	62589558.0	RP11-2F9.4	chr15	22434360.0					Osteosarcoma-RRZ637			0	0	1	0	0	1	1
+Cancer Hotspot 3D				Rearrangement	SMURF2	Fusion	APPBP2--SMURF2	chr17	58571827							0.0	0.0		0	28.0	APPBP2	chr17	58571827.0	SMURF2	chr17	62574694.0					Osteosarcoma-RRZ637			0	0	1	0	0	1	1
+Cancer Hotspot 3D				Somatic Variant	LHX6	Missense	p.K207E	9	124979410	124979410.0	T	T	C	0.1456	158.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRZ637	Osteosarcoma-RRZ637-Tumor-SM-2RCBK	Osteosarcoma-RRZ637-Normal-SM-2RCCZ	0	0	1	0	0	0	2
+Cancer Hotspot 3D				Copy Number	ENPP6	Amplification		4	184189874	185552563.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	1	0	0	0	1
+Cancer Gene Census				Copy Number	CASP3	Amplification		4	184189874	185552563.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	1	1	1	1
+Cancer Gene Census				Somatic Variant	TNC	Missense	p.D489N	9	117848545	117848545.0	C	C	T	0.2145	275.0	0.0	0.0		0								1911.0	0.3511	1.0		Osteosarcoma-RRZ637	Osteosarcoma-RRZ637-Tumor-SM-2RCBK	Osteosarcoma-RRZ637-Normal-SM-2RCCZ	0	0	0	1	0	1	2
+Cancer Gene Census				Somatic Variant	KAT7	Missense	p.P253L	17	47888842	47888842.0	C	C	T	0.1212	33.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRZ637	Osteosarcoma-RRZ637-Tumor-SM-2RCBK	Osteosarcoma-RRZ637-Normal-SM-2RCCZ	0	0	0	1	0	1	2
+Cancer Gene Census				Rearrangement	CSMD3	Fusion	CSMD3--KHDRBS3	chr8	114290821							0.0	0.0		0	36.0	CSMD3	chr8	114290821.0	KHDRBS3	chr8	136533480.0					Osteosarcoma-RRZ637			0	0	0	1	0	1	1
+Cancer Gene Census				Rearrangement	KAT7	Fusion	RGS9--KAT7	chr17	63133715							0.0	0.0		0	8.0	RGS9	chr17	63133715.0	KAT7	chr17	47886481.0					Osteosarcoma-RRZ637			0	0	0	1	0	1	1
+Cancer Gene Census				Rearrangement	GPC5	Fusion	GGACT--GPC5	chr13	101236079							0.0	0.0		0	8.0	GGACT	chr13	101236079.0	GPC5	chr13	92797083.0					Osteosarcoma-RRZ637			0	0	0	1	0	1	1
+Cancer Pathway				Copy Number	PSMD12	Amplification		17	65336707	65353946.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	TFDP1	Amplification		13	113893495	115092008.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	1	1	1
+Cancer Pathway				Somatic Variant	LAMB4	Missense	p.E1373A	7	107689775	107689775.0	T	T	G	0.1373	51.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRZ637	Osteosarcoma-RRZ637-Tumor-SM-2RCBK	Osteosarcoma-RRZ637-Normal-SM-2RCCZ	0	0	0	0	1	0	2
+Cancer Pathway				Copy Number	CDC16	Amplification		13	113893495	115092008.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	1	0	1
+Cancer Pathway				Copy Number	CRTAM	Amplification		11	122659556	122850417.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	1	0	1
+Cancer Pathway				Copy Number	IGLC3	Amplification		22	23242908	23249081.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	1	0	0
+Cancer Pathway				Copy Number	IGLC2	Amplification		22	23242908	23249081.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGKV4-1	Fusion	IGKV4-1--IGKJ2	chr2	89185668							0.0	0.0		0	14.0	IGKV4-1	chr2	89185668.0	IGKJ2	chr2	89161074.0					Osteosarcoma-RRZ637			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGKV4-1	Fusion	IGKV4-1--AC096579.7	chr2	89185668							0.0	0.0		0	80.0	IGKV4-1	chr2	89185668.0	AC096579.7	chr2	89161074.0					Osteosarcoma-RRZ637			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGKV4-1	Fusion	IGKV4-1--AC096579.13	chr2	89185668							0.0	0.0		0	15.0	IGKV4-1	chr2	89185668.0	AC096579.13	chr2	89161074.0					Osteosarcoma-RRZ637			0	0	0	0	1	0	0
+Cancer Module				Somatic Variant	ITGB3	Missense	p.S595F	17	45376767	45376767.0	C	C	T	0.3358	274.0	8e-06	0.0		0								334.0	0.1437	1.0		Osteosarcoma-RRZ637	Osteosarcoma-RRZ637-Tumor-SM-2RCBK	Osteosarcoma-RRZ637-Normal-SM-2RCCZ	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	GBP1	Missense	p.E421Q	1	89521806	89521806.0	C	C	G	0.1429	224.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRZ637	Osteosarcoma-RRZ637-Tumor-SM-2RCBK	Osteosarcoma-RRZ637-Normal-SM-2RCCZ	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SIGLEC5	Missense	p.G500R	19	52115642	52115642.0	C	C	T	0.2805	82.0	3.3e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRZ637	Osteosarcoma-RRZ637-Tumor-SM-2RCBK	Osteosarcoma-RRZ637-Normal-SM-2RCCZ	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SCAND3	Missense	p.N1035H	6	28540563	28540563.0	T	T	G	0.1404	57.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRZ637	Osteosarcoma-RRZ637-Tumor-SM-2RCBK	Osteosarcoma-RRZ637-Normal-SM-2RCCZ	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ATP8A2	Missense	p.P495H	13	26144915	26144915.0	C	C	A	0.1034	87.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRZ637	Osteosarcoma-RRZ637-Tumor-SM-2RCBK	Osteosarcoma-RRZ637-Normal-SM-2RCCZ	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ATG13	Missense	p.S320N	11	46690420	46690420.0	G	G	A	0.0469	64.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRZ637	Osteosarcoma-RRZ637-Tumor-SM-2RCBK	Osteosarcoma-RRZ637-Normal-SM-2RCCZ	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	ITGB3	Missense	p.P604S	17	45376828	45376828.0	C	C	T	0.3466	176.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRZ637	Osteosarcoma-RRZ637-Tumor-SM-2RCBK	Osteosarcoma-RRZ637-Normal-SM-2RCCZ	0	0	0	0	0	1	1
+Cancer Module				Copy Number	SETDB2	Deletion		13	49063995	50623226.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HYDIN	Amplification		16	70993298	70996293.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LAMP1	Amplification		13	113893495	115092008.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	C15orf57	Fusion	C15orf57--CBX3	chr15	40854180							0.0	0.0		0	11.0	C15orf57	chr15	40854180.0	CBX3	chr7	26241365.0					Osteosarcoma-RRZ637			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	COL6A2	Fusion	COL1A2--COL6A2	chr7	94038135							0.0	0.0		0	5.0	COL1A2	chr7	94038135.0	COL6A2	chr21	47542022.0					Osteosarcoma-RRZ637			0	0	0	0	0	1	1
+Cancer Module				Copy Number	LRMP	Amplification		12	25149067	25243383.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KPNA2	Amplification		17	65734796	66247149.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	AMZ2	Amplification		17	65734796	66247149.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	VRK2	Deletion		2	56611151	58431613.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SH3YL1	Deletion		2	41356	669716.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SUCLA2	Deletion		13	48517254	48955831.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	AGAP1	Deletion		2	235943395	236839819.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	NRIP1	Fusion	NRIP1--AF127936.7	chr21	16437066							0.0	0.0		0	8.0	NRIP1	chr21	16437066.0	AF127936.7	chr21	16230029.0					Osteosarcoma-RRZ637			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	CTSC	Fusion	CTSC--RAB38	chr11	88029301							0.0	0.0		0	8.0	CTSC	chr11	88029301.0	RAB38	chr11	87883123.0					Osteosarcoma-RRZ637			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	COL6A3	Fusion	COL6A3--COL3A1	chr2	238305370							0.0	0.0		0	7.0	COL6A3	chr2	238305370.0	COL3A1	chr2	189849486.0					Osteosarcoma-RRZ637			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	COL1A2	Fusion	COL1A2--COL6A2	chr7	94038135							0.0	0.0		0	5.0	COL1A2	chr7	94038135.0	COL6A2	chr21	47542022.0					Osteosarcoma-RRZ637			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	LEPR	Fusion	LEPROT--LEPR	chr1	65891061							0.0	0.0		0	10.0	LEPROT	chr1	65891061.0	LEPR	chr1	66031229.0					Osteosarcoma-RRZ637			0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC9A5	Amplification		16	67235596	67319155.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PLEKHG4	Amplification		16	67235596	67319155.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	E2F4	Amplification		16	67235596	67319155.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CUL4A	Amplification		13	113893495	115092008.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GRTP1	Amplification		13	113893495	115092008.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GRK1	Amplification		13	113893495	115092008.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GAS6	Amplification		13	113893495	115092008.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RASA3	Amplification		13	113893495	115092008.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ADPRHL1	Amplification		13	113893495	115092008.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	UPF3A	Amplification		13	113893495	115092008.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	BPTF	Amplification		17	65734796	66247149.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	IRF2	Amplification		4	184189874	185552563.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CDADC1	Deletion		13	49063995	50623226.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TRIM13	Deletion		13	49063995	50623226.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RCBTB2	Deletion		13	49063995	50623226.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NUDT15	Deletion		13	48517254	48955831.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MED4	Deletion		13	48517254	48955831.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SH3BP4	Deletion		2	235943395	236839819.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TPP2	Deletion		13	103256891	103280526.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DTNB	Deletion		2	25650154	25657114.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LPAR6	Deletion		13	48985273	49051231.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RHD	Deletion		1	25610812	25628429.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	SPTBN1	Fusion	SPTBN1--AC007682.1	chr2	54826380							0.0	0.0		0	18.0	SPTBN1	chr2	54826380.0	AC007682.1	chr2	52634116.0					Osteosarcoma-RRZ637			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	RGS9	Fusion	RGS9--KAT7	chr17	63133715							0.0	0.0		0	8.0	RGS9	chr17	63133715.0	KAT7	chr17	47886481.0					Osteosarcoma-RRZ637			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	PHF12	Fusion	PHF12--RP11-655M14.4	chr17	27277083							0.0	0.0		0	8.0	PHF12	chr17	27277083.0	RP11-655M14.4	chr11	67519289.0					Osteosarcoma-RRZ637			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	PHF12	Fusion	PHF12--OR7E11P	chr17	27277083							0.0	0.0		0	10.0	PHF12	chr17	27277083.0	OR7E11P	chr11	67503957.0					Osteosarcoma-RRZ637			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	APPBP2	Fusion	APPBP2--SMURF2	chr17	58571827							0.0	0.0		0	28.0	APPBP2	chr17	58571827.0	SMURF2	chr17	62574694.0					Osteosarcoma-RRZ637			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	HDDC2	Fusion	RP11-138M12.1--HDDC2	chr6	125766168							0.0	0.0		0	18.0	RP11-138M12.1	chr6	125766168.0	HDDC2	chr6	125621805.0					Osteosarcoma-RRZ637			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	TP53INP2	Fusion	PIGU--TP53INP2	chr20	33244984							0.0	0.0		0	10.0	PIGU	chr20	33244984.0	TP53INP2	chr20	33296495.0					Osteosarcoma-RRZ637			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	KHDRBS3	Fusion	CSMD3--KHDRBS3	chr8	114290821							0.0	0.0		0	36.0	CSMD3	chr8	114290821.0	KHDRBS3	chr8	136533480.0					Osteosarcoma-RRZ637			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	CBX3	Fusion	C15orf57--CBX3	chr15	40854180							0.0	0.0		0	11.0	C15orf57	chr15	40854180.0	CBX3	chr7	26241365.0					Osteosarcoma-RRZ637			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	GRAMD1B	Fusion	AP000783.1--GRAMD1B	chr11	123301874							0.0	0.0		0	17.0	AP000783.1	chr11	123301874.0	GRAMD1B	chr11	123448075.0					Osteosarcoma-RRZ637			0	0	0	0	0	1	1
+Cancer Module				Copy Number	IGLJ3	Amplification		22	23242908	23249081.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	1	0
+Cancer Module				Copy Number	CHAMP1	Amplification		13	113893495	115092008.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	1	0
+Cancer Module				Copy Number	DLEU2	Deletion		13	49063995	50623226.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	1	0
+Cancer Module				Rearrangement	DLEU2	Fusion	DLEU2--CCDC113	chr13	50655959							0.0	0.0		0	175.0	DLEU2	chr13	50655959.0	CCDC113	chr16	58312386.0					Osteosarcoma-RRZ637			0	0	0	0	0	1	0
+Cancer Module				Rearrangement	IGLJ3	Fusion	IGLV1-51--IGLJ3	chr22	22677321							0.0	0.0		0	9.0	IGLV1-51	chr22	22677321.0	IGLJ3	chr22	23247164.0					Osteosarcoma-RRZ637			0	0	0	0	0	1	0
+Cosmic				Somatic Variant	KANK2	Missense	p.R66H	19	11304559	11304559.0	C	C	T	0.2609	46.0	8e-06	0.0		0								332.0	0.491	1.0		Osteosarcoma-RRZ637	Osteosarcoma-RRZ637-Tumor-SM-2RCBK	Osteosarcoma-RRZ637-Normal-SM-2RCCZ	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	SCD5	Missense	p.R321Q	4	83552511	83552511.0	C	C	T	0.1176	68.0	2.5e-05	0.0		0								277.0	0.2455	1.0		Osteosarcoma-RRZ637	Osteosarcoma-RRZ637-Tumor-SM-2RCBK	Osteosarcoma-RRZ637-Normal-SM-2RCCZ	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ITPRIP	Missense	p.M196I	10	106075222	106075222.0	C	C	A	0.1	90.0	0.0	0.0		0								111.0	0.0901	0.9826		Osteosarcoma-RRZ637	Osteosarcoma-RRZ637-Tumor-SM-2RCBK	Osteosarcoma-RRZ637-Normal-SM-2RCCZ	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ZMYND12	Missense	p.V344F	1	42896475	42896475.0	C	C	A	0.0851	94.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRZ637	Osteosarcoma-RRZ637-Tumor-SM-2RCBK	Osteosarcoma-RRZ637-Normal-SM-2RCCZ	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	LRRC4B	Missense	p.T105M	19	51022656	51022656.0	G	G	A	0.2692	26.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRZ637	Osteosarcoma-RRZ637-Tumor-SM-2RCBK	Osteosarcoma-RRZ637-Normal-SM-2RCCZ	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	DMRTA1	Missense	p.R56G	9	22447230	22447230.0	C	C	G	0.5	4.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRZ637	Osteosarcoma-RRZ637-Tumor-SM-2RCBK	Osteosarcoma-RRZ637-Normal-SM-2RCCZ	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	UNK	Missense	p.I661N	17	73818702	73818702.0	T	T	A	0.0909	44.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRZ637	Osteosarcoma-RRZ637-Tumor-SM-2RCBK	Osteosarcoma-RRZ637-Normal-SM-2RCCZ	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	C19orf35	Missense	p.A197D	19	2278605	2278605.0	G	G	T	0.2353	85.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRZ637	Osteosarcoma-RRZ637-Tumor-SM-2RCBK	Osteosarcoma-RRZ637-Normal-SM-2RCCZ	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	C19orf35	Missense	p.L91M	19	2278924	2278924.0	G	G	T	0.2143	14.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRZ637	Osteosarcoma-RRZ637-Tumor-SM-2RCBK	Osteosarcoma-RRZ637-Normal-SM-2RCCZ	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	PHF21B	Nonsense	p.R300*	22	45289399	45289399.0	G	G	A	0.375	16.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRZ637	Osteosarcoma-RRZ637-Tumor-SM-2RCBK	Osteosarcoma-RRZ637-Normal-SM-2RCCZ	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ALOXE3	Missense	p.R68H	17	8020243	8020243.0	C	C	T	0.1667	24.0	8e-06	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRZ637	Osteosarcoma-RRZ637-Tumor-SM-2RCBK	Osteosarcoma-RRZ637-Normal-SM-2RCCZ	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	PXDN	Missense	p.L893I	2	1652875	1652875.0	G	G	T	0.0612	49.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRZ637	Osteosarcoma-RRZ637-Tumor-SM-2RCBK	Osteosarcoma-RRZ637-Normal-SM-2RCCZ	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	OR4Q3	Frameshift	p.T225fs	14	20216260	20216260.0	C	C	-	0.2889	90.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRZ637	Osteosarcoma-RRZ637-Tumor-SM-2RCBK	Osteosarcoma-RRZ637-Normal-SM-2RCCZ	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	UBR3	Nonsense	p.Y1568*	2	170912013	170912013.0	C	C	A	0.0263	114.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRZ637	Osteosarcoma-RRZ637-Tumor-SM-2RCBK	Osteosarcoma-RRZ637-Normal-SM-2RCCZ	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	CATSPERG	Missense	p.D923H	19	38857949	38857949.0	G	G	C	0.2593	27.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRZ637	Osteosarcoma-RRZ637-Tumor-SM-2RCBK	Osteosarcoma-RRZ637-Normal-SM-2RCCZ	0	0	0	0	0	0	1
+Cosmic				Copy Number	C12orf77	Amplification		12	25149067	25243383.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	WWC2	Amplification		4	184189874	185552563.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCDC85A	Deletion		2	56611151	58431613.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM118A	Deletion		22	45723471	45724609.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMCO3	Amplification		13	113893495	115092008.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C17orf58	Amplification		17	65734796	66247149.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ANKFN1	Amplification		17	54403330	54560160.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM110C	Deletion		2	41356	669716.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ARL11	Deletion		13	49063995	50623226.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RCBTB1	Deletion		13	49063995	50623226.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	CHSY3	Fusion	CHSY3--HSPA8P4	chr5	129244053							0.0	0.0		0	17.0	CHSY3	chr5	129244053.0	HSPA8P4	chr5	129476585.0					Osteosarcoma-RRZ637			0	0	0	0	0	0	1
+Cosmic				Rearrangement	NAV3	Fusion	RP1-34H18.1--NAV3	chr12	77966046							0.0	0.0		0	31.0	RP1-34H18.1	chr12	77966046.0	NAV3	chr12	78334099.0					Osteosarcoma-RRZ637			0	0	0	0	0	0	1
+Cosmic				Rearrangement	CCDC113	Fusion	DLEU2--CCDC113	chr13	50655959							0.0	0.0		0	175.0	DLEU2	chr13	50655959.0	CCDC113	chr16	58312386.0					Osteosarcoma-RRZ637			0	0	0	0	0	0	1
+Cosmic				Copy Number	IL31RA	Amplification		5	55147147	55155679.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ANKRD55	Amplification		5	55247040	55528992.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ELMO3	Amplification		16	67235596	67319155.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FHOD1	Amplification		16	67235596	67319155.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM208	Amplification		16	67235596	67319155.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRRC29	Amplification		16	67235596	67319155.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DCUN1D2	Amplification		13	113893495	115092008.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ATP4B	Amplification		13	113893495	115092008.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NOL11	Amplification		17	65734796	66247149.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	STOX2	Amplification		4	184189874	185552563.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RWDD4	Amplification		4	184189874	185552563.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CDKN2AIP	Amplification		4	184189874	185552563.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CLDN22	Amplification		4	184189874	185552563.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CLDN24	Amplification		4	184189874	185552563.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	UBASH3B	Amplification		11	122659556	122850417.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C11orf63	Amplification		11	122659556	122850417.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	BSX	Amplification		11	122659556	122850417.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM150B	Deletion		2	41356	669716.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM18	Deletion		2	41356	669716.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CAB39L	Deletion		13	49063995	50623226.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KPNA3	Deletion		13	49063995	50623226.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KCNRG	Deletion		13	49063995	50623226.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	EBPL	Deletion		13	49063995	50623226.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FNDC3A	Deletion		13	49063995	50623226.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PHF11	Deletion		13	49063995	50623226.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MLNR	Deletion		13	49063995	50623226.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SPRYD7	Deletion		13	49063995	50623226.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ITM2B	Deletion		13	48517254	48955831.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	HBA1	Deletion		16	223066	227207.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR4P4	Deletion		11	55370665	55419567.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR4C11	Deletion		11	55370665	55419567.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR4S2	Deletion		11	55370665	55419567.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	PIGU	Fusion	PIGU--TP53INP2	chr20	33244984							0.0	0.0		0	10.0	PIGU	chr20	33244984.0	TP53INP2	chr20	33296495.0					Osteosarcoma-RRZ637			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND6	Fusion	MT-ND6--MT-TE	chrM	14479							0.0	0.0		0	7.0	MT-ND6	chrM	14479.0	MT-TE	chrM	14713.0					Osteosarcoma-RRZ637			0	0	0	0	0	0	1
+Cosmic				Rearrangement	LEPROT	Fusion	LEPROT--LEPR	chr1	65891061							0.0	0.0		0	10.0	LEPROT	chr1	65891061.0	LEPR	chr1	66031229.0					Osteosarcoma-RRZ637			0	0	0	0	0	0	1
+Cosmic				Rearrangement	FBXO28	Fusion	FBXO28--TP53	chr1	224302098							0.0	0.0		0	5.0	FBXO28	chr1	224302098.0	TP53	chr17	7579940.0					Osteosarcoma-RRZ637			0	0	0	0	0	0	1
+Cosmic				Rearrangement	SRGAP2	Fusion	RP11-312O7.2--SRGAP2	chr1	206135293							0.0	0.0		0	20.0	RP11-312O7.2	chr1	206135293.0	SRGAP2	chr1	206557369.0					Osteosarcoma-RRZ637			0	0	0	0	0	0	1
+Cosmic				Rearrangement	ARL17B	Fusion	KANSL1--ARL17B	chr17	44171926							0.0	0.0		0	5.0	KANSL1	chr17	44171926.0	ARL17B	chr17	44430296.0					Osteosarcoma-RRZ637			0	0	0	0	0	0	1
+Cosmic				Rearrangement	RAB38	Fusion	CTSC--RAB38	chr11	88029301							0.0	0.0		0	8.0	CTSC	chr11	88029301.0	RAB38	chr11	87883123.0					Osteosarcoma-RRZ637			0	0	0	0	0	0	1
+VUS				Somatic Variant	SPDL1	Missense	p.V150I	5	169020469	169020469.0	G	G	A	0.033	91.0	9.9e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-RRZ637	Osteosarcoma-RRZ637-Tumor-SM-2RCBK	Osteosarcoma-RRZ637-Normal-SM-2RCCZ	0	0	0	0	0	0	0
+VUS				Copy Number	TRAPPC11	Amplification		4	184189874	185552563.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Rearrangement	KANSL1	Fusion	KANSL1--ARL17B	chr17	44171926							0.0	0.0		0	5.0	KANSL1	chr17	44171926.0	ARL17B	chr17	44430296.0					Osteosarcoma-RRZ637			0	0	0	0	0	0	0
+VUS				Copy Number	RP11-713N11.5	Amplification		12	25149067	25243383.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGLJ2	Amplification		22	23242908	23249081.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2227I18.1	Amplification		5	55247040	55528992.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2031P19.3	Amplification		5	55247040	55528992.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-299P	Amplification		5	55247040	55528992.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP184	Amplification		5	55247040	55528992.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC040160.1	Amplification		16	67235596	67319155.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-277H1.7	Amplification		16	67235596	67319155.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR328	Amplification		16	67235596	67319155.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	GAS6-AS1	Amplification		13	113893495	115092008.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	GAS6-AS2	Amplification		13	113893495	115092008.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	GRTP1-AS1	Amplification		13	113893495	115092008.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	DCUN1D2-AS	Amplification		13	113893495	115092008.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00452	Amplification		13	113893495	115092008.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR548AR	Amplification		13	113893495	115092008.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU1-16P	Amplification		13	113893495	115092008.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00454	Amplification		13	113893495	115092008.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	RASA3-IT1	Amplification		13	113893495	115092008.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4502	Amplification		13	113893495	115092008.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	TMEM255B	Amplification		13	113893495	115092008.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00565	Amplification		13	113893495	115092008.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-199F6.4	Amplification		13	113893495	115092008.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-855A2.3	Amplification		17	65734796	66247149.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORA38B	Amplification		17	65734796	66247149.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-855A2.5	Amplification		17	65734796	66247149.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL622P	Amplification		17	65734796	66247149.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-147L13.8	Amplification		17	65734796	66247149.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-147L13.2	Amplification		17	65734796	66247149.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	LRRC37A16P	Amplification		17	65734796	66247149.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00674	Amplification		17	65734796	66247149.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC006534.2	Amplification		17	65734796	66247149.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC006534.1	Amplification		17	65734796	66247149.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC145343.2	Amplification		17	65734796	66247149.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-367N14.3	Amplification		4	184189874	185552563.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD79	Amplification		4	184189874	185552563.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL28P	Amplification		4	184189874	185552563.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-739P1.2	Amplification		4	184189874	185552563.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1053P	Amplification		4	184189874	185552563.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC079080.1	Amplification		4	184189874	185552563.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-335P	Amplification		4	184189874	185552563.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-479P	Amplification		4	184189874	185552563.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC093844.1	Amplification		4	184189874	185552563.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-242J7.1	Amplification		4	184189874	185552563.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-290F5.1	Amplification		4	184189874	185552563.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-367N14.2	Amplification		4	184189874	185552563.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-290F5.2	Amplification		4	184189874	185552563.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-326I11.5	Amplification		4	184189874	185552563.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-326I11.4	Amplification		4	184189874	185552563.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-326I11.3	Amplification		4	184189874	185552563.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU4-23P	Amplification		11	122659556	122850417.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-482H16.1	Deletion		2	56611151	58431613.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2026C7.1	Deletion		2	56611151	58431613.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC073215.1	Deletion		2	56611151	58431613.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC105393.1	Deletion		2	41356	669716.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC105393.2	Deletion		2	41356	669716.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC093326.2	Deletion		2	41356	669716.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC093326.3	Deletion		2	41356	669716.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC079779.6	Deletion		2	41356	669716.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC079779.7	Deletion		2	41356	669716.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC093326.1	Deletion		2	41356	669716.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC079779.5	Deletion		2	41356	669716.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC079779.4	Deletion		2	41356	669716.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY4P9	Deletion		13	49063995	50623226.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00462	Deletion		13	49063995	50623226.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY3P2	Deletion		13	49063995	50623226.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY4P30	Deletion		13	49063995	50623226.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-60P	Deletion		13	49063995	50623226.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01077	Deletion		13	49063995	50623226.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL161421.1	Deletion		13	49063995	50623226.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR16-1	Deletion		13	49063995	50623226.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL137118.1	Deletion		13	49063995	50623226.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3613	Deletion		13	49063995	50623226.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL136123.1	Deletion		13	49063995	50623226.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL136218.1	Deletion		13	49063995	50623226.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	SUCLA2-AS1	Deletion		13	48517254	48955831.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00441	Deletion		13	48517254	48955831.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	MED4-AS1	Deletion		13	48517254	48955831.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC092576.1	Deletion		2	235943395	236839819.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC012305.1	Deletion		2	235943395	236839819.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC064874.1	Deletion		2	235943395	236839819.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	AGAP1-IT1	Deletion		2	235943395	236839819.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC114814.4	Deletion		2	235943395	236839819.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC114814.3	Deletion		2	235943395	236839819.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC104699.1	Deletion		2	25650154	25657114.0						0.0	0.0		0												Osteosarcoma-RRZ637	RRZ637_T		0	0	0	0	0	0	0
+VUS				Rearrangement	TRAV38-2DV8	Fusion	TRAV38-2DV8--TRAJ56	chr14	22749628							0.0	0.0		0	9.0	TRAV38-2DV8	chr14	22749628.0	TRAJ56	chr14	22948515.0					Osteosarcoma-RRZ637			0	0	0	0	0	0	0
+VUS				Rearrangement	SPIDR	Fusion	SPIDR--RP11-770E5.1	chr8	48206619							0.0	0.0		0	5.0	SPIDR	chr8	48206619.0	RP11-770E5.1	chr8	49607983.0					Osteosarcoma-RRZ637			0	0	0	0	0	0	0
+VUS				Rearrangement	SNHG17	Fusion	SNHG17--EMC6	chr20	37059684							0.0	0.0		0	42.0	SNHG17	chr20	37059684.0	EMC6	chr17	3572392.0					Osteosarcoma-RRZ637			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-96H19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	7.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	46965039.0					Osteosarcoma-RRZ637			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-312O7.2	Fusion	RP11-312O7.2--SRGAP2	chr1	206135293							0.0	0.0		0	20.0	RP11-312O7.2	chr1	206135293.0	SRGAP2	chr1	206557369.0					Osteosarcoma-RRZ637			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-138M12.1	Fusion	RP11-138M12.1--HDDC2	chr6	125766168							0.0	0.0		0	18.0	RP11-138M12.1	chr6	125766168.0	HDDC2	chr6	125621805.0					Osteosarcoma-RRZ637			0	0	0	0	0	0	0
+VUS				Rearrangement	RP1-34H18.1	Fusion	RP1-34H18.1--NAV3	chr12	77966046							0.0	0.0		0	31.0	RP1-34H18.1	chr12	77966046.0	NAV3	chr12	78334099.0					Osteosarcoma-RRZ637			0	0	0	0	0	0	0
+VUS				Rearrangement	IGLV1-51	Fusion	IGLV1-51--IGLJ3	chr22	22677321							0.0	0.0		0	9.0	IGLV1-51	chr22	22677321.0	IGLJ3	chr22	23247164.0					Osteosarcoma-RRZ637			0	0	0	0	0	0	0
+VUS				Rearrangement	GGACT	Fusion	GGACT--GPC5	chr13	101236079							0.0	0.0		0	8.0	GGACT	chr13	101236079.0	GPC5	chr13	92797083.0					Osteosarcoma-RRZ637			0	0	0	0	0	0	0
+VUS				Rearrangement	CTC-786C10.1	Fusion	CTC-786C10.1--RP11-680G10.1	chr16	85205413							0.0	0.0		0	5.0	CTC-786C10.1	chr16	85205413.0	RP11-680G10.1	chr16	85391069.0					Osteosarcoma-RRZ637			0	0	0	0	0	0	0
+VUS				Rearrangement	AP000783.1	Fusion	AP000783.1--GRAMD1B	chr11	123301874							0.0	0.0		0	17.0	AP000783.1	chr11	123301874.0	GRAMD1B	chr11	123448075.0					Osteosarcoma-RRZ637			0	0	0	0	0	0	0
+VUS				Rearrangement	TRAJ56	Fusion	TRAV38-2DV8--TRAJ56	chr14	22749628							0.0	0.0		0	9.0	TRAV38-2DV8	chr14	22749628.0	TRAJ56	chr14	22948515.0					Osteosarcoma-RRZ637			0	0	0	0	0	0	0
+VUS				Rearrangement	AC007682.1	Fusion	SPTBN1--AC007682.1	chr2	54826380							0.0	0.0		0	18.0	SPTBN1	chr2	54826380.0	AC007682.1	chr2	52634116.0					Osteosarcoma-RRZ637			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-770E5.1	Fusion	SPIDR--RP11-770E5.1	chr8	48206619							0.0	0.0		0	5.0	SPIDR	chr8	48206619.0	RP11-770E5.1	chr8	49607983.0					Osteosarcoma-RRZ637			0	0	0	0	0	0	0
+VUS				Rearrangement	EMC6	Fusion	SNHG17--EMC6	chr20	37059684							0.0	0.0		0	42.0	SNHG17	chr20	37059684.0	EMC6	chr17	3572392.0					Osteosarcoma-RRZ637			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-2F9.4	Fusion	SMURF2--RP11-2F9.4	chr17	62589558							0.0	0.0		0	59.0	SMURF2	chr17	62589558.0	RP11-2F9.4	chr15	22434360.0					Osteosarcoma-RRZ637			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-693L9.2	Fusion	SMAD2--RP11-693L9.2	chr18	45457171							0.0	0.0		0	32.0	SMAD2	chr18	45457171.0	RP11-693L9.2	chr18	55628856.0					Osteosarcoma-RRZ637			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-446N19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	7.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	46965039.0					Osteosarcoma-RRZ637			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-655M14.4	Fusion	PHF12--RP11-655M14.4	chr17	27277083							0.0	0.0		0	8.0	PHF12	chr17	27277083.0	RP11-655M14.4	chr11	67519289.0					Osteosarcoma-RRZ637			0	0	0	0	0	0	0
+VUS				Rearrangement	OR7E11P	Fusion	PHF12--OR7E11P	chr17	27277083							0.0	0.0		0	10.0	PHF12	chr17	27277083.0	OR7E11P	chr11	67503957.0					Osteosarcoma-RRZ637			0	0	0	0	0	0	0
+VUS				Rearrangement	AF127936.7	Fusion	NRIP1--AF127936.7	chr21	16437066							0.0	0.0		0	8.0	NRIP1	chr21	16437066.0	AF127936.7	chr21	16230029.0					Osteosarcoma-RRZ637			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TE	Fusion	MT-ND6--MT-TE	chrM	14479							0.0	0.0		0	7.0	MT-ND6	chrM	14479.0	MT-TE	chrM	14713.0					Osteosarcoma-RRZ637			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKJ2	Fusion	IGKV4-1--IGKJ2	chr2	89185668							0.0	0.0		0	14.0	IGKV4-1	chr2	89185668.0	IGKJ2	chr2	89161074.0					Osteosarcoma-RRZ637			0	0	0	0	0	0	0
+VUS				Rearrangement	AC096579.7	Fusion	IGKV4-1--AC096579.7	chr2	89185668							0.0	0.0		0	80.0	IGKV4-1	chr2	89185668.0	AC096579.7	chr2	89161074.0					Osteosarcoma-RRZ637			0	0	0	0	0	0	0
+VUS				Rearrangement	AC096579.13	Fusion	IGKV4-1--AC096579.13	chr2	89185668							0.0	0.0		0	15.0	IGKV4-1	chr2	89185668.0	AC096579.13	chr2	89161074.0					Osteosarcoma-RRZ637			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-680G10.1	Fusion	CTC-786C10.1--RP11-680G10.1	chr16	85205413							0.0	0.0		0	5.0	CTC-786C10.1	chr16	85205413.0	RP11-680G10.1	chr16	85391069.0					Osteosarcoma-RRZ637			0	0	0	0	0	0	0
+VUS				Rearrangement	HSPA8P4	Fusion	CHSY3--HSPA8P4	chr5	129244053							0.0	0.0		0	17.0	CHSY3	chr5	129244053.0	HSPA8P4	chr5	129476585.0					Osteosarcoma-RRZ637			0	0	0	0	0	0	0

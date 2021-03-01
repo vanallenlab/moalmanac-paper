@@ -1,0 +1,177 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Putatively Actionable			Putatively Actionable	Copy Number	PAK1	Amplification		11	77034067	78424009.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		4	0	0	0	1	0	1
+Investigate Actionability		Investigate Actionability	Investigate Actionability	Somatic Variant	TP53	Missense	p.V173M	17	7578413	7578413.0	C	C	T	0.4103	78.0	0.0	0.0		0								47.0	0.5319	1.0		Osteosarcoma-WABS378	Osteosarcoma-WABS378-Tumor-SM-2RCBS	Osteosarcoma-WABS378-Normal-SM-2RCD8	3	2	2	1	1	1	2
+Investigate Actionability	Investigate Actionability			Rearrangement	ABL1	Fusion	ABL1--TTF1	chr9	133753954							0.0	0.0		0	5.0	ABL1	chr9	133753954.0	TTF1	chr9	135254531.0					Osteosarcoma-WABS378			2	0	0	1	1	0	1
+Biologically Relevant				Somatic Variant	NTRK2	Missense	p.R582H	9	87563405	87563405.0	G	G	A	0.06	50.0	1.6e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-WABS378	Osteosarcoma-WABS378-Tumor-SM-2RCBS	Osteosarcoma-WABS378-Normal-SM-2RCD8	1	0	0	0	0	1	1
+Cancer Hotspot 3D				Somatic Variant	ATP1A2	Missense	p.R267H	1	160097393	160097393.0	G	G	A	0.0278	108.0	8e-06	0.0		0								0.0	0.0	0.0		Osteosarcoma-WABS378	Osteosarcoma-WABS378-Tumor-SM-2RCBS	Osteosarcoma-WABS378-Normal-SM-2RCD8	0	0	1	0	0	1	2
+Cancer Gene Census				Somatic Variant	SDHB	Missense	p.T31K	1	17371364	17371364.0	G	G	T	0.1087	46.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WABS378	Osteosarcoma-WABS378-Tumor-SM-2RCBS	Osteosarcoma-WABS378-Normal-SM-2RCD8	0	0	0	1	0	1	2
+Cancer Gene Census				Somatic Variant	LMO2	Missense	p.G38R	11	33886293	33886293.0	C	C	T	0.3067	75.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WABS378	Osteosarcoma-WABS378-Tumor-SM-2RCBS	Osteosarcoma-WABS378-Normal-SM-2RCD8	0	0	0	1	0	1	2
+Cancer Gene Census				Somatic Variant	MLLT4	Missense	p.R1549H	6	168352701	168352701.0	G	G	A	0.0588	51.0	2.5e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-WABS378	Osteosarcoma-WABS378-Tumor-SM-2RCBS	Osteosarcoma-WABS378-Normal-SM-2RCD8	0	0	0	1	0	0	1
+Cancer Pathway				Copy Number	KIR2DL3	Deletion		19	55262849	55263769.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	PDGFA	Amplification		7	195304	1198100.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	RPA3	Amplification		7	7646375	8791649.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	PRKAR1B	Amplification		7	195304	1198100.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	1	0	1
+Cancer Pathway				Rearrangement	IGLV1-40	Fusion	IGLV1-40--IGLL5	chr22	22764613							0.0	0.0		0	76.0	IGLV1-40	chr22	22764613.0	IGLL5	chr22	23235963.0					Osteosarcoma-WABS378			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGLV1-40	Fusion	IGLV1-40--IGLJ3	chr22	22764614							0.0	0.0		0	8.0	IGLV1-40	chr22	22764614.0	IGLJ3	chr22	23247171.0					Osteosarcoma-WABS378			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGLV1-40	Fusion	IGLV1-40--IGLJ1	chr22	22764613							0.0	0.0		0	23.0	IGLV1-40	chr22	22764613.0	IGLJ1	chr22	23235963.0					Osteosarcoma-WABS378			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGKV4-1	Fusion	IGKV4-1--IGKJ3	chr2	89185668							0.0	0.0		0	6.0	IGKV4-1	chr2	89185668.0	IGKJ3	chr2	89160770.0					Osteosarcoma-WABS378			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGKV4-1	Fusion	IGKV4-1--AC096579.7	chr2	89185669							0.0	0.0		0	62.0	IGKV4-1	chr2	89185669.0	AC096579.7	chr2	89161434.0					Osteosarcoma-WABS378			0	0	0	0	1	0	0
+Cancer Module				Somatic Variant	COG5	Missense	p.M397T	7	106964896	106964896.0	A	A	G	0.2537	67.0	0.0	0.0		0								40.0	0.25	0.9874		Osteosarcoma-WABS378	Osteosarcoma-WABS378-Tumor-SM-2RCBS	Osteosarcoma-WABS378-Normal-SM-2RCD8	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	MAP7	Missense	p.R362W	6	136687062	136687062.0	G	G	A	0.0297	101.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WABS378	Osteosarcoma-WABS378-Tumor-SM-2RCBS	Osteosarcoma-WABS378-Normal-SM-2RCD8	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	KIF27	Missense	p.R193T	9	86518855	86518855.0	C	C	G	0.1667	372.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WABS378	Osteosarcoma-WABS378-Tumor-SM-2RCBS	Osteosarcoma-WABS378-Normal-SM-2RCD8	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SCN8A	Missense	p.G1742R	12	52200494	52200494.0	G	G	C	0.0566	53.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WABS378	Osteosarcoma-WABS378-Tumor-SM-2RCBS	Osteosarcoma-WABS378-Normal-SM-2RCD8	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	NALCN	Missense	p.A130D	13	102029394	102029394.0	G	G	T	0.3673	49.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WABS378	Osteosarcoma-WABS378-Tumor-SM-2RCBS	Osteosarcoma-WABS378-Normal-SM-2RCD8	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	MYH7	Nonsense	p.R249*	14	23900678	23900678.0	G	G	A	0.092	174.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WABS378	Osteosarcoma-WABS378-Tumor-SM-2RCBS	Osteosarcoma-WABS378-Normal-SM-2RCD8	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	PTGS1	Missense	p.S578Y	9	125154756	125154756.0	C	C	A	0.031	129.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WABS378	Osteosarcoma-WABS378-Tumor-SM-2RCBS	Osteosarcoma-WABS378-Normal-SM-2RCD8	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	IST1	Missense	p.Q34E	16	71950376	71950376.0	C	C	G	0.0568	88.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WABS378	Osteosarcoma-WABS378-Tumor-SM-2RCBS	Osteosarcoma-WABS378-Normal-SM-2RCD8	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	L3MBTL1	Missense	p.R528H	20	42162973	42162973.0	G	G	A	0.0319	94.0	2.5e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-WABS378	Osteosarcoma-WABS378-Tumor-SM-2RCBS	Osteosarcoma-WABS378-Normal-SM-2RCD8	0	0	0	0	0	1	1
+Cancer Module				Copy Number	LPA	Deletion		6	161032342	161071781.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	INMT	Amplification		7	30329160	30795719.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CYP2D6	Deletion		22	42523222	42524569.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GAB2	Amplification		11	77034067	78424009.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CRHR2	Amplification		7	30329160	30795719.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GARS	Amplification		7	30329160	30795719.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	TTF1	Fusion	ABL1--TTF1	chr9	133753954							0.0	0.0		0	5.0	ABL1	chr9	133753954.0	TTF1	chr9	135254531.0					Osteosarcoma-WABS378			0	0	0	0	0	1	1
+Cancer Module				Copy Number	GPR146	Amplification		7	195304	1198100.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GLCCI1	Amplification		7	7646375	8791649.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ICA1	Amplification		7	7646375	8791649.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MIOS	Amplification		7	7646375	8791649.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LSM5	Amplification		7	31877232	32591287.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	AVL9	Amplification		7	31877232	32591287.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RSF1	Amplification		11	77034067	78424009.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ALG8	Amplification		11	77034067	78424009.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TRIM48	Deletion		11	55032128	55419567.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	RORA	Fusion	RORA--FAM63B	chr15	61521252							0.0	0.0		0	8.0	RORA	chr15	61521252.0	FAM63B	chr15	59080105.0					Osteosarcoma-WABS378			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	RABGAP1	Fusion	RABGAP1--MAPKAP1	chr9	125761045							0.0	0.0		0	7.0	RABGAP1	chr9	125761045.0	MAPKAP1	chr9	128348006.0					Osteosarcoma-WABS378			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	CDK13	Fusion	CDK13--PPAPDC3	chr7	40041630							0.0	0.0		0	18.0	CDK13	chr7	40041630.0	PPAPDC3	chr9	134183310.0					Osteosarcoma-WABS378			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	DAD1	Fusion	NACC2--DAD1	chr9	138905045							0.0	0.0		0	28.0	NACC2	chr9	138905045.0	DAD1	chr14	23044133.0					Osteosarcoma-WABS378			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	ANXA2	Fusion	IQCH-AS1--ANXA2	chr15	67811338							0.0	0.0		0	15.0	IQCH-AS1	chr15	67811338.0	ANXA2	chr15	60653253.0					Osteosarcoma-WABS378			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	IGLJ3	Fusion	IGLV1-40--IGLJ3	chr22	22764614							0.0	0.0		0	8.0	IGLV1-40	chr22	22764614.0	IGLJ3	chr22	23247171.0					Osteosarcoma-WABS378			0	0	0	0	0	1	0
+Cosmic				Somatic Variant	FLG2	Missense	p.E2107D	1	152323941	152323941.0	C	C	A	0.02	750.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WABS378	Osteosarcoma-WABS378-Tumor-SM-2RCBS	Osteosarcoma-WABS378-Normal-SM-2RCD8	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	OR1L3	Missense	p.Y153H	9	125437865	125437865.0	T	T	C	0.3333	471.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WABS378	Osteosarcoma-WABS378-Tumor-SM-2RCBS	Osteosarcoma-WABS378-Normal-SM-2RCD8	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	TRPV3	Missense	p.Y564H	17	3427545	3427545.0	A	A	G	0.095	200.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WABS378	Osteosarcoma-WABS378-Tumor-SM-2RCBS	Osteosarcoma-WABS378-Normal-SM-2RCD8	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	OR14J1	Missense	p.A122T	6	29274830	29274830.0	G	G	A	0.1121	116.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WABS378	Osteosarcoma-WABS378-Tumor-SM-2RCBS	Osteosarcoma-WABS378-Normal-SM-2RCD8	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	TCTN2	Splice Site	p.G64R	12	124156161	124156161.0	G	G	A	0.0423	71.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WABS378	Osteosarcoma-WABS378-Tumor-SM-2RCBS	Osteosarcoma-WABS378-Normal-SM-2RCD8	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	VSX2	Splice Site	p.Q193R	14	74711990	74711990.0	A	A	G	0.0423	71.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WABS378	Osteosarcoma-WABS378-Tumor-SM-2RCBS	Osteosarcoma-WABS378-Normal-SM-2RCD8	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	GPR139	Missense	p.P97L	16	20043829	20043829.0	G	G	A	0.0462	65.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WABS378	Osteosarcoma-WABS378-Tumor-SM-2RCBS	Osteosarcoma-WABS378-Normal-SM-2RCD8	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	LRIG1	Missense	p.F316L	3	66457903	66457903.0	G	G	T	0.0455	66.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WABS378	Osteosarcoma-WABS378-Tumor-SM-2RCBS	Osteosarcoma-WABS378-Normal-SM-2RCD8	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	SOGA2	Missense	p.D1021N	18	8796323	8796323.0	G	G	A	0.038	79.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WABS378	Osteosarcoma-WABS378-Tumor-SM-2RCBS	Osteosarcoma-WABS378-Normal-SM-2RCD8	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	CCDC125	Missense	p.C289Y	5	68581242	68581242.0	C	C	T	0.0429	70.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WABS378	Osteosarcoma-WABS378-Tumor-SM-2RCBS	Osteosarcoma-WABS378-Normal-SM-2RCD8	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	MTUS2	Missense	p.A274T	13	29599625	29599625.0	G	G	A	0.1364	22.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WABS378	Osteosarcoma-WABS378-Tumor-SM-2RCBS	Osteosarcoma-WABS378-Normal-SM-2RCD8	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	LRFN5	Missense	p.P92H	14	42356103	42356103.0	C	C	A	0.0471	85.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WABS378	Osteosarcoma-WABS378-Tumor-SM-2RCBS	Osteosarcoma-WABS378-Normal-SM-2RCD8	0	0	0	0	0	0	1
+Cosmic				Copy Number	USP35	Amplification		11	77034067	78424009.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	HEATR2	Amplification		7	195304	1198100.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR4C16	Deletion		11	55032128	55419567.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ACSM2A	Amplification		16	20491643	20492495.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PDE1C	Amplification		7	31877232	32591287.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NOD1	Amplification		7	30329160	30795719.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR4A16	Deletion		11	55032128	55419567.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM118A	Deletion		22	45723471	45724609.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ADAP1	Amplification		7	195304	1198100.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SUN1	Amplification		7	195304	1198100.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NARS2	Amplification		11	77034067	78424009.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR4P4	Deletion		11	55032128	55419567.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR4C15	Deletion		11	55032128	55419567.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR4S2	Deletion		11	55032128	55419567.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR4A15	Deletion		11	55032128	55419567.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRB1	Deletion		12	11506525	11507740.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	GPC6	Fusion	GPC6--LINC00551	chr13	95034804							0.0	0.0		0	19.0	GPC6	chr13	95034804.0	LINC00551	chr13	107283135.0					Osteosarcoma-WABS378			0	0	0	0	0	0	1
+Cosmic				Rearrangement	GPC6	Fusion	GPC6--LINC00443	chr13	95034804							0.0	0.0		0	9.0	GPC6	chr13	95034804.0	LINC00443	chr13	107320994.0					Osteosarcoma-WABS378			0	0	0	0	0	0	1
+Cosmic				Rearrangement	PPAPDC3	Fusion	CDK13--PPAPDC3	chr7	40041630							0.0	0.0		0	18.0	CDK13	chr7	40041630.0	PPAPDC3	chr9	134183310.0					Osteosarcoma-WABS378			0	0	0	0	0	0	1
+Cosmic				Copy Number	ZFAND2A	Amplification		7	195304	1198100.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GET4	Amplification		7	195304	1198100.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C7orf50	Amplification		7	195304	1198100.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	COX19	Amplification		7	195304	1198100.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM20C	Amplification		7	195304	1198100.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CYP2W1	Amplification		7	195304	1198100.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NXPH1	Amplification		7	7646375	8791649.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	THRSP	Amplification		11	77034067	78424009.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KCTD14	Amplification		11	77034067	78424009.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KCTD21	Amplification		11	77034067	78424009.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	INTS4	Amplification		11	77034067	78424009.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NDUFC2	Amplification		11	77034067	78424009.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CLNS1A	Amplification		11	77034067	78424009.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	AQP11	Amplification		11	77034067	78424009.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GGCT	Amplification		7	30329160	30795719.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNRF2	Amplification		7	30329160	30795719.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR4C11	Deletion		11	55032128	55419567.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	TRUB2	Fusion	TRUB2--HMCN2	chr9	131079431							0.0	0.0		0	10.0	TRUB2	chr9	131079431.0	HMCN2	chr9	133294159.0					Osteosarcoma-WABS378			0	0	0	0	0	0	1
+Cosmic				Rearrangement	NACC2	Fusion	NACC2--DAD1	chr9	138905045							0.0	0.0		0	28.0	NACC2	chr9	138905045.0	DAD1	chr14	23044133.0					Osteosarcoma-WABS378			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND6	Fusion	MT-ND6--MT-TE	chrM	14657							0.0	0.0		0	33.0	MT-ND6	chrM	14657.0	MT-TE	chrM	14739.0					Osteosarcoma-WABS378			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CO3	Fusion	MT-CO3--MT-ATP6	chrM	9359							0.0	0.0		0	12.0	MT-CO3	chrM	9359.0	MT-ATP6	chrM	9205.0					Osteosarcoma-WABS378			0	0	0	0	0	0	1
+Cosmic				Rearrangement	FAM20C	Fusion	FAM20C--AC147651.5	chr7	288396							0.0	0.0		0	17.0	FAM20C	chr7	288396.0	AC147651.5	chr7	604738.0					Osteosarcoma-WABS378			0	0	0	0	0	0	1
+Cosmic				Rearrangement	FAM63B	Fusion	RORA--FAM63B	chr15	61521252							0.0	0.0		0	8.0	RORA	chr15	61521252.0	FAM63B	chr15	59080105.0					Osteosarcoma-WABS378			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MAPKAP1	Fusion	RABGAP1--MAPKAP1	chr9	125761045							0.0	0.0		0	7.0	RABGAP1	chr9	125761045.0	MAPKAP1	chr9	128348006.0					Osteosarcoma-WABS378			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-CO3--MT-ATP6	chrM	9359							0.0	0.0		0	12.0	MT-CO3	chrM	9359.0	MT-ATP6	chrM	9205.0					Osteosarcoma-WABS378			0	0	0	0	0	0	1
+Cosmic				Rearrangement	IGLL5	Fusion	IGLV1-40--IGLL5	chr22	22764613							0.0	0.0		0	76.0	IGLV1-40	chr22	22764613.0	IGLL5	chr22	23235963.0					Osteosarcoma-WABS378			0	0	0	0	0	0	1
+VUS				Somatic Variant	SPATA31E1	Missense	p.P575T	9	90501125	90501125.0	C	C	A	0.0333	180.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WABS378	Osteosarcoma-WABS378-Tumor-SM-2RCBS	Osteosarcoma-WABS378-Normal-SM-2RCD8	0	0	0	0	0	0	0
+VUS				Somatic Variant	CCDC180	Nonsense	p.Q258*	9	100076951	100076951.0	C	C	T	0.1148	61.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-WABS378	Osteosarcoma-WABS378-Tumor-SM-2RCBS	Osteosarcoma-WABS378-Normal-SM-2RCD8	0	0	0	0	0	0	0
+VUS				Copy Number	AC147651.5	Amplification		7	195304	1198100.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC187652.1	Amplification		7	195304	1198100.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC226118.1	Amplification		7	195304	1198100.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	WI2-2373I1.2	Amplification		7	195304	1198100.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-449P15.2	Amplification		7	195304	1198100.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR339	Amplification		7	195304	1198100.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC147651.4	Amplification		7	195304	1198100.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC147651.3	Amplification		7	195304	1198100.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC147651.2	Amplification		7	195304	1198100.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC091729.7	Amplification		7	195304	1198100.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	GPER1	Amplification		7	195304	1198100.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC147651.1	Amplification		7	195304	1198100.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC073957.15	Amplification		7	195304	1198100.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC091729.8	Amplification		7	195304	1198100.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC091729.9	Amplification		7	195304	1198100.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC093627.12	Amplification		7	195304	1198100.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC145676.2	Amplification		7	195304	1198100.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-449P15.1	Amplification		7	195304	1198100.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	RPA3-AS1	Amplification		7	7646375	8791649.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1007H16.1	Amplification		7	7646375	8791649.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-594A5.1	Amplification		7	7646375	8791649.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-534P	Amplification		7	7646375	8791649.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC009473.1	Amplification		7	7646375	8791649.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC007161.5	Amplification		7	7646375	8791649.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC007128.1	Amplification		7	7646375	8791649.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC007009.2	Amplification		7	7646375	8791649.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC007009.1	Amplification		7	7646375	8791649.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC006042.7	Amplification		7	7646375	8791649.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC006042.6	Amplification		7	7646375	8791649.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-91P24.6	Amplification		11	77034067	78424009.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-91P24.5	Amplification		11	77034067	78424009.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-126P	Amplification		11	77034067	78424009.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-311P	Amplification		11	77034067	78424009.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	TENM4	Amplification		11	77034067	78424009.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-59P	Amplification		11	77034067	78424009.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	RSF1-IT1	Amplification		11	77034067	78424009.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-452H21.1	Amplification		11	77034067	78424009.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-452H21.2	Amplification		11	77034067	78424009.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-91P24.7	Amplification		11	77034067	78424009.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-452H21.4	Amplification		11	77034067	78424009.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-7I15.3	Amplification		11	77034067	78424009.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-7I15.4	Amplification		11	77034067	78424009.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-843A23.1	Amplification		11	77034067	78424009.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	RSF1-IT2	Amplification		11	77034067	78424009.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	AAMDC	Amplification		11	77034067	78424009.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	KCTD21-AS1	Amplification		11	77034067	78424009.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	NDUFC2-KCTD14	Amplification		11	77034067	78424009.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	DKFZP434E1119	Amplification		11	77034067	78424009.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	AP002789.1	Amplification		11	77034067	78424009.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	GS1-114I9.1	Amplification		7	30329160	30795719.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-777O23.2	Amplification		7	30329160	30795719.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-777O23.1	Amplification		7	30329160	30795719.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC005154.6	Amplification		7	30329160	30795719.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR550A1	Amplification		7	30329160	30795719.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	TRIM51HP	Deletion		11	55032128	55419567.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Copy Number	NDUFA6-AS1	Deletion		22	42523222	42524569.0						0.0	0.0		0												Osteosarcoma-WABS378	WABS378_T		0	0	0	0	0	0	0
+VUS				Rearrangement	WI2-1896O14.1	Fusion	WI2-1896O14.1--RP11-353N4.1	chr1	144676874							0.0	0.0		0	19.0	WI2-1896O14.1	chr1	144676874.0	RP11-353N4.1	chr1	149591233.0					Osteosarcoma-WABS378			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TA	Fusion	MT-TA--MT-TN	chrM	5591							0.0	0.0		0	18.0	MT-TA	chrM	5591.0	MT-TN	chrM	5703.0					Osteosarcoma-WABS378			0	0	0	0	0	0	0
+VUS				Rearrangement	IQCH-AS1	Fusion	IQCH-AS1--ANXA2	chr15	67811338							0.0	0.0		0	15.0	IQCH-AS1	chr15	67811338.0	ANXA2	chr15	60653253.0					Osteosarcoma-WABS378			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-353N4.1	Fusion	WI2-1896O14.1--RP11-353N4.1	chr1	144676874							0.0	0.0		0	19.0	WI2-1896O14.1	chr1	144676874.0	RP11-353N4.1	chr1	149591233.0					Osteosarcoma-WABS378			0	0	0	0	0	0	0
+VUS				Rearrangement	HMCN2	Fusion	TRUB2--HMCN2	chr9	131079431							0.0	0.0		0	10.0	TRUB2	chr9	131079431.0	HMCN2	chr9	133294159.0					Osteosarcoma-WABS378			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TN	Fusion	MT-TA--MT-TN	chrM	5591							0.0	0.0		0	18.0	MT-TA	chrM	5591.0	MT-TN	chrM	5703.0					Osteosarcoma-WABS378			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TE	Fusion	MT-ND6--MT-TE	chrM	14657							0.0	0.0		0	33.0	MT-ND6	chrM	14657.0	MT-TE	chrM	14739.0					Osteosarcoma-WABS378			0	0	0	0	0	0	0
+VUS				Rearrangement	IGLJ1	Fusion	IGLV1-40--IGLJ1	chr22	22764613							0.0	0.0		0	23.0	IGLV1-40	chr22	22764613.0	IGLJ1	chr22	23235963.0					Osteosarcoma-WABS378			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKJ3	Fusion	IGKV4-1--IGKJ3	chr2	89185668							0.0	0.0		0	6.0	IGKV4-1	chr2	89185668.0	IGKJ3	chr2	89160770.0					Osteosarcoma-WABS378			0	0	0	0	0	0	0
+VUS				Rearrangement	AC096579.7	Fusion	IGKV4-1--AC096579.7	chr2	89185669							0.0	0.0		0	62.0	IGKV4-1	chr2	89185669.0	AC096579.7	chr2	89161434.0					Osteosarcoma-WABS378			0	0	0	0	0	0	0
+VUS				Rearrangement	LINC00551	Fusion	GPC6--LINC00551	chr13	95034804							0.0	0.0		0	19.0	GPC6	chr13	95034804.0	LINC00551	chr13	107283135.0					Osteosarcoma-WABS378			0	0	0	0	0	0	0
+VUS				Rearrangement	LINC00443	Fusion	GPC6--LINC00443	chr13	95034804							0.0	0.0		0	9.0	GPC6	chr13	95034804.0	LINC00443	chr13	107320994.0					Osteosarcoma-WABS378			0	0	0	0	0	0	0
+VUS				Rearrangement	AC147651.5	Fusion	FAM20C--AC147651.5	chr7	288396							0.0	0.0		0	17.0	FAM20C	chr7	288396.0	AC147651.5	chr7	604738.0					Osteosarcoma-WABS378			0	0	0	0	0	0	0

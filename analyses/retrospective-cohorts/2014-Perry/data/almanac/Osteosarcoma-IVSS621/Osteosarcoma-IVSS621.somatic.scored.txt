@@ -1,0 +1,147 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Biologically Relevant				Copy Number	MPL	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		1	0	0	1	0	1	1
+Biologically Relevant				Somatic Variant	POT1	Splice Site		7	124481234	124481234.0	T	T	C	0.0423	71.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IVSS621	Osteosarcoma-IVSS621-Tumor-SM-2RCB4	Osteosarcoma-IVSS621-Normal-SM-2RCCJ	1	0	0	1	0	0	1
+Cancer Hotspot 3D				Rearrangement	CLTC	Fusion	CLTC--VMP1	chr17	57761346							0.0	0.0		0	28.0	CLTC	chr17	57761346.0	VMP1	chr17	57889031.0					Osteosarcoma-IVSS621			0	0	1	1	0	1	1
+Cancer Hotspot 3D				Somatic Variant	RYR2	Missense	p.L4925P	1	237994831	237994831.0	T	T	C	0.15	20.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IVSS621	Osteosarcoma-IVSS621-Tumor-SM-2RCB4	Osteosarcoma-IVSS621-Normal-SM-2RCCJ	0	0	1	0	0	1	2
+Cancer Hotspot 3D				Somatic Variant	EPHA1	Missense	p.M289I	7	143096475	143096475.0	C	C	A	0.1607	56.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IVSS621	Osteosarcoma-IVSS621-Tumor-SM-2RCB4	Osteosarcoma-IVSS621-Normal-SM-2RCCJ	0	0	1	0	0	1	2
+Cancer Hotspot 3D				Copy Number	CR1	Deletion		1	207738933	207741637.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	CYP2A6	Deletion		19	41356019	41387791.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	PTPRF	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Rearrangement	HBA2	Fusion	HBB--HBA2	chr11	5248160							0.0	0.0		0	50.0	HBB	chr11	5248160.0	HBA2	chr16	223124.0					Osteosarcoma-IVSS621			0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	SLFNL1	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	1	0	0	0	1
+Cancer Pathway				Copy Number	SLC2A1	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	CDC20	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	1	1	1
+Cancer Pathway				Rearrangement	IGLV1-40	Fusion	IGLV1-40--IGLJ3	chr22	22764614							0.0	0.0		0	19.0	IGLV1-40	chr22	22764614.0	IGLJ3	chr22	23247171.0					Osteosarcoma-IVSS621			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGKV4-1	Fusion	IGKV4-1--IGKJ3	chr2	89185668							0.0	0.0		0	14.0	IGKV4-1	chr2	89185668.0	IGKJ3	chr2	89160770.0					Osteosarcoma-IVSS621			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGKV4-1	Fusion	IGKV4-1--IGKJ2	chr2	89185668							0.0	0.0		0	18.0	IGKV4-1	chr2	89185668.0	IGKJ2	chr2	89161074.0					Osteosarcoma-IVSS621			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGKV4-1	Fusion	IGKV4-1--AC096579.7	chr2	89185668							0.0	0.0		0	219.0	IGKV4-1	chr2	89185668.0	AC096579.7	chr2	89161074.0					Osteosarcoma-IVSS621			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGLC3	Fusion	IGLV1-47--IGLC3	chr22	22712188							0.0	0.0		0	34.0	IGLV1-47	chr22	22712188.0	IGLC3	chr22	23248512.0					Osteosarcoma-IVSS621			0	0	0	0	1	0	0
+Cancer Module				Somatic Variant	AAK1	Missense	p.Q533H	2	69741780	69741780.0	C	C	G	0.1111	18.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IVSS621	Osteosarcoma-IVSS621-Tumor-SM-2RCB4	Osteosarcoma-IVSS621-Normal-SM-2RCCJ	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	CLDN8	Missense	p.T25I	21	31588170	31588170.0	G	G	A	0.0337	89.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IVSS621	Osteosarcoma-IVSS621-Tumor-SM-2RCB4	Osteosarcoma-IVSS621-Normal-SM-2RCCJ	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	MAS1	Missense	p.R290G	6	160328855	160328855.0	A	A	G	0.2308	78.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IVSS621	Osteosarcoma-IVSS621-Tumor-SM-2RCB4	Osteosarcoma-IVSS621-Normal-SM-2RCCJ	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	LAIR1	Missense	p.L241V	19	54867020	54867020.0	G	G	C	0.0862	58.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IVSS621	Osteosarcoma-IVSS621-Tumor-SM-2RCB4	Osteosarcoma-IVSS621-Normal-SM-2RCCJ	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	KIF1C	Missense	p.R1039Q	17	4927250	4927250.0	G	G	A	0.0423	71.0	2.5e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-IVSS621	Osteosarcoma-IVSS621-Tumor-SM-2RCB4	Osteosarcoma-IVSS621-Normal-SM-2RCCJ	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	CHD3	Missense	p.D384N	17	7797481	7797481.0	G	G	A	0.0714	70.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IVSS621	Osteosarcoma-IVSS621-Tumor-SM-2RCB4	Osteosarcoma-IVSS621-Normal-SM-2RCCJ	0	0	0	0	0	1	1
+Cancer Module				Copy Number	CYP2A7	Deletion		19	41356019	41387791.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FOXJ3	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SZT2	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HYI	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	C15orf57	Fusion	C15orf57--CBX3	chr15	40854971							0.0	0.0		0	12.0	C15orf57	chr15	40854971.0	CBX3	chr7	26241389.0					Osteosarcoma-IVSS621			0	0	0	0	0	1	1
+Cancer Module				Copy Number	KDM4A	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GSTM5	Amplification		1	110210486	110256635.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	CTSC	Fusion	CTSC--RAB38	chr11	88033698							0.0	0.0		0	14.0	CTSC	chr11	88033698.0	RAB38	chr11	87883123.0					Osteosarcoma-IVSS621			0	0	0	0	0	1	1
+Cancer Module				Copy Number	MED8	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	YBX1	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EDN2	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TIE1	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ST3GAL3	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GUCA2B	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GSTM2	Amplification		1	110210486	110256635.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GSTM1	Amplification		1	110210486	110256635.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GSTM4	Amplification		1	110210486	110256635.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	HBB	Fusion	HBB--HBA2	chr11	5248160							0.0	0.0		0	50.0	HBB	chr11	5248160.0	HBA2	chr16	223124.0					Osteosarcoma-IVSS621			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	EYA1	Fusion	RP11-1102P16.1--EYA1	chr8	72383093							0.0	0.0		0	5.0	RP11-1102P16.1	chr8	72383093.0	EYA1	chr8	72268746.0					Osteosarcoma-IVSS621			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	VMP1	Fusion	CLTC--VMP1	chr17	57761346							0.0	0.0		0	28.0	CLTC	chr17	57761346.0	VMP1	chr17	57889031.0					Osteosarcoma-IVSS621			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	CBX3	Fusion	C15orf57--CBX3	chr15	40854971							0.0	0.0		0	12.0	C15orf57	chr15	40854971.0	CBX3	chr7	26241389.0					Osteosarcoma-IVSS621			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	IGLJ3	Fusion	IGLV1-40--IGLJ3	chr22	22764614							0.0	0.0		0	19.0	IGLV1-40	chr22	22764614.0	IGLJ3	chr22	23247171.0					Osteosarcoma-IVSS621			0	0	0	0	0	1	0
+Cosmic				Somatic Variant	RBM25	Missense	p.E271K	14	73566402	73566402.0	G	G	A	0.1429	70.0	0.0	0.0		0								64.0	0.4062	0.9643		Osteosarcoma-IVSS621	Osteosarcoma-IVSS621-Tumor-SM-2RCB4	Osteosarcoma-IVSS621-Normal-SM-2RCCJ	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	KIF16B	Missense	p.T55S	20	16506805	16506805.0	T	T	A	0.05	100.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IVSS621	Osteosarcoma-IVSS621-Tumor-SM-2RCB4	Osteosarcoma-IVSS621-Normal-SM-2RCCJ	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	KIAA1211	Missense	p.S1161T	4	57190372	57190372.0	T	T	A	0.1587	63.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IVSS621	Osteosarcoma-IVSS621-Tumor-SM-2RCB4	Osteosarcoma-IVSS621-Normal-SM-2RCCJ	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ZNF341	Missense	p.V367A	20	32349760	32349760.0	T	T	C	0.0196	153.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IVSS621	Osteosarcoma-IVSS621-Tumor-SM-2RCB4	Osteosarcoma-IVSS621-Normal-SM-2RCCJ	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	PRPF4	Missense	p.D435N	9	116053224	116053224.0	G	G	A	0.0405	74.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IVSS621	Osteosarcoma-IVSS621-Tumor-SM-2RCB4	Osteosarcoma-IVSS621-Normal-SM-2RCCJ	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	TMEM180	Missense	p.V232M	10	104230864	104230864.0	G	G	A	0.0517	58.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-IVSS621	Osteosarcoma-IVSS621-Tumor-SM-2RCB4	Osteosarcoma-IVSS621-Normal-SM-2RCCJ	0	0	0	0	0	0	2
+Cosmic				Copy Number	HIVEP3	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR4M2	Amplification		15	22368324	22736784.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP4-5	Amplification		17	39279517	39395035.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP4-1	Amplification		17	39279517	39395035.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM118A	Deletion		22	45723471	45724609.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZMYND12	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C1orf50	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCDC30	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	WDR65	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GUCA2A	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP9-8	Amplification		17	39279517	39395035.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP4-2	Amplification		17	39279517	39395035.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR4N4	Amplification		15	22368324	22736784.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IGHV1OR15-1	Amplification		15	22368324	22736784.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GOLGA6L1	Amplification		15	22368324	22736784.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RIMKLA	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SCMH1	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LEPRE1	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PPCS	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PPIH	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF691	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ELOVL1	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C1orf210	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCDC23	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CLDN19	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM125	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	EBNA1BP2	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ERMAP	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM183A	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FOXO6	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP9-1	Amplification		17	39279517	39395035.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP9-2	Amplification		17	39279517	39395035.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP4-6	Amplification		17	39279517	39395035.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP4-4	Amplification		17	39279517	39395035.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP4-3	Amplification		17	39279517	39395035.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP4-12	Amplification		17	39279517	39395035.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP9-3	Amplification		17	39279517	39395035.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	BPNT1	Deletion		1	220231934	220240987.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND6	Fusion	MT-ND6--MT-TE	chrM	14479							0.0	0.0		0	9.0	MT-ND6	chrM	14479.0	MT-TE	chrM	14713.0					Osteosarcoma-IVSS621			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4	Fusion	MT-ND4--MT-ND4L	chrM	10819							0.0	0.0		0	18.0	MT-ND4	chrM	10819.0	MT-ND4L	chrM	10738.0					Osteosarcoma-IVSS621			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CO3	Fusion	MT-CO3--MT-ATP6	chrM	9359							0.0	0.0		0	6.0	MT-CO3	chrM	9359.0	MT-ATP6	chrM	9205.0					Osteosarcoma-IVSS621			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-ATP6--MT-ATP8	chrM	8775							0.0	0.0		0	44.0	MT-ATP6	chrM	8775.0	MT-ATP8	chrM	8472.0					Osteosarcoma-IVSS621			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4L	Fusion	MT-ND4--MT-ND4L	chrM	10819							0.0	0.0		0	18.0	MT-ND4	chrM	10819.0	MT-ND4L	chrM	10738.0					Osteosarcoma-IVSS621			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-CO3--MT-ATP6	chrM	9359							0.0	0.0		0	6.0	MT-CO3	chrM	9359.0	MT-ATP6	chrM	9205.0					Osteosarcoma-IVSS621			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP8	Fusion	MT-ATP6--MT-ATP8	chrM	8775							0.0	0.0		0	44.0	MT-ATP6	chrM	8775.0	MT-ATP8	chrM	8472.0					Osteosarcoma-IVSS621			0	0	0	0	0	0	1
+Cosmic				Rearrangement	IGLL5	Fusion	IGLV2-14--IGLL5	chr22	23101697							0.0	0.0		0	7.0	IGLV2-14	chr22	23101697.0	IGLL5	chr22	23235959.0					Osteosarcoma-IVSS621			0	0	0	0	0	0	1
+Cosmic				Rearrangement	RAB38	Fusion	CTSC--RAB38	chr11	88033698							0.0	0.0		0	14.0	CTSC	chr11	88033698.0	RAB38	chr11	87883123.0					Osteosarcoma-IVSS621			0	0	0	0	0	0	1
+VUS				Copy Number	IGHV4OR15-8	Amplification		15	22368324	22736784.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-2F9.4	Amplification		15	22368324	22736784.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-69H14.6	Amplification		15	22368324	22736784.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC010760.1	Amplification		15	22368324	22736784.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	0
+VUS				Copy Number	GOLGA8DP	Amplification		15	22368324	22736784.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1268A	Amplification		15	22368324	22736784.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4509-2	Amplification		15	22368324	22736784.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC116165.1	Amplification		15	22368324	22736784.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL545P	Amplification		15	22368324	22736784.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-342M1.3	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-92O14.6	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-994D16.9	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-994D16.3	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-92O14.3	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-486B10.3	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-880P	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-399E6.4	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-399E6.1	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-870P	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-536P	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP46	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	0
+VUS				Copy Number	SLC2A1-AS1	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP45	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	0
+VUS				Copy Number	KDM4A-AS1	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL451006.1	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	0
+VUS				Copy Number	SZT2-AS1	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	0
+VUS				Copy Number	HYI-AS1	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-223A3.1	Amplification		1	41485646	44170293.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC000032.2	Amplification		1	110210486	110256635.0						0.0	0.0		0												Osteosarcoma-IVSS621	IVSS621_T		0	0	0	0	0	0	0
+VUS				Rearrangement	WI2-1896O14.1	Fusion	WI2-1896O14.1--RP11-353N4.1	chr1	144676874							0.0	0.0		0	7.0	WI2-1896O14.1	chr1	144676874.0	RP11-353N4.1	chr1	149590973.0					Osteosarcoma-IVSS621			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-96H19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	7.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	47046173.0					Osteosarcoma-IVSS621			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-110G21.1	Fusion	RP11-110G21.1--RP11-546K22.1	chr8	52825740							0.0	0.0		0	5.0	RP11-110G21.1	chr8	52825740.0	RP11-546K22.1	chr8	52934976.0					Osteosarcoma-IVSS621			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-1102P16.1	Fusion	RP11-1102P16.1--EYA1	chr8	72383093							0.0	0.0		0	5.0	RP11-1102P16.1	chr8	72383093.0	EYA1	chr8	72268746.0					Osteosarcoma-IVSS621			0	0	0	0	0	0	0
+VUS				Rearrangement	IGLV2-14	Fusion	IGLV2-14--IGLL5	chr22	23101697							0.0	0.0		0	7.0	IGLV2-14	chr22	23101697.0	IGLL5	chr22	23235959.0					Osteosarcoma-IVSS621			0	0	0	0	0	0	0
+VUS				Rearrangement	IGLV1-51	Fusion	IGLV1-51--IGLJ2	chr22	22677322							0.0	0.0		0	7.0	IGLV1-51	chr22	22677322.0	IGLJ2	chr22	23241798.0					Osteosarcoma-IVSS621			0	0	0	0	0	0	0
+VUS				Rearrangement	IGLV1-47	Fusion	IGLV1-47--IGLC3	chr22	22712188							0.0	0.0		0	34.0	IGLV1-47	chr22	22712188.0	IGLC3	chr22	23248512.0					Osteosarcoma-IVSS621			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKV3-20	Fusion	IGKV3-20--IGKJ1	chr2	89442058							0.0	0.0		0	19.0	IGKV3-20	chr2	89442058.0	IGKJ1	chr2	89161435.0					Osteosarcoma-IVSS621			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKV3-20	Fusion	IGKV3-20--AC096579.13	chr2	89442058							0.0	0.0		0	14.0	IGKV3-20	chr2	89442058.0	AC096579.13	chr2	89161074.0					Osteosarcoma-IVSS621			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-353N4.1	Fusion	WI2-1896O14.1--RP11-353N4.1	chr1	144676874							0.0	0.0		0	7.0	WI2-1896O14.1	chr1	144676874.0	RP11-353N4.1	chr1	149590973.0					Osteosarcoma-IVSS621			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-446N19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	7.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	47046173.0					Osteosarcoma-IVSS621			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-546K22.1	Fusion	RP11-110G21.1--RP11-546K22.1	chr8	52825740							0.0	0.0		0	5.0	RP11-110G21.1	chr8	52825740.0	RP11-546K22.1	chr8	52934976.0					Osteosarcoma-IVSS621			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TE	Fusion	MT-ND6--MT-TE	chrM	14479							0.0	0.0		0	9.0	MT-ND6	chrM	14479.0	MT-TE	chrM	14713.0					Osteosarcoma-IVSS621			0	0	0	0	0	0	0
+VUS				Rearrangement	IGLJ2	Fusion	IGLV1-51--IGLJ2	chr22	22677322							0.0	0.0		0	7.0	IGLV1-51	chr22	22677322.0	IGLJ2	chr22	23241798.0					Osteosarcoma-IVSS621			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKJ3	Fusion	IGKV4-1--IGKJ3	chr2	89185668							0.0	0.0		0	14.0	IGKV4-1	chr2	89185668.0	IGKJ3	chr2	89160770.0					Osteosarcoma-IVSS621			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKJ2	Fusion	IGKV4-1--IGKJ2	chr2	89185668							0.0	0.0		0	18.0	IGKV4-1	chr2	89185668.0	IGKJ2	chr2	89161074.0					Osteosarcoma-IVSS621			0	0	0	0	0	0	0
+VUS				Rearrangement	AC096579.7	Fusion	IGKV4-1--AC096579.7	chr2	89185668							0.0	0.0		0	219.0	IGKV4-1	chr2	89185668.0	AC096579.7	chr2	89161074.0					Osteosarcoma-IVSS621			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKJ1	Fusion	IGKV3-20--IGKJ1	chr2	89442058							0.0	0.0		0	19.0	IGKV3-20	chr2	89442058.0	IGKJ1	chr2	89161435.0					Osteosarcoma-IVSS621			0	0	0	0	0	0	0
+VUS				Rearrangement	AC096579.13	Fusion	IGKV3-20--AC096579.13	chr2	89442058							0.0	0.0		0	14.0	IGKV3-20	chr2	89442058.0	AC096579.13	chr2	89161074.0					Osteosarcoma-IVSS621			0	0	0	0	0	0	0

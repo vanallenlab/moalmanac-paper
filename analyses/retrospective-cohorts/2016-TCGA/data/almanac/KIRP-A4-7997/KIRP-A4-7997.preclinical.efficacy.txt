@@ -1,0 +1,9 @@
+patient_id	feature_display	tested_subfeature	therapy_name	n_mut	n_wt	n_mut_tested	n_wt_tested	mut_ic50_median	mut_ic50_mean	mut_ic50_std	wt_ic50_median	wt_ic50_mean	wt_ic50_std	pvalue_mww	statistic
+KIRP-A4-7997	MET p.H1112Y (Missense)	MET	SU11274	199	1624	123	801	58.163	79.735	81.446	42.785	68.665	76.237	0.129	45080.0
+KIRP-A4-7997	MET p.H1112Y (Missense)	MET Somatic Variant	SU11274	88	1735	57	867	50.407	79.148	84.131	43.459	69.547	76.52	0.485	23347.0
+KIRP-A4-7997	MET p.H1112Y (Missense)	MET Somatic Variant Missense	SU11274	74	1749	46	878	52.016	72.185	69.765	43.659	70.032	77.392	0.663	19425.0
+KIRP-A4-7997	MET p.H1112Y (Missense)	MET Somatic Variant Missense p.H1112Y	SU11274	0	1823	0	924				44.064	70.139	76.997	nan	
+KIRP-A4-7997	PALB2 p.S500F (Missense)	PALB2	Olaparib	100	1723	53	709	79.636	241.365	721.857	75.198	157.862	270.378	0.812	18420.0
+KIRP-A4-7997	PALB2 p.S500F (Missense)	PALB2 Somatic Variant	Olaparib	69	1754	36	726	77.456	245.342	830.993	75.894	159.62	274.87	0.945	13158.0
+KIRP-A4-7997	PALB2 p.S500F (Missense)	PALB2 Somatic Variant Missense	Olaparib	53	1770	27	735	79.636	112.841	103.603	75.198	165.537	327.75	0.979	9893.0
+KIRP-A4-7997	PALB2 p.S500F (Missense)	PALB2 Somatic Variant Missense p.S500F	Olaparib	0	1823	0	762				75.933	163.67	322.6	nan	

@@ -1,0 +1,151 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Putatively Actionable			Putatively Actionable	Copy Number	MYC	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		4	1	0	1	1	1	1
+Cancer Hotspot 3D				Copy Number	ZNF572	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	1	0	0	0	1
+Cancer Gene Census				Somatic Variant	MUC16	Missense	p.R13820G	19	8994434	8994434.0	T	T	C	0.0279	215.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-ACMS751	Osteosarcoma-ACMS751-Tumor-SM-2RCAP	Osteosarcoma-ACMS751-Normal-SM-2RCC5	0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	NDRG1	Amplification		8	134072093	134488519.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	1	0	0	1
+Cancer Pathway				Rearrangement	IGKV4-1	Fusion	IGKV4-1--IGKJ4	chr2	89185669							0.0	0.0		0	8.0	IGKV4-1	chr2	89185669.0	IGKJ4	chr2	89160434.0					Osteosarcoma-ACMS751			0	0	0	0	1	0	0
+Cancer Module				Somatic Variant	TG	Nonsense	p.G962*	8	133906057	133906057.0	G	G	T	0.0793	164.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-ACMS751	Osteosarcoma-ACMS751-Tumor-SM-2RCAP	Osteosarcoma-ACMS751-Normal-SM-2RCC5	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	IDS	Missense	p.A23T	X	148586601	148586601.0	C	C	T	0.0426	94.0	8e-06	0.0		0								0.0	0.0	0.0		Osteosarcoma-ACMS751	Osteosarcoma-ACMS751-Tumor-SM-2RCAP	Osteosarcoma-ACMS751-Normal-SM-2RCC5	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	TTN	Missense	p.C21498R	2	179449979	179449979.0	A	A	G	0.0204	147.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-ACMS751	Osteosarcoma-ACMS751-Tumor-SM-2RCAP	Osteosarcoma-ACMS751-Normal-SM-2RCC5	0	0	0	0	0	1	1
+Cancer Module				Copy Number	TG	Amplification		8	134072093	134488519.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HPR	Amplification		16	72107539	72111232.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ANXA13	Amplification		8	124449198	125602204.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KIAA0196	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	CTSC	Fusion	CTSC--RAB38	chr11	88033698							0.0	0.0		0	6.0	CTSC	chr11	88033698.0	RAB38	chr11	87883123.0					Osteosarcoma-ACMS751			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	C15orf57	Fusion	C15orf57--CBX3	chr15	40854180							0.0	0.0		0	11.0	C15orf57	chr15	40854180.0	CBX3	chr7	26241365.0					Osteosarcoma-ACMS751			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	LEPR	Fusion	LEPROT--LEPR	chr1	65891061							0.0	0.0		0	5.0	LEPROT	chr1	65891061.0	LEPR	chr1	66031229.0					Osteosarcoma-ACMS751			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	MYH7	Fusion	CKM--MYH7	chr19	45810098							0.0	0.0		0	5.0	CKM	chr19	45810098.0	MYH7	chr14	23889134.0					Osteosarcoma-ACMS751			0	0	0	0	0	1	1
+Cancer Module				Copy Number	SQLE	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TRIB1	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MTSS1	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLA	Amplification		8	134072093	134488519.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ST3GAL1	Amplification		8	134072093	134488519.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TMEM65	Amplification		8	124449198	125602204.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	WDYHV1	Amplification		8	124449198	125602204.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RNF139	Amplification		8	124449198	125602204.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FBXO32	Amplification		8	124449198	125602204.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TM4SF5	Deletion		17	4688405	4689899.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	CKM	Fusion	CKM--MYH7	chr19	45810098							0.0	0.0		0	5.0	CKM	chr19	45810098.0	MYH7	chr14	23889134.0					Osteosarcoma-ACMS751			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	CBX3	Fusion	C15orf57--CBX3	chr15	40854180							0.0	0.0		0	11.0	C15orf57	chr15	40854180.0	CBX3	chr7	26241365.0					Osteosarcoma-ACMS751			0	0	0	0	0	1	1
+Cancer Module				Copy Number	DEFA1	Deletion		8	6835040	6855525.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	1	0
+Cosmic				Somatic Variant	PLCZ1	Missense	p.R141C	12	18872513	18872513.0	G	G	A	0.1154	26.0	0.0005690000000000001	0.0		0								0.0	0.0	0.0		Osteosarcoma-ACMS751	Osteosarcoma-ACMS751-Tumor-SM-2RCAP	Osteosarcoma-ACMS751-Normal-SM-2RCC5	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	TMPRSS6	Missense	p.V587I	22	37466606	37466606.0	C	C	T	0.055	109.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-ACMS751	Osteosarcoma-ACMS751-Tumor-SM-2RCAP	Osteosarcoma-ACMS751-Normal-SM-2RCC5	0	0	0	0	0	0	1
+Cosmic				Copy Number	GLTPD2	Deletion		17	4688405	4689899.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KLHL38	Amplification		8	124449198	125602204.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	VMO1	Deletion		17	4688405	4689899.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	POM121C	Deletion		7	75045009	75048389.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM91A1	Amplification		8	124449198	125602204.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FER1L6	Amplification		8	124449198	125602204.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	POU5F1B	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM75	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM84B	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NSMCE2	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	WISP1	Amplification		8	134072093	134488519.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC30A8	Amplification		8	118164931	118185172.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TRMT12	Amplification		8	124449198	125602204.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TATDN1	Amplification		8	124449198	125602204.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NDUFB9	Amplification		8	124449198	125602204.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCL3L3	Deletion		17	34522433	34538871.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCL4L1	Deletion		17	34522433	34538871.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NSUN5P1	Deletion		7	75045009	75048389.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DEFA1B	Deletion		8	6835040	6855525.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR4C11	Deletion		11	55370665	55419567.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR4S2	Deletion		11	55370665	55419567.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR4P4	Deletion		11	55370665	55419567.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND6	Fusion	MT-ND6--MT-TE	chrM	14484							0.0	0.0		0	14.0	MT-ND6	chrM	14484.0	MT-TE	chrM	14696.0					Osteosarcoma-ACMS751			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND6	Fusion	MT-ND6--MT-ND5	chrM	14319							0.0	0.0		0	11.0	MT-ND6	chrM	14319.0	MT-ND5	chrM	14097.0					Osteosarcoma-ACMS751			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4	Fusion	MT-ND4--MT-ND4L	chrM	10917							0.0	0.0		0	57.0	MT-ND4	chrM	10917.0	MT-ND4L	chrM	10593.0					Osteosarcoma-ACMS751			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4	Fusion	MT-ND4--MT-ATP6	chrM	11145							0.0	0.0		0	14.0	MT-ND4	chrM	11145.0	MT-ATP6	chrM	8625.0					Osteosarcoma-ACMS751			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CYB	Fusion	MT-CYB--MT-ATP6	chrM	14808							0.0	0.0		0	8.0	MT-CYB	chrM	14808.0	MT-ATP6	chrM	8939.0					Osteosarcoma-ACMS751			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CO3	Fusion	MT-CO3--MT-ATP8	chrM	9619							0.0	0.0		0	6.0	MT-CO3	chrM	9619.0	MT-ATP8	chrM	8438.0					Osteosarcoma-ACMS751			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CO3	Fusion	MT-CO3--MT-ATP6	chrM	9609							0.0	0.0		0	9.0	MT-CO3	chrM	9609.0	MT-ATP6	chrM	9206.0					Osteosarcoma-ACMS751			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CO2	Fusion	MT-CO2--MT-CO1	chrM	7812							0.0	0.0		0	21.0	MT-CO2	chrM	7812.0	MT-CO1	chrM	6445.0					Osteosarcoma-ACMS751			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-ATP6--MT-RNR2	chrM	8664							0.0	0.0		0	11.0	MT-ATP6	chrM	8664.0	MT-RNR2	chrM	2266.0					Osteosarcoma-ACMS751			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-ATP6--MT-CO2	chrM	8638							0.0	0.0		0	10.0	MT-ATP6	chrM	8638.0	MT-CO2	chrM	7725.0					Osteosarcoma-ACMS751			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-ATP6--MT-CO1	chrM	8647							0.0	0.0		0	19.0	MT-ATP6	chrM	8647.0	MT-CO1	chrM	6547.0					Osteosarcoma-ACMS751			0	0	0	0	0	0	1
+Cosmic				Rearrangement	LEPROT	Fusion	LEPROT--LEPR	chr1	65891061							0.0	0.0		0	5.0	LEPROT	chr1	65891061.0	LEPR	chr1	66031229.0					Osteosarcoma-ACMS751			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND5	Fusion	MT-ND6--MT-ND5	chrM	14319							0.0	0.0		0	11.0	MT-ND6	chrM	14319.0	MT-ND5	chrM	14097.0					Osteosarcoma-ACMS751			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4L	Fusion	MT-ND4--MT-ND4L	chrM	10917							0.0	0.0		0	57.0	MT-ND4	chrM	10917.0	MT-ND4L	chrM	10593.0					Osteosarcoma-ACMS751			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-ND4--MT-ATP6	chrM	11145							0.0	0.0		0	14.0	MT-ND4	chrM	11145.0	MT-ATP6	chrM	8625.0					Osteosarcoma-ACMS751			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-CYB--MT-ATP6	chrM	14808							0.0	0.0		0	8.0	MT-CYB	chrM	14808.0	MT-ATP6	chrM	8939.0					Osteosarcoma-ACMS751			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP8	Fusion	MT-CO3--MT-ATP8	chrM	9619							0.0	0.0		0	6.0	MT-CO3	chrM	9619.0	MT-ATP8	chrM	8438.0					Osteosarcoma-ACMS751			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-CO3--MT-ATP6	chrM	9609							0.0	0.0		0	9.0	MT-CO3	chrM	9609.0	MT-ATP6	chrM	9206.0					Osteosarcoma-ACMS751			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CO1	Fusion	MT-CO2--MT-CO1	chrM	7812							0.0	0.0		0	21.0	MT-CO2	chrM	7812.0	MT-CO1	chrM	6445.0					Osteosarcoma-ACMS751			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CO2	Fusion	MT-ATP6--MT-CO2	chrM	8638							0.0	0.0		0	10.0	MT-ATP6	chrM	8638.0	MT-CO2	chrM	7725.0					Osteosarcoma-ACMS751			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CO1	Fusion	MT-ATP6--MT-CO1	chrM	8647							0.0	0.0		0	19.0	MT-ATP6	chrM	8647.0	MT-CO1	chrM	6547.0					Osteosarcoma-ACMS751			0	0	0	0	0	0	1
+Cosmic				Rearrangement	IGLL5	Fusion	IGLV1-47--IGLL5	chr22	22712608							0.0	0.0		0	21.0	IGLV1-47	chr22	22712608.0	IGLL5	chr22	23235959.0					Osteosarcoma-ACMS751			0	0	0	0	0	0	1
+Cosmic				Rearrangement	RAB38	Fusion	CTSC--RAB38	chr11	88033698							0.0	0.0		0	6.0	CTSC	chr11	88033698.0	RAB38	chr11	87883123.0					Osteosarcoma-ACMS751			0	0	0	0	0	0	1
+VUS				Somatic Variant	AAMDC	Missense	p.V120M	11	77583293	77583293.0	G	G	A	0.0536	56.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-ACMS751	Osteosarcoma-ACMS751-Tumor-SM-2RCAP	Osteosarcoma-ACMS751-Normal-SM-2RCC5	0	0	0	0	0	0	0
+VUS				Copy Number	AC090573.1	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1082L8.2	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	PVT1	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL329P	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL590P	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU1-106P	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU11-4P	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU4-25P	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-442P	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-869P	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-103H7.1	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-103H7.2	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-103H7.3	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-103H7.5	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1082L8.3	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	PCAT1	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1082L8.4	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-136O12.2	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-255B23.4	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-351C8.1	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-382A18.2	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-550A5.2	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-622O11.4	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-65D17.1	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-697B24.1	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-6D1.3	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-89K10.1	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	PCAT2	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1207	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	CCAT1	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	KIAA0196-AS1	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	CASC8	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00861	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00964	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1205	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1208	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4662B	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	CASC11	Amplification		8	125603140	129162684.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	WISP1-UT1	Amplification		8	134072093	134488519.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-383J24.1	Amplification		8	124449198	125602204.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-383J24.6	Amplification		8	124449198	125602204.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-532M24.1	Amplification		8	124449198	125602204.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2552K11.2	Amplification		8	124449198	125602204.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-959I15.4	Amplification		8	124449198	125602204.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-37N22.1	Amplification		8	124449198	125602204.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-245A18.1	Amplification		8	124449198	125602204.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNF139-AS1	Amplification		8	124449198	125602204.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	FER1L6-AS1	Amplification		8	124449198	125602204.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP155	Amplification		8	124449198	125602204.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL826P	Amplification		8	118164931	118185172.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-756P	Amplification		8	124449198	125602204.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	FER1L6-AS2	Amplification		8	124449198	125602204.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-158K1.3	Amplification		8	124449198	125602204.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-174I12.2	Amplification		8	124449198	125602204.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC131056.3	Deletion		17	34522433	34538871.0						0.0	0.0		0												Osteosarcoma-ACMS751	ACMS751_T		0	0	0	0	0	0	0
+VUS				Rearrangement	WI2-1896O14.1	Fusion	WI2-1896O14.1--RP11-353N4.1	chr1	144676874							0.0	0.0		0	55.0	WI2-1896O14.1	chr1	144676874.0	RP11-353N4.1	chr1	149590973.0					Osteosarcoma-ACMS751			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-96H19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46848924							0.0	0.0		0	6.0	RP11-96H19.1	chr12	46848924.0	RP11-446N19.1	chr12	47046173.0					Osteosarcoma-ACMS751			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-680G10.1	Fusion	RP11-680G10.1--GSE1	chr16	85391249							0.0	0.0		0	13.0	RP11-680G10.1	chr16	85391249.0	GSE1	chr16	85682158.0					Osteosarcoma-ACMS751			0	0	0	0	0	0	0
+VUS				Rearrangement	IGLV1-47	Fusion	IGLV1-47--IGLL5	chr22	22712608							0.0	0.0		0	21.0	IGLV1-47	chr22	22712608.0	IGLL5	chr22	23235959.0					Osteosarcoma-ACMS751			0	0	0	0	0	0	0
+VUS				Rearrangement	IGLV1-47	Fusion	IGLV1-47--IGLJ1	chr22	22712608							0.0	0.0		0	5.0	IGLV1-47	chr22	22712608.0	IGLJ1	chr22	23235959.0					Osteosarcoma-ACMS751			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKV3-20	Fusion	IGKV3-20--IGKJ1	chr2	89442058							0.0	0.0		0	5.0	IGKV3-20	chr2	89442058.0	IGKJ1	chr2	89161435.0					Osteosarcoma-ACMS751			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKV3-20	Fusion	IGKV3-20--AC096579.7	chr2	89442058							0.0	0.0		0	15.0	IGKV3-20	chr2	89442058.0	AC096579.7	chr2	89161435.0					Osteosarcoma-ACMS751			0	0	0	0	0	0	0
+VUS				Rearrangement	CTC-786C10.1	Fusion	CTC-786C10.1--RP11-680G10.1	chr16	85205413							0.0	0.0		0	16.0	CTC-786C10.1	chr16	85205413.0	RP11-680G10.1	chr16	85391069.0					Osteosarcoma-ACMS751			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-353N4.1	Fusion	WI2-1896O14.1--RP11-353N4.1	chr1	144676874							0.0	0.0		0	55.0	WI2-1896O14.1	chr1	144676874.0	RP11-353N4.1	chr1	149590973.0					Osteosarcoma-ACMS751			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-446N19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46848924							0.0	0.0		0	6.0	RP11-96H19.1	chr12	46848924.0	RP11-446N19.1	chr12	47046173.0					Osteosarcoma-ACMS751			0	0	0	0	0	0	0
+VUS				Rearrangement	GSE1	Fusion	RP11-680G10.1--GSE1	chr16	85391249							0.0	0.0		0	13.0	RP11-680G10.1	chr16	85391249.0	GSE1	chr16	85682158.0					Osteosarcoma-ACMS751			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TE	Fusion	MT-ND6--MT-TE	chrM	14484							0.0	0.0		0	14.0	MT-ND6	chrM	14484.0	MT-TE	chrM	14696.0					Osteosarcoma-ACMS751			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-RNR2	Fusion	MT-ATP6--MT-RNR2	chrM	8664							0.0	0.0		0	11.0	MT-ATP6	chrM	8664.0	MT-RNR2	chrM	2266.0					Osteosarcoma-ACMS751			0	0	0	0	0	0	0
+VUS				Rearrangement	IGLJ1	Fusion	IGLV1-47--IGLJ1	chr22	22712608							0.0	0.0		0	5.0	IGLV1-47	chr22	22712608.0	IGLJ1	chr22	23235959.0					Osteosarcoma-ACMS751			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKJ4	Fusion	IGKV4-1--IGKJ4	chr2	89185669							0.0	0.0		0	8.0	IGKV4-1	chr2	89185669.0	IGKJ4	chr2	89160434.0					Osteosarcoma-ACMS751			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKJ1	Fusion	IGKV3-20--IGKJ1	chr2	89442058							0.0	0.0		0	5.0	IGKV3-20	chr2	89442058.0	IGKJ1	chr2	89161435.0					Osteosarcoma-ACMS751			0	0	0	0	0	0	0
+VUS				Rearrangement	AC096579.7	Fusion	IGKV3-20--AC096579.7	chr2	89442058							0.0	0.0		0	15.0	IGKV3-20	chr2	89442058.0	AC096579.7	chr2	89161435.0					Osteosarcoma-ACMS751			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-680G10.1	Fusion	CTC-786C10.1--RP11-680G10.1	chr16	85205413							0.0	0.0		0	16.0	CTC-786C10.1	chr16	85205413.0	RP11-680G10.1	chr16	85391069.0					Osteosarcoma-ACMS751			0	0	0	0	0	0	0

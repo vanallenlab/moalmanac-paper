@@ -1,0 +1,53 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Investigate Actionability	Investigate Actionability			Somatic Variant	MET	Missense	p.F1218I	7	116422117	116422117.0	T	T	A	0.3846	26.0	0.0	0.0		0								242.0	0.6777	1.0		KIRP-B1-7332	KIRP-B1-7332-TP	KIRP-B1-7332-NB	3	1	0	1	1	1	2
+Cancer Hotspot 3D				Somatic Variant	DDX3X	Missense	p.S240I	X	41203029	41203029.0	G	G	T	0.1216	74.0	0.0	0.0		0								101.0	0.1089	0.9895		KIRP-B1-7332	KIRP-B1-7332-TP	KIRP-B1-7332-NB	0	0	1	1	0	1	1
+Cancer Gene Census				Somatic Variant	DROSHA	Missense	p.N1259S	5	31409241	31409241.0	T	T	C	0.6176	34.0	0.0	0.0		0								50.0	0.52	1.0		KIRP-B1-7332	KIRP-B1-7332-TP	KIRP-B1-7332-NB	0	0	0	1	0	1	1
+Cancer Gene Census				Somatic Variant	JAZF1	Missense	p.T200A	7	27872553	27872553.0	T	T	C	0.075	40.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-7332	KIRP-B1-7332-TP	KIRP-B1-7332-NB	0	0	0	1	0	0	1
+Cancer Pathway				Somatic Variant	FZD7	Missense	p.G323D	2	202900338	202900338.0	G	G	A	0.193	114.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-7332	KIRP-B1-7332-TP	KIRP-B1-7332-NB	0	0	0	0	1	1	2
+Cancer Pathway				Somatic Variant	ATP1B1	Missense	p.E165V	1	169096573	169096573.0	A	A	T	0.4364	55.0	0.0	0.0		0								902.0	0.5698	1.0		KIRP-B1-7332	KIRP-B1-7332-TP	KIRP-B1-7332-NB	0	0	0	0	1	1	1
+Cancer Module				Somatic Variant	LRP2	Missense	p.C2806R	2	170058174	170058174.0	A	A	G	0.1771	96.0	0.0	0.0		0								40.0	0.25	0.9197		KIRP-B1-7332	KIRP-B1-7332-TP	KIRP-B1-7332-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	SMCHD1	Missense	p.T1716I	18	2772342	2772342.0	C	C	T	0.3684	38.0	0.0	0.0		0								11.0	0.3636	0.6207		KIRP-B1-7332	KIRP-B1-7332-TP	KIRP-B1-7332-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	PCNT	Frameshift	p.K2810fs	21	47851808	47851808.0	G	G	-	0.1667	36.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-7332	KIRP-B1-7332-TP	KIRP-B1-7332-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	USH2A	Missense	p.H3643R	1	215953196	215953196.0	T	T	C	0.4375	48.0	8e-06	0.0		0								0.0	0.0	0.0		KIRP-B1-7332	KIRP-B1-7332-TP	KIRP-B1-7332-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	COL6A3	Missense	p.L536P	2	238289848	238289848.0	A	A	G	0.1486	175.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-7332	KIRP-B1-7332-TP	KIRP-B1-7332-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	CNP	Missense	p.P59S	17	40120257	40120257.0	C	C	T	0.0526	57.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-7332	KIRP-B1-7332-TP	KIRP-B1-7332-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	ROR1	Missense	p.F169L	1	64603076	64603076.0	C	C	A	0.4124	97.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-7332	KIRP-B1-7332-TP	KIRP-B1-7332-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	NMNAT2	Missense	p.S161R	1	183253891	183253891.0	G	G	C	0.2692	52.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-7332	KIRP-B1-7332-TP	KIRP-B1-7332-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	SLC25A12	Frameshift	p.G241fs	2	172691265	172691266.0	GC	GC	-	0.1197	117.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-7332	KIRP-B1-7332-TP	KIRP-B1-7332-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	ZDHHC3	Deletion	p.I169del	3	44986685	44986687.0	TGA	TGA	-	0.1716	134.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-7332	KIRP-B1-7332-TP	KIRP-B1-7332-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	DHX15	Frameshift	p.E454fs	4	24543620	24543620.0	T	T	-	0.32	50.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-7332	KIRP-B1-7332-TP	KIRP-B1-7332-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	POLR3G	Missense	p.T138A	5	89797779	89797779.0	A	A	G	0.2647	34.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-7332	KIRP-B1-7332-TP	KIRP-B1-7332-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	WASF1	Missense	p.A378V	6	110423180	110423180.0	G	G	A	0.0638	47.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-7332	KIRP-B1-7332-TP	KIRP-B1-7332-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	TRPS1	Missense	p.G246D	8	116631588	116631588.0	C	C	T	0.3462	104.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-7332	KIRP-B1-7332-TP	KIRP-B1-7332-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	KATNAL1	Missense	p.K217R	13	30814673	30814673.0	T	T	C	0.5246	61.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-7332	KIRP-B1-7332-TP	KIRP-B1-7332-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	HEXA	Missense	p.L500M	15	72637848	72637848.0	A	A	T	0.1356	59.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-7332	KIRP-B1-7332-TP	KIRP-B1-7332-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	PLVAP	Missense	p.C143G	19	17476947	17476947.0	A	A	C	0.3871	124.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-7332	KIRP-B1-7332-TP	KIRP-B1-7332-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	IL27RA	Missense	p.P348S	19	14157331	14157331.0	C	C	T	0.0374	107.0	0.0050409999999999995	1.0		0								0.0	0.0	0.0		KIRP-B1-7332	KIRP-B1-7332-TP	KIRP-B1-7332-NB	0	0	0	0	0	1	1
+Cancer Module				Copy Number	FCN2	Deletion		9	137781466	137784868.0						0.0	0.0		0												KIRP-B1-7332	TCGA-B1-7332-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SEPT7	Amplification		7	35941466	36009568.0						0.0	0.0		0												KIRP-B1-7332	TCGA-B1-7332-01		0	0	0	0	0	1	1
+Cosmic				Somatic Variant	LPO	Missense	p.R80Q	17	56324913	56324913.0	G	G	A	0.5085	118.0	0.0006259999999999999	0.0		0								0.0	0.0	0.0		KIRP-B1-7332	KIRP-B1-7332-TP	KIRP-B1-7332-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	TMEM176A	Missense	p.L33P	7	150498736	150498736.0	T	T	C	0.2692	26.0	0.0	0.0		0								1074.0	0.5922	1.0		KIRP-B1-7332	KIRP-B1-7332-TP	KIRP-B1-7332-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	SMU1	Nonsense	p.Y467*	9	33048146	33048146.0	G	G	C	0.2105	57.0	0.0	0.0		0								191.0	0.3141	1.0		KIRP-B1-7332	KIRP-B1-7332-TP	KIRP-B1-7332-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	ATP11C	Missense	p.L876P	X	138844142	138844142.0	A	A	G	0.4429	140.0	0.0	0.0		0								6.0	0.8333	0.2493		KIRP-B1-7332	KIRP-B1-7332-TP	KIRP-B1-7332-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	STRIP1	Missense	p.C274F	1	110584419	110584419.0	G	G	T	0.3333	129.0	0.0	0.0		0								5.0	0.6	0.0497		KIRP-B1-7332	KIRP-B1-7332-TP	KIRP-B1-7332-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	ADAMTSL3	Missense	p.V543L	15	84568410	84568410.0	G	G	T	0.0769	39.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-7332	KIRP-B1-7332-TP	KIRP-B1-7332-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	PLXNB2	Missense	p.Y371N	22	50727529	50727529.0	A	A	T	0.1905	21.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-7332	KIRP-B1-7332-TP	KIRP-B1-7332-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	DIEXF	Frameshift	p.A160fs	1	210006621	210006621.0	A	A	-	0.3768	69.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-7332	KIRP-B1-7332-TP	KIRP-B1-7332-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	OR5C1	Missense	p.A68T	9	125551413	125551413.0	G	G	A	0.0387	155.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-7332	KIRP-B1-7332-TP	KIRP-B1-7332-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	APOL5	Missense	p.P374S	22	36123235	36123235.0	C	C	T	0.3871	31.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-7332	KIRP-B1-7332-TP	KIRP-B1-7332-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	RD3	Missense	p.R38L	1	211654645	211654645.0	C	C	A	0.5098	51.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-7332	KIRP-B1-7332-TP	KIRP-B1-7332-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	UGT1A9	Frameshift	p.G5fs	2	234580593	234580593.0	G	G	-	0.2712	59.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-7332	KIRP-B1-7332-TP	KIRP-B1-7332-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	TMEM201	Missense	p.A88T	1	9656944	9656944.0	G	G	A	0.32	50.0	8e-06	0.0		0								0.0	0.0	0.0		KIRP-B1-7332	KIRP-B1-7332-TP	KIRP-B1-7332-NB	0	0	0	0	0	0	1
+Cosmic				Copy Number	CALN1	Amplification		7	71023877	71285800.0						0.0	0.0		0												KIRP-B1-7332	TCGA-B1-7332-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	WBSCR17	Amplification		7	71023877	71285800.0						0.0	0.0		0												KIRP-B1-7332	TCGA-B1-7332-01		0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND6	Fusion	MT-ND6--MT-TE	chrM	14616							0.0	0.0		0	15.0	MT-ND6	chrM	14616.0	MT-TE	chrM	14711.0					KIRP-B1-7332			0	0	0	0	0	0	1
+VUS				Somatic Variant	FAM208B	Deletion	p.ASA1529del	10	5789967	5789975.0	CTGCCTCAG	CTGCCTCAG	-	0.04	75.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-7332	KIRP-B1-7332-TP	KIRP-B1-7332-NB	0	0	0	0	0	0	0
+VUS				Somatic Variant	KANSL1	Missense	p.S920P	17	44109553	44109553.0	A	A	G	0.3684	95.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-B1-7332	KIRP-B1-7332-TP	KIRP-B1-7332-NB	0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1085P	Amplification		7	35941466	36009568.0						0.0	0.0		0												KIRP-B1-7332	TCGA-B1-7332-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP75	Amplification		7	71023877	71285800.0						0.0	0.0		0												KIRP-B1-7332	TCGA-B1-7332-01		0	0	0	0	0	0	0
+VUS				Copy Number		Deletion		21	46434301	46435610.0						0.0	0.0		0												KIRP-B1-7332	TCGA-B1-7332-01		0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-96H19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	9.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	47046173.0					KIRP-B1-7332			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TA	Fusion	MT-TA--MT-TN	chrM	5604							0.0	0.0		0	7.0	MT-TA	chrM	5604.0	MT-TN	chrM	5703.0					KIRP-B1-7332			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-446N19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	9.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	47046173.0					KIRP-B1-7332			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TN	Fusion	MT-TA--MT-TN	chrM	5604							0.0	0.0		0	7.0	MT-TA	chrM	5604.0	MT-TN	chrM	5703.0					KIRP-B1-7332			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TE	Fusion	MT-ND6--MT-TE	chrM	14616							0.0	0.0		0	15.0	MT-ND6	chrM	14616.0	MT-TE	chrM	14711.0					KIRP-B1-7332			0	0	0	0	0	0	0

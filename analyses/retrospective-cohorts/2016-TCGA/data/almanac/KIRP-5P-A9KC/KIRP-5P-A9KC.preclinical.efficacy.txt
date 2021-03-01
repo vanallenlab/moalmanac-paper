@@ -1,0 +1,8 @@
+patient_id	feature_display	tested_subfeature	therapy_name	n_mut	n_wt	n_mut_tested	n_wt_tested	mut_ic50_median	mut_ic50_mean	mut_ic50_std	wt_ic50_median	wt_ic50_mean	wt_ic50_std	pvalue_mww	statistic
+KIRP-5P-A9KC	PIK3CA Amplification	PIK3CA	Pictilisib	290	1533	162	604	3.216	7.274	12.138	4.1	15.02	75.056	0.019	54787.0
+KIRP-5P-A9KC	PIK3CA Amplification	PIK3CA Copy Number	Pictilisib	146	1677	69	697	4.148	10.287	15.628	3.775	13.688	70.006	0.348	22401.0
+KIRP-5P-A9KC	PIK3CA Amplification	PIK3CA Copy Number Amplification	Pictilisib	127	1696	62	704	3.61	9.228	15.303	3.806	13.747	69.675	0.98	21781.0
+KIRP-5P-A9KC	BRCA1 p.T236S (Missense)	BRCA1	Olaparib	158	1665	94	668	90.45	192.521	281.117	73.428	159.61	328.001	0.22	28944.0
+KIRP-5P-A9KC	BRCA1 p.T236S (Missense)	BRCA1 Somatic Variant	Olaparib	99	1724	57	705	121.094	214.27	319.401	74.675	159.579	322.735	0.083	17323.0
+KIRP-5P-A9KC	BRCA1 p.T236S (Missense)	BRCA1 Somatic Variant Missense	Olaparib	79	1744	50	712	128.869	234.74	335.719	73.842	158.679	321.312	0.027	14463.0
+KIRP-5P-A9KC	BRCA1 p.T236S (Missense)	BRCA1 Somatic Variant Missense p.T236S	Olaparib	0	1823	0	762				75.933	163.67	322.6	nan	

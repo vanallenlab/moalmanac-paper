@@ -1,0 +1,571 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Putatively Actionable	Putatively Actionable			Copy Number	CDKN2A	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		4	1	0	1	1	1	1
+Putatively Actionable	Putatively Actionable			Copy Number	AURKB	Amplification		17	8110788	8285880.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		4	0	0	0	0	1	1
+Investigate Actionability	Investigate Actionability		Investigate Actionability	Somatic Variant	JAK1	Missense	p.P548S	1	65321198	65321198.0	G	G	A	0.2273	22.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CLCM022	Osteosarcoma-CLCM022-Tumor-SM-2RCAY	Osteosarcoma-CLCM022-Normal-SM-2RCCE	3	1	0	1	1	1	2
+Biologically Relevant				Copy Number	PMS2	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		1	1	0	1	1	0	1
+Cancer Hotspot				Copy Number	RAC1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	1	1	1	1	1	1
+Cancer Hotspot				Copy Number	CARD11	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	1	0	1	0	0	1
+Cancer Hotspot				Copy Number	IGF1R	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	1	0	0	1	1	1
+Cancer Hotspot				Somatic Variant	GSK3B	Missense	p.S9F	3	119812256	119812256.0	G	G	A	0.2593	81.0	0.0	0.0		0								91.0	0.3736	1.0		Osteosarcoma-CLCM022	Osteosarcoma-CLCM022-Tumor-SM-2RCAY	Osteosarcoma-CLCM022-Normal-SM-2RCCE	0	1	0	0	1	0	2
+Cancer Hotspot 3D				Rearrangement	SYK	Fusion	PEMT--SYK	chr17	17480234							0.0	0.0		0	5.0	PEMT	chr17	17480234.0	SYK	chr9	93606140.0					Osteosarcoma-CLCM022			0	0	1	1	0	1	1
+Cancer Hotspot 3D				Copy Number	ACP1	Deletion		2	41356	675882.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	DOCK8	Deletion		9	214257	2192991.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	1	0	0	0	1
+Cancer Hotspot 3D				Copy Number	ZNF484	Amplification		9	95608258	95739243.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	1	0	0	0	1
+Cancer Gene Census				Copy Number	FANCC	Amplification		9	97355587	98011825.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	1	1	1	1
+Cancer Gene Census				Somatic Variant	CYP2C8	Missense	p.R442G	10	96797034	96797034.0	G	G	C	0.1429	21.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CLCM022	Osteosarcoma-CLCM022-Tumor-SM-2RCAY	Osteosarcoma-CLCM022-Normal-SM-2RCCE	0	0	0	1	0	1	2
+Cancer Gene Census				Copy Number	WNK2	Amplification		9	95991728	96440210.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	1	0	1	1
+Cancer Gene Census				Rearrangement	TPM4	Fusion	RAB8A--TPM4	chr19	16222835							0.0	0.0		0	58.0	RAB8A	chr19	16222835.0	TPM4	chr19	16192723.0					Osteosarcoma-CLCM022			0	0	0	1	0	1	1
+Cancer Gene Census				Rearrangement	BIRC6	Fusion	BIRC6--SPAST	chr2	32800433							0.0	0.0		0	18.0	BIRC6	chr2	32800433.0	SPAST	chr2	32314591.0					Osteosarcoma-CLCM022			0	0	0	1	0	0	1
+Cancer Pathway				Somatic Variant	THBS1	Frameshift	p.QPF628fs	15	39881513	39881519.0	GCCCTTC	GCCCTTC	-	0.0648	108.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CLCM022	Osteosarcoma-CLCM022-Tumor-SM-2RCAY	Osteosarcoma-CLCM022-Normal-SM-2RCCE	0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	LAMA4	Deletion		6	112493561	114262504.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	PDGFA	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	MAD1L1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	RPA3	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	HDAC2	Deletion		6	112493561	114262504.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	CDKN2B	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	1	1	1
+Cancer Pathway				Rearrangement	ATF2	Fusion	ATF2--CHN1	chr2	175945388							0.0	0.0		0	6.0	ATF2	chr2	175945388.0	CHN1	chr2	175816930.0					Osteosarcoma-CLCM022			0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	TOP3A	Amplification		17	18039834	18257383.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	1	0	1
+Cancer Pathway				Copy Number	PRKAR1B	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	1	0	1
+Cancer Module				Somatic Variant	SPATA2	Missense	p.P444L	20	48522388	48522388.0	G	G	A	0.4821	112.0	2.5e-05	0.0		0								65.0	0.4923	1.0		Osteosarcoma-CLCM022	Osteosarcoma-CLCM022-Tumor-SM-2RCAY	Osteosarcoma-CLCM022-Normal-SM-2RCCE	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	FNDC3B	Missense	p.G147R	3	171965497	171965497.0	G	G	A	0.1462	130.0	0.0	0.0		0								123.0	0.1951	0.9998		Osteosarcoma-CLCM022	Osteosarcoma-CLCM022-Tumor-SM-2RCAY	Osteosarcoma-CLCM022-Normal-SM-2RCCE	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ITSN1	Missense	p.V743L	21	35172156	35172156.0	G	G	T	0.2361	72.0	8e-06	0.0		0								64.0	0.2344	0.9991		Osteosarcoma-CLCM022	Osteosarcoma-CLCM022-Tumor-SM-2RCAY	Osteosarcoma-CLCM022-Normal-SM-2RCCE	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	IL12RB2	Missense	p.D435H	1	67833552	67833552.0	G	G	C	0.4018	112.0	0.0	0.0		0								3.0	1.0	0.0		Osteosarcoma-CLCM022	Osteosarcoma-CLCM022-Tumor-SM-2RCAY	Osteosarcoma-CLCM022-Normal-SM-2RCCE	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ACACB	Missense	p.M932T	12	109639388	109639388.0	T	T	C	0.1087	92.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CLCM022	Osteosarcoma-CLCM022-Tumor-SM-2RCAY	Osteosarcoma-CLCM022-Normal-SM-2RCCE	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	MYO15A	Missense	p.A1033E	17	18025212	18025212.0	C	C	A	0.0469	192.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CLCM022	Osteosarcoma-CLCM022-Tumor-SM-2RCAY	Osteosarcoma-CLCM022-Normal-SM-2RCCE	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	CP	Missense	p.T1053I	3	148894060	148894060.0	G	G	A	0.3725	51.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CLCM022	Osteosarcoma-CLCM022-Tumor-SM-2RCAY	Osteosarcoma-CLCM022-Normal-SM-2RCCE	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SLAMF9	Missense	p.E103K	1	159923183	159923183.0	C	C	T	0.0729	96.0	1.6e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-CLCM022	Osteosarcoma-CLCM022-Tumor-SM-2RCAY	Osteosarcoma-CLCM022-Normal-SM-2RCCE	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	AHCTF1	Missense	p.D438N	1	247063682	247063682.0	C	C	T	0.4146	41.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CLCM022	Osteosarcoma-CLCM022-Tumor-SM-2RCAY	Osteosarcoma-CLCM022-Normal-SM-2RCCE	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	AHCTF1	Missense	p.G428V	1	247063711	247063711.0	C	C	A	0.2812	32.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CLCM022	Osteosarcoma-CLCM022-Tumor-SM-2RCAY	Osteosarcoma-CLCM022-Normal-SM-2RCCE	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	SCN7A	Missense	p.L1389M	2	167262974	167262974.0	G	G	T	0.0667	45.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CLCM022	Osteosarcoma-CLCM022-Tumor-SM-2RCAY	Osteosarcoma-CLCM022-Normal-SM-2RCCE	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	SPOCK3	Missense	p.R71C	4	167983676	167983676.0	G	G	A	0.6393	61.0	8e-06	0.0		0								0.0	0.0	0.0		Osteosarcoma-CLCM022	Osteosarcoma-CLCM022-Tumor-SM-2RCAY	Osteosarcoma-CLCM022-Normal-SM-2RCCE	0	0	0	0	0	1	1
+Cancer Module				Copy Number	SYNM	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MYO15A	Amplification		17	18039834	18257383.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PFAS	Amplification		17	8110788	8285880.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DMRT2	Deletion		9	214257	2192991.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	C15orf57	Fusion	C15orf57--CBX3	chr15	40854180							0.0	0.0		0	6.0	C15orf57	chr15	40854180.0	CBX3	chr7	26241365.0					Osteosarcoma-CLCM022			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	HYDIN	Fusion	RP4-565E6.1--HYDIN	chr1	146126404							0.0	0.0		0	5.0	RP4-565E6.1	chr1	146126404.0	HYDIN	chr16	71186686.0					Osteosarcoma-CLCM022			0	0	0	0	0	1	1
+Cancer Module				Copy Number	CHSY1	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FBP1	Amplification		9	97355587	98011825.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FBP2	Amplification		9	97355587	98011825.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SHMT1	Amplification		17	18039834	18257383.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	THSD7A	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DSP	Deletion		6	7555699	7582054.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	IFNA4	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KANK1	Deletion		9	214257	2192991.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SMARCA2	Deletion		9	214257	2192991.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	NRIP1	Fusion	NRIP1--AF127936.7	chr21	16386665							0.0	0.0		0	5.0	NRIP1	chr21	16386665.0	AF127936.7	chr21	16230029.0					Osteosarcoma-CLCM022			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	C6	Fusion	RP11-259O2.1--C6	chr5	1940055							0.0	0.0		0	6.0	RP11-259O2.1	chr5	1940055.0	C6	chr5	41203352.0					Osteosarcoma-CLCM022			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	LEPR	Fusion	LEPROT--LEPR	chr1	65891061							0.0	0.0		0	7.0	LEPROT	chr1	65891061.0	LEPR	chr1	66031229.0					Osteosarcoma-CLCM022			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	INPP5D	Fusion	ATG16L1--INPP5D	chr2	234186319							0.0	0.0		0	44.0	ATG16L1	chr2	234186319.0	INPP5D	chr2	234115352.0					Osteosarcoma-CLCM022			0	0	0	0	0	1	1
+Cancer Module				Copy Number	NR2F2	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ALDH1A3	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MEF2A	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ST3GAL1	Amplification		8	134473866	134488519.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PEMT	Amplification		17	17399105	17968809.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MED9	Amplification		17	17399105	17968809.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ATPAF2	Amplification		17	17399105	17968809.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SREBF1	Amplification		17	17399105	17968809.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ALKBH5	Amplification		17	18039834	18257383.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FLII	Amplification		17	18039834	18257383.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MAFK	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PHF14	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MIOS	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NUDT1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NDUFA4	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SNX8	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZDHHC4	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RBAK	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RNF216	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KDELR2	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EIF3B	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	INTS1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	AIMP2	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FSCN1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GLCCI1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GNA12	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GPR146	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ICA1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RPL26	Amplification		17	8110788	8285880.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MARCKS	Deletion		6	112493561	114262504.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SH3YL1	Deletion		2	41356	675882.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	INPP5A	Deletion		10	134230315	134540661.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ELAVL2	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	IFNA13	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	IFNA21	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	IFNA5	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	C9orf53	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DMRT3	Deletion		9	214257	2192991.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DMRT1	Deletion		9	214257	2192991.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	ZNF207	Fusion	ZNF207--RHBDL3	chr17	30692506							0.0	0.0		0	17.0	ZNF207	chr17	30692506.0	RHBDL3	chr17	30643251.0					Osteosarcoma-CLCM022			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	SPARC	Fusion	SPARC--MT-ND5	chr5	151047124							0.0	0.0		0	6.0	SPARC	chr5	151047124.0	MT-ND5	chrM	13754.0					Osteosarcoma-CLCM022			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	RAB8A	Fusion	RAB8A--TPM4	chr19	16222835							0.0	0.0		0	58.0	RAB8A	chr19	16222835.0	TPM4	chr19	16192723.0					Osteosarcoma-CLCM022			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	PRPSAP2	Fusion	PRPSAP2--RP11-471L13.2	chr17	18793190							0.0	0.0		0	171.0	PRPSAP2	chr17	18793190.0	RP11-471L13.2	chr17	12114439.0					Osteosarcoma-CLCM022			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	PEMT	Fusion	PEMT--SYK	chr17	17480234							0.0	0.0		0	5.0	PEMT	chr17	17480234.0	SYK	chr9	93606140.0					Osteosarcoma-CLCM022			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	DSCR4	Fusion	DSCR4--DSCR4-IT1	chr21	39492401							0.0	0.0		0	11.0	DSCR4	chr21	39492401.0	DSCR4-IT1	chr21	39379128.0					Osteosarcoma-CLCM022			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	CNRIP1	Fusion	CNRIP1--RP11-474G23.1	chr2	68544289							0.0	0.0		0	8.0	CNRIP1	chr2	68544289.0	RP11-474G23.1	chr2	68444263.0					Osteosarcoma-CLCM022			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	CNRIP1	Fusion	CNRIP1--PPP3R1	chr2	68544289							0.0	0.0		0	8.0	CNRIP1	chr2	68544289.0	PPP3R1	chr2	68444263.0					Osteosarcoma-CLCM022			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	ATG16L1	Fusion	ATG16L1--INPP5D	chr2	234186319							0.0	0.0		0	44.0	ATG16L1	chr2	234186319.0	INPP5D	chr2	234115352.0					Osteosarcoma-CLCM022			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	RAMP1	Fusion	UBE2F-SCLY--RAMP1	chr2	238881867							0.0	0.0		0	26.0	UBE2F-SCLY	chr2	238881867.0	RAMP1	chr2	238820170.0					Osteosarcoma-CLCM022			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	RAMP1	Fusion	UBE2F--RAMP1	chr2	238881867							0.0	0.0		0	26.0	UBE2F	chr2	238881867.0	RAMP1	chr2	238820170.0					Osteosarcoma-CLCM022			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	KCNN4	Fusion	SMG9--KCNN4	chr19	44237010							0.0	0.0		0	12.0	SMG9	chr19	44237010.0	KCNN4	chr19	44276255.0					Osteosarcoma-CLCM022			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	COL1A2	Fusion	RP5-940J5.9--COL1A2	chr12	6647332							0.0	0.0		0	12.0	RP5-940J5.9	chr12	6647332.0	COL1A2	chr7	94055735.0					Osteosarcoma-CLCM022			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	EYA1	Fusion	RP11-1102P16.1--EYA1	chr8	72447979							0.0	0.0		0	7.0	RP11-1102P16.1	chr8	72447979.0	EYA1	chr8	72268746.0					Osteosarcoma-CLCM022			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	COL1A2	Fusion	MT-ND6--COL1A2	chrM	14357							0.0	0.0		0	45.0	MT-ND6	chrM	14357.0	COL1A2	chr7	94054495.0					Osteosarcoma-CLCM022			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	MEF2C	Fusion	LINC00461--MEF2C	chr5	87966854							0.0	0.0		0	7.0	LINC00461	chr5	87966854.0	MEF2C	chr5	88027718.0					Osteosarcoma-CLCM022			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	GCNT1	Fusion	FGD3--GCNT1	chr9	95738991							0.0	0.0		0	6.0	FGD3	chr9	95738991.0	GCNT1	chr9	79115832.0					Osteosarcoma-CLCM022			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	SDC2	Fusion	CPQ--SDC2	chr8	97892233							0.0	0.0		0	6.0	CPQ	chr8	97892233.0	SDC2	chr8	97605708.0					Osteosarcoma-CLCM022			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	CBX3	Fusion	C15orf57--CBX3	chr15	40854180							0.0	0.0		0	6.0	C15orf57	chr15	40854180.0	CBX3	chr7	26241365.0					Osteosarcoma-CLCM022			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	VLDLR	Fusion	BNC2--VLDLR	chr9	16582981							0.0	0.0		0	19.0	BNC2	chr9	16582981.0	VLDLR	chr9	2635453.0					Osteosarcoma-CLCM022			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	CHN1	Fusion	ATF2--CHN1	chr2	175945388							0.0	0.0		0	6.0	ATF2	chr2	175945388.0	CHN1	chr2	175816930.0					Osteosarcoma-CLCM022			0	0	0	0	0	1	1
+Cosmic				Somatic Variant	MUC17	Missense	p.T2754K	7	100682958	100682958.0	C	C	A	0.03	433.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CLCM022	Osteosarcoma-CLCM022-Tumor-SM-2RCAY	Osteosarcoma-CLCM022-Normal-SM-2RCCE	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	TMEM176A	Missense	p.Q61K	7	150499309	150499309.0	C	C	A	0.6842	38.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CLCM022	Osteosarcoma-CLCM022-Tumor-SM-2RCAY	Osteosarcoma-CLCM022-Normal-SM-2RCCE	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	RTP1	Missense	p.E192K	3	186917640	186917640.0	G	G	A	0.3889	36.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CLCM022	Osteosarcoma-CLCM022-Tumor-SM-2RCAY	Osteosarcoma-CLCM022-Normal-SM-2RCCE	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	CPXM2	Missense	p.D544Y	10	125521535	125521535.0	C	C	A	0.1406	64.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CLCM022	Osteosarcoma-CLCM022-Tumor-SM-2RCAY	Osteosarcoma-CLCM022-Normal-SM-2RCCE	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	DIAPH3	Missense	p.A310G	13	60582763	60582763.0	G	G	C	0.2453	53.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CLCM022	Osteosarcoma-CLCM022-Tumor-SM-2RCAY	Osteosarcoma-CLCM022-Normal-SM-2RCCE	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	TMEM130	Nonsense	p.Y316*	7	98445751	98445751.0	G	G	T	0.08	75.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CLCM022	Osteosarcoma-CLCM022-Tumor-SM-2RCAY	Osteosarcoma-CLCM022-Normal-SM-2RCCE	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	PPAPDC1A	Missense	p.N38T	10	122263416	122263416.0	A	A	C	0.4	35.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CLCM022	Osteosarcoma-CLCM022-Tumor-SM-2RCAY	Osteosarcoma-CLCM022-Normal-SM-2RCCE	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	USP54	Missense	p.R1502S	10	75258936	75258936.0	C	C	A	0.027999999999999997	143.0	8e-06	0.0		0								0.0	0.0	0.0		Osteosarcoma-CLCM022	Osteosarcoma-CLCM022-Tumor-SM-2RCAY	Osteosarcoma-CLCM022-Normal-SM-2RCCE	0	0	0	0	0	0	1
+Cosmic				Copy Number	LINS	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LYSMD4	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RAI1	Amplification		17	17399105	17968809.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SMCR8	Amplification		17	18039834	18257383.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RADIL	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	COL28A1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IQCE	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ODF4	Amplification		17	8110788	8285880.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CNTLN	Deletion		9	16552276	17484730.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ARRDC4	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRRK1	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PGPEP1L	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RSPH10B	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SUN1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TNRC18	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	USP42	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	HEATR2	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ARHGEF15	Amplification		17	8110788	8285880.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CTC1	Amplification		17	8110788	8285880.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TUSC1	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	EYS	Fusion	EYS--KHDRBS2	chr6	66349671							0.0	0.0		0	5.0	EYS	chr6	66349671.0	KHDRBS2	chr6	62688117.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	1
+Cosmic				Rearrangement	EYS	Fusion	KHDRBS2--EYS	chr6	62687971							0.0	0.0		0	6.0	KHDRBS2	chr6	62687971.0	EYS	chr6	64574251.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	1
+Cosmic				Copy Number	ADAMTS17	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TTC23	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM169B	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CERS3	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SPATA8	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FGD3	Amplification		9	95608258	95739243.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRRC48	Amplification		17	17399105	17968809.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LLGL1	Amplification		17	18039834	18257383.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PAPOLB	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SDK1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF12	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LFNG	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DAGLB	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ADAP1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	EIF2AK1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FBXL18	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRBA2	Amplification		17	8110788	8285880.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM110C	Deletion		2	41356	675882.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PWWP2B	Deletion		10	134230315	134540661.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR4C11	Deletion		11	55370665	55419567.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PTPLAD2	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IFNA17	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MTAP	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IFNA10	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C9orf66	Deletion		9	214257	2192991.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	SMG9	Fusion	SMG9--KCNN4	chr19	44237010							0.0	0.0		0	12.0	SMG9	chr19	44237010.0	KCNN4	chr19	44276255.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	1
+Cosmic				Rearrangement	FGD3	Fusion	FGD3--RP11-488L1.1	chr9	95738991							0.0	0.0		0	114.0	FGD3	chr9	95738991.0	RP11-488L1.1	chr17	13003631.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	1
+Cosmic				Rearrangement	FGD3	Fusion	FGD3--GCNT1	chr9	95738991							0.0	0.0		0	6.0	FGD3	chr9	95738991.0	GCNT1	chr9	79115832.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	1
+Cosmic				Rearrangement	CHSY3	Fusion	CHSY3--HSPA8P4	chr5	129244053							0.0	0.0		0	6.0	CHSY3	chr5	129244053.0	HSPA8P4	chr5	129476585.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	1
+Cosmic				Rearrangement	CDRT4	Fusion	TVP23C-CDRT4--CDRT4	chr17	15449099							0.0	0.0		0	6.0	TVP23C-CDRT4	chr17	15449099.0	CDRT4	chr17	15343599.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	1
+Cosmic				Rearrangement	CDRT4	Fusion	TVP23C--CDRT4	chr17	15449099							0.0	0.0		0	6.0	TVP23C	chr17	15449099.0	CDRT4	chr17	15343599.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	1
+Cosmic				Copy Number	ASB7	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRRC28	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C9orf3	Amplification		9	97355587	98011825.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RASD1	Amplification		17	17399105	17968809.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TOM1L2	Amplification		17	17399105	17968809.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MICALL2	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OCM	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NXPH1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MMD2	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PSMG3	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM184A	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RSPH10B2	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC29A4	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TTYH3	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	UNCX	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	WIPI2	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZFAND2A	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF853	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CYP2W1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	BRAT1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CYTH3	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ACTB	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ELFN1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C1GALT1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C7orf50	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCZ1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	COX19	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CHST12	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C7orf26	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	AMZ1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM20C	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	AC073343.1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FOXK1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FTSJ2	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GET4	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GRID2IP	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RANGRF	Amplification		17	8110788	8285880.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC25A35	Amplification		17	8110788	8285880.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PHF2	Amplification		9	95991728	96440210.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM120A	Amplification		9	95991728	96440210.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM120AOS	Amplification		9	95991728	96440210.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C9orf129	Amplification		9	95991728	96440210.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RFPL4B	Deletion		6	112493561	114262504.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SORCS1	Deletion		10	108366672	108924536.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM150B	Deletion		2	41356	675882.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM18	Deletion		2	41356	675882.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C10orf91	Deletion		10	134230315	134540661.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR4P4	Deletion		11	55370665	55419567.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR4S2	Deletion		11	55370665	55419567.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IFNE	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IFNW1	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IZUMO3	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IFNA7	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IFNB1	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IFNA8	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IFNA14	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DMRTA1	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IFNA16	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IFNA2	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IFNA1	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IFNA6	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KLHL9	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	BNC2	Deletion		9	16552276	17484730.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	UBE2F	Fusion	UBE2F--RAMP1	chr2	238881867							0.0	0.0		0	26.0	UBE2F	chr2	238881867.0	RAMP1	chr2	238820170.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	1
+Cosmic				Rearrangement	SLC30A8	Fusion	SLC30A8--RP11-654G14.1	chr8	118019352							0.0	0.0		0	9.0	SLC30A8	chr8	118019352.0	RP11-654G14.1	chr8	118142146.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	1
+Cosmic				Rearrangement	RUNX2	Fusion	RUNX2--SUPT3H	chr6	45296521							0.0	0.0		0	6.0	RUNX2	chr6	45296521.0	SUPT3H	chr6	44988369.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND6	Fusion	MT-ND6--MT-TE	chrM	14616							0.0	0.0		0	7.0	MT-ND6	chrM	14616.0	MT-TE	chrM	14711.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND6	Fusion	MT-ND6--COL1A2	chrM	14357							0.0	0.0		0	45.0	MT-ND6	chrM	14357.0	COL1A2	chr7	94054495.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4	Fusion	MT-ND4--MT-ND4L	chrM	10826							0.0	0.0		0	49.0	MT-ND4	chrM	10826.0	MT-ND4L	chrM	10745.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CO3	Fusion	MT-CO3--MT-ATP6	chrM	9417							0.0	0.0		0	13.0	MT-CO3	chrM	9417.0	MT-ATP6	chrM	9061.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	1
+Cosmic				Rearrangement	LEPROT	Fusion	LEPROT--LEPR	chr1	65891061							0.0	0.0		0	7.0	LEPROT	chr1	65891061.0	LEPR	chr1	66031229.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	1
+Cosmic				Rearrangement	KHDRBS2	Fusion	KHDRBS2--EYS	chr6	62687971							0.0	0.0		0	6.0	KHDRBS2	chr6	62687971.0	EYS	chr6	64574251.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	1
+Cosmic				Rearrangement	DPP9	Fusion	DPP9--AC005523.3	chr19	4719863							0.0	0.0		0	131.0	DPP9	chr19	4719863.0	AC005523.3	chr19	4785539.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	1
+Cosmic				Rearrangement	BNC2	Fusion	BNC2--VLDLR	chr9	16582981							0.0	0.0		0	19.0	BNC2	chr9	16582981.0	VLDLR	chr9	2635453.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	1
+Cosmic				Rearrangement	RHBDL3	Fusion	ZNF207--RHBDL3	chr17	30692506							0.0	0.0		0	17.0	ZNF207	chr17	30692506.0	RHBDL3	chr17	30643251.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	1
+Cosmic				Rearrangement	ST7	Fusion	ST7-OT4--ST7	chr7	116594733							0.0	0.0		0	16.0	ST7-OT4	chr7	116594733.0	ST7	chr7	116738667.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND5	Fusion	SPARC--MT-ND5	chr5	151047124							0.0	0.0		0	6.0	SPARC	chr5	151047124.0	MT-ND5	chrM	13754.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	1
+Cosmic				Rearrangement	SUPT3H	Fusion	RUNX2--SUPT3H	chr6	45296521							0.0	0.0		0	6.0	RUNX2	chr6	45296521.0	SUPT3H	chr6	44988369.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	1
+Cosmic				Rearrangement	SRGAP2	Fusion	RP11-312O7.2--SRGAP2	chr1	206135293							0.0	0.0		0	12.0	RP11-312O7.2	chr1	206135293.0	SRGAP2	chr1	206557369.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4L	Fusion	MT-ND4--MT-ND4L	chrM	10826							0.0	0.0		0	49.0	MT-ND4	chrM	10826.0	MT-ND4L	chrM	10745.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-CO3--MT-ATP6	chrM	9417							0.0	0.0		0	13.0	MT-CO3	chrM	9417.0	MT-ATP6	chrM	9061.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	1
+Cosmic				Rearrangement	ARL17B	Fusion	KANSL1--ARL17B	chr17	44171926							0.0	0.0		0	13.0	KANSL1	chr17	44171926.0	ARL17B	chr17	44430296.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	1
+Cosmic				Rearrangement	KHDRBS2	Fusion	EYS--KHDRBS2	chr6	66349671							0.0	0.0		0	5.0	EYS	chr6	66349671.0	KHDRBS2	chr6	62688117.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	1
+Cosmic				Rearrangement	SPAST	Fusion	BIRC6--SPAST	chr2	32800433							0.0	0.0		0	18.0	BIRC6	chr2	32800433.0	SPAST	chr2	32314591.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	1
+VUS				Copy Number	FAM220A	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Rearrangement	KANSL1	Fusion	KANSL1--ARL17B	chr17	44171926							0.0	0.0		0	13.0	KANSL1	chr17	44171926.0	ARL17B	chr17	44430296.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	0
+VUS				Copy Number	RBAK-RBAKDN	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	CCZ1B	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-505E24.3	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-20G13.3	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-526I2.5	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4714	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-654A16.1	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-654A16.3	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-66B24.1	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-66B24.2	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-66B24.4	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-66B24.5	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-66B24.7	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-66B24.8	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-6O2.3	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-6O2.4	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-753A21.1	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-753A21.2	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-322P	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-90E5.1	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-181P	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC090825.2	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-526I2.1	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	NR2F2-AS1	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-461F11.3	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-315L6.1	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-35O15.1	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-424I19.1	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-424I19.2	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-20G13.1	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-183E24.2	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-461F11.1	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-168G16.2	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-167B3.1	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-505E24.2	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-522B15.3	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-522B15.4	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC144835.1	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-522B15.5	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-522B15.7	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC090825.1	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC087477.1	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-134P	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC055873.1	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC022819.3	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC022819.2	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC022819.1	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC015660.1	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2544M6.1	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2544M6.2	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-3076O17.1	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-3076O17.2	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	DKFZP779J2370	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	DNM1P46	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00923	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2147F2.2	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1186P	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL484P	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP402	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP401	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1469	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL677P	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP254	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	SPATA41	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	SPATA8-AS1	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP181	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2054N24.2	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2147F2.1	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-20G13.2	Amplification		15	96869289	101776034.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP288	Amplification		9	97355587	98011825.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3074	Amplification		9	97355587	98011825.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR23B	Amplification		9	97355587	98011825.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-49O14.3	Amplification		9	97355587	98011825.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR27B	Amplification		9	97355587	98011825.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-54O15.3	Amplification		9	97355587	98011825.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-80I15.4	Amplification		9	97355587	98011825.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-49O14.2	Amplification		9	97355587	98011825.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR2278	Amplification		9	97355587	98011825.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	ANKRD19P	Amplification		9	95608258	95739243.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-526D8.7	Amplification		9	95608258	95739243.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-468P	Amplification		17	17399105	17968809.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR33B	Amplification		17	17399105	17968809.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RAI1-AS1	Amplification		17	17399105	17968809.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	SMCR2	Amplification		17	17399105	17968809.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	SMCR5	Amplification		17	17399105	17968809.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-524F11.2	Amplification		17	17399105	17968809.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-524F11.1	Amplification		17	17399105	17968809.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	GID4	Amplification		17	17399105	17968809.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-253P7.1	Amplification		17	17399105	17968809.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIEF2	Amplification		17	18039834	18257383.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-258F1.1	Amplification		17	18039834	18257383.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-178F10.1	Amplification		17	18039834	18257383.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-178F10.3	Amplification		17	18039834	18257383.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR339	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC004840.8	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3683	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4648	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4655	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4656	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR589	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	PMS2CL	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1275H24.1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-855F16.1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RPA3-AS1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1159O4.1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	WI2-2373I1.2	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	ZNF815P	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1159O4.2	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1007H16.1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	PSMG3-AS1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNF216P1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RBAKDN	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP130	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL556P	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL851P	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNF216-IT1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-215P	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-594A5.1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-218P	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-534P	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1246C19.1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1275H24.2	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-1275H24.3	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-30B1.1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-449P15.1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-449P15.2	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-611L7.1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC004535.2	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	ZNF890P	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC091729.8	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC147651.4	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC147651.5	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC187652.1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC226118.1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC091729.9	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC091729.7	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC147651.3	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC079804.2	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC079804.1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC079756.1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC079742.4	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC074389.9	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC074389.7	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-161C1.1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC091801.1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC145676.2	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC147651.1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC147651.2	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC110781.3	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC102953.6	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC102953.4	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC093627.12	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC093620.5	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC093376.1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC092171.4	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC092171.2	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC092104.5	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC092104.4	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC092104.3	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC092104.2	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC092104.1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC074389.6	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC074389.5	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC006373.1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC069286.1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC060834.3	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC024028.1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC011284.3	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC009473.1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC007161.5	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC007128.1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC007009.2	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC007009.1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC006483.1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC006042.7	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC073316.1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC006042.6	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC005532.5	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC004906.3	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC004895.4	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC004895.1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC004840.9	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC073094.4	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC073316.2	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC074389.1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AP5Z1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC073957.15	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	ANKRD61	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	FLJ20306	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC073343.2	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	GPER1	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	GRIFIN	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC073343.13	Amplification		7	195304	11446319.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC135178.7	Amplification		17	8110788	8285880.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00324	Amplification		17	8110788	8285880.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORA69	Amplification		17	8110788	8285880.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC135178.1	Amplification		17	8110788	8285880.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-849F2.9	Amplification		17	8110788	8285880.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-849F2.8	Amplification		17	8110788	8285880.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-849F2.7	Amplification		17	8110788	8285880.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-849F2.5	Amplification		17	8110788	8285880.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-849F2.4	Amplification		17	8110788	8285880.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL353629.1	Amplification		9	95991728	96440210.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-165J3.5	Amplification		9	95991728	96440210.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-165J3.6	Amplification		9	95991728	96440210.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-829P	Amplification		9	95991728	96440210.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-142L7.9	Deletion		6	112493561	114262504.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1226P	Deletion		6	112493561	114262504.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-249H1.2	Deletion		6	112493561	114262504.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-367G18.1	Deletion		6	112493561	114262504.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-142L7.8	Deletion		6	112493561	114262504.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-124C6.1	Deletion		6	112493561	114262504.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-346D19.1	Deletion		6	112493561	114262504.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-105O18.1	Deletion		6	112493561	114262504.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-506B6.6	Deletion		6	112493561	114262504.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL357514.1	Deletion		6	112493561	114262504.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-249H1.4	Deletion		6	112493561	114262504.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL357519.1	Deletion		6	112493561	114262504.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL357519.2	Deletion		6	112493561	114262504.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-544L8__B.4	Deletion		6	112493561	114262504.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL365214.1	Deletion		6	112493561	114262504.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1163P	Deletion		6	112493561	114262504.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL513123.1	Deletion		6	112493561	114262504.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-437J19.1	Deletion		6	112493561	114262504.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP325	Deletion		10	108366672	108924536.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC105393.1	Deletion		2	41356	675882.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC105393.2	Deletion		2	41356	675882.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC092159.2	Deletion		2	41356	675882.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC093326.3	Deletion		2	41356	675882.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC079779.4	Deletion		2	41356	675882.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC093326.1	Deletion		2	41356	675882.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC093326.2	Deletion		2	41356	675882.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC079779.5	Deletion		2	41356	675882.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC079779.6	Deletion		2	41356	675882.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC079779.7	Deletion		2	41356	675882.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-432J24.6	Deletion		10	134230315	134540661.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-432J24.5	Deletion		10	134230315	134540661.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-432J24.3	Deletion		10	134230315	134540661.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-432J24.2	Deletion		10	134230315	134540661.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR31	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR31HG	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-20A20.2	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-18A15.1	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-399D6.2	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-408N14.1	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-354P17.15	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-33G16.1	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-337A23.6	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-321L2.2	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	CAAP1	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-321L2.1	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-315I14.2	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL359922.1	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL157830.1	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-370B11.3	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	CDKN2B-AS1	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL391117.1	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-70L8.4	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL442639.1	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-145E5.5	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-149I2.4	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL151P	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP120	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RMRPP5	Deletion		9	21006784	26885135.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-264I13.2	Deletion		9	214257	2192991.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-31F19.1	Deletion		9	214257	2192991.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-165F24.5	Deletion		9	214257	2192991.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-165F24.2	Deletion		9	214257	2192991.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-130C19.3	Deletion		9	214257	2192991.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL412P	Deletion		9	214257	2192991.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP279	Deletion		9	214257	2192991.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-165F24.3	Deletion		9	214257	2192991.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU2-25P	Deletion		9	214257	2192991.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1073P	Deletion		9	214257	2192991.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-59O6.3	Deletion		9	214257	2192991.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1327P	Deletion		9	214257	2192991.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-62F24.2	Deletion		9	16552276	17484730.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-62F24.1	Deletion		9	16552276	17484730.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-132E11.2	Deletion		9	16552276	17484730.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL720P	Deletion		9	16552276	17484730.0						0.0	0.0		0												Osteosarcoma-CLCM022	CLCM022_T		0	0	0	0	0	0	0
+VUS				Rearrangement	UBE2F-SCLY	Fusion	UBE2F-SCLY--RAMP1	chr2	238881867							0.0	0.0		0	26.0	UBE2F-SCLY	chr2	238881867.0	RAMP1	chr2	238820170.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	0
+VUS				Rearrangement	TVP23C-CDRT4	Fusion	TVP23C-CDRT4--CDRT4	chr17	15449099							0.0	0.0		0	6.0	TVP23C-CDRT4	chr17	15449099.0	CDRT4	chr17	15343599.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	0
+VUS				Rearrangement	TVP23C	Fusion	TVP23C--CDRT4	chr17	15449099							0.0	0.0		0	6.0	TVP23C	chr17	15449099.0	CDRT4	chr17	15343599.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	0
+VUS				Rearrangement	ST7-OT4	Fusion	ST7-OT4--ST7	chr7	116594733							0.0	0.0		0	16.0	ST7-OT4	chr7	116594733.0	ST7	chr7	116738667.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	0
+VUS				Rearrangement	RP5-940J5.9	Fusion	RP5-940J5.9--COL1A2	chr12	6647332							0.0	0.0		0	12.0	RP5-940J5.9	chr12	6647332.0	COL1A2	chr7	94055735.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	0
+VUS				Rearrangement	RP4-565E6.1	Fusion	RP4-565E6.1--HYDIN	chr1	146126404							0.0	0.0		0	5.0	RP4-565E6.1	chr1	146126404.0	HYDIN	chr16	71186686.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-6N13.1	Fusion	RP11-6N13.1--CTD-2374C24.1	chr5	104728462							0.0	0.0		0	13.0	RP11-6N13.1	chr5	104728462.0	CTD-2374C24.1	chr5	104344612.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-312O7.2	Fusion	RP11-312O7.2--SRGAP2	chr1	206135293							0.0	0.0		0	12.0	RP11-312O7.2	chr1	206135293.0	SRGAP2	chr1	206557369.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-259O2.1	Fusion	RP11-259O2.1--C6	chr5	1940055							0.0	0.0		0	6.0	RP11-259O2.1	chr5	1940055.0	C6	chr5	41203352.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-1102P16.1	Fusion	RP11-1102P16.1--EYA1	chr8	72447979							0.0	0.0		0	7.0	RP11-1102P16.1	chr8	72447979.0	EYA1	chr8	72268746.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	0
+VUS				Rearrangement	LINC00461	Fusion	LINC00461--MEF2C	chr5	87966854							0.0	0.0		0	7.0	LINC00461	chr5	87966854.0	MEF2C	chr5	88027718.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	0
+VUS				Rearrangement	CTC-786C10.1	Fusion	CTC-786C10.1--RP11-680G10.1	chr16	85205413							0.0	0.0		0	14.0	CTC-786C10.1	chr16	85205413.0	RP11-680G10.1	chr16	85391069.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	0
+VUS				Rearrangement	CPQ	Fusion	CPQ--SDC2	chr8	97892233							0.0	0.0		0	6.0	CPQ	chr8	97892233.0	SDC2	chr8	97605708.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-654G14.1	Fusion	SLC30A8--RP11-654G14.1	chr8	118019352							0.0	0.0		0	9.0	SLC30A8	chr8	118019352.0	RP11-654G14.1	chr8	118142146.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	0
+VUS				Rearrangement	CTD-2374C24.1	Fusion	RP11-6N13.1--CTD-2374C24.1	chr5	104728462							0.0	0.0		0	13.0	RP11-6N13.1	chr5	104728462.0	CTD-2374C24.1	chr5	104344612.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-471L13.2	Fusion	PRPSAP2--RP11-471L13.2	chr17	18793190							0.0	0.0		0	171.0	PRPSAP2	chr17	18793190.0	RP11-471L13.2	chr17	12114439.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	0
+VUS				Rearrangement	AF127936.7	Fusion	NRIP1--AF127936.7	chr21	16386665							0.0	0.0		0	5.0	NRIP1	chr21	16386665.0	AF127936.7	chr21	16230029.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TE	Fusion	MT-ND6--MT-TE	chrM	14616							0.0	0.0		0	7.0	MT-ND6	chrM	14616.0	MT-TE	chrM	14711.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-488L1.1	Fusion	FGD3--RP11-488L1.1	chr9	95738991							0.0	0.0		0	114.0	FGD3	chr9	95738991.0	RP11-488L1.1	chr17	13003631.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	0
+VUS				Rearrangement	DSCR4-IT1	Fusion	DSCR4--DSCR4-IT1	chr21	39492401							0.0	0.0		0	11.0	DSCR4	chr21	39492401.0	DSCR4-IT1	chr21	39379128.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	0
+VUS				Rearrangement	AC005523.3	Fusion	DPP9--AC005523.3	chr19	4719863							0.0	0.0		0	131.0	DPP9	chr19	4719863.0	AC005523.3	chr19	4785539.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-680G10.1	Fusion	CTC-786C10.1--RP11-680G10.1	chr16	85205413							0.0	0.0		0	14.0	CTC-786C10.1	chr16	85205413.0	RP11-680G10.1	chr16	85391069.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-474G23.1	Fusion	CNRIP1--RP11-474G23.1	chr2	68544289							0.0	0.0		0	8.0	CNRIP1	chr2	68544289.0	RP11-474G23.1	chr2	68444263.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	0
+VUS				Rearrangement	PPP3R1	Fusion	CNRIP1--PPP3R1	chr2	68544289							0.0	0.0		0	8.0	CNRIP1	chr2	68544289.0	PPP3R1	chr2	68444263.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	0
+VUS				Rearrangement	HSPA8P4	Fusion	CHSY3--HSPA8P4	chr5	129244053							0.0	0.0		0	6.0	CHSY3	chr5	129244053.0	HSPA8P4	chr5	129476585.0					Osteosarcoma-CLCM022			0	0	0	0	0	0	0

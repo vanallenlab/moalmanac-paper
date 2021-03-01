@@ -1,0 +1,210 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Putatively Actionable	Putatively Actionable	Putatively Actionable		Copy Number	PTEN	Deletion		10	89623975	89654118.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		4	1	1	1	1	0	1
+Investigate Actionability	Investigate Actionability	Investigate Actionability		Somatic Variant	ALK	Missense	p.A585T	2	29519818	29519818.0	C	C	T	0.2821	78.0	2.5e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-BAC325	Osteosarcoma-BAC325-Tumor-SM-2RCAQ	Osteosarcoma-BAC325-Normal-SM-2RCC6	3	1	0	1	0	0	2
+Biologically Relevant				Somatic Variant	PAK1	Missense	p.E503K	11	77043819	77043819.0	C	C	T	0.1179	263.0	8e-06	0.0		0								193.0	0.1606	1.0		Osteosarcoma-BAC325	Osteosarcoma-BAC325-Tumor-SM-2RCAQ	Osteosarcoma-BAC325-Normal-SM-2RCC6	1	0	0	0	1	0	2
+Cancer Hotspot				Copy Number	DIS3	Amplification		13	66878535	74518459.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	1	0	0	0	1	1
+Cancer Hotspot 3D				Somatic Variant	ATP1A2	Missense	p.F953L	1	160109448	160109448.0	T	T	G	0.0278	108.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-BAC325	Osteosarcoma-BAC325-Tumor-SM-2RCAQ	Osteosarcoma-BAC325-Normal-SM-2RCC6	0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	TRAP1	Deletion		16	3706021	3716371.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Rearrangement	INPP4A	Fusion	INPP4A--MCEE	chr2	99061548							0.0	0.0		0	5.0	INPP4A	chr2	99061548.0	MCEE	chr2	71337252.0					Osteosarcoma-BAC325			0	0	1	0	0	1	1
+Cancer Hotspot 3D				Rearrangement	HBA2	Fusion	HBA2--HBB	chr16	223696							0.0	0.0		0	21.0	HBA2	chr16	223696.0	HBB	chr11	5246949.0					Osteosarcoma-BAC325			0	0	1	0	0	1	1
+Cancer Hotspot 3D				Rearrangement	HBA2	Fusion	HBB--HBA2	chr11	5248238							0.0	0.0		0	16.0	HBB	chr11	5248238.0	HBA2	chr16	222910.0					Osteosarcoma-BAC325			0	0	1	0	0	1	1
+Cancer Gene Census				Copy Number	ZFHX3	Deletion		16	72863426	73127236.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	1	0	1	1
+Cancer Pathway				Rearrangement	IGLV1-40	Fusion	IGLV1-40--IGLJ3	chr22	22764604							0.0	0.0		0	7.0	IGLV1-40	chr22	22764604.0	IGLJ3	chr22	23247167.0					Osteosarcoma-BAC325			0	0	0	0	1	0	0
+Cancer Module				Somatic Variant	SLC5A6	Missense	p.V180M	2	27428935	27428935.0	C	C	T	0.1667	84.0	1.6e-05	0.0		0								2.0	1.0	0.0		Osteosarcoma-BAC325	Osteosarcoma-BAC325-Tumor-SM-2RCAQ	Osteosarcoma-BAC325-Normal-SM-2RCC6	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	HDC	Missense	p.R234Q	15	50546346	50546346.0	C	C	T	0.3056	72.0	1.6e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-BAC325	Osteosarcoma-BAC325-Tumor-SM-2RCAQ	Osteosarcoma-BAC325-Normal-SM-2RCC6	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	TAF2	Missense	p.G356C	8	120809255	120809255.0	C	C	A	0.2258	93.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-BAC325	Osteosarcoma-BAC325-Tumor-SM-2RCAQ	Osteosarcoma-BAC325-Normal-SM-2RCC6	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	CCR3	Missense	p.S345F	3	46307683	46307683.0	C	C	T	0.4444	27.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-BAC325	Osteosarcoma-BAC325-Tumor-SM-2RCAQ	Osteosarcoma-BAC325-Normal-SM-2RCC6	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	RBCK1	Missense	p.R106W	20	398430	398430.0	C	C	T	0.0556	54.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-BAC325	Osteosarcoma-BAC325-Tumor-SM-2RCAQ	Osteosarcoma-BAC325-Normal-SM-2RCC6	0	0	0	0	0	1	1
+Cancer Module				Copy Number	LMO7	Amplification		13	75865986	79919181.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PCDHA9	Deletion		5	140227829	140237484.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TBC1D4	Amplification		13	75865986	79919181.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PIBF1	Amplification		13	66878535	74518459.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GYPB	Amplification		4	144922088	145040157.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DNASE1	Deletion		16	3706021	3716371.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KLF12	Amplification		13	66878535	74518459.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KLF5	Amplification		13	66878535	74518459.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PCDH9	Amplification		13	66878535	74518459.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	UCHL3	Amplification		13	75865986	79919181.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MYCBP2	Amplification		13	75865986	79919181.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SCEL	Amplification		13	75865986	79919181.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	POU4F1	Amplification		13	75865986	79919181.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RNF219	Amplification		13	75865986	79919181.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KCTD12	Amplification		13	75865986	79919181.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CLN5	Amplification		13	75865986	79919181.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FBXL3	Amplification		13	75865986	79919181.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EDNRB	Amplification		13	75865986	79919181.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ISL1	Amplification		5	49694855	50689696.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PARP8	Amplification		5	49694855	50689696.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GYPA	Amplification		4	144922088	145040157.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MAGI2	Deletion		7	78118826	78256807.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TRIM48	Deletion		11	55032128	55037066.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	MKS1	Fusion	MKS1--LINC00672	chr17	56291126							0.0	0.0		0	16.0	MKS1	chr17	56291126.0	LINC00672	chr17	37082670.0					Osteosarcoma-BAC325			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	HBB	Fusion	HBB--HBA2	chr11	5248238							0.0	0.0		0	16.0	HBB	chr11	5248238.0	HBA2	chr16	222910.0					Osteosarcoma-BAC325			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	HBB	Fusion	HBA2--HBB	chr16	223696							0.0	0.0		0	21.0	HBA2	chr16	223696.0	HBB	chr11	5246949.0					Osteosarcoma-BAC325			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	IGLJ3	Fusion	IGLV1-40--IGLJ3	chr22	22764604							0.0	0.0		0	7.0	IGLV1-40	chr22	22764604.0	IGLJ3	chr22	23247167.0					Osteosarcoma-BAC325			0	0	0	0	0	1	0
+Cosmic				Somatic Variant	SPECC1L	Missense	p.A151T	22	24717399	24717399.0	G	G	A	0.3731	201.0	0.0	0.0		0								10.0	0.4	0.5492		Osteosarcoma-BAC325	Osteosarcoma-BAC325-Tumor-SM-2RCAQ	Osteosarcoma-BAC325-Normal-SM-2RCC6	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	SLC45A1	Missense	p.V629M	1	8399663	8399663.0	G	G	A	0.3403	288.0	0.0	0.0		0								4.0	0.5	0.0141		Osteosarcoma-BAC325	Osteosarcoma-BAC325-Tumor-SM-2RCAQ	Osteosarcoma-BAC325-Normal-SM-2RCC6	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ASB15	Missense	p.K154R	7	123264632	123264632.0	A	A	G	0.0248	121.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-BAC325	Osteosarcoma-BAC325-Tumor-SM-2RCAQ	Osteosarcoma-BAC325-Normal-SM-2RCC6	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	KRTAP13-2	Missense	p.Q158P	21	31744059	31744059.0	T	T	G	0.2523	107.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-BAC325	Osteosarcoma-BAC325-Tumor-SM-2RCAQ	Osteosarcoma-BAC325-Normal-SM-2RCC6	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	POU3F3	Missense	p.V452A	2	105473323	105473323.0	T	T	C	0.6222	45.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-BAC325	Osteosarcoma-BAC325-Tumor-SM-2RCAQ	Osteosarcoma-BAC325-Normal-SM-2RCC6	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	RUFY1	Missense	p.G420E	5	179023634	179023634.0	G	G	A	0.021	143.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-BAC325	Osteosarcoma-BAC325-Tumor-SM-2RCAQ	Osteosarcoma-BAC325-Normal-SM-2RCC6	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	TMEM132D	Missense	p.T666A	12	129563198	129563198.0	T	T	C	0.5074	136.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-BAC325	Osteosarcoma-BAC325-Tumor-SM-2RCAQ	Osteosarcoma-BAC325-Normal-SM-2RCC6	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ZNF564	Missense	p.Y365N	19	12637829	12637829.0	A	A	T	0.6058	104.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-BAC325	Osteosarcoma-BAC325-Tumor-SM-2RCAQ	Osteosarcoma-BAC325-Normal-SM-2RCC6	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	GSDMC	Missense	p.Q325E	8	130762787	130762787.0	G	G	C	0.0521	96.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-BAC325	Osteosarcoma-BAC325-Tumor-SM-2RCAQ	Osteosarcoma-BAC325-Normal-SM-2RCC6	0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP10-10	Amplification		21	45949429	46118106.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP10-7	Amplification		21	45949429	46118106.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP10-1	Amplification		21	45949429	46118106.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP12-2	Amplification		21	45949429	46118106.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP10-6	Amplification		21	45949429	46118106.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	EMB	Amplification		5	49694855	50689696.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP10-9	Amplification		21	45949429	46118106.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP10-8	Amplification		21	45949429	46118106.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP10-3	Amplification		21	45949429	46118106.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP10-11	Amplification		21	45949429	46118106.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SYT15	Deletion		10	46961720	46969703.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MZT1	Amplification		13	66878535	74518459.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DIAPH3	Amplification		13	60413206	61988351.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TSPEAR	Amplification		21	45949429	46118106.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP12-1	Amplification		21	45949429	46118106.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP12-3	Amplification		21	45949429	46118106.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP10-5	Amplification		21	45949429	46118106.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP10-4	Amplification		21	45949429	46118106.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP10-2	Amplification		21	45949429	46118106.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP10-12	Amplification		21	45949429	46118106.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FRMPD2	Deletion		10	48827268	49389303.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	MCEE	Fusion	INPP4A--MCEE	chr2	99061548							0.0	0.0		0	5.0	INPP4A	chr2	99061548.0	MCEE	chr2	71337252.0					Osteosarcoma-BAC325			0	0	0	0	0	0	1
+Cosmic				Copy Number	KLHL1	Amplification		13	66878535	74518459.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DACH1	Amplification		13	66878535	74518459.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FARS2	Amplification		6	5368552	5771914.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLAIN1	Amplification		13	75865986	79919181.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RBM26	Amplification		13	75865986	79919181.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	COMMD6	Amplification		13	75865986	79919181.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IRG1	Amplification		13	75865986	79919181.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NDFIP2	Amplification		13	79928322	80125507.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TDRD3	Amplification		13	60413206	61988351.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PCDH20	Amplification		13	60413206	61988351.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KRTAP12-4	Amplification		21	45949429	46118106.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PTPN20B	Deletion		10	48827268	49389303.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM25C	Deletion		10	48827268	49389303.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KLLN	Deletion		10	89623975	89654118.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	AC005609.1	Deletion		5	140227829	140237484.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND6	Fusion	MT-ND6--MT-TE	chrM	14477							0.0	0.0		0	91.0	MT-ND6	chrM	14477.0	MT-TE	chrM	14689.0					Osteosarcoma-BAC325			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND5	Fusion	MT-ND5--MT-ND4	chrM	14078							0.0	0.0		0	5.0	MT-ND5	chrM	14078.0	MT-ND4	chrM	11230.0					Osteosarcoma-BAC325			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4	Fusion	MT-ND4--MT-ND4L	chrM	10832							0.0	0.0		0	63.0	MT-ND4	chrM	10832.0	MT-ND4L	chrM	10615.0					Osteosarcoma-BAC325			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND2	Fusion	MT-ND2--MT-ND1	chrM	5368							0.0	0.0		0	6.0	MT-ND2	chrM	5368.0	MT-ND1	chrM	3798.0					Osteosarcoma-BAC325			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND1	Fusion	MT-ND1--MT-TL1	chrM	3648							0.0	0.0		0	17.0	MT-ND1	chrM	3648.0	MT-TL1	chrM	3286.0					Osteosarcoma-BAC325			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CO3	Fusion	MT-CO3--MT-ATP6	chrM	9352							0.0	0.0		0	45.0	MT-CO3	chrM	9352.0	MT-ATP6	chrM	9198.0					Osteosarcoma-BAC325			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CO2	Fusion	MT-CO2--MT-ND2	chrM	7992							0.0	0.0		0	5.0	MT-CO2	chrM	7992.0	MT-ND2	chrM	5480.0					Osteosarcoma-BAC325			0	0	0	0	0	0	1
+Cosmic				Rearrangement	INTS6	Fusion	INTS6--VWC2	chr13	52004430							0.0	0.0		0	19.0	INTS6	chr13	52004430.0	VWC2	chr7	49951630.0					Osteosarcoma-BAC325			0	0	0	0	0	0	1
+Cosmic				Rearrangement	CDC42EP3	Fusion	TICRR--CDC42EP3	chr15	90119471							0.0	0.0		0	10.0	TICRR	chr15	90119471.0	CDC42EP3	chr2	37873965.0					Osteosarcoma-BAC325			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4	Fusion	MT-ND5--MT-ND4	chrM	14078							0.0	0.0		0	5.0	MT-ND5	chrM	14078.0	MT-ND4	chrM	11230.0					Osteosarcoma-BAC325			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4L	Fusion	MT-ND4--MT-ND4L	chrM	10832							0.0	0.0		0	63.0	MT-ND4	chrM	10832.0	MT-ND4L	chrM	10615.0					Osteosarcoma-BAC325			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND1	Fusion	MT-ND2--MT-ND1	chrM	5368							0.0	0.0		0	6.0	MT-ND2	chrM	5368.0	MT-ND1	chrM	3798.0					Osteosarcoma-BAC325			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-CO3--MT-ATP6	chrM	9352							0.0	0.0		0	45.0	MT-CO3	chrM	9352.0	MT-ATP6	chrM	9198.0					Osteosarcoma-BAC325			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND2	Fusion	MT-CO2--MT-ND2	chrM	7992							0.0	0.0		0	5.0	MT-CO2	chrM	7992.0	MT-ND2	chrM	5480.0					Osteosarcoma-BAC325			0	0	0	0	0	0	1
+Cosmic				Rearrangement	VWC2	Fusion	INTS6--VWC2	chr13	52004430							0.0	0.0		0	19.0	INTS6	chr13	52004430.0	VWC2	chr7	49951630.0					Osteosarcoma-BAC325			0	0	0	0	0	0	1
+VUS				Somatic Variant	GLTSCR1L	Missense	p.T601K	6	42797873	42797873.0	C	C	A	0.0312	96.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-BAC325	Osteosarcoma-BAC325-Tumor-SM-2RCAQ	Osteosarcoma-BAC325-Normal-SM-2RCC6	0	0	0	0	0	0	0
+VUS				Rearrangement	TICRR	Fusion	TICRR--CDC42EP3	chr15	90119471							0.0	0.0		0	10.0	TICRR	chr15	90119471.0	CDC42EP3	chr2	37873965.0					Osteosarcoma-BAC325			0	0	0	0	0	0	0
+VUS				Copy Number	BORA	Amplification		13	66878535	74518459.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-54P	Amplification		13	66878535	74518459.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL761P	Amplification		13	66878535	74518459.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-87P	Amplification		13	66878535	74518459.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-80P	Amplification		13	66878535	74518459.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-79P	Amplification		13	66878535	74518459.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-66P	Amplification		13	66878535	74518459.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00401	Amplification		13	66878535	74518459.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU4-10P	Amplification		13	66878535	74518459.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP32	Amplification		13	66878535	74518459.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY3P10	Amplification		13	66878535	74518459.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	PCDH9-AS4	Amplification		13	66878535	74518459.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	PCDH9-AS3	Amplification		13	66878535	74518459.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	PCDH9-AS2	Amplification		13	66878535	74518459.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	PCDH9-AS1	Amplification		13	66878535	74518459.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00348	Amplification		13	66878535	74518459.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00364	Amplification		13	66878535	74518459.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00383	Amplification		13	66878535	74518459.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00392	Amplification		13	66878535	74518459.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY1P8	Amplification		13	66878535	74518459.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00393	Amplification		13	66878535	74518459.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORA9	Amplification		13	66878535	74518459.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL354720.1	Amplification		13	66878535	74518459.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	ATXN8OS	Amplification		13	66878535	74518459.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL391384.1	Amplification		13	66878535	74518459.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-232P20.1	Amplification		6	5368552	5771914.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-256G22.2	Amplification		6	5368552	5771914.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3665	Amplification		13	75865986	79919181.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	MYCBP2-AS1	Amplification		13	75865986	79919181.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01069	Amplification		13	75865986	79919181.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01034	Amplification		13	75865986	79919181.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00561	Amplification		13	75865986	79919181.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00446	Amplification		13	75865986	79919181.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	TBC1D4-AS1	Amplification		13	75865986	79919181.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY3P3	Amplification		13	75865986	79919181.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	SCEL-AS1	Amplification		13	75865986	79919181.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY3P7	Amplification		13	75865986	79919181.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL571P	Amplification		13	75865986	79919181.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-52L5.6	Amplification		13	75865986	79919181.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-332E3.2	Amplification		13	75865986	79919181.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-318G21.4	Amplification		13	75865986	79919181.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-29G8.3	Amplification		13	75865986	79919181.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL810P	Amplification		13	75865986	79919181.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-203P2.2	Amplification		13	75865986	79919181.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNF219-AS1	Amplification		13	75865986	79919181.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-173B14.5	Amplification		13	75865986	79919181.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-173B14.4	Amplification		13	75865986	79919181.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC000403.1	Amplification		13	75865986	79919181.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	MYCBP2-AS2	Amplification		13	75865986	79919181.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00331	Amplification		13	75865986	79919181.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL139319.1	Amplification		13	75865986	79919181.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	C13orf45	Amplification		13	75865986	79919181.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	EDNRB-AS1	Amplification		13	75865986	79919181.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-480P	Amplification		5	49694855	50689696.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-269M20.3	Amplification		5	49694855	50689696.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1296P	Amplification		5	49694855	50689696.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2089N3.3	Amplification		5	49694855	50689696.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2314G24.2	Amplification		5	49694855	50689696.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2089N3.2	Amplification		5	49694855	50689696.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC091866.1	Amplification		5	49694855	50689696.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2089N3.1	Amplification		5	49694855	50689696.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-317O24.2	Amplification		5	49694855	50689696.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-317O24.1	Amplification		5	49694855	50689696.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	RBM26-AS1	Amplification		13	79928322	80125507.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	NDFIP2-AS1	Amplification		13	79928322	80125507.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP33	Amplification		13	79928322	80125507.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY3P5	Amplification		13	60413206	61988351.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY4P28	Amplification		13	60413206	61988351.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNY4P31	Amplification		13	60413206	61988351.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	DIAPH3-AS2	Amplification		13	60413206	61988351.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	DIAPH3-AS1	Amplification		13	60413206	61988351.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL354764.1	Amplification		13	60413206	61988351.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00378	Amplification		13	60413206	61988351.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-196P2.1	Amplification		13	60413206	61988351.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00434	Amplification		13	60413206	61988351.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP31	Amplification		13	60413206	61988351.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3169	Amplification		13	60413206	61988351.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL375P	Amplification		13	60413206	61988351.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-38L15.3	Deletion		10	46961720	46969703.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP315	Deletion		10	48827268	49389303.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL527P	Deletion		10	48827268	49389303.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-13E1.5	Deletion		10	48827268	49389303.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-508M1.7	Deletion		10	48827268	49389303.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	GLUD1P2	Deletion		10	48827268	49389303.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	BMS1P5	Deletion		10	48827268	49389303.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP314	Deletion		10	48827268	49389303.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-380G5.2	Deletion		10	89623975	89654118.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC132068.1	Deletion		16	72863426	73127236.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	HCCAT5	Deletion		16	72863426	73127236.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-346C20.4	Deletion		16	72863426	73127236.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-346C20.3	Deletion		16	72863426	73127236.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC002044.4	Deletion		16	72863426	73127236.0						0.0	0.0		0												Osteosarcoma-BAC325	BAC325_T		0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-96H19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46848924							0.0	0.0		0	6.0	RP11-96H19.1	chr12	46848924.0	RP11-446N19.1	chr12	47046173.0					Osteosarcoma-BAC325			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TA	Fusion	MT-TA--MT-TN	chrM	5595							0.0	0.0		0	37.0	MT-TA	chrM	5595.0	MT-TN	chrM	5672.0					Osteosarcoma-BAC325			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TA	Fusion	MT-TA--MT-TC	chrM	5631							0.0	0.0		0	7.0	MT-TA	chrM	5631.0	MT-TC	chrM	5816.0					Osteosarcoma-BAC325			0	0	0	0	0	0	0
+VUS				Rearrangement	CTC-786C10.1	Fusion	CTC-786C10.1--RP11-680G10.1	chr16	85205413							0.0	0.0		0	7.0	CTC-786C10.1	chr16	85205413.0	RP11-680G10.1	chr16	85391069.0					Osteosarcoma-BAC325			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-446N19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46848924							0.0	0.0		0	6.0	RP11-96H19.1	chr12	46848924.0	RP11-446N19.1	chr12	47046173.0					Osteosarcoma-BAC325			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TN	Fusion	MT-TA--MT-TN	chrM	5595							0.0	0.0		0	37.0	MT-TA	chrM	5595.0	MT-TN	chrM	5672.0					Osteosarcoma-BAC325			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TC	Fusion	MT-TA--MT-TC	chrM	5631							0.0	0.0		0	7.0	MT-TA	chrM	5631.0	MT-TC	chrM	5816.0					Osteosarcoma-BAC325			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TE	Fusion	MT-ND6--MT-TE	chrM	14477							0.0	0.0		0	91.0	MT-ND6	chrM	14477.0	MT-TE	chrM	14689.0					Osteosarcoma-BAC325			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TL1	Fusion	MT-ND1--MT-TL1	chrM	3648							0.0	0.0		0	17.0	MT-ND1	chrM	3648.0	MT-TL1	chrM	3286.0					Osteosarcoma-BAC325			0	0	0	0	0	0	0
+VUS				Rearrangement	LINC00672	Fusion	MKS1--LINC00672	chr17	56291126							0.0	0.0		0	16.0	MKS1	chr17	56291126.0	LINC00672	chr17	37082670.0					Osteosarcoma-BAC325			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-680G10.1	Fusion	CTC-786C10.1--RP11-680G10.1	chr16	85205413							0.0	0.0		0	7.0	CTC-786C10.1	chr16	85205413.0	RP11-680G10.1	chr16	85391069.0					Osteosarcoma-BAC325			0	0	0	0	0	0	0

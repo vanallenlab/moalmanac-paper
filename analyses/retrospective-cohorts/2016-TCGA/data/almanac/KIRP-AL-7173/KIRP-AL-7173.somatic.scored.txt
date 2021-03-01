@@ -1,0 +1,143 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Investigate Actionability	Investigate Actionability			Somatic Variant	MET	Missense	p.H1112Y	7	116417463	116417463.0	C	C	T	0.3497	143.0	0.0	0.0		0								16.0	0.5	0.8561		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	3	1	0	1	1	1	2
+Cancer Hotspot				Somatic Variant	CUL3	Missense	p.L77P	2	225422410	225422410.0	A	A	G	0.3182	44.0	0.0	0.0		0								13.0	0.6923	0.6331		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	1	0	1	0	0	2
+Cancer Hotspot				Somatic Variant	CUL3	Nonsense	p.S2*	2	225449722	225449722.0	G	G	T	0.2308	26.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	1	0	1	0	0	2
+Cancer Hotspot 3D				Somatic Variant	ITGA1	Frameshift	p.I493fs	5	52204750	52204750.0	T	T	-	0.22899999999999998	131.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	1	0	1	1	1
+Cancer Hotspot 3D				Somatic Variant	SMG7	Missense	p.P271H	1	183498637	183498637.0	C	C	A	0.0615	65.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	1	0	0	1	1
+Cancer Hotspot 3D				Somatic Variant	CDK8	Frameshift	p.G415fs	13	26975735	26975736.0	GG	GG	-	0.125	80.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	DPP6	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	PAXIP1	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	1	0	0	0	1
+Cancer Gene Census				Somatic Variant	TAF15	Missense	p.H159Y	17	34149828	34149828.0	C	C	T	0.0649	77.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	MNX1	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	1	0	1	1
+Cancer Pathway				Somatic Variant	EGF	Missense	p.S224C	4	110865158	110865158.0	A	A	T	0.3091	55.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	0	0	1	1	2
+Cancer Pathway				Copy Number	SHH	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	1	1	1
+Cancer Pathway				Rearrangement	IGKC	Fusion	IGKV2D-29--IGKC	chr2	89986400							0.0	0.0		0	67.0	IGKV2D-29	chr2	89986400.0	IGKC	chr2	89157196.0					KIRP-AL-7173			0	0	0	0	1	1	0
+Cancer Pathway				Rearrangement	IGLV1-44	Fusion	IGLV1-44--IGLC2	chr22	22735294							0.0	0.0		0	49.0	IGLV1-44	chr22	22735294.0	IGLC2	chr22	23243156.0					KIRP-AL-7173			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGLV1-40	Fusion	IGLV1-40--IGLL5	chr22	22764613							0.0	0.0		0	76.0	IGLV1-40	chr22	22764613.0	IGLL5	chr22	23235963.0					KIRP-AL-7173			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGLV1-40	Fusion	IGLV1-40--IGLJ3	chr22	22764613							0.0	0.0		0	112.0	IGLV1-40	chr22	22764613.0	IGLJ3	chr22	23247170.0					KIRP-AL-7173			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGLV1-40	Fusion	IGLV1-40--IGLJ1	chr22	22764613							0.0	0.0		0	29.0	IGLV1-40	chr22	22764613.0	IGLJ1	chr22	23235963.0					KIRP-AL-7173			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGLC2	Fusion	IGLV1-44--IGLC2	chr22	22735294							0.0	0.0		0	49.0	IGLV1-44	chr22	22735294.0	IGLC2	chr22	23243156.0					KIRP-AL-7173			0	0	0	0	1	0	0
+Cancer Module				Somatic Variant	FKBP4	Missense	p.G360R	12	2910328	2910328.0	G	G	A	0.2326	129.0	0.0	0.0		0								190.0	0.3263	1.0		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ARFRP1	Missense	p.D101E	20	62333531	62333531.0	G	G	C	0.3091	55.0	0.0	0.0		0								98.0	0.4592	1.0		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ZDHHC8	Missense	p.R523C	22	20130720	20130720.0	C	C	T	0.25	48.0	0.0	0.0		0								63.0	0.4444	0.9988		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	FLII	Missense	p.F835C	17	18150655	18150655.0	A	A	C	0.1684	95.0	0.0	0.0		0								54.0	0.46299999999999997	0.9724		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ESRRA	Missense	p.S95Y	11	64074935	64074935.0	C	C	A	0.1667	30.0	0.0	0.0		0								54.0	0.4074	0.9455		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ADSL	Missense	p.I72N	22	40745897	40745897.0	T	T	A	0.1702	47.0	0.0	0.0		0								33.0	0.3333	0.8102		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	PCLO	Missense	p.A1015P	7	82763823	82763823.0	C	C	G	0.2889	45.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	CYP3A7	Nonsense	p.K35*	7	99328744	99328744.0	T	T	A	0.4016	122.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ZNF423	Missense	p.M960V	16	49670185	49670185.0	T	T	C	0.1923	52.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	PLVAP	Missense	p.I136V	19	17476968	17476968.0	T	T	C	0.2821	156.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	PRKX	Missense	p.P242R	X	3544550	3544550.0	G	G	C	0.3	20.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	RGL1	Missense	p.G638R	1	183885638	183885638.0	G	G	C	0.2697	152.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	KEL	Missense	p.G109V	7	142658089	142658089.0	C	C	A	0.2191	178.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	FCN1	Missense	p.L248V	9	137801883	137801883.0	G	G	C	0.1887	212.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	PLAU	Missense	p.S67T	10	75672687	75672687.0	T	T	A	0.1224	49.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	MMP13	Missense	p.E223Q	11	102822873	102822873.0	C	C	G	0.1961	153.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SEMA7A	Missense	p.V262G	15	74708932	74708932.0	A	A	C	0.2881	59.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	CHRNA4	Missense	p.M194V	20	61982183	61982183.0	T	T	C	0.2442	86.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	MGAT3	Missense	p.S143C	22	39883780	39883780.0	C	C	G	1.0	4.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	PARVG	Missense	p.K29M	22	44581694	44581694.0	A	A	T	0.2571	35.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SPINK5	Missense	p.D1025H	5	147510840	147510840.0	G	G	C	0.171	193.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	C7	Missense	p.Q627E	5	40964972	40964972.0	C	C	G	0.0551	127.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	FETUB	Missense	p.I82V	3	186362554	186362554.0	A	A	G	0.2584	89.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	ST6GAL1	Frameshift	p.G252fs	3	186790685	186790685.0	G	G	-	0.2195	123.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	LARS	Frameshift	p.K69fs	5	145552256	145552256.0	T	T	-	0.3396	53.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	SERPINB9	Nonsense	p.E328*	6	2890546	2890546.0	C	C	A	0.0748	107.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	TIMP2	Frameshift	p.TAP91fs	17	76867041	76867047.0	GGGGGCC	GGGGGCC	-	0.0658	152.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	0	0	0	1	1
+Cancer Module				Copy Number	PTPRN2	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CCDC88C	Deletion		14	91747569	91749595.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	INSIG1	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EN2	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	UBE3C	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	IGLJ3	Fusion	IGLV1-40--IGLJ3	chr22	22764613							0.0	0.0		0	112.0	IGLV1-40	chr22	22764613.0	IGLJ3	chr22	23247170.0					KIRP-AL-7173			0	0	0	0	0	1	0
+Cosmic				Somatic Variant	DDX54	Missense	p.F415L	12	113610194	113610194.0	A	A	G	0.4048	42.0	0.0	0.0		0								96.0	0.5833	1.0		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	COMMD2	Missense	p.R130Q	3	149468478	149468478.0	C	C	T	0.1863	102.0	0.0	0.0		0								8.0	0.5	0.0561		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	FREM1	Missense	p.V1174L	9	14801824	14801824.0	C	C	G	0.2302	126.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	HOXA1	Missense	p.E245K	7	27134334	27134334.0	C	C	T	0.2189	169.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	SESTD1	Missense	p.T133S	2	180016091	180016091.0	T	T	A	0.4444	36.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	OR2A7	Missense	p.V18I	7	143956670	143956670.0	C	C	T	0.0671	283.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	KERA	Missense	p.T85S	12	91449805	91449805.0	G	G	C	0.1579	95.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	DIAPH3	Missense	p.I345F	13	60566699	60566699.0	T	T	A	0.1579	38.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ZPBP2	Missense	p.L94P	17	38027753	38027753.0	T	T	C	0.2708	48.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	NLRP7	Missense	p.T703S	19	55449434	55449434.0	T	T	A	0.2492	325.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	C5orf42	Missense	p.S1290C	5	37187887	37187887.0	G	G	C	0.1667	24.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	LUC7L2	Missense	p.K86M	7	139030365	139030365.0	A	A	T	0.1846	65.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	FBXO43	Missense	p.D496H	8	101152996	101152996.0	C	C	G	0.223	148.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	ZNF780A	Missense	p.P150R	19	40581903	40581903.0	G	G	C	0.2286	70.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	0	0	0	0	1
+Cosmic				Copy Number	NOM1	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RNF32	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	LMBR1	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	RBM33	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	HTR5A	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	C7orf13	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	CNPY1	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	DNAJB6	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-ATP6--MT-ATP8	chrM	8582							0.0	0.0		0	74.0	MT-ATP6	chrM	8582.0	MT-ATP8	chrM	8463.0					KIRP-AL-7173			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP8	Fusion	MT-ATP6--MT-ATP8	chrM	8582							0.0	0.0		0	74.0	MT-ATP6	chrM	8582.0	MT-ATP8	chrM	8463.0					KIRP-AL-7173			0	0	0	0	0	0	1
+Cosmic				Rearrangement	IGLL5	Fusion	IGLV1-40--IGLL5	chr22	22764613							0.0	0.0		0	76.0	IGLV1-40	chr22	22764613.0	IGLL5	chr22	23235963.0					KIRP-AL-7173			0	0	0	0	0	0	1
+VUS				Somatic Variant	AC069368.3	Frameshift	p.V183fs	15	65214185	65214185.0	A	A	-	0.209	67.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-AL-7173	KIRP-AL-7173-TP	KIRP-AL-7173-NB	0	0	0	0	0	0	0
+VUS				Copy Number	AC005481.5	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01006	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC01022	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR153-2	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR5707	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR595	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	0
+VUS				Copy Number	MNX1-AS1	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	0
+VUS				Copy Number	MNX1-AS2	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	0
+VUS				Copy Number	PAXIP1-AS1	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	0
+VUS				Copy Number	PAXIP1-AS2	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC005534.8	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP280	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL142P	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU4-31P	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-452C13.1	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-476H24.1	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-5C23.1	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-5C23.2	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-639J15.1	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1121A15.3	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1142J19.1	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-912I13.1	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	0
+VUS				Copy Number	HTR5A-AS1	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006003.3	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006372.1	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006372.4	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006372.5	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006372.6	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006967.1	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC008060.5	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC008060.7	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC008060.8	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC009403.2	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC011899.10	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC011899.9	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC021218.2	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC073133.1	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC073133.2	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC078942.1	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC099552.2	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC099552.3	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC099552.4	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC104133.1	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC144652.1	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	0
+VUS				Copy Number	BLACE	Amplification		7	154078726	158385118.0						0.0	0.0		0												KIRP-AL-7173	TCGA-AL-7173-01		0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-96H19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46848924							0.0	0.0		0	24.0	RP11-96H19.1	chr12	46848924.0	RP11-446N19.1	chr12	47046173.0					KIRP-AL-7173			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKV3-20	Fusion	IGKV3-20--IGKJ2	chr2	89442058							0.0	0.0		0	79.0	IGKV3-20	chr2	89442058.0	IGKJ2	chr2	89161074.0					KIRP-AL-7173			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKV3-20	Fusion	IGKV3-20--AC096579.13	chr2	89442058							0.0	0.0		0	79.0	IGKV3-20	chr2	89442058.0	AC096579.13	chr2	89161074.0					KIRP-AL-7173			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKV3-11	Fusion	IGKV3-11--IGKJ4	chr2	89326668							0.0	0.0		0	42.0	IGKV3-11	chr2	89326668.0	IGKJ4	chr2	89160434.0					KIRP-AL-7173			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKV2D-29	Fusion	IGKV2D-29--IGKC	chr2	89986400							0.0	0.0		0	67.0	IGKV2D-29	chr2	89986400.0	IGKC	chr2	89157196.0					KIRP-AL-7173			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKV1D-39	Fusion	IGKV1D-39--AC096579.7	chr2	89901790							0.0	0.0		0	301.0	IGKV1D-39	chr2	89901790.0	AC096579.7	chr2	89161436.0					KIRP-AL-7173			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKV1-39	Fusion	IGKV1-39--IGKJ3	chr2	89619383							0.0	0.0		0	35.0	IGKV1-39	chr2	89619383.0	IGKJ3	chr2	89160770.0					KIRP-AL-7173			0	0	0	0	0	0	0
+VUS				Rearrangement	IGHGP	Fusion	IGHGP--IGH@	chr14	106134590							0.0	0.0		0	94.0	IGHGP	chr14	106134590.0	IGH@	chr14	106235580.0					KIRP-AL-7173			0	0	0	0	0	0	0
+VUS				Rearrangement	IGHGP	Fusion	IGHGP--IGH-@	chr14	106134604							0.0	0.0		0	100.0	IGHGP	chr14	106134604.0	IGH-@	chr14	106109597.0					KIRP-AL-7173			0	0	0	0	0	0	0
+VUS				Rearrangement	IGH-@	Fusion	IGH-@--IGHGP	chr14	106208056							0.0	0.0		0	202.0	IGH-@	chr14	106208056.0	IGHGP	chr14	106134840.0					KIRP-AL-7173			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-446N19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46848924							0.0	0.0		0	24.0	RP11-96H19.1	chr12	46848924.0	RP11-446N19.1	chr12	47046173.0					KIRP-AL-7173			0	0	0	0	0	0	0
+VUS				Rearrangement	IGLJ1	Fusion	IGLV1-40--IGLJ1	chr22	22764613							0.0	0.0		0	29.0	IGLV1-40	chr22	22764613.0	IGLJ1	chr22	23235963.0					KIRP-AL-7173			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKJ2	Fusion	IGKV3-20--IGKJ2	chr2	89442058							0.0	0.0		0	79.0	IGKV3-20	chr2	89442058.0	IGKJ2	chr2	89161074.0					KIRP-AL-7173			0	0	0	0	0	0	0
+VUS				Rearrangement	AC096579.13	Fusion	IGKV3-20--AC096579.13	chr2	89442058							0.0	0.0		0	79.0	IGKV3-20	chr2	89442058.0	AC096579.13	chr2	89161074.0					KIRP-AL-7173			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKJ4	Fusion	IGKV3-11--IGKJ4	chr2	89326668							0.0	0.0		0	42.0	IGKV3-11	chr2	89326668.0	IGKJ4	chr2	89160434.0					KIRP-AL-7173			0	0	0	0	0	0	0
+VUS				Rearrangement	AC096579.7	Fusion	IGKV1D-39--AC096579.7	chr2	89901790							0.0	0.0		0	301.0	IGKV1D-39	chr2	89901790.0	AC096579.7	chr2	89161436.0					KIRP-AL-7173			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKJ3	Fusion	IGKV1-39--IGKJ3	chr2	89619383							0.0	0.0		0	35.0	IGKV1-39	chr2	89619383.0	IGKJ3	chr2	89160770.0					KIRP-AL-7173			0	0	0	0	0	0	0
+VUS				Rearrangement	IGH@	Fusion	IGHGP--IGH@	chr14	106134590							0.0	0.0		0	94.0	IGHGP	chr14	106134590.0	IGH@	chr14	106235580.0					KIRP-AL-7173			0	0	0	0	0	0	0
+VUS				Rearrangement	IGH-@	Fusion	IGHGP--IGH-@	chr14	106134604							0.0	0.0		0	100.0	IGHGP	chr14	106134604.0	IGH-@	chr14	106109597.0					KIRP-AL-7173			0	0	0	0	0	0	0
+VUS				Rearrangement	IGHGP	Fusion	IGH-@--IGHGP	chr14	106208056							0.0	0.0		0	202.0	IGH-@	chr14	106208056.0	IGHGP	chr14	106134840.0					KIRP-AL-7173			0	0	0	0	0	0	0

@@ -129,8 +129,13 @@ class Random(Metrics):
             calculated = cls.evaluate_model(dataframe, 'model', tps_series)
             model_avg_precision = cls.calculate_average_precision(samples, calculated)
             model_mean_avg_precision = model_avg_precision.mean()
-            results[seed] = model_mean_avg_precision
 
+            results[seed] = {}
+            results[seed]['mAP'] = model_mean_avg_precision
+            results[seed]['ap@k'] = {}
+            for k in [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 20, 25, 50, 100]:
+                results[seed]['ap@k'][k] = cls.calculate_average_precision_at_k(calculated, k)
+         
             del dataframe
         return results
 

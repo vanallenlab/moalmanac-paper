@@ -1,0 +1,6 @@
+patient_id	feature_display	tested_subfeature	therapy_name	n_mut	n_wt	n_mut_tested	n_wt_tested	mut_ic50_median	mut_ic50_mean	mut_ic50_std	wt_ic50_median	wt_ic50_mean	wt_ic50_std	pvalue_mww	statistic
+Osteosarcoma-WABS378	ABL1--TTF1 Fusion	ABL1	Bosutinib	131	1692	86	860	6.294	11.391	14.121	5.967	12.082	14.429	0.491	38644.0
+Osteosarcoma-WABS378	ABL1--TTF1 Fusion	TTF1	Bosutinib	144	1679	94	852	6.98	14.426	17.234	5.927	11.754	14.034	0.183	36694.5
+Osteosarcoma-WABS378	ABL1--TTF1 Fusion	ABL1 Fusions	Bosutinib	14	1809	14	932	0.531	2.203	5.525	6.197	12.167	14.438	6.056e-07	11587.5
+Osteosarcoma-WABS378	ABL1--TTF1 Fusion	TTF1 Fusions	Bosutinib	0	1823	0	946				6.015	12.019	14.396	nan	
+Osteosarcoma-WABS378	ABL1--TTF1 Fusion	ABL1--TTF1	Bosutinib	0	1823	0	946				6.015	12.019	14.396	nan	

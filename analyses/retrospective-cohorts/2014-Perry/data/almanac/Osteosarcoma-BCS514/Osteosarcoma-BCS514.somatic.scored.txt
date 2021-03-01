@@ -1,0 +1,380 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Investigate Actionability	Investigate Actionability			Somatic Variant	TSC2	Missense	p.R611W	16	2120571	2120571	C	C	T	0.629	62.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	2	0	0	1	1	1	2
+Biologically Relevant				Somatic Variant	RB1	Nonsense	p.R552*	13	48955538	48955538	C	C	T	0.6522	23.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	1	2	1	1	1	1	2
+Biologically Relevant				Copy Number	SMARCA4	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		1	1	0	1	0	1	1
+Biologically Relevant				Copy Number	MLH1	Deletion		3	33854799	37136651						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		1	0	0	1	1	1	1
+Cancer Hotspot				Somatic Variant	KDR	Missense	p.S965R	4	55961047	55961047	T	T	G	0.3981	103.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	1	1	1	0	1	2
+Cancer Hotspot				Somatic Variant	MED12	Missense	p.P1745S	X	70356338	70356338	C	C	T	0.5667	30.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	1	0	1	0	1	2
+Cancer Hotspot				Somatic Variant	ATRX	Frameshift	p.I1049fs	X	76937603	76937603	T	T	-	0.4086	93.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	1	0	1	0	1	1
+Cancer Hotspot 3D				Somatic Variant	BAX	Missense	p.A82T	19	49459465	49459465	G	G	A	0.0514	214.0	2.5e-05	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	1	1	1	0	2
+Cancer Hotspot 3D				Copy Number	DNM2	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	1	1	0	1	1
+Cancer Hotspot 3D				Copy Number	CARM1	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	1	0	1	0	1
+Cancer Hotspot 3D				Somatic Variant	PPFIA3	Missense	p.A563V	19	49640003	49640003	C	C	T	0.4706	17.0	1.7e-05	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	1	0	0	1	2
+Cancer Hotspot 3D				Somatic Variant	F7	Missense	p.E270K	13	113772729	113772729	G	G	A	0.7071	99.0	1.6e-05	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	1	0	0	1	2
+Cancer Hotspot 3D				Somatic Variant	MYO10	Splice Site		5	16762152	16762152	A	A	G	0.5	12.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	SLC25A4	Amplification		4	185623404	186112600						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	CFHR3	Deletion		1	196743765	196749355						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Somatic Variant	COL22A1	Missense	p.E653D	8	139767743	139767743	C	C	A	0.3891	275.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	1	0	0	0	2
+Cancer Hotspot 3D				Copy Number	ZNF443	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	1	0	0	0	1
+Cancer Hotspot 3D				Copy Number	DOCK6	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	1	0	0	0	1
+Cancer Gene Census				Somatic Variant	MUC16	Missense	p.T11748I	19	9046388	9046388	G	G	A	0.4123	114.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	1	0	1	1
+Cancer Gene Census				Somatic Variant	CNBP	Frameshift	p.E83fs	3	128890059	128890060	CT	CT	-	0.3387	62.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	1	0	1	1
+Cancer Gene Census				Somatic Variant	UBR5	Frameshift	p.K2114fs	8	103289349	103289349	T	T	-	0.4524	126.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	1	0	1	1
+Cancer Gene Census				Somatic Variant	COL2A1	Nonsense	p.Q1475*	12	48367231	48367231	G	G	A	0.027000000000000003	185.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	1	0	1	1
+Cancer Gene Census				Somatic Variant	NF2	Frameshift	p.P170fs	22	30050708	30050708	A	A	-	0.5362	69.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	LYL1	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	1	0	1	1
+Cancer Gene Census				Somatic Variant	FAT4	Missense	p.T2553A	4	126369828	126369828	A	A	G	0.33899999999999997	59.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	1	0	0	2
+Cancer Gene Census				Somatic Variant	ROBO2	Frameshift	p.P1078fs	3	77657038	77657038	C	C	-	0.7692	26.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	1	0	0	1
+Cancer Gene Census				Somatic Variant	CRTC1	Frameshift	p.S569fs	19	18887992	18887993	-	-	C	0.2587	143.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	1	0	0	1
+Cancer Gene Census				Copy Number	PRKACA	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	1	0	0	1
+Cancer Gene Census				Copy Number	CALR	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	1	0	0	1
+Cancer Pathway				Somatic Variant	MCM4	Missense	p.D511G	8	48883168	48883168	A	A	G	0.0656	122.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	1	1	2
+Cancer Pathway				Somatic Variant	L1CAM	Missense	p.L318R	X	153135549	153135549	A	A	C	0.0221	543.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	1	1	2
+Cancer Pathway				Copy Number	KIR3DL1	Deletion		19	55263437	55287162						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	KIR2DL3	Deletion		19	55263437	55287162						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	1	1	1
+Cancer Pathway				Somatic Variant	ADCY1	Missense	p.G937R	7	45744207	45744207	G	G	A	0.3846	78.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	1	0	2
+Cancer Pathway				Copy Number	KIR2DL1	Deletion		19	55263437	55287162						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	1	0	1
+Cancer Module				Somatic Variant	FAT2	Missense	p.A3055V	5	150917383	150917383	G	G	A	0.7692	39.0	0.000634	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ABCA6	Missense	p.V1433D	17	67080459	67080459	A	A	T	0.3673	98.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ANKRD12	Missense	p.D176G	18	9211657	9211657	A	A	G	0.2703	37.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	TAS1R1	Missense	p.R261H	1	6634974	6634974	G	G	A	0.3186	113.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SLC45A4	Missense	p.I202L	8	142228982	142228982	T	T	G	0.4065	155.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SMARCA2	Missense	p.R525C	9	2060867	2060867	C	C	T	0.4	65.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	JAG2	Missense	p.R1120W	14	105609391	105609391	G	G	A	0.3913	69.0	8e-06	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SYT11	Missense	p.S248I	1	155838464	155838464	G	G	T	0.3784	74.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	IL1RL2	Missense	p.R279Q	2	102835524	102835524	G	G	A	0.2936	109.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	NRP1	Missense	p.D85G	10	33559779	33559779	T	T	C	0.2121	33.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	HTR2C	Missense	p.T228M	X	114141284	114141284	C	C	T	0.0145	553.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	PEX14	Missense	p.E211K	1	10687374	10687374	G	G	A	0.3087	149.0	1.6e-05	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	TTC7A	Missense	p.T709M	2	47278993	47278993	C	C	T	0.1786	28.0	3.3e-05	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	FCN3	Missense	p.Y195H	1	27697162	27697162	A	A	G	0.0122	328.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	NIPBL	Missense	p.G90C	5	36958243	36958243	G	G	T	0.2642	53.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	COL19A1	Missense	p.P652S	6	70859767	70859767	C	C	T	0.6364	33.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	MTHFD1L	Nonsense	p.R729*	6	151331014	151331014	C	C	T	0.3947	114.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	TMCC3	Missense	p.H393Q	12	94965466	94965466	G	G	C	0.2901	131.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	TUBGCP4	Splice Site	p.R242C	15	43677989	43677989	C	C	T	0.6286	35.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	CCNF	Missense	p.A12T	16	2481148	2481148	G	G	A	0.4493	69.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ABCC1	Missense	p.P255S	16	16130414	16130414	C	C	T	0.5345	58.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ADCY7	Missense	p.E319K	16	50332821	50332821	G	G	A	0.3817	186.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	CD97	Missense	p.G147D	19	14507247	14507247	G	G	A	0.2273	110.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	TTI1	Missense	p.Q781R	20	36634760	36634760	T	T	C	0.4684	79.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	VPS13D	Missense	p.A310V	1	12317132	12317132	C	C	T	0.3284	67.0	8e-06	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	B4GALT1	Missense	p.V271I	9	33120442	33120442	C	C	T	0.4012	172.0	7.4e-05	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	2
+Cancer Module				Copy Number	FCGBP	Amplification		19	40391746	40400052						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	MYO3A	Frameshift	p.P1189fs	10	26462760	26462760	A	A	-	0.2714	70.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	MYO15A	Frameshift	p.P958fs	17	18024983	18024983	C	C	-	0.4615	52.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	1
+Cancer Module				Copy Number	MLF1IP	Amplification		4	185623404	186112600						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	ZNF365	Frameshift	p.K399fs	10	64159513	64159513	A	A	-	0.8125	16.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	KCNQ1	Frameshift	p.A399fs	11	2608867	2608867	C	C	-	0.7475	99.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	MACF1	Missense	p.R5224H	1	39854170	39854170	G	G	A	0.5075	67.0	4.9e-05	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	PTPN22	Frameshift	p.P616fs	1	114377582	114377582	G	G	-	0.4536	97.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	CELSR3	Frameshift	p.G2651fs	3	48682488	48682488	C	C	-	0.7857	28.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	FSTL4	Frameshift	p.G790fs	5	132534946	132534947	-	-	C	0.6429	42.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	COL12A1	Frameshift	p.I210fs	6	75899297	75899298	-	-	T	0.6441	59.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	1
+Cancer Module				Copy Number	RGL3	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	IER2	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KLF1	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MAN2B1	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	C19orf53	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DCAF15	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SIGLEC5	Amplification		19	52133511	52150264						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PDCD6IP	Deletion		3	33854799	37136651						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	KIF21B	Splice Site	p.D1327Y	1	200950088	200950088	C	C	A	0.2551	98.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	ZBTB20	Frameshift	p.P619fs	3	114058003	114058003	G	G	-	0.3158	57.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	PPAT	Splice Site		4	57265568	57265568	T	T	C	0.0704	71.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	MYLIP	Missense	p.L153V	6	16142034	16142034	T	T	G	0.3889	36.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	MAP3K11	Missense	p.G566W	11	65365839	65365839	C	C	A	0.3396	53.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	KIRREL3	Missense	p.D508G	11	126306735	126306735	T	T	C	0.3021	96.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	PARP2	Missense	p.G429V	14	20824805	20824805	G	G	T	0.0901	111.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	PACS2	Frameshift	p.N774fs	14	105859066	105859067	AC	AC	-	0.3509	57.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	CX3CL1	Frameshift	p.L361fs	16	57416815	57416815	G	G	-	0.37799999999999995	82.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	NFIX	Missense	p.A377V	19	13192659	13192659	C	C	T	0.2424	99.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	CST7	Missense	p.C124F	20	24940281	24940281	G	G	T	0.6409999999999999	78.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	DEPDC5	Frameshift	p.K275fs	22	32193640	32193641	-	-	A	0.6154	26.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	1
+Cancer Module				Copy Number	CFHR1	Amplification		1	196799378	196801381						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GBA	Amplification		1	155182795	155204938						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NFIX	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PRDX2	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RAD23A	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	QTRT1	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	IL27RA	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ILF3	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	JUNB	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LDLR	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LPHN1	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNF490	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RNASEH2A	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	STX10	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TMED1	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TNPO2	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TRMT1	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	WDR83	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNF136	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CNN1	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CD97	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ACP5	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ASF1B	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ASNA1	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	C19orf57	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CACNA1A	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DHPS	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FARSA	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EPOR	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ELAVL3	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ACSL1	Amplification		4	185623404	186112600						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TM4SF5	Deletion		17	4686371	4689899						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CST7	Deletion		20	24645730	24938347						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	STAC	Deletion		3	33854799	37136651						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TRANK1	Deletion		3	33854799	37136651						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	EPHX2	Missense	p.V176M	8	27369416	27369416	G	G	A	0.0253	237.0	3.3e-05	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	1	1
+Cosmic				Somatic Variant	OR6N1	Missense	p.N84K	1	158736221	158736221	G	G	T	0.3596	89.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	SEC16B	Missense	p.L637R	1	177911147	177911147	A	A	C	0.0702	57.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	UHRF1BP1	Missense	p.N647D	6	34826072	34826072	A	A	G	0.375	120.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	KIF16B	Missense	p.R781C	20	16360306	16360306	G	G	A	0.6757	74.0	8e-06	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	RADIL	Missense	p.S899L	7	4841430	4841430	G	G	A	0.32	25.0	2.5e-05	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	TMEM67	Missense	p.V79A	8	94768018	94768018	T	T	C	0.44	25.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	GPR158	Missense	p.P374L	10	25701188	25701188	C	C	T	0.2667	150.0	4.9e-05	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	FAM120AOS	Missense	p.T107I	9	96214672	96214672	G	G	A	0.1818	33.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	RSPH6A	Missense	p.R10C	19	46318407	46318407	G	G	A	0.3182	22.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ATXN7L2	Missense	p.R302C	1	110031589	110031589	C	C	T	0.8636	22.0	1.6e-05	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	OR1J1	Missense	p.R253W	9	125239449	125239449	G	G	A	0.36	100.0	0.000807	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ZNF684	Missense	p.M113T	1	41012333	41012333	T	T	C	0.3023	43.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	CCDC19	Missense	p.V234M	1	159856368	159856368	C	C	T	0.484	374.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	MGAT5	Missense	p.M328L	2	135102505	135102505	A	A	T	0.0606	66.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	LRFN2	Missense	p.R655C	6	40360089	40360089	G	G	A	0.4	25.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	CLEC2L	Splice Site	p.F179L	7	139228978	139228978	T	T	C	0.4762	42.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	PRPF4	Missense	p.G141S	9	116044951	116044951	G	G	A	0.3667	30.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	TMEM8C	Missense	p.A188T	9	136379862	136379862	C	C	T	0.0408	147.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	C9orf172	Missense	p.R372C	9	139739980	139739980	C	C	T	0.3333	18.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	RAB18	Nonsense	p.R141*	10	27822899	27822899	C	C	T	0.5745	94.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	RAB38	Missense	p.M75T	11	87883102	87883102	A	A	G	0.4036	280.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	CCDC64	Missense	p.S307I	12	120509436	120509436	G	G	T	0.2712	59.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	GOLGA3	Missense	p.L547F	12	133378514	133378514	G	G	A	0.4182	55.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	PRKCSH	Missense	p.A215T	19	11556248	11556248	G	G	A	0.3043	115.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	WDR88	Missense	p.D206H	19	33639753	33639753	G	G	C	0.4088	181.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	CPXM1	Missense	p.L382M	20	2776991	2776991	G	G	T	0.1013	79.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	NYX	Missense	p.L123M	X	41333073	41333073	C	C	A	0.1667	18.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	TENM1	Missense	p.R1119M	X	123637499	123637499	C	C	A	0.4217	249.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	CETN2	Missense	p.S20N	X	151998249	151998249	C	C	T	0.3704	81.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	CCDC30	Nonsense	p.R266*	1	43032087	43032087	C	C	T	0.2568	74.0	8e-06	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	HYAL4	Missense	p.R210Q	7	123508956	123508956	G	G	A	0.3158	38.0	0.000148	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	NT5C1A	Missense	p.R111W	1	40131295	40131295	G	G	A	0.41100000000000003	73.0	0.000156	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	TBC1D16	Missense	p.R115C	17	77984395	77984395	G	G	A	0.4815	27.0	0.000248	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	2
+Cosmic				Copy Number	GLTPD2	Deletion		17	4686371	4689899						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Somatic Variant	EFCAB7	Frameshift	p.E99fs	1	63997599	63997599	A	A	-	0.4	20.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	1
+Cosmic				Copy Number	WDR17	Amplification		4	177056007	177098464						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF440	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Somatic Variant	NLRP14	Nonsense	p.W436*	11	7064565	7064565	G	G	A	0.0435	92.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	SERPINA9	Missense	p.K276N	14	94933520	94933520	C	C	A	0.2526	95.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF439	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Somatic Variant	DYSF	Missense	p.R1756Q	2	71892384	71892384	G	G	A	0.0252	159.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	PARD3B	Missense	p.K769N	2	206166309	206166309	A	A	C	0.3953	43.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	KBTBD12	Missense	p.W186L	3	127702985	127702985	G	G	T	0.2371	194.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	L3MBTL3	Frameshift	p.K478fs	6	130407306	130407306	A	A	-	0.7067	75.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	1
+Cosmic				Copy Number	MTX1	Amplification		1	155182795	155204938						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RFX1	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MAST1	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF441	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF799	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF878	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCDC159	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KIAA1430	Amplification		4	185623404	186112600						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	VMO1	Deletion		17	4686371	4689899						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	EPM2AIP1	Deletion		3	33854799	37136651						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Somatic Variant	DDX59	Frameshift	p.N577fs	1	200594042	200594042	T	T	-	0.2254	71.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	TP53BP2	Frameshift	p.K198fs	1	223991931	223991931	T	T	-	0.4821	195.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	LOXL3	Frameshift	p.G275fs	2	74763924	74763924	C	C	-	0.3462	130.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	CAPN7	Frameshift	p.VK494fs	3	15282053	15282054	-	-	A	0.3061	49.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	LRRFIP2	Missense	p.E142K	3	37138121	37138121	C	C	T	0.4286	7.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	GPR124	Frameshift	p.C1084fs	8	37699108	37699108	C	C	-	0.65	20.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	BAI1	Missense	p.Q375H	8	143558542	143558542	G	G	T	0.4444	36.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	KLC2	Frameshift	p.T568fs	11	66033664	66033664	C	C	-	0.3	60.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	GPR114	Frameshift	p.W201fs	16	57600566	57600566	G	G	-	0.3333	129.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	APMAP	Missense	p.F373L	20	24944581	24944581	G	G	T	0.6341	82.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	APMAP	Nonsense	p.Q351*	20	24944649	24944649	G	G	A	0.4138	29.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	DDX26B	Frameshift	p.F119fs	X	134680317	134680317	T	T	-	0.2895	38.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	1
+Cosmic				Copy Number	NANOS3	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PALM3	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PODNL1	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRKCSH	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RAB3D	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RLN3	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NACC1	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MRI1	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GCDH	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	HOOK2	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KANK2	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF491	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF563	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF564	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF625	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF627	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF653	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF69	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF700	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF709	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF763	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF788	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF791	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF823	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF833P	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF844	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZSWIM4	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF442	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF44	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RTBDN	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SAMD1	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SPC24	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SYCE2	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM205	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TSPAN16	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	YIPF2	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF20	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF433	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GADD45GIP1	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	BEST2	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C19orf38	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C19orf43	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C19orf52	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C19orf67	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C19orf80	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CC2D1A	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCDC130	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCDC151	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ECSIT	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DAND5	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ELOF1	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DNASE2	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FBXW9	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SIGLEC14	Amplification		19	52133511	52150264						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	HELT	Amplification		4	185623404	186112600						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	HERC2P3	Deletion		15	20169659	20646147						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SYNDIG1	Deletion		20	24645730	24938347						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DCLK3	Deletion		3	33854799	37136651						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRRFIP2	Deletion		3	33854799	37136651						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ARPP21	Deletion		3	33854799	37136651						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DLG2	Deletion		11	84245361	84246098						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ARHGAP11B	Deletion		15	30918772	30928085						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	1
+Cosmic				Somatic Variant	TSPAN16	Missense	p.T146M	19	11417341	11417341	C	C	T	0.3471	121.0	1.6e-05	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	1
+VUS				Somatic Variant	EMC1	Deletion	p.S569del	1	19559192	19559194	AGG	AGG	-	0.2577	194.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	0
+VUS				Somatic Variant	NXPE4	Missense	p.R129C	11	114453455	114453455	G	G	A	0.3333	78.0	0.000198	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	0
+VUS				Somatic Variant	CACTIN	Missense	p.Y191C	19	3623756	3623756	T	T	C	0.625	24.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	0
+VUS				Somatic Variant	ITIH6	Frameshift	p.N445fs	X	54785173	54785173	T	T	-	0.4839	31.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	0
+VUS				Somatic Variant	SPIDR	Missense	p.A444V	8	48511725	48511725	C	C	T	0.4815	27.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	0
+VUS				Somatic Variant	RP11-219A15.1	Frameshift	p.QG32fs	17	16593809	16593810	-	-	G	0.4151	53.0	0.0	0.0		0												Osteosarcoma-BCS514	Osteosarcoma-BCS514-Tumor-SM-2RCAR	Osteosarcoma-BCS514-Normal-SM-2RCC7	0	0	0	0	0	0	0
+VUS				Copy Number	GBAP1	Amplification		1	155182795	155204938						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-263K19.6	Amplification		1	155182795	155204938						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	PRR20A	Amplification		13	57715187	57717377						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL192P	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL231P	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL298P	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL619P	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL669P	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP464	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR638	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC005546.2	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR181C	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR181D	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR199A1	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR23A	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR24-2	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR27A	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4748	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR5684	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR5695	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL833P	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC005513.1	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP465	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	ZNF625-ZNF20	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP467	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD41	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	SWSAP1	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	WDR83OS	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP466	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	hsa-mir-1199	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-499B15.8	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-55O6.4	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-5E10.3	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-215O4.4	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-239J10.1	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-250I14.3	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-250I14.6	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-359D24.3	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-398G3.6	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-425F1.2	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-499B15.6	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-499B15.7	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-510F12.2	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2192J16.22	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-510F12.4	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-510F12.6	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-548K16.1	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-548K16.2	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2006C1.10	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2006C1.12	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2006C1.2	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2189E23.1	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2189E23.2	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2192J16.11	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2192J16.20	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-55O6.12	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-55O6.10	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC007787.2	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC008686.1	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC010422.1	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC020934.1	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC092069.1	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2192J16.21	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-425F1.4	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2192J16.24	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-3105H18.13	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-3252C9.2	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2192J16.26	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	DKFZP761J1410	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-3105H18.16	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-3105H18.18	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-3105H18.14	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2666L21.1	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2265O21.3	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2265O21.7	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2342J14.6	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2659N19.10	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2659N19.2	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2659N19.4	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2659N19.9	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-3105H18.7	Amplification		19	10781468	14508658						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-701P16.2	Amplification		4	185623404	186112600						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3945	Amplification		4	185623404	186112600						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-386B13.4	Amplification		4	185623404	186112600						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4455	Amplification		4	185623404	186112600						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-386B13.3	Amplification		4	185623404	186112600						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC093824.1	Amplification		4	185623404	186112600						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-701P16.1	Amplification		4	185623404	186112600						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-701P16.4	Amplification		4	185623404	186112600						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-701P16.5	Amplification		4	185623404	186112600						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHV3OR15-7	Deletion		15	20169659	20646147						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL584P	Deletion		15	20169659	20646147						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	CHEK2P2	Deletion		15	20169659	20646147						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC026495.1	Deletion		15	20169659	20646147						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHD2OR15-2A	Deletion		15	20169659	20646147						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHV1OR15-9	Deletion		15	20169659	20646147						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHD3OR15-3A	Deletion		15	20169659	20646147						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHD1OR15-1A	Deletion		15	20169659	20646147						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHD5OR15-5A	Deletion		15	20169659	20646147						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHD4OR15-4A	Deletion		15	20169659	20646147						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-173D3.1	Deletion		15	20169659	20646147						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-509A17.3	Deletion		15	20169659	20646147						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-860P4.2	Deletion		20	24645730	24938347						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-129K12.3	Deletion		3	33854799	37136651						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP227	Deletion		3	33854799	37136651						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC018359.1	Deletion		3	33854799	37136651						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC018359.3	Deletion		3	33854799	37136651						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	HSPD1P6	Deletion		3	33854799	37136651						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-243P	Deletion		3	33854799	37136651						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6ATAC4P	Deletion		3	33854799	37136651						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-129K12.1	Deletion		3	33854799	37136651						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC123023.1	Deletion		3	33854799	37136651						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-129K12.4	Deletion		3	33854799	37136651						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	ARPP21-AS1	Deletion		3	33854799	37136651						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR128-2	Deletion		3	33854799	37136651						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-932O9.7	Deletion		15	30918772	30928085						0.0	0.0		0												Osteosarcoma-BCS514	BCS514_T		0	0	0	0	0	0	0

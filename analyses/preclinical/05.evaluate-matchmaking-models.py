@@ -122,12 +122,12 @@ if __name__ == "__main__":
                             default='formatted/sanger.gdsc.pairwise-sensitive.txt')
     arg_parser.add_argument('--almanac',
                             help='File handle to molecular oncology almanac',
-                            default=f'{moalmanac_method_datasources}/almanac/almanac.0.4.7.json')
+                            default=f'{moalmanac_method_datasources}/moalmanac/moalmanac.json')
     arg_parser.add_argument('--cgc',
                             help='File handle to cancer gene census', 
                             default=f'{moalmanac_method_datasources}/cancergenecensus/cancer_gene_census_v85.tsv')
     arg_parser.add_argument('--therapy_mappings',
-                            help='File handle to mappings of Molecular Oncology Almanac therapy to GDSC. Not needed?',
+                            help='File handle to mappings of Molecular Oncology Almanac therapy to GDSC.',
                             default='almanac-gdsc-mappings.json')
     arg_parser.add_argument('--naming',
                             help='Naming convention for sample names.',

@@ -1,0 +1,59 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Cancer Hotspot				Somatic Variant	PREX2	Missense	p.I636F	8	68995502	68995502.0	A	A	T	0.0704	71.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-8518	KIRP-A4-8518-TP	KIRP-A4-8518-NB	0	1	0	1	0	0	2
+Cancer Module				Somatic Variant	KCNK5	Splice Site	p.G212S	6	39161945	39161945.0	C	C	T	0.2676	71.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-8518	KIRP-A4-8518-TP	KIRP-A4-8518-NB	0	0	0	0	0	1	2
+Cancer Module				Rearrangement	LEPR	Fusion	LEPROT--LEPR	chr1	65891061							0.0	0.0		0	6.0	LEPROT	chr1	65891061.0	LEPR	chr1	66031229.0					KIRP-A4-8518			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	BCKDHB	Fusion	BCKDHB--RP11-250B2.3	chr6	80982938							0.0	0.0		0	6.0	BCKDHB	chr6	80982938.0	RP11-250B2.3	chr6	81172589.0					KIRP-A4-8518			0	0	0	0	0	1	1
+Cosmic				Somatic Variant	TDRD6	Missense	p.N794K	6	46658247	46658247.0	C	C	G	0.13699999999999998	73.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-8518	KIRP-A4-8518-TP	KIRP-A4-8518-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	LINGO4	Missense	p.K181N	1	151774638	151774638.0	C	C	G	0.0667	90.0	8e-06	0.0		0								0.0	0.0	0.0		KIRP-A4-8518	KIRP-A4-8518-TP	KIRP-A4-8518-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	MRVI1	Missense	p.R545T	11	10626061	10626061.0	C	C	G	0.2308	78.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-8518	KIRP-A4-8518-TP	KIRP-A4-8518-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	USP19	Frameshift	p.G1075fs	3	49148785	49148785.0	C	C	-	0.1932	88.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-8518	KIRP-A4-8518-TP	KIRP-A4-8518-NB	0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4	Fusion	MT-ND4--MT-RNR2	chrM	10971							0.0	0.0		0	325.0	MT-ND4	chrM	10971.0	MT-RNR2	chrM	2251.0					KIRP-A4-8518			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4	Fusion	MT-ND4--MT-ND2	chrM	10974							0.0	0.0		0	315.0	MT-ND4	chrM	10974.0	MT-ND2	chrM	5354.0					KIRP-A4-8518			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4	Fusion	MT-ND4--MT-CO1	chrM	11540							0.0	0.0		0	371.0	MT-ND4	chrM	11540.0	MT-CO1	chrM	6452.0					KIRP-A4-8518			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4	Fusion	MT-ND4--MT-ATP8	chrM	12022							0.0	0.0		0	239.0	MT-ND4	chrM	12022.0	MT-ATP8	chrM	8441.0					KIRP-A4-8518			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4	Fusion	MT-ND4--MT-ATP6	chrM	11211							0.0	0.0		0	387.0	MT-ND4	chrM	11211.0	MT-ATP6	chrM	8927.0					KIRP-A4-8518			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND3	Fusion	MT-ND3--MT-ATP8	chrM	10121							0.0	0.0		0	78.0	MT-ND3	chrM	10121.0	MT-ATP8	chrM	8423.0					KIRP-A4-8518			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND3	Fusion	MT-ND3--MT-ATP6	chrM	10109							0.0	0.0		0	111.0	MT-ND3	chrM	10109.0	MT-ATP6	chrM	8950.0					KIRP-A4-8518			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND2	Fusion	MT-ND2--MT-RNR2	chrM	5368							0.0	0.0		0	127.0	MT-ND2	chrM	5368.0	MT-RNR2	chrM	1699.0					KIRP-A4-8518			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CYB	Fusion	MT-CYB--MT-ND4	chrM	15730							0.0	0.0		0	409.0	MT-CYB	chrM	15730.0	MT-ND4	chrM	10979.0					KIRP-A4-8518			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CYB	Fusion	MT-CYB--MT-CO1	chrM	15536							0.0	0.0		0	126.0	MT-CYB	chrM	15536.0	MT-CO1	chrM	6447.0					KIRP-A4-8518			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CYB	Fusion	MT-CYB--MT-ATP8	chrM	14806							0.0	0.0		0	98.0	MT-CYB	chrM	14806.0	MT-ATP8	chrM	8472.0					KIRP-A4-8518			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CYB	Fusion	MT-CYB--MT-ATP6	chrM	15699							0.0	0.0		0	201.0	MT-CYB	chrM	15699.0	MT-ATP6	chrM	8660.0					KIRP-A4-8518			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CO1	Fusion	MT-CO1--MT-RNR2	chrM	6506							0.0	0.0		0	176.0	MT-CO1	chrM	6506.0	MT-RNR2	chrM	1678.0					KIRP-A4-8518			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-ATP6--MT-RNR2	chrM	8664							0.0	0.0		0	193.0	MT-ATP6	chrM	8664.0	MT-RNR2	chrM	2239.0					KIRP-A4-8518			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-ATP6--MT-ND2	chrM	9086							0.0	0.0		0	208.0	MT-ATP6	chrM	9086.0	MT-ND2	chrM	5337.0					KIRP-A4-8518			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-ATP6--MT-ND1	chrM	8783							0.0	0.0		0	133.0	MT-ATP6	chrM	8783.0	MT-ND1	chrM	3828.0					KIRP-A4-8518			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-ATP6--MT-CO1	chrM	8647							0.0	0.0		0	164.0	MT-ATP6	chrM	8647.0	MT-CO1	chrM	6547.0					KIRP-A4-8518			0	0	0	0	0	0	1
+Cosmic				Rearrangement	LEPROT	Fusion	LEPROT--LEPR	chr1	65891061							0.0	0.0		0	6.0	LEPROT	chr1	65891061.0	LEPR	chr1	66031229.0					KIRP-A4-8518			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND1	Fusion	MTND4P12--MT-ND1	chr5	134262741							0.0	0.0		0	17.0	MTND4P12	chr5	134262741.0	MT-ND1	chrM	3672.0					KIRP-A4-8518			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND2	Fusion	MT-ND4--MT-ND2	chrM	10974							0.0	0.0		0	315.0	MT-ND4	chrM	10974.0	MT-ND2	chrM	5354.0					KIRP-A4-8518			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CO1	Fusion	MT-ND4--MT-CO1	chrM	11540							0.0	0.0		0	371.0	MT-ND4	chrM	11540.0	MT-CO1	chrM	6452.0					KIRP-A4-8518			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP8	Fusion	MT-ND4--MT-ATP8	chrM	12022							0.0	0.0		0	239.0	MT-ND4	chrM	12022.0	MT-ATP8	chrM	8441.0					KIRP-A4-8518			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-ND4--MT-ATP6	chrM	11211							0.0	0.0		0	387.0	MT-ND4	chrM	11211.0	MT-ATP6	chrM	8927.0					KIRP-A4-8518			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP8	Fusion	MT-ND3--MT-ATP8	chrM	10121							0.0	0.0		0	78.0	MT-ND3	chrM	10121.0	MT-ATP8	chrM	8423.0					KIRP-A4-8518			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-ND3--MT-ATP6	chrM	10109							0.0	0.0		0	111.0	MT-ND3	chrM	10109.0	MT-ATP6	chrM	8950.0					KIRP-A4-8518			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4	Fusion	MT-CYB--MT-ND4	chrM	15730							0.0	0.0		0	409.0	MT-CYB	chrM	15730.0	MT-ND4	chrM	10979.0					KIRP-A4-8518			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CO1	Fusion	MT-CYB--MT-CO1	chrM	15536							0.0	0.0		0	126.0	MT-CYB	chrM	15536.0	MT-CO1	chrM	6447.0					KIRP-A4-8518			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP8	Fusion	MT-CYB--MT-ATP8	chrM	14806							0.0	0.0		0	98.0	MT-CYB	chrM	14806.0	MT-ATP8	chrM	8472.0					KIRP-A4-8518			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-CYB--MT-ATP6	chrM	15699							0.0	0.0		0	201.0	MT-CYB	chrM	15699.0	MT-ATP6	chrM	8660.0					KIRP-A4-8518			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND2	Fusion	MT-ATP6--MT-ND2	chrM	9086							0.0	0.0		0	208.0	MT-ATP6	chrM	9086.0	MT-ND2	chrM	5337.0					KIRP-A4-8518			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND1	Fusion	MT-ATP6--MT-ND1	chrM	8783							0.0	0.0		0	133.0	MT-ATP6	chrM	8783.0	MT-ND1	chrM	3828.0					KIRP-A4-8518			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CO1	Fusion	MT-ATP6--MT-CO1	chrM	8647							0.0	0.0		0	164.0	MT-ATP6	chrM	8647.0	MT-CO1	chrM	6547.0					KIRP-A4-8518			0	0	0	0	0	0	1
+Cosmic				Rearrangement	IGLL5	Fusion	IGLV1-47--IGLL5	chr22	22712608							0.0	0.0		0	76.0	IGLV1-47	chr22	22712608.0	IGLL5	chr22	23235962.0					KIRP-A4-8518			0	0	0	0	0	0	1
+VUS				Copy Number		Amplification		6	91756206	91963800.0						0.0	0.0		0												KIRP-A4-8518	TCGA-A4-8518-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC006150.2	Deletion		7	14817554	14818166.0						0.0	0.0		0												KIRP-A4-8518	TCGA-A4-8518-01		0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-96H19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46848924							0.0	0.0		0	19.0	RP11-96H19.1	chr12	46848924.0	RP11-446N19.1	chr12	47046173.0					KIRP-A4-8518			0	0	0	0	0	0	0
+VUS				Rearrangement	MTND4P12	Fusion	MTND4P12--MT-ND1	chr5	134262741							0.0	0.0		0	17.0	MTND4P12	chr5	134262741.0	MT-ND1	chrM	3672.0					KIRP-A4-8518			0	0	0	0	0	0	0
+VUS				Rearrangement	IGLV1-47	Fusion	IGLV1-47--IGLL5	chr22	22712608							0.0	0.0		0	76.0	IGLV1-47	chr22	22712608.0	IGLL5	chr22	23235962.0					KIRP-A4-8518			0	0	0	0	0	0	0
+VUS				Rearrangement	IGLV1-47	Fusion	IGLV1-47--IGLJ1	chr22	22712608							0.0	0.0		0	28.0	IGLV1-47	chr22	22712608.0	IGLJ1	chr22	23235962.0					KIRP-A4-8518			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKV2D-28	Fusion	IGKV2D-28--IGKJ1	chr2	89999559							0.0	0.0		0	48.0	IGKV2D-28	chr2	89999559.0	IGKJ1	chr2	89161433.0					KIRP-A4-8518			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKV2D-28	Fusion	IGKV2D-28--AC096579.7	chr2	89999559							0.0	0.0		0	85.0	IGKV2D-28	chr2	89999559.0	AC096579.7	chr2	89161433.0					KIRP-A4-8518			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-446N19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46848924							0.0	0.0		0	19.0	RP11-96H19.1	chr12	46848924.0	RP11-446N19.1	chr12	47046173.0					KIRP-A4-8518			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-RNR2	Fusion	MT-ND4--MT-RNR2	chrM	10971							0.0	0.0		0	325.0	MT-ND4	chrM	10971.0	MT-RNR2	chrM	2251.0					KIRP-A4-8518			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-RNR2	Fusion	MT-ND2--MT-RNR2	chrM	5368							0.0	0.0		0	127.0	MT-ND2	chrM	5368.0	MT-RNR2	chrM	1699.0					KIRP-A4-8518			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-RNR2	Fusion	MT-CO1--MT-RNR2	chrM	6506							0.0	0.0		0	176.0	MT-CO1	chrM	6506.0	MT-RNR2	chrM	1678.0					KIRP-A4-8518			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-RNR2	Fusion	MT-ATP6--MT-RNR2	chrM	8664							0.0	0.0		0	193.0	MT-ATP6	chrM	8664.0	MT-RNR2	chrM	2239.0					KIRP-A4-8518			0	0	0	0	0	0	0
+VUS				Rearrangement	IGLJ1	Fusion	IGLV1-47--IGLJ1	chr22	22712608							0.0	0.0		0	28.0	IGLV1-47	chr22	22712608.0	IGLJ1	chr22	23235962.0					KIRP-A4-8518			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKJ1	Fusion	IGKV2D-28--IGKJ1	chr2	89999559							0.0	0.0		0	48.0	IGKV2D-28	chr2	89999559.0	IGKJ1	chr2	89161433.0					KIRP-A4-8518			0	0	0	0	0	0	0
+VUS				Rearrangement	AC096579.7	Fusion	IGKV2D-28--AC096579.7	chr2	89999559							0.0	0.0		0	85.0	IGKV2D-28	chr2	89999559.0	AC096579.7	chr2	89161433.0					KIRP-A4-8518			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-250B2.3	Fusion	BCKDHB--RP11-250B2.3	chr6	80982938							0.0	0.0		0	6.0	BCKDHB	chr6	80982938.0	RP11-250B2.3	chr6	81172589.0					KIRP-A4-8518			0	0	0	0	0	0	0

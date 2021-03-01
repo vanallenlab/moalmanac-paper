@@ -47,7 +47,6 @@ Copy Number	hsa-mir-3180-3			16	2158035	21281214.0														MO_1249	MO_1249-
 Copy Number	hsa-mir-3171			14	22964892	29237957.0														MO_1249	MO_1249-Tumor		0
 Copy Number	hsa-mir-3149			8	48114372	146279545.0														MO_1249	MO_1249-Tumor		0
 Copy Number	hsa-mir-150			19	40384169	54722709.0														MO_1249	MO_1249-Tumor		0
-Somatic Variant	hsa-mir-125a	lincRNA		19	52195904	52195904.0	G	G	A	0.0168	298.0									MO_1249	MO_1249-Tumor	MO_1249-Normal	0
 Copy Number	hsa-mir-125a			19	40384169	54722709.0														MO_1249	MO_1249-Tumor		0
 Copy Number	hsa-mir-1253			17	1540151	3352445.0														MO_1249	MO_1249-Tumor		0
 Copy Number	hsa-mir-1199			19	111598	36109369.0														MO_1249	MO_1249-Tumor		0
@@ -1133,7 +1132,6 @@ Copy Number	XKR3			22	16449806	29108007.0														MO_1249	MO_1249-Tumor		0
 Copy Number	XK			X	200983	49208354.0														MO_1249	MO_1249-Tumor		0
 Copy Number	XIST			X	49298020	119761023.0														MO_1249	MO_1249-Tumor		0
 Copy Number	XIRP2-AS1			2	132290356	202074287.0														MO_1249	MO_1249-Tumor		0
-Somatic Variant	XIRP2	Intron		2	168104114	168104114.0	A	A	G	0.2257	288.0									MO_1249	MO_1249-Tumor	MO_1249-Normal	0
 Copy Number	XIRP2			2	132290356	202074287.0														MO_1249	MO_1249-Tumor		0
 Copy Number	XIRP1			3	367749	49724237.0														MO_1249	MO_1249-Tumor		0
 Copy Number	XIAP-AS1			X	120183217	153735662.0														MO_1249	MO_1249-Tumor		0
@@ -1534,9 +1532,10 @@ Rearrangement	VAMP1--GTSE1	Fusion	VAMP1--GTSE1	12	6574056							0.0	VAMP1	12	657
 Copy Number	VAMP1			12	176602	8327050.0														MO_1249	MO_1249-Tumor		0
 Copy Number	VAC14-AS1			16	68157026	70843912.0														MO_1249	MO_1249-Tumor		0
 Copy Number	VAC14			16	68157026	70843912.0														MO_1249	MO_1249-Tumor		0
-Somatic Variant	Unknown	IGR		7	121164478	121164478.0	T	T	C	0.1336	292.0									MO_1249	MO_1249-Tumor	MO_1249-Normal	0
+Somatic Variant	Unknown	IGR		2	27805878	27805895.0	AGGGCTAGGCGGAGCCGA	AGGGCTAGGCGGAGCCGA	-	0.2821	156.0									MO_1249	MO_1249-Tumor	MO_1249-Normal	0
+Somatic Variant	Unknown	IGR		GL000220.1	119163	119183.0	CCGACGCGAGGGCGCTGATTC	CCGACGCGAGGGCGCTGATTC	-	0.0319	533.0									MO_1249	MO_1249-Tumor	MO_1249-Normal	0
 Copy Number	UXT			X	200983	49208354.0														MO_1249	MO_1249-Tumor		0
-Somatic Variant	UXS1	Intron		2	106713358	106713375.0	AAACCCCATATGTGGTGT	AAACCCCATATGTGGTGT	-	0.08	275.0									MO_1249	MO_1249-Tumor	MO_1249-Normal	0
+Somatic Variant	UXS1	Intron		2	106713358	106713375.0	AAACCCCATATGTGGTGT	AAACCCCATATGTGGTGT	-	0.0824	267.0									MO_1249	MO_1249-Tumor	MO_1249-Normal	0
 Copy Number	UXS1			2	98128515	132287266.0														MO_1249	MO_1249-Tumor		0
 Copy Number	UVSSA			4	87340	189068528.0														MO_1249	MO_1249-Tumor		0
 Copy Number	UVRAG			11	73390767	100221601.0														MO_1249	MO_1249-Tumor		0
@@ -2444,7 +2443,6 @@ Copy Number	TRBV7-8			7	108212389	143454751.0														MO_1249	MO_1249-Tumor
 Copy Number	TRBV7-7			7	108212389	143454751.0														MO_1249	MO_1249-Tumor		0
 Copy Number	TRBV7-6			7	108212389	143454751.0														MO_1249	MO_1249-Tumor		0
 Copy Number	TRBV7-4			7	108212389	143454751.0														MO_1249	MO_1249-Tumor		0
-Somatic Variant	TRBV7-3	RNA		7	142247221	142247221.0	G	G	T	0.5435	460.0									MO_1249	MO_1249-Tumor	MO_1249-Normal	0
 Copy Number	TRBV7-3			7	108212389	143454751.0														MO_1249	MO_1249-Tumor		0
 Copy Number	TRBV7-1			7	108212389	143454751.0														MO_1249	MO_1249-Tumor		0
 Copy Number	TRBV6-9			7	108212389	143454751.0														MO_1249	MO_1249-Tumor		0
@@ -3376,7 +3374,6 @@ Copy Number	TFPI			2	132290356	202074287.0														MO_1249	MO_1249-Tumor		0
 Copy Number	TFP1			3	99509856	146251339.0														MO_1249	MO_1249-Tumor		0
 Copy Number	TFIP11			22	16449806	29108007.0														MO_1249	MO_1249-Tumor		0
 Copy Number	TFG			3	99509856	146251339.0														MO_1249	MO_1249-Tumor		0
-Somatic Variant	TFF3	5'UTR		21	43735599	43735599.0	C	C	G	0.1342	663.0									MO_1249	MO_1249-Tumor	MO_1249-Normal	0
 Copy Number	TFF3			21	43274929	48083468.0														MO_1249	MO_1249-Tumor		0
 Copy Number	TFF2			21	43274929	48083468.0														MO_1249	MO_1249-Tumor		0
 Copy Number	TFF1			21	43274929	48083468.0														MO_1249	MO_1249-Tumor		0
@@ -6269,7 +6266,6 @@ Copy Number	S100A11			1	144864326	207697354.0														MO_1249	MO_1249-Tumor
 Copy Number	S100A10			1	144864326	207697354.0														MO_1249	MO_1249-Tumor		0
 Copy Number	S100A1			1	144864326	207697354.0														MO_1249	MO_1249-Tumor		0
 Copy Number	RYR3			15	22739445	43897599.0														MO_1249	MO_1249-Tumor		0
-Somatic Variant	RYR2	Intron		1	237774052	237774052.0	C	C	T	0.1754	211.0									MO_1249	MO_1249-Tumor	MO_1249-Normal	0
 Copy Number	RYR2			1	224868730	249212564.0														MO_1249	MO_1249-Tumor		0
 Copy Number	RYR1			19	36431744	39234807.0														MO_1249	MO_1249-Tumor		0
 Copy Number	RYK			3	99509856	146251339.0														MO_1249	MO_1249-Tumor		0
@@ -18998,7 +18994,6 @@ Copy Number	RIN3			14	74204002	106068064.0														MO_1249	MO_1249-Tumor		0
 Copy Number	RIN2			20	68410	29966196.0														MO_1249	MO_1249-Tumor		0
 Copy Number	RIN1			11	6816941	68030388.0														MO_1249	MO_1249-Tumor		0
 Copy Number	RIMS4			20	29977035	47558526.0														MO_1249	MO_1249-Tumor		0
-Somatic Variant	RIMS3	5'UTR		1	41107604	41107604.0	C	C	T	0.35	300.0									MO_1249	MO_1249-Tumor	MO_1249-Normal	0
 Copy Number	RIMS3			1	40307587	47399753.0														MO_1249	MO_1249-Tumor		0
 Copy Number	RIMS2			8	48114372	146279545.0														MO_1249	MO_1249-Tumor		0
 Copy Number	RIMS1			6	32002771	110567465.0														MO_1249	MO_1249-Tumor		0
@@ -19101,7 +19096,7 @@ Copy Number	RGMA			15	74374852	102463264.0														MO_1249	MO_1249-Tumor		0
 Copy Number	RGL4			22	16449806	29108007.0														MO_1249	MO_1249-Tumor		0
 Copy Number	RGL3			19	111598	36109369.0														MO_1249	MO_1249-Tumor		0
 Copy Number	RGL2			6	32002771	110567465.0														MO_1249	MO_1249-Tumor		0
-Somatic Variant	RGL1	Silent	p.R688R	1	183885790	183885790.0	C	C	T	0.3477	417.0									MO_1249	MO_1249-Tumor	MO_1249-Normal	0
+Somatic Variant	RGL1	Silent	p.R653R	1	183885790	183885790.0	C	C	T	0.3477	417.0									MO_1249	MO_1249-Tumor	MO_1249-Normal	0
 Copy Number	RGL1			1	144864326	207697354.0														MO_1249	MO_1249-Tumor		0
 Copy Number	RGCC			13	19748301	103449361.0														MO_1249	MO_1249-Tumor		0
 Copy Number	RGAG4			X	49298020	119761023.0														MO_1249	MO_1249-Tumor		0
@@ -19114,7 +19109,7 @@ Copy Number	RFX6			6	111631304	161032755.0														MO_1249	MO_1249-Tumor		0
 Copy Number	RFX5			1	144864326	207697354.0														MO_1249	MO_1249-Tumor		0
 Copy Number	RFX4			12	101736873	108029169.0														MO_1249	MO_1249-Tumor		0
 Rearrangement	RFX3--CSNK1A1	Fusion	RFX3--CSNK1A1	9	3525747							0.0	RFX3	9	3525747.0	CSNK1A1	5	148878856.0		MO_1249			0
-Somatic Variant	RFX3	Intron		9	3248259	3248270.0	TAAAAAAAAGTC	TAAAAAAAAGTC	-	0.3784	37.0									MO_1249	MO_1249-Tumor	MO_1249-Normal	0
+Somatic Variant	RFX3	Intron		9	3248259	3248270.0	TAAAAAAAAGTC	TAAAAAAAAGTC	-	0.3415	41.0									MO_1249	MO_1249-Tumor	MO_1249-Normal	0
 Copy Number	RFX3			9	215398	69382297.0														MO_1249	MO_1249-Tumor		0
 Copy Number	RFX2			19	111598	36109369.0														MO_1249	MO_1249-Tumor		0
 Copy Number	RFX1			19	111598	36109369.0														MO_1249	MO_1249-Tumor		0
@@ -19213,7 +19208,6 @@ Copy Number	RDH10			8	48114372	146279545.0														MO_1249	MO_1249-Tumor		0
 Copy Number	RD3L			14	74204002	106068064.0														MO_1249	MO_1249-Tumor		0
 Copy Number	RD3			1	207753761	224585930.0														MO_1249	MO_1249-Tumor		0
 Copy Number	RCVRN			17	6510284	16875391.0														MO_1249	MO_1249-Tumor		0
-Somatic Variant	RCSD1	Intron		1	167667086	167667086.0	G	G	T	0.1472	163.0									MO_1249	MO_1249-Tumor	MO_1249-Normal	0
 Copy Number	RCSD1			1	144864326	207697354.0														MO_1249	MO_1249-Tumor		0
 Copy Number	RCOR3			1	207753761	224585930.0														MO_1249	MO_1249-Tumor		0
 Copy Number	RCOR2			11	6816941	68030388.0														MO_1249	MO_1249-Tumor		0
@@ -20859,7 +20853,6 @@ Copy Number	PHF2			9	94809552	115818970.0														MO_1249	MO_1249-Tumor		0
 Copy Number	PHF19			9	123538506	124103688.0														MO_1249	MO_1249-Tumor		0
 Copy Number	PHF17			4	87340	189068528.0														MO_1249	MO_1249-Tumor		0
 Copy Number	PHF16			X	200983	49208354.0														MO_1249	MO_1249-Tumor		0
-Somatic Variant	PHF15	3'UTR		5	133914418	133914418.0	G	G	A	0.2494	385.0									MO_1249	MO_1249-Tumor	MO_1249-Normal	0
 Copy Number	PHF15			5	82969344	147051371.0														MO_1249	MO_1249-Tumor		0
 Copy Number	PHF14			7	195732	72420032.0														MO_1249	MO_1249-Tumor		0
 Copy Number	PHF13			1	70010	8617584.0														MO_1249	MO_1249-Tumor		0
@@ -22170,6 +22163,7 @@ Copy Number	NTF3			12	176602	8327050.0														MO_1249	MO_1249-Tumor		0
 Copy Number	NTAN1			16	2158035	21281214.0														MO_1249	MO_1249-Tumor		0
 Copy Number	NT5M			17	16979103	18035882.0														MO_1249	MO_1249-Tumor		0
 Copy Number	NT5E			6	32002771	110567465.0														MO_1249	MO_1249-Tumor		0
+Somatic Variant	NT5DC4	Silent	p.L341L	2	113483095	113483095.0	G	G	C	0.35600000000000004	309.0									MO_1249	MO_1249-Tumor	MO_1249-Normal	0
 Copy Number	NT5DC4			2	98128515	132287266.0														MO_1249	MO_1249-Tumor		0
 Copy Number	NT5DC3			12	101736873	108029169.0														MO_1249	MO_1249-Tumor		0
 Copy Number	NT5DC2			3	49725103	98600611.0														MO_1249	MO_1249-Tumor		0
@@ -22449,6 +22443,7 @@ Copy Number	NLRP7			19	55365503	59082758.0														MO_1249	MO_1249-Tumor		0
 Copy Number	NLRP6			11	193913	3800489.0														MO_1249	MO_1249-Tumor		0
 Copy Number	NLRP5			19	55365503	59082758.0														MO_1249	MO_1249-Tumor		0
 Copy Number	NLRP4			19	55365503	59082758.0														MO_1249	MO_1249-Tumor		0
+Somatic Variant	NLRP3	Intron		1	247586515	247586515.0	T	T	-	0.1469	177.0									MO_1249	MO_1249-Tumor	MO_1249-Normal	0
 Copy Number	NLRP3			1	224868730	249212564.0														MO_1249	MO_1249-Tumor		0
 Copy Number	NLRP2			19	55365503	59082758.0														MO_1249	MO_1249-Tumor		0
 Copy Number	NLRP14			11	6816941	68030388.0														MO_1249	MO_1249-Tumor		0
@@ -25140,7 +25135,6 @@ Copy Number	MDM2			12	58204711	73056977.0														MO_1249	MO_1249-Tumor		0
 Copy Number	MDM1			12	58204711	73056977.0														MO_1249	MO_1249-Tumor		0
 Copy Number	MDK			11	6816941	68030388.0														MO_1249	MO_1249-Tumor		0
 Copy Number	MDH2			7	74212606	76143395.0														MO_1249	MO_1249-Tumor		0
-Somatic Variant	MDH1B	5'Flank		2	207631645	207631645.0	T	T	C	0.1969	127.0									MO_1249	MO_1249-Tumor	MO_1249-Normal	0
 Copy Number	MDH1B			2	204103859	217006044.0														MO_1249	MO_1249-Tumor		0
 Copy Number	MDH1			2	41629	97779675.0														MO_1249	MO_1249-Tumor		0
 Copy Number	MDGA2			14	30046664	64676298.0														MO_1249	MO_1249-Tumor		0
@@ -28944,7 +28938,7 @@ Copy Number	H2AFB2			X	153774380	155240076.0														MO_1249	MO_1249-Tumor	
 Copy Number	H2AFB1			X	153774380	155240076.0														MO_1249	MO_1249-Tumor		0
 Copy Number	H1FX-AS1			3	99509856	146251339.0														MO_1249	MO_1249-Tumor		0
 Copy Number	H1FX			3	99509856	146251339.0														MO_1249	MO_1249-Tumor		0
-Somatic Variant	H1FOO	Silent	p.G63G	3	129268071	129268071.0	C	C	T	0.2248	258.0									MO_1249	MO_1249-Tumor	MO_1249-Normal	0
+Somatic Variant	H1FOO	Silent	p.G202G	3	129268071	129268071.0	C	C	T	0.2248	258.0									MO_1249	MO_1249-Tumor	MO_1249-Normal	0
 Copy Number	H1FOO			3	99509856	146251339.0														MO_1249	MO_1249-Tumor		0
 Copy Number	H1FNT			12	48105560	52683061.0														MO_1249	MO_1249-Tumor		0
 Copy Number	H1F0			22	29120911	51237572.0														MO_1249	MO_1249-Tumor		0
@@ -29395,7 +29389,7 @@ Copy Number	GOSR1			17	25621463	34495526.0														MO_1249	MO_1249-Tumor		0
 Copy Number	GORASP2			2	132290356	202074287.0														MO_1249	MO_1249-Tumor		0
 Copy Number	GORASP1			3	367749	49724237.0														MO_1249	MO_1249-Tumor		0
 Copy Number	GORAB			1	144864326	207697354.0														MO_1249	MO_1249-Tumor		0
-Somatic Variant	GOPC	Intron		6	117891989	117891990.0	TG	TG	-	0.2099	81.0									MO_1249	MO_1249-Tumor	MO_1249-Normal	0
+Somatic Variant	GOPC	Intron		6	117891989	117891990.0	TG	TG	-	0.1977	86.0									MO_1249	MO_1249-Tumor	MO_1249-Normal	0
 Copy Number	GOPC			6	111631304	161032755.0														MO_1249	MO_1249-Tumor		0
 Copy Number	GON4L			1	144864326	207697354.0														MO_1249	MO_1249-Tumor		0
 Copy Number	GOLT1B			12	11546850	34179852.0														MO_1249	MO_1249-Tumor		0
@@ -29738,7 +29732,6 @@ Copy Number	GCNT4			5	72144327	82948645.0														MO_1249	MO_1249-Tumor		0
 Copy Number	GCNT3			15	43908890	72950979.0														MO_1249	MO_1249-Tumor		0
 Copy Number	GCNT2			6	345930	31237164.0														MO_1249	MO_1249-Tumor		0
 Copy Number	GCNT1			9	70428901	88943409.0														MO_1249	MO_1249-Tumor		0
-Somatic Variant	GCN1L1	Intron		12	120598062	120598062.0	A	A	C	0.2946	370.0									MO_1249	MO_1249-Tumor	MO_1249-Normal	0
 Copy Number	GCN1L1			12	116399205	120907414.0														MO_1249	MO_1249-Tumor		0
 Copy Number	GCM2			6	345930	31237164.0														MO_1249	MO_1249-Tumor		0
 Copy Number	GCM1			6	32002771	110567465.0														MO_1249	MO_1249-Tumor		0
@@ -30464,8 +30457,8 @@ Copy Number	FAT3			11	73390767	100221601.0														MO_1249	MO_1249-Tumor		0
 Copy Number	FAT2			5	147258423	154397124.0														MO_1249	MO_1249-Tumor		0
 Copy Number	FAT1			4	87340	189068528.0														MO_1249	MO_1249-Tumor		0
 Copy Number	FASTKD5			20	68410	29966196.0														MO_1249	MO_1249-Tumor		0
-Somatic Variant	FASTKD3	Intron		5	7866107	7866107.0	A	A	C	0.1818	242.0									MO_1249	MO_1249-Tumor	MO_1249-Normal	0
 Copy Number	FASTKD3			5	306877	33998934.0														MO_1249	MO_1249-Tumor		0
+Somatic Variant	FASTKD2	Silent	p.Y76Y	2	207631645	207631645.0	T	T	C	0.1969	127.0									MO_1249	MO_1249-Tumor	MO_1249-Normal	0
 Copy Number	FASTKD2			2	204103859	217006044.0														MO_1249	MO_1249-Tumor		0
 Copy Number	FASTKD1			2	132290356	202074287.0														MO_1249	MO_1249-Tumor		0
 Copy Number	FASTK			7	143559608	152551640.0														MO_1249	MO_1249-Tumor		0
@@ -30536,7 +30529,6 @@ Copy Number	FAM85A			8	12044342	35648083.0														MO_1249	MO_1249-Tumor		0
 Copy Number	FAM84B			8	48114372	146279545.0														MO_1249	MO_1249-Tumor		0
 Copy Number	FAM84A			2	41629	97779675.0														MO_1249	MO_1249-Tumor		0
 Copy Number	FAM83H-AS1			8	48114372	146279545.0														MO_1249	MO_1249-Tumor		0
-Somatic Variant	FAM83H	Silent	p.G750G	8	144809381	144809381.0	G	G	A	0.0122	329.0									MO_1249	MO_1249-Tumor	MO_1249-Normal	0
 Copy Number	FAM83H			8	48114372	146279545.0														MO_1249	MO_1249-Tumor		0
 Copy Number	FAM83G			17	18631073	21147539.0														MO_1249	MO_1249-Tumor		0
 Copy Number	FAM83F			22	29120911	51237572.0														MO_1249	MO_1249-Tumor		0
@@ -31526,7 +31518,6 @@ Copy Number	DYNC2H1			11	100863431	126432807.0														MO_1249	MO_1249-Tumo
 Copy Number	DYNC1LI2			16	58621784	68112891.0														MO_1249	MO_1249-Tumor		0
 Copy Number	DYNC1LI1			3	367749	49724237.0														MO_1249	MO_1249-Tumor		0
 Copy Number	DYNC1I2			2	132290356	202074287.0														MO_1249	MO_1249-Tumor		0
-Somatic Variant	DYNC1I1	Intron		7	95709805	95709805.0	G	G	A	0.1399	429.0									MO_1249	MO_1249-Tumor	MO_1249-Normal	0
 Copy Number	DYNC1I1			7	92888946	102201624.0														MO_1249	MO_1249-Tumor		0
 Rearrangement	DYNC1H1--ZC3H14	Fusion	DYNC1H1--ZC3H14	14	102509085							0.0	DYNC1H1	14	102509085.0	ZC3H14	14	89037428.0		MO_1249			0
 Copy Number	DYNC1H1			14	74204002	106068064.0														MO_1249	MO_1249-Tumor		0
@@ -35346,7 +35337,6 @@ Copy Number	CCT6A			7	195732	72420032.0														MO_1249	MO_1249-Tumor		0
 Copy Number	CCT5			5	306877	33998934.0														MO_1249	MO_1249-Tumor		0
 Copy Number	CCT4			2	41629	97779675.0														MO_1249	MO_1249-Tumor		0
 Copy Number	CCT3			1	144864326	207697354.0														MO_1249	MO_1249-Tumor		0
-Somatic Variant	CCT2	Intron		12	69991558	69991558.0	G	G	A	0.1765	119.0									MO_1249	MO_1249-Tumor	MO_1249-Normal	0
 Copy Number	CCT2			12	58204711	73056977.0														MO_1249	MO_1249-Tumor		0
 Copy Number	CCSER2			10	59956461	89118190.0														MO_1249	MO_1249-Tumor		0
 Copy Number	CCSER1			4	87340	189068528.0														MO_1249	MO_1249-Tumor		0
@@ -36134,7 +36124,6 @@ Copy Number	C2orf42			2	41629	97779675.0														MO_1249	MO_1249-Tumor		0
 Copy Number	C2orf40			2	98128515	132287266.0														MO_1249	MO_1249-Tumor		0
 Copy Number	C2orf27B			2	132290356	202074287.0														MO_1249	MO_1249-Tumor		0
 Copy Number	C2orf27A			2	132290356	202074287.0														MO_1249	MO_1249-Tumor		0
-Somatic Variant	C2orf16	IGR		2	27805878	27805895.0	AGGGCTAGGCGGAGCCGA	AGGGCTAGGCGGAGCCGA	-	0.2716	162.0									MO_1249	MO_1249-Tumor	MO_1249-Normal	0
 Copy Number	C2orf16			2	41629	97779675.0														MO_1249	MO_1249-Tumor		0
 Copy Number	C2orf15			2	98128515	132287266.0														MO_1249	MO_1249-Tumor		0
 Copy Number	C2ORF15			2	98128515	132287266.0														MO_1249	MO_1249-Tumor		0
@@ -36951,7 +36940,7 @@ Copy Number	BAG5			14	74204002	106068064.0														MO_1249	MO_1249-Tumor		0
 Copy Number	BAG4			8	36642123	43212040.0														MO_1249	MO_1249-Tumor		0
 Copy Number	BAG3			10	103868082	124351033.0														MO_1249	MO_1249-Tumor		0
 Copy Number	BAG2			6	32002771	110567465.0														MO_1249	MO_1249-Tumor		0
-Somatic Variant	BAG1	5'Flank		9	33262028	33262034.0	AATAGTA	AATAGTA	-	0.4588	85.0									MO_1249	MO_1249-Tumor	MO_1249-Normal	0
+Somatic Variant	BAG1	Intron		9	33262028	33262034.0	AATAGTA	AATAGTA	-	0.39799999999999996	98.0									MO_1249	MO_1249-Tumor	MO_1249-Normal	0
 Copy Number	BAG1			9	215398	69382297.0														MO_1249	MO_1249-Tumor		0
 Copy Number	BAD			11	6816941	68030388.0														MO_1249	MO_1249-Tumor		0
 Copy Number	BACH2			6	32002771	110567465.0														MO_1249	MO_1249-Tumor		0
@@ -39238,7 +39227,7 @@ Copy Number	ADARB2			10	294550	7866525.0														MO_1249	MO_1249-Tumor		0
 Copy Number	ADARB1			21	43274929	48083468.0														MO_1249	MO_1249-Tumor		0
 Copy Number	ADAR			1	144864326	207697354.0														MO_1249	MO_1249-Tumor		0
 Copy Number	ADAP2			17	25621463	34495526.0														MO_1249	MO_1249-Tumor		0
-Somatic Variant	ADAP1	Intron		7	944847	944848.0	-	-	G	0.1351	148.0									MO_1249	MO_1249-Tumor	MO_1249-Normal	0
+Somatic Variant	ADAP1	Intron		7	944847	944848.0	-	-	G	0.11699999999999999	171.0									MO_1249	MO_1249-Tumor	MO_1249-Normal	0
 Copy Number	ADAP1			7	195732	72420032.0														MO_1249	MO_1249-Tumor		0
 Copy Number	ADAMTSL5			19	111598	36109369.0														MO_1249	MO_1249-Tumor		0
 Copy Number	ADAMTSL4-AS1			1	144864326	207697354.0														MO_1249	MO_1249-Tumor		0

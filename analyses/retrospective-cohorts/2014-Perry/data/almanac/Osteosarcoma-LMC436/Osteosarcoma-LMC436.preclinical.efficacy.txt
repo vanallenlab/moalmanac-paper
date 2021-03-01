@@ -1,0 +1,6 @@
+patient_id	feature_display	tested_subfeature	therapy_name	n_mut	n_wt	n_mut_tested	n_wt_tested	mut_ic50_median	mut_ic50_mean	mut_ic50_std	wt_ic50_median	wt_ic50_mean	wt_ic50_std	pvalue_mww	statistic
+Osteosarcoma-LMC436	USP49--TMPRSS2 Fusion	USP49	Rucaparib	82	1741	51	889	36.192	50.981	63.629	34.998	45.937	41.334	0.914	22466.0
+Osteosarcoma-LMC436	USP49--TMPRSS2 Fusion	TMPRSS2	Rucaparib	95	1728	59	881	24.095	37.155	33.304	35.551	46.817	43.318	0.093	29377.0
+Osteosarcoma-LMC436	USP49--TMPRSS2 Fusion	USP49 Fusions	Rucaparib	3	1820	3	937	56.438	46.692	28.602	34.998	46.209	42.857	0.695	1221.0
+Osteosarcoma-LMC436	USP49--TMPRSS2 Fusion	TMPRSS2 Fusions	Rucaparib	2	1821	1	939	64.3	64.3		34.998	46.191	42.827	0.382	232.0
+Osteosarcoma-LMC436	USP49--TMPRSS2 Fusion	USP49--TMPRSS2	Rucaparib	0	1823	0	940				35.036	46.21	42.808	nan	

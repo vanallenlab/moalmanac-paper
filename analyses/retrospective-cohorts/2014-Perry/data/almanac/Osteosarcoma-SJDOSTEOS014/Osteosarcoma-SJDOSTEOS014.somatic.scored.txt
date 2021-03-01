@@ -1,0 +1,44 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Cancer Hotspot 3D				Copy Number	HES1	Amplification		3	193854342	194175373						0.0	0.0		0												Osteosarcoma-SJDOSTEOS014	SJDOSTEOS014-1		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Somatic Variant	CLASP1	Missense	p.A569T	2	122205888	122205888	C	C	T	0.0484	62.0	0.0	0.0		0												Osteosarcoma-SJDOSTEOS014	Osteosarcoma-SJDOSTEOS014-Tumor	Osteosarcoma-SJDOSTEOS014-Normal	0	0	1	0	0	0	2
+Cancer Gene Census				Copy Number	APOBEC3B	Deletion		22	39378207	39385867						0.0	0.0		0												Osteosarcoma-SJDOSTEOS014	SJDOSTEOS014-1		0	0	0	1	0	1	1
+Cancer Module				Somatic Variant	RREB1	Missense	p.T351M	6	7229384	7229384	C	C	T	0.1538	26.0	2.5e-05	0.0		0												Osteosarcoma-SJDOSTEOS014	Osteosarcoma-SJDOSTEOS014-Tumor	Osteosarcoma-SJDOSTEOS014-Normal	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	FAM50B	Missense	p.A123V	6	3850413	3850413	C	C	T	0.0833	48.0	0.0	0.0		0												Osteosarcoma-SJDOSTEOS014	Osteosarcoma-SJDOSTEOS014-Tumor	Osteosarcoma-SJDOSTEOS014-Normal	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	FASN	Missense	p.K1995N	17	80040225	80040225	C	C	G	0.1163	43.0	0.0	0.0		0												Osteosarcoma-SJDOSTEOS014	Osteosarcoma-SJDOSTEOS014-Tumor	Osteosarcoma-SJDOSTEOS014-Normal	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	FASN	Missense	p.G1894S	17	80040877	80040877	C	C	T	0.0536	56.0	0.0	0.0		0												Osteosarcoma-SJDOSTEOS014	Osteosarcoma-SJDOSTEOS014-Tumor	Osteosarcoma-SJDOSTEOS014-Normal	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ARHGAP35	Missense	p.D916G	19	47424679	47424679	A	A	G	0.027000000000000003	111.0	0.0	0.0		0												Osteosarcoma-SJDOSTEOS014	Osteosarcoma-SJDOSTEOS014-Tumor	Osteosarcoma-SJDOSTEOS014-Normal	0	0	0	0	0	1	2
+Cancer Module				Copy Number	CPN2	Amplification		3	193854342	194175373						0.0	0.0		0												Osteosarcoma-SJDOSTEOS014	SJDOSTEOS014-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CROCC	Amplification		1	17250568	17266840						0.0	0.0		0												Osteosarcoma-SJDOSTEOS014	SJDOSTEOS014-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PHIP	Deletion		6	79654765	79656202						0.0	0.0		0												Osteosarcoma-SJDOSTEOS014	SJDOSTEOS014-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CYP2D6	Deletion		22	42523222	42524569						0.0	0.0		0												Osteosarcoma-SJDOSTEOS014	SJDOSTEOS014-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PSG9	Deletion		19	43707786	43763539						0.0	0.0		0												Osteosarcoma-SJDOSTEOS014	SJDOSTEOS014-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GP5	Amplification		3	193854342	194175373						0.0	0.0		0												Osteosarcoma-SJDOSTEOS014	SJDOSTEOS014-1		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ATP13A3	Amplification		3	193854342	194175373						0.0	0.0		0												Osteosarcoma-SJDOSTEOS014	SJDOSTEOS014-1		0	0	0	0	0	1	1
+Cosmic				Somatic Variant	ZCCHC13	Missense	p.G116D	X	73524448	73524448	G	G	A	0.0395	76.0	0.0	0.0		0												Osteosarcoma-SJDOSTEOS014	Osteosarcoma-SJDOSTEOS014-Tumor	Osteosarcoma-SJDOSTEOS014-Normal	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ELFN2	Missense	p.L491M	22	37770104	37770104	G	G	T	0.0946	74.0	8e-06	0.0		0												Osteosarcoma-SJDOSTEOS014	Osteosarcoma-SJDOSTEOS014-Tumor	Osteosarcoma-SJDOSTEOS014-Normal	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	CDKL5	Missense	p.R550Q	X	18622693	18622693	G	G	A	0.0305	131.0	8e-06	0.0		0												Osteosarcoma-SJDOSTEOS014	Osteosarcoma-SJDOSTEOS014-Tumor	Osteosarcoma-SJDOSTEOS014-Normal	0	0	0	0	0	0	2
+Cosmic				Copy Number	SKA3	Amplification		13	21729580	21742790						0.0	0.0		0												Osteosarcoma-SJDOSTEOS014	SJDOSTEOS014-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	PSG4	Deletion		19	43707786	43763539						0.0	0.0		0												Osteosarcoma-SJDOSTEOS014	SJDOSTEOS014-1		0	0	0	0	0	0	1
+Cosmic				Somatic Variant	TONSL	Missense	p.R1163C	8	145659043	145659043	G	G	A	0.0492	61.0	8e-06	0.0		0												Osteosarcoma-SJDOSTEOS014	Osteosarcoma-SJDOSTEOS014-Tumor	Osteosarcoma-SJDOSTEOS014-Normal	0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM44	Amplification		3	194313518	194409079						0.0	0.0		0												Osteosarcoma-SJDOSTEOS014	SJDOSTEOS014-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	LSG1	Amplification		3	194313518	194409079						0.0	0.0		0												Osteosarcoma-SJDOSTEOS014	SJDOSTEOS014-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZDHHC11	Amplification		5	800970	849027						0.0	0.0		0												Osteosarcoma-SJDOSTEOS014	SJDOSTEOS014-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF197	Amplification		3	44670395	44674343						0.0	0.0		0												Osteosarcoma-SJDOSTEOS014	SJDOSTEOS014-1		0	0	0	0	0	0	1
+Cosmic				Somatic Variant	TMEM130	Missense	p.T176A	7	98452888	98452888	T	T	C	0.0455	66.0	0.0	0.0		0												Osteosarcoma-SJDOSTEOS014	Osteosarcoma-SJDOSTEOS014-Tumor	Osteosarcoma-SJDOSTEOS014-Normal	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	SECISBP2L	Missense	p.A653S	15	49301483	49301483	C	C	A	0.0566	53.0	0.0	0.0		0												Osteosarcoma-SJDOSTEOS014	Osteosarcoma-SJDOSTEOS014-Tumor	Osteosarcoma-SJDOSTEOS014-Normal	0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM43A	Amplification		3	194313518	194409079						0.0	0.0		0												Osteosarcoma-SJDOSTEOS014	SJDOSTEOS014-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRRC15	Amplification		3	193854342	194175373						0.0	0.0		0												Osteosarcoma-SJDOSTEOS014	SJDOSTEOS014-1		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCZ1	Deletion		7	5941036	5942627						0.0	0.0		0												Osteosarcoma-SJDOSTEOS014	SJDOSTEOS014-1		0	0	0	0	0	0	1
+VUS				Somatic Variant	GCSAM	Missense	p.A171V	3	111842333	111842333	G	G	A	0.0306	98.0	0.0	0.0		0												Osteosarcoma-SJDOSTEOS014	Osteosarcoma-SJDOSTEOS014-Tumor	Osteosarcoma-SJDOSTEOS014-Normal	0	0	0	0	0	0	0
+VUS				Copy Number	AC046143.1	Amplification		3	194313518	194409079						0.0	0.0		0												Osteosarcoma-SJDOSTEOS014	SJDOSTEOS014-1		0	0	0	0	0	0	0
+VUS				Copy Number	AC046143.2	Amplification		3	194313518	194409079						0.0	0.0		0												Osteosarcoma-SJDOSTEOS014	SJDOSTEOS014-1		0	0	0	0	0	0	0
+VUS				Copy Number	AC046143.3	Amplification		3	194313518	194409079						0.0	0.0		0												Osteosarcoma-SJDOSTEOS014	SJDOSTEOS014-1		0	0	0	0	0	0	0
+VUS				Copy Number	TMEM44-AS1	Amplification		3	194313518	194409079						0.0	0.0		0												Osteosarcoma-SJDOSTEOS014	SJDOSTEOS014-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-534C12.1	Amplification		3	194313518	194409079						0.0	0.0		0												Osteosarcoma-SJDOSTEOS014	SJDOSTEOS014-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-513G11.4	Amplification		3	193854342	194175373						0.0	0.0		0												Osteosarcoma-SJDOSTEOS014	SJDOSTEOS014-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-513G11.3	Amplification		3	193854342	194175373						0.0	0.0		0												Osteosarcoma-SJDOSTEOS014	SJDOSTEOS014-1		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-513G11.2	Amplification		3	193854342	194175373						0.0	0.0		0												Osteosarcoma-SJDOSTEOS014	SJDOSTEOS014-1		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL215P	Amplification		3	193854342	194175373						0.0	0.0		0												Osteosarcoma-SJDOSTEOS014	SJDOSTEOS014-1		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00887	Amplification		3	193854342	194175373						0.0	0.0		0												Osteosarcoma-SJDOSTEOS014	SJDOSTEOS014-1		0	0	0	0	0	0	0
+VUS				Copy Number	NDUFA6-AS1	Deletion		22	42523222	42524569						0.0	0.0		0												Osteosarcoma-SJDOSTEOS014	SJDOSTEOS014-1		0	0	0	0	0	0	0
+VUS				Copy Number	CEACAMP10	Deletion		19	43707786	43763539						0.0	0.0		0												Osteosarcoma-SJDOSTEOS014	SJDOSTEOS014-1		0	0	0	0	0	0	0

@@ -1,0 +1,553 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Putatively Actionable			Putatively Actionable	Copy Number	TP53	Deletion		17	7572675	7663018						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		4	1	1	1	1	1	1
+Investigate Actionability	Investigate Actionability	Investigate Actionability	Investigate Actionability	Somatic Variant	PTEN	Frameshift	p.Q245fs	10	89717707	89717708	-	-	C	0.5	34.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CAA768	Osteosarcoma-CAA768-Tumor-SM-2RCAX	Osteosarcoma-CAA768-Normal-SM-2RCCD	3	1	1	1	1	0	1
+Investigate Actionability	Investigate Actionability		Investigate Actionability	Copy Number	CDKN2C	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		2	0	1	1	0	1	1
+Biologically Relevant				Copy Number	SLC45A3	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		1	0	0	1	0	0	1
+Biologically Relevant				Copy Number	PRPF8	Deletion		17	1549484	1587247						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		1	0	0	0	0	1	1
+Cancer Hotspot				Copy Number	TET1	Deletion		10	69953868	71146426						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	1	0	1	0	0	1
+Cancer Hotspot 3D				Somatic Variant	PUM1	Missense	p.A888V	1	31425139	31425139	G	G	A	0.0411	73.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CAA768	Osteosarcoma-CAA768-Tumor-SM-2RCAX	Osteosarcoma-CAA768-Normal-SM-2RCCD	0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	TNR	Amplification		1	174273872	175376102						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	PLEKHA6	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	SELE	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Copy Number	CNTN2	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Somatic Variant	CEP164	Missense	p.T1253S	11	117280342	117280342	A	A	T	0.0244	246.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CAA768	Osteosarcoma-CAA768-Tumor-SM-2RCAX	Osteosarcoma-CAA768-Normal-SM-2RCCD	0	0	1	0	0	0	2
+Cancer Hotspot 3D				Somatic Variant	CACNA1E	Nonsense	p.L247*	1	181548331	181548331	T	T	A	0.0301	299.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CAA768	Osteosarcoma-CAA768-Tumor-SM-2RCAX	Osteosarcoma-CAA768-Normal-SM-2RCCD	0	0	1	0	0	0	2
+Cancer Hotspot 3D				Somatic Variant	MASP1	Missense	p.G588S	3	186940962	186940962	C	C	T	0.2131	61.0	2.5e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-CAA768	Osteosarcoma-CAA768-Tumor-SM-2RCAX	Osteosarcoma-CAA768-Normal-SM-2RCCD	0	0	1	0	0	0	2
+Cancer Hotspot 3D				Somatic Variant	CACNA1B	Missense	p.E1380K	9	140952532	140952532	G	G	A	0.0833	48.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CAA768	Osteosarcoma-CAA768-Tumor-SM-2RCAX	Osteosarcoma-CAA768-Normal-SM-2RCCD	0	0	1	0	0	0	1
+Cancer Hotspot 3D				Copy Number	RABGAP1L	Amplification		1	174273872	175376102						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	1	0	0	0	1
+Cancer Hotspot 3D				Copy Number	TNFSF18	Amplification		1	171250865	173721313						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	1	0	0	0	1
+Cancer Gene Census				Somatic Variant	FANCD2	Missense	p.S1287C	3	10134978	10134978	A	A	T	0.0465	129.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CAA768	Osteosarcoma-CAA768-Tumor-SM-2RCAX	Osteosarcoma-CAA768-Normal-SM-2RCCD	0	0	0	1	1	1	2
+Cancer Gene Census				Somatic Variant	MUC16	Missense	p.P11931S	19	9045840	9045840	G	G	A	0.036000000000000004	111.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CAA768	Osteosarcoma-CAA768-Tumor-SM-2RCAX	Osteosarcoma-CAA768-Normal-SM-2RCCD	0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	EPS15	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	PRRX1	Amplification		1	169827930	171250376						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	WT1	Amplification		11	31560957	32460958						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	YWHAE	Deletion		17	901767	1494812						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	ELK4	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	GAS7	Deletion		17	8725654	10451489						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	MDM4	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	1	0	0	1
+Cancer Pathway				Copy Number	KIR2DL3	Deletion		19	55263437	55264223						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	HK1	Deletion		10	69953868	71146426						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	RXRG	Amplification		1	165322061	165738240						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	CD247	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	SELL	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	ATP1B1	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	FASLG	Amplification		1	171250865	173721313						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	CRK	Deletion		17	901767	1494812						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	1	1	1
+Cancer Pathway				Somatic Variant	MAP4K5	Missense	p.M456T	14	50910727	50910727	A	A	G	0.4	15.0	0.0	0.0		0								2.0	1.0	0.0		Osteosarcoma-CAA768	Osteosarcoma-CAA768-Tumor-SM-2RCAX	Osteosarcoma-CAA768-Normal-SM-2RCCD	0	0	0	0	1	0	2
+Cancer Pathway				Somatic Variant	SLC3A2	Missense	p.R463Q	11	62655846	62655846	G	G	A	0.0417	72.0	2.5e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-CAA768	Osteosarcoma-CAA768-Tumor-SM-2RCAX	Osteosarcoma-CAA768-Normal-SM-2RCCD	0	0	0	0	1	0	1
+Cancer Pathway				Copy Number	ZFYVE9	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	1	0	1
+Cancer Pathway				Copy Number	PIK3R5	Deletion		17	8725654	10451489						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	1	0	1
+Cancer Module				Somatic Variant	MAGEC1	Missense	p.D573G	X	140994908	140994908	A	A	G	0.0118	422.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CAA768	Osteosarcoma-CAA768-Tumor-SM-2RCAX	Osteosarcoma-CAA768-Normal-SM-2RCCD	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ZNF638	Missense	p.S1187N	2	71650204	71650204	G	G	A	0.0248	121.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CAA768	Osteosarcoma-CAA768-Tumor-SM-2RCAX	Osteosarcoma-CAA768-Normal-SM-2RCCD	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	CHL1	Missense	p.V627I	3	423864	423864	G	G	A	0.1735	98.0	8e-06	0.0		0								0.0	0.0	0.0		Osteosarcoma-CAA768	Osteosarcoma-CAA768-Tumor-SM-2RCAX	Osteosarcoma-CAA768-Normal-SM-2RCCD	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	HSPA4L	Missense	p.G22D	4	128703770	128703770	G	G	A	0.0612	49.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CAA768	Osteosarcoma-CAA768-Tumor-SM-2RCAX	Osteosarcoma-CAA768-Normal-SM-2RCCD	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	RPE65	Nonsense	p.E74*	1	68912418	68912418	C	C	A	0.1895	95.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CAA768	Osteosarcoma-CAA768-Tumor-SM-2RCAX	Osteosarcoma-CAA768-Normal-SM-2RCCD	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ST6GAL1	Missense	p.P289S	3	186792007	186792007	C	C	T	0.0357	196.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CAA768	Osteosarcoma-CAA768-Tumor-SM-2RCAX	Osteosarcoma-CAA768-Normal-SM-2RCCD	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	IL15	Missense	p.C15F	4	142641653	142641653	G	G	T	0.2609	46.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CAA768	Osteosarcoma-CAA768-Tumor-SM-2RCAX	Osteosarcoma-CAA768-Normal-SM-2RCCD	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ATP6V1C1	Missense	p.R139G	8	104064992	104064992	C	C	G	0.2136	103.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CAA768	Osteosarcoma-CAA768-Tumor-SM-2RCAX	Osteosarcoma-CAA768-Normal-SM-2RCCD	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	KRT85	Missense	p.A482V	12	52754716	52754716	G	G	A	0.0566	53.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CAA768	Osteosarcoma-CAA768-Tumor-SM-2RCAX	Osteosarcoma-CAA768-Normal-SM-2RCCD	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ACP5	Missense	p.V256G	19	11686036	11686036	A	A	C	0.1839	87.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CAA768	Osteosarcoma-CAA768-Tumor-SM-2RCAX	Osteosarcoma-CAA768-Normal-SM-2RCCD	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	ITIH2	Missense	p.R819H	10	7786834	7786834	G	G	A	0.5641	39.0	1.6e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-CAA768	Osteosarcoma-CAA768-Tumor-SM-2RCAX	Osteosarcoma-CAA768-Normal-SM-2RCCD	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	KIAA1210	Missense	p.F1205I	X	118221580	118221580	A	A	T	0.5	14.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CAA768	Osteosarcoma-CAA768-Tumor-SM-2RCAX	Osteosarcoma-CAA768-Normal-SM-2RCCD	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	KLKB1	Missense	p.P462T	4	187175812	187175812	C	C	A	0.0909	44.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CAA768	Osteosarcoma-CAA768-Tumor-SM-2RCAX	Osteosarcoma-CAA768-Normal-SM-2RCCD	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	DENND3	Missense	p.S539P	8	142176350	142176350	T	T	C	0.1928	223.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CAA768	Osteosarcoma-CAA768-Tumor-SM-2RCAX	Osteosarcoma-CAA768-Normal-SM-2RCCD	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	PEPD	Missense	p.G318C	19	33892642	33892642	C	C	A	0.2143	28.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CAA768	Osteosarcoma-CAA768-Tumor-SM-2RCAX	Osteosarcoma-CAA768-Normal-SM-2RCCD	0	0	0	0	0	1	1
+Cancer Module				Copy Number	CLCNKB	Amplification		1	16371801	16386798						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HLA-DRB5	Amplification		6	32486895	32498253						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	F5	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SELP	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	USP24	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	C8A	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PARS2	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MYO1C	Deletion		17	901767	1494812						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FMO3	Amplification		1	169827930	171250376						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SCYL3	Amplification		1	169827930	171250376						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ORM1	Amplification		9	117085736	117088889						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ADCY10	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC1A7	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SELRC1	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ELAVL4	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	C8B	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FOXD2	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	C1orf105	Amplification		1	171250865	173721313						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PIGC	Amplification		1	171250865	173721313						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PIK3C2B	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CHRFAM7A	Deletion		15	30654244	30675806						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SRGN	Deletion		10	69953868	71146426						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PBLD	Deletion		10	69953868	71146426						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	BMS1	Deletion		10	37485957	43297918						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MYH8	Deletion		17	8725654	10451489						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FMO1	Amplification		1	169827930	171250376						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MGST3	Amplification		1	165322061	165738240						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ALDH9A1	Amplification		1	165322061	165738240						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CREG1	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DPT	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DUSP27	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GPR161	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RCSD1	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	XCL2	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MPZL1	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	XCL1	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	POU2F1	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TBX19	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SERPINC1	Amplification		1	173725863	173884309						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KLHL20	Amplification		1	173725863	173884309						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DARS2	Amplification		1	173725863	173884309						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RCN1	Amplification		11	31560957	32460958						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	WT1-AS	Amplification		11	31560957	32460958						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PAX6	Amplification		11	31560957	32460958						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PPAP2B	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PRPF38A	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RNF11	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SCP2	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SSBP3	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TXNDC12	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TTC22	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TMEM59	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZYG11B	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HSPB11	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	BEND5	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CPT2	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LRP8	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DHCR24	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DIO1	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ORC1	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	OSBPL9	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FAF1	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KIAA0040	Amplification		1	174273872	175376102						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CACYBP	Amplification		1	174273872	175376102						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	FMO4	Amplification		1	171250865	173721313						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PRDX6	Amplification		1	171250865	173721313						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TNFSF4	Amplification		1	171250865	173721313						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MYOC	Amplification		1	171250865	173721313						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LMO4	Amplification		1	87379461	87798186						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PITPNA	Deletion		17	901767	1494812						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	INPP5K	Deletion		17	901767	1494812						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	KISS1	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CDK18	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LRRN2	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	REN	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RAB7L1	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RBBP5	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TMCC2	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC25A16	Deletion		10	69953868	71146426						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DNA2	Deletion		10	69953868	71146426						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DDX21	Deletion		10	69953868	71146426						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	HNRNPH3	Deletion		10	69953868	71146426						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZNF248	Deletion		10	37485957	43297918						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DHRS4	Deletion		14	24428859	24435342						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MYH2	Deletion		17	8725654	10451489						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	STX8	Deletion		17	8725654	10451489						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MYH1	Deletion		17	8725654	10451489						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RCVRN	Deletion		17	8725654	10451489						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	EFNB3	Deletion		17	7572675	7663018						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	WRAP53	Deletion		17	7572675	7663018						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GAS5	Amplification		1	173725863	173884309						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	1	0
+Cosmic				Somatic Variant	AKNA	Missense	p.S1307I	9	117103960	117103960	C	C	A	0.3222	90.0	0.0	0.0		0								2.0	1.0	0.0		Osteosarcoma-CAA768	Osteosarcoma-CAA768-Tumor-SM-2RCAX	Osteosarcoma-CAA768-Normal-SM-2RCCD	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	WDR90	Missense	p.G1105S	16	710636	710636	G	G	A	0.4348	23.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CAA768	Osteosarcoma-CAA768-Tumor-SM-2RCAX	Osteosarcoma-CAA768-Normal-SM-2RCCD	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	ZNF221	Missense	p.C225S	19	44470327	44470327	T	T	A	0.0357	196.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CAA768	Osteosarcoma-CAA768-Tumor-SM-2RCAX	Osteosarcoma-CAA768-Normal-SM-2RCCD	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	OR5M9	Missense	p.T244M	11	56230147	56230147	G	G	A	0.5185	27.0	8.2e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-CAA768	Osteosarcoma-CAA768-Tumor-SM-2RCAX	Osteosarcoma-CAA768-Normal-SM-2RCCD	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	KIAA0947	Missense	p.T990P	5	5462415	5462415	A	A	C	0.1026	39.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CAA768	Osteosarcoma-CAA768-Tumor-SM-2RCAX	Osteosarcoma-CAA768-Normal-SM-2RCCD	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	OR5AP2	Missense	p.K56M	11	56409749	56409749	T	T	A	0.06	100.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CAA768	Osteosarcoma-CAA768-Tumor-SM-2RCAX	Osteosarcoma-CAA768-Normal-SM-2RCCD	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	BBS9	Nonsense	p.W741*	7	33545181	33545181	G	G	A	0.1562	96.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CAA768	Osteosarcoma-CAA768-Tumor-SM-2RCAX	Osteosarcoma-CAA768-Normal-SM-2RCCD	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	DOPEY1	Missense	p.H1368N	6	83847863	83847863	C	C	A	0.2184	174.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CAA768	Osteosarcoma-CAA768-Tumor-SM-2RCAX	Osteosarcoma-CAA768-Normal-SM-2RCCD	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	SDR9C7	Missense	p.A291V	12	57317687	57317687	G	G	A	0.0909	110.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CAA768	Osteosarcoma-CAA768-Tumor-SM-2RCAX	Osteosarcoma-CAA768-Normal-SM-2RCCD	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	C14orf93	Missense	p.R417P	14	23456791	23456791	C	C	G	0.1622	74.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CAA768	Osteosarcoma-CAA768-Tumor-SM-2RCAX	Osteosarcoma-CAA768-Normal-SM-2RCCD	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	LEO1	Missense	p.D6G	15	52263926	52263926	T	T	C	0.1111	54.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CAA768	Osteosarcoma-CAA768-Tumor-SM-2RCAX	Osteosarcoma-CAA768-Normal-SM-2RCCD	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	MTUS2	Missense	p.G222V	13	29599470	29599470	G	G	T	0.6441	59.0	1.6e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-CAA768	Osteosarcoma-CAA768-Tumor-SM-2RCAX	Osteosarcoma-CAA768-Normal-SM-2RCCD	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	USP48	Missense	p.Y417S	1	22056244	22056244	T	T	G	0.0256	156.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CAA768	Osteosarcoma-CAA768-Tumor-SM-2RCAX	Osteosarcoma-CAA768-Normal-SM-2RCCD	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	RXFP1	Frameshift	p.V563fs	4	159569681	159569681	T	T	-	0.4255	47.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CAA768	Osteosarcoma-CAA768-Tumor-SM-2RCAX	Osteosarcoma-CAA768-Normal-SM-2RCCD	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	CS	Nonsense	p.W298*	12	56668649	56668649	C	C	T	0.322	118.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CAA768	Osteosarcoma-CAA768-Tumor-SM-2RCAX	Osteosarcoma-CAA768-Normal-SM-2RCCD	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	PRSS33	Nonsense	p.G46*	16	2835906	2835906	C	C	A	0.2258	31.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-CAA768	Osteosarcoma-CAA768-Tumor-SM-2RCAX	Osteosarcoma-CAA768-Normal-SM-2RCCD	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	MED16	Missense	p.R565C	19	875322	875322	G	G	A	0.0286	140.0	2.5e-05	0.0		0								0.0	0.0	0.0		Osteosarcoma-CAA768	Osteosarcoma-CAA768-Tumor-SM-2RCAX	Osteosarcoma-CAA768-Normal-SM-2RCCD	0	0	0	0	0	0	1
+Cosmic				Copy Number	MYPN	Deletion		10	69953868	71146426						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PCSK9	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MYH4	Deletion		17	8725654	10451489						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC5A9	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TNN	Amplification		1	174273872	175376102						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM131C	Amplification		1	16371801	16386798						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ANKRD30A	Deletion		10	37485957	43297918						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MYH13	Deletion		17	8725654	10451489						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FMO2	Amplification		1	169827930	171250376						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PODN	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CDCP2	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C1orf177	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ANKRD45	Amplification		1	171250865	173721313						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TUSC5	Deletion		17	901767	1494812						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	STOX1	Deletion		10	69953868	71146426						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	HKDC1	Deletion		10	69953868	71146426						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SCARF1	Deletion		17	1549484	1587247						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KIFAP3	Amplification		1	169827930	171250376						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GORAB	Amplification		1	169827930	171250376						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C1orf112	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TTC4	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MRPL37	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CYB5RL	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NRD1	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OMA1	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM151A	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	METTL13	Amplification		1	171250865	173721313						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PPP1R15B	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ETNK2	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NFASC	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM81	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DSTYK	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KIAA1279	Deletion		10	69953868	71146426						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF33B	Deletion		10	37485957	43297918						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	WDR16	Deletion		17	8725654	10451489						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GLP2R	Deletion		17	8725654	10451489						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DHRS7C	Deletion		17	8725654	10451489						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DNAH2	Deletion		17	7572675	7663018						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	METTL11B	Amplification		1	169827930	171250376						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FMO6P	Amplification		1	169827930	171250376						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRRC52	Amplification		1	165322061	165738240						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LMX1A	Amplification		1	165322061	165738240						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMCO1	Amplification		1	165322061	165738240						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DCAF6	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	METTL18	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TIPRL	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	BLZF1	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SFT2D2	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC19A2	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NME7	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ANKRD36BP1	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZBTB37	Amplification		1	173725863	173884309						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CENPL	Amplification		1	173725863	173884309						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ELP4	Amplification		11	31560957	32460958						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PRKAA2	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RAB3B	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SPATA6	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZYG11A	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZCCHC11	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	YIPF1	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TTC39A	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM61	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TCEANC2	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	BTF3L4	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	BSND	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DMRTA2	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DMRTB1	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C1orf123	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRRC42	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CC2D1B	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KTI12	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LDLRAD1	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MAGOH	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C1orf185	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C1orf168	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GPX7	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FOXE3	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	AGBL4	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ACOT11	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	FAM159A	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GLIS1	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ECHDC2	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MRPS14	Amplification		1	174273872	175376102						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GPR52	Amplification		1	174273872	175376102						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DNM3	Amplification		1	171250865	173721313						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	VAMP4	Amplification		1	171250865	173721313						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SEP15	Amplification		1	87379461	87798186						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	HS2ST1	Amplification		1	87379461	87798186						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TIMM22	Deletion		17	901767	1494812						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC43A2	Deletion		17	901767	1494812						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	BHLHA9	Deletion		17	901767	1494812						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ABR	Deletion		17	901767	1494812						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LEMD1	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SOX13	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC41A1	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC26A9	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MFSD4	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KLHDC8A	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PM20D1	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NUCKS1	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NUAK2	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GOLT1A	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	VPS26A	Deletion		10	69953868	71146426						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RUFY2	Deletion		10	69953868	71146426						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ATOH7	Deletion		10	69953868	71146426						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SUPV3L1	Deletion		10	69953868	71146426						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DDX50	Deletion		10	69953868	71146426						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCAR1	Deletion		10	69953868	71146426						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RILP	Deletion		17	1549484	1587247						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF37A	Deletion		10	37485957	43297918						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF25	Deletion		10	37485957	43297918						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	ZNF33A	Deletion		10	37485957	43297918						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MTRNR2L7	Deletion		10	37485957	43297918						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CCNYL2	Deletion		10	37485957	43297918						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DLG2	Deletion		11	83673676	83878257						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	USP43	Deletion		17	8725654	10451489						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NTN1	Deletion		17	8725654	10451489						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	1
+VUS				Copy Number	MROH7	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	PRRC2C	Amplification		1	171250865	173721313						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	PIK3R6	Deletion		17	8725654	10451489						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	MROH9	Amplification		1	169827930	171250376						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	CCDC181	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	SLC9C2	Amplification		1	171250865	173721313						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL354732.1	Amplification		1	169827930	171250376						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-45C12.1	Amplification		1	169827930	171250376						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-576I22.2	Amplification		1	169827930	171250376						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-79C4.1	Amplification		1	169827930	171250376						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-545I10.2	Amplification		1	169827930	171250376						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-79C4.4	Amplification		1	169827930	171250376						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	BX284613.1	Amplification		1	169827930	171250376						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL333P	Amplification		1	169827930	171250376						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-127D3.4	Amplification		1	169827930	171250376						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL269P	Amplification		1	169827930	171250376						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1295A	Amplification		1	169827930	171250376						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-332H17.1	Amplification		1	169827930	171250376						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-297H3.4	Amplification		1	169827930	171250376						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-297H3.3	Amplification		1	169827930	171250376						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3119-2	Amplification		1	169827930	171250376						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-466F5.10	Amplification		1	165322061	165738240						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-280O1.2	Amplification		1	165322061	165738240						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-466F5.8	Amplification		1	165322061	165738240						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-466F5.6	Amplification		1	165322061	165738240						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-306I1.2	Amplification		1	165322061	165738240						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-800F24.1	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1255B2	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-117P20.3	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-10C16.1	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP66	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-455J7.4	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-206D15.3	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-313L4.3	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00970	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-52A20.2	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00626	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-104L21.2	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-104L21.3	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-277B15.3	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-277B15.2	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1018K9.1	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-968D22.3	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL049798.1	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-968D22.1	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	MPC2	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR557	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1310P	Amplification		1	167094772	169825350						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP160	Amplification		1	173725863	173884309						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	GAS5-AS1	Amplification		1	173725863	173884309						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-65P5.1	Amplification		11	31560957	32460958						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-65P5.3	Amplification		11	31560957	32460958						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-17K7.2	Amplification		11	31560957	32460958						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-17K7.1	Amplification		11	31560957	32460958						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	Z83001.1	Amplification		11	31560957	32460958						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-65P5.5	Amplification		11	31560957	32460958						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	Z83307.3	Amplification		11	31560957	32460958						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-17K7.3	Amplification		11	31560957	32460958						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-723P	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-12C17.2	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-117D22.1	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-141A19.1	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-141A19.2	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-155O18.6	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-117D22.2	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP48	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU4-61P	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-877P	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-969P	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-193P11.3	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1281P	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-95P	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1253P	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-158P9.1	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1026P	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU2-30P	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-830P	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL788P	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL62P	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL290P	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-101C11.1	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP291	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-191G24.1	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-504A18.1	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-240D10.4	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1024G6.2	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	SLC25A3P1	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	SKINTL	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP6-102O10.1	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-997D24.3	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-866L20.1	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-850O15.4	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-850O15.3	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1103B4.3	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1024N4.4	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1024N4.2	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1024G6.8	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1024G6.7	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	TXNDC12-AS1	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	SSBP3-AS1	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	TRABD2B	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1024G6.5	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-784A16.5	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-253A20.1	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-784A16.4	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-567C20.3	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-567C20.2	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-543D5.2	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-543D5.1	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-466L17.1	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-446E24.4	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-393I23.4	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-378I13.1	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-334A14.8	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-334A14.5	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-330M19.1	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-296A18.6	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-296A18.3	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-275F13.1	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-25O10.2	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-67L3.2	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-67L3.4	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-67L3.5	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-705F19.1	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-784A16.3	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-784A16.2	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-784A16.1	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-758J24.5	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-737A23.2	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-710M16.2	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-683M8.2	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-90C4.1	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-657D16.6	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-657D16.3	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-631H13.2	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-91A18.4	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-90C4.3	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-90C4.2	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL356458.1	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4422	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4781	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR5095	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR761	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	MROH7-TTC4	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL645730.1	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL591415.1	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL589663.1	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4421	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	FLJ00388	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1273G	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1273F	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL357673.1	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL645730.2	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	NDC1	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL049745.1	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	FOXD2-AS1	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	AGBL4-IT1	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC119674.1	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC099796.1	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL109659.1	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL137855.1	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL162430.2	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL161915.1	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL161740.1	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL162430.1	Amplification		1	47881736	59002665						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL022400.1	Amplification		1	174273872	175376102						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1114G22.2	Amplification		1	174273872	175376102						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-518E13.2	Amplification		1	174273872	175376102						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-102G20.5	Amplification		1	174273872	175376102						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-307P	Amplification		1	174273872	175376102						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RABGAP1L-IT1	Amplification		1	174273872	175376102						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-395P12.2	Amplification		1	171250865	173721313						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-360D2.1	Amplification		1	171250865	173721313						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-296O14.3	Amplification		1	171250865	173721313						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	DNM3-IT1	Amplification		1	171250865	173721313						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-471M13.2	Amplification		1	171250865	173721313						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-436N22.3	Amplification		1	171250865	173721313						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	DNM3OS	Amplification		1	171250865	173721313						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-290P	Amplification		1	171250865	173721313						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	SUCO	Amplification		1	171250865	173721313						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL425P	Amplification		1	171250865	173721313						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-157P	Amplification		1	171250865	173721313						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-693P	Amplification		1	171250865	173721313						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-773P	Amplification		1	171250865	173721313						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR214	Amplification		1	171250865	173721313						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR199A2	Amplification		1	171250865	173721313						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-15D23.2	Amplification		1	171250865	173721313						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL139139.1	Amplification		1	87379461	87798186						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1052I5.1	Amplification		1	87379461	87798186						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP5-1052I5.2	Amplification		1	87379461	87798186						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-604K5.3	Amplification		1	87379461	87798186						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-604K5.2	Amplification		1	87379461	87798186						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC144836.1	Deletion		17	901767	1494812						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-818O24.3	Deletion		17	901767	1494812						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC016292.1	Deletion		17	901767	1494812						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	PITPNA-AS1	Deletion		17	901767	1494812						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR3183	Deletion		17	901767	1494812						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-430C7.5	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP75	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-23I7.1	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL583832.1	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP74	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-203F10.5	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP4-681L3.2	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU2-19P	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-74C13.3	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-418P	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-430C7.4	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR135B	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-74C13.4	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	LEMD1-AS1	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-739N20.2	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC119673.1	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-383G10.5	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-576D8.4	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL161793.1	Deletion		1	204083604	205905200						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNA5SP319	Deletion		10	69953868	71146426						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC016821.1	Deletion		10	69953868	71146426						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD98	Deletion		10	69953868	71146426						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR1254-1	Deletion		10	69953868	71146426						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-697P	Deletion		10	69953868	71146426						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-571P	Deletion		10	69953868	71146426						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL373P	Deletion		10	69953868	71146426						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-119F7.5	Deletion		10	69953868	71146426						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-227H15.5	Deletion		10	69953868	71146426						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-227H15.4	Deletion		10	69953868	71146426						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-153K11.3	Deletion		10	69953868	71146426						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-508N22.8	Deletion		10	37485957	43297918						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL135791.1	Deletion		10	37485957	43297918						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL314P	Deletion		10	37485957	43297918						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00839	Deletion		10	37485957	43297918						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	ZNF37BP	Deletion		10	37485957	43297918						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-291L22.4	Deletion		10	37485957	43297918						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-672F9.1	Deletion		10	37485957	43297918						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-508N22.12	Deletion		10	37485957	43297918						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-508N22.13	Deletion		10	37485957	43297918						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL117337.1	Deletion		10	37485957	43297918						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL031601.1	Deletion		10	37485957	43297918						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-393J16.4	Deletion		10	37485957	43297918						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL022344.7	Deletion		10	37485957	43297918						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL022344.5	Deletion		10	37485957	43297918						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL022344.4	Deletion		10	37485957	43297918						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-313J2.1	Deletion		10	37485957	43297918						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-508N22.9	Deletion		10	37485957	43297918						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-795P	Deletion		10	37485957	43297918						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	SEPT7P9	Deletion		10	37485957	43297918						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-258F22.2	Deletion		10	37485957	43297918						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1118P	Deletion		10	37485957	43297918						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1170P	Deletion		10	37485957	43297918						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-258F22.1	Deletion		10	37485957	43297918						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-162G10.5	Deletion		10	37485957	43297918						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-20F24.2	Deletion		10	37485957	43297918						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00993	Deletion		10	37485957	43297918						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	HSD17B7P2	Deletion		10	37485957	43297918						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00999	Deletion		10	37485957	43297918						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC087501.1	Deletion		17	8725654	10451489						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-401O9.3	Deletion		17	8725654	10451489						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-477N12.3	Deletion		17	8725654	10451489						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-41I6.2	Deletion		17	8725654	10451489						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTC-297N7.11	Deletion		17	8725654	10451489						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-401O9.4	Deletion		17	8725654	10451489						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTB-41I6.1	Deletion		17	8725654	10451489						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC000003.2	Deletion		17	8725654	10451489						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-85B7.4	Deletion		17	8725654	10451489						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-85B7.2	Deletion		17	8725654	10451489						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC000003.1	Deletion		17	8725654	10451489						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-565F19.4	Deletion		17	8725654	10451489						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-565F19.3	Deletion		17	8725654	10451489						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-565F19.2	Deletion		17	8725654	10451489						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-55L4.2	Deletion		17	8725654	10451489						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-55L4.1	Deletion		17	8725654	10451489						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-799N11.1	Deletion		17	8725654	10451489						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RPL29P2	Deletion		17	7572675	7663018						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-199F11.2	Deletion		17	7572675	7663018						0.0	0.0		0												Osteosarcoma-CAA768	CAA768_T		0	0	0	0	0	0	0

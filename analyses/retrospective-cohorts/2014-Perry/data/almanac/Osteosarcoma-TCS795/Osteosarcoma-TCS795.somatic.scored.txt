@@ -1,0 +1,253 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Putatively Actionable			Putatively Actionable	Copy Number	RB1	Deletion		13	49026877	49096327.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		4	1	1	1	1	1	1
+Putatively Actionable			Putatively Actionable	Copy Number	TP53	Deletion		17	7572675	7579645.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		4	1	1	1	1	1	1
+Investigate Actionability	Investigate Actionability	Investigate Actionability		Somatic Variant	ALK	Missense	p.K911T	2	29451833	29451833.0	T	T	G	0.0972	72.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCS795	Osteosarcoma-TCS795-Tumor-SM-2RCBL	Osteosarcoma-TCS795-Normal-SM-2RCD1	3	1	0	1	0	0	2
+Biologically Relevant				Somatic Variant	COL1A1	Missense	p.T948I	17	48266623	48266623.0	G	G	A	0.1	30.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCS795	Osteosarcoma-TCS795-Tumor-SM-2RCBL	Osteosarcoma-TCS795-Normal-SM-2RCD1	1	0	0	1	0	1	2
+Cancer Hotspot				Somatic Variant	CREBBP	Nonsense	p.L1549*	16	3786119	3786119.0	A	A	T	0.1771	96.0	0.0	0.0		0								70.0	0.0714	0.9956		Osteosarcoma-TCS795	Osteosarcoma-TCS795-Tumor-SM-2RCBL	Osteosarcoma-TCS795-Normal-SM-2RCD1	0	1	1	1	1	0	2
+Cancer Hotspot				Somatic Variant	SPOP	Missense	p.D140A	17	47696404	47696404.0	T	T	G	0.0526	209.0	0.0	0.0		0								200.0	0.055	0.9797		Osteosarcoma-TCS795	Osteosarcoma-TCS795-Tumor-SM-2RCBL	Osteosarcoma-TCS795-Normal-SM-2RCD1	0	1	1	1	0	1	2
+Cancer Hotspot 3D				Copy Number	NEDD8	Amplification		14	24683003	25102520.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	1	0	1	1	1
+Cancer Hotspot 3D				Copy Number	MZF1	Deletion		19	59080392	59083008.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	1	0	0	1	1
+Cancer Hotspot 3D				Somatic Variant	PCDH15	Missense	p.A1425T	10	55587268	55587268.0	C	C	T	0.0306	98.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCS795	Osteosarcoma-TCS795-Tumor-SM-2RCBL	Osteosarcoma-TCS795-Normal-SM-2RCD1	0	0	1	0	0	0	1
+Cancer Hotspot 3D				Copy Number	SDR39U1	Amplification		14	24683003	25102520.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	1	0	0	0	1
+Cancer Gene Census				Somatic Variant	MUC16	Missense	p.Y14163H	19	8976341	8976341.0	A	A	G	0.0656	61.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCS795	Osteosarcoma-TCS795-Tumor-SM-2RCBL	Osteosarcoma-TCS795-Normal-SM-2RCD1	0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	MUC4	Amplification		3	195451301	195476187.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	APOBEC3B	Deletion		22	39358360	39388702.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	1	0	1	1
+Cancer Gene Census				Copy Number	NKX2-1	Amplification		14	35872211	37736626.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	1	0	1	1
+Cancer Gene Census				Somatic Variant	NBEA	Missense	p.R338K	13	35630187	35630187.0	G	G	A	0.0278	108.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCS795	Osteosarcoma-TCS795-Tumor-SM-2RCBL	Osteosarcoma-TCS795-Normal-SM-2RCD1	0	0	0	1	0	0	2
+Cancer Gene Census				Somatic Variant	RABEP1	Missense	p.E705K	17	5280498	5280498.0	G	G	A	0.4151	159.0	0.0	0.0		0								307.0	0.3127	1.0		Osteosarcoma-TCS795	Osteosarcoma-TCS795-Tumor-SM-2RCBL	Osteosarcoma-TCS795-Normal-SM-2RCD1	0	0	0	1	0	0	1
+Cancer Pathway				Copy Number	GZMB	Amplification		14	24683003	25102520.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	1	1	1
+Cancer Pathway				Copy Number	NFKBIA	Amplification		14	35872211	37736626.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	1	1	1
+Cancer Pathway				Rearrangement	IGKC	Fusion	IGKV4-1--IGKC	chr2	89185136							0.0	0.0		0	311.0	IGKV4-1	chr2	89185136.0	IGKC	chr2	89157196.0					Osteosarcoma-TCS795			0	0	0	0	1	1	0
+Cancer Pathway				Somatic Variant	AMICA1	Missense	p.A65T	11	118083127	118083127.0	C	C	T	0.1562	96.0	8e-06	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCS795	Osteosarcoma-TCS795-Tumor-SM-2RCBL	Osteosarcoma-TCS795-Normal-SM-2RCD1	0	0	0	0	1	0	1
+Cancer Pathway				Rearrangement	IGLV4-69	Fusion	IGLV4-69--IGLJ2	chr22	22385867							0.0	0.0		0	9.0	IGLV4-69	chr22	22385867.0	IGLJ2	chr22	23241801.0					Osteosarcoma-TCS795			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGLV1-44	Fusion	IGLV1-44--IGLL5	chr22	22735712							0.0	0.0		0	17.0	IGLV1-44	chr22	22735712.0	IGLL5	chr22	23235960.0					Osteosarcoma-TCS795			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGKV4-1	Fusion	IGKV4-1--IGKJ1	chr2	89185669							0.0	0.0		0	112.0	IGKV4-1	chr2	89185669.0	IGKJ1	chr2	89161434.0					Osteosarcoma-TCS795			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGKV4-1	Fusion	IGKV4-1--IGKC	chr2	89185136							0.0	0.0		0	311.0	IGKV4-1	chr2	89185136.0	IGKC	chr2	89157196.0					Osteosarcoma-TCS795			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGKV4-1	Fusion	IGKV4-1--AC096579.7	chr2	89185669							0.0	0.0		0	453.0	IGKV4-1	chr2	89185669.0	AC096579.7	chr2	89161434.0					Osteosarcoma-TCS795			0	0	0	0	1	0	0
+Cancer Pathway				Rearrangement	IGLC2	Fusion	IGLV1-47--IGLC2	chr22	22712188							0.0	0.0		0	36.0	IGLV1-47	chr22	22712188.0	IGLC2	chr22	23243156.0					Osteosarcoma-TCS795			0	0	0	0	1	0	0
+Cancer Module				Somatic Variant	GOLGA1	Missense	p.Q178E	9	127685403	127685403.0	G	G	C	0.0684	117.0	8e-06	0.0		0								27.0	0.1111	0.1616		Osteosarcoma-TCS795	Osteosarcoma-TCS795-Tumor-SM-2RCBL	Osteosarcoma-TCS795-Normal-SM-2RCD1	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	PCLO	Missense	p.F2361V	7	82583188	82583188.0	A	A	C	0.25	32.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCS795	Osteosarcoma-TCS795-Tumor-SM-2RCBL	Osteosarcoma-TCS795-Normal-SM-2RCD1	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	FPR1	Missense	p.L156F	19	52249782	52249782.0	G	G	A	0.0283	106.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCS795	Osteosarcoma-TCS795-Tumor-SM-2RCBL	Osteosarcoma-TCS795-Normal-SM-2RCD1	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SI	Missense	p.E179A	3	164785227	164785227.0	T	T	G	0.0503	179.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCS795	Osteosarcoma-TCS795-Tumor-SM-2RCBL	Osteosarcoma-TCS795-Normal-SM-2RCD1	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	DNTT	Missense	p.T273P	10	98084089	98084089.0	A	A	C	0.102	98.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCS795	Osteosarcoma-TCS795-Tumor-SM-2RCBL	Osteosarcoma-TCS795-Normal-SM-2RCD1	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	SCEL	Missense	p.R625Q	13	78214846	78214846.0	G	G	A	0.3095	42.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCS795	Osteosarcoma-TCS795-Tumor-SM-2RCBL	Osteosarcoma-TCS795-Normal-SM-2RCD1	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	FGA	Missense	p.S542I	4	155506956	155506956.0	C	C	A	0.2442	86.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCS795	Osteosarcoma-TCS795-Tumor-SM-2RCBL	Osteosarcoma-TCS795-Normal-SM-2RCD1	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	CDCA7L	Missense	p.P404L	7	21942719	21942719.0	G	G	A	0.0612	49.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCS795	Osteosarcoma-TCS795-Tumor-SM-2RCBL	Osteosarcoma-TCS795-Normal-SM-2RCD1	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	CLCN4	Missense	p.L733R	X	10201539	10201539.0	T	T	G	0.0672	119.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCS795	Osteosarcoma-TCS795-Tumor-SM-2RCBL	Osteosarcoma-TCS795-Normal-SM-2RCD1	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	BPTF	Deletion	p.E148del	17	65822267	65822269.0	GAG	GAG	-	0.5385	13.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCS795	Osteosarcoma-TCS795-Tumor-SM-2RCBL	Osteosarcoma-TCS795-Normal-SM-2RCD1	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	OLFM1	Missense	p.R63H	9	137982159	137982159.0	G	G	A	0.0341	88.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCS795	Osteosarcoma-TCS795-Tumor-SM-2RCBL	Osteosarcoma-TCS795-Normal-SM-2RCD1	0	0	0	0	0	1	1
+Cancer Module				Copy Number	DMBT1	Deletion		10	124350745	124356820.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	C15orf57	Fusion	C15orf57--CBX3	chr15	40854180							0.0	0.0		0	20.0	C15orf57	chr15	40854180.0	CBX3	chr7	26241365.0					Osteosarcoma-TCS795			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	LEPR	Fusion	LEPROT--LEPR	chr1	65891061							0.0	0.0		0	12.0	LEPROT	chr1	65891061.0	LEPR	chr1	66031229.0					Osteosarcoma-TCS795			0	0	0	0	0	1	1
+Cancer Module				Copy Number	EFS	Amplification		14	23744534	24435091.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	AP1G2	Amplification		14	23744534	24435091.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RIPK3	Amplification		14	24683003	25102520.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RABGGTA	Amplification		14	24683003	25102520.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TM9SF1	Amplification		14	24683003	25102520.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PAX9	Amplification		14	35872211	37736626.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DKK1	Deletion		10	53564093	54531647.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	CTSC	Fusion	CTSC--RAB38	chr11	88033698							0.0	0.0		0	13.0	CTSC	chr11	88033698.0	RAB38	chr11	87883123.0					Osteosarcoma-TCS795			0	0	0	0	0	1	1
+Cancer Module				Copy Number	DHRS4	Amplification		14	24435092	24470443.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	JPH4	Amplification		14	23744534	24435091.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MYH7	Amplification		14	23744534	24435091.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DHRS2	Amplification		14	23744534	24435091.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ZFHX2	Amplification		14	23744534	24435091.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	DHRS1	Amplification		14	24683003	25102520.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NFATC4	Amplification		14	24683003	25102520.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ADCY4	Amplification		14	24683003	25102520.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TGM1	Amplification		14	24683003	25102520.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CTSG	Amplification		14	24683003	25102520.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LTB4R	Amplification		14	24683003	25102520.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CMA1	Amplification		14	24683003	25102520.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	GZMH	Amplification		14	24683003	25102520.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RHAG	Amplification		6	49579858	50808262.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TFAP2B	Amplification		6	49579858	50808262.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CRISP1	Amplification		6	49579858	50808262.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	SLC25A21	Amplification		14	35872211	37736626.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MIPOL1	Amplification		14	35872211	37736626.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	NKX2-8	Amplification		14	35872211	37736626.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	PRKG1	Deletion		10	53564093	54531647.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	MBL2	Deletion		10	53564093	54531647.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	1	1
+Cancer Module				Copy Number	RCBTB2	Deletion		13	49026877	49096327.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	G3BP2	Fusion	G3BP2--RP11-8L2.1	chr4	76598392							0.0	0.0		0	78.0	G3BP2	chr4	76598392.0	RP11-8L2.1	chr4	84732798.0					Osteosarcoma-TCS795			0	0	0	0	0	1	1
+Cancer Module				Rearrangement	CBX3	Fusion	C15orf57--CBX3	chr15	40854180							0.0	0.0		0	20.0	C15orf57	chr15	40854180.0	CBX3	chr7	26241365.0					Osteosarcoma-TCS795			0	0	0	0	0	1	1
+Cancer Module				Copy Number	TRDD3	Amplification		14	22788370	22965199.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	1	0
+Cancer Module				Rearrangement	IGLJ3	Fusion	IGLV1-51--IGLJ3	chr22	22677323							0.0	0.0		0	33.0	IGLV1-51	chr22	22677323.0	IGLJ3	chr22	23247169.0					Osteosarcoma-TCS795			0	0	0	0	0	1	0
+Cosmic				Somatic Variant	ASH1L	Missense	p.L1136S	1	155449254	155449254.0	A	A	G	0.2059	136.0	0.0	0.0		0								51.0	0.2549	0.9919		Osteosarcoma-TCS795	Osteosarcoma-TCS795-Tumor-SM-2RCBL	Osteosarcoma-TCS795-Normal-SM-2RCD1	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	WAC	Missense	p.S38N	10	28824525	28824525.0	G	G	A	0.0795	88.0	0.0	0.0		0								142.0	0.0704	0.9795		Osteosarcoma-TCS795	Osteosarcoma-TCS795-Tumor-SM-2RCBL	Osteosarcoma-TCS795-Normal-SM-2RCD1	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	OR1Q1	Missense	p.R227Q	9	125377696	125377696.0	G	G	A	0.2618	191.0	0.000132	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCS795	Osteosarcoma-TCS795-Tumor-SM-2RCBL	Osteosarcoma-TCS795-Normal-SM-2RCD1	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	CERS3	Missense	p.L25P	15	101041981	101041981.0	A	A	G	0.0947	95.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCS795	Osteosarcoma-TCS795-Tumor-SM-2RCBL	Osteosarcoma-TCS795-Normal-SM-2RCD1	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	CCDC120	Missense	p.C391Y	X	48924927	48924927.0	G	G	A	0.1765	17.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCS795	Osteosarcoma-TCS795-Tumor-SM-2RCBL	Osteosarcoma-TCS795-Normal-SM-2RCD1	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	BRWD3	Missense	p.E397Q	X	79985458	79985458.0	C	C	G	0.0721	111.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCS795	Osteosarcoma-TCS795-Tumor-SM-2RCBL	Osteosarcoma-TCS795-Normal-SM-2RCD1	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	CASQ1	Missense	p.G347E	1	160169696	160169696.0	G	G	A	0.0635	63.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCS795	Osteosarcoma-TCS795-Tumor-SM-2RCBL	Osteosarcoma-TCS795-Normal-SM-2RCD1	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	KCNT2	Missense	p.D1090N	1	196205144	196205144.0	C	C	T	0.0331	363.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCS795	Osteosarcoma-TCS795-Tumor-SM-2RCBL	Osteosarcoma-TCS795-Normal-SM-2RCD1	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	KCNT2	Missense	p.E1072K	1	196205198	196205198.0	C	C	T	0.0868	265.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCS795	Osteosarcoma-TCS795-Tumor-SM-2RCBL	Osteosarcoma-TCS795-Normal-SM-2RCD1	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	GALNT2	Missense	p.R93H	1	230338940	230338940.0	G	G	A	0.0259	193.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCS795	Osteosarcoma-TCS795-Tumor-SM-2RCBL	Osteosarcoma-TCS795-Normal-SM-2RCD1	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	OR8K5	Missense	p.T44P	11	55927664	55927664.0	T	T	G	0.0296	135.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCS795	Osteosarcoma-TCS795-Tumor-SM-2RCBL	Osteosarcoma-TCS795-Normal-SM-2RCD1	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	WNK4	Missense	p.P115T	17	40933059	40933059.0	C	C	A	0.25	16.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCS795	Osteosarcoma-TCS795-Tumor-SM-2RCBL	Osteosarcoma-TCS795-Normal-SM-2RCD1	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	CXXC1	Nonsense	p.Q246*	18	47811548	47811548.0	G	G	A	0.0882	34.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCS795	Osteosarcoma-TCS795-Tumor-SM-2RCBL	Osteosarcoma-TCS795-Normal-SM-2RCD1	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	NLRP9	Missense	p.A907T	19	56223290	56223290.0	C	C	T	0.1579	76.0	8e-06	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCS795	Osteosarcoma-TCS795-Tumor-SM-2RCBL	Osteosarcoma-TCS795-Normal-SM-2RCD1	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	PCDH20	Nonsense	p.E545*	13	61986599	61986599.0	C	C	A	0.2353	119.0	0.0	0.0		0								6.0	1.0	0.0359		Osteosarcoma-TCS795	Osteosarcoma-TCS795-Tumor-SM-2RCBL	Osteosarcoma-TCS795-Normal-SM-2RCD1	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	NHEJ1	Missense	p.A14E	2	220023044	220023044.0	G	G	T	0.0441	68.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCS795	Osteosarcoma-TCS795-Tumor-SM-2RCBL	Osteosarcoma-TCS795-Normal-SM-2RCD1	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	PDE3A	Missense	p.C945F	12	20803443	20803443.0	G	G	T	0.0455	88.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCS795	Osteosarcoma-TCS795-Tumor-SM-2RCBL	Osteosarcoma-TCS795-Normal-SM-2RCD1	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	SPNS2	Splice Site	p.Q536K	17	4439720	4439720.0	C	C	A	0.0411	73.0	0.0	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCS795	Osteosarcoma-TCS795-Tumor-SM-2RCBL	Osteosarcoma-TCS795-Normal-SM-2RCD1	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	FGGY	Missense	p.R23H	1	59787289	59787289.0	G	G	A	0.0417	72.0	8e-06	0.0		0								0.0	0.0	0.0		Osteosarcoma-TCS795	Osteosarcoma-TCS795-Tumor-SM-2RCBL	Osteosarcoma-TCS795-Normal-SM-2RCD1	0	0	0	0	0	0	1
+Cosmic				Copy Number	MUC20	Amplification		3	195451301	195476187.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DHRS4L2	Amplification		14	24435092	24470443.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DNAH8	Amplification		6	38745912	38754980.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MBIP	Amplification		14	35872211	37736626.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	NAV3	Fusion	RP1-34H18.1--NAV3	chr12	77966046							0.0	0.0		0	11.0	RP1-34H18.1	chr12	77966046.0	NAV3	chr12	78334099.0					Osteosarcoma-TCS795			0	0	0	0	0	0	1
+Cosmic				Copy Number	HOMEZ	Amplification		14	23744534	24435091.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	BCL2L2	Amplification		14	23744534	24435091.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CHMP4A	Amplification		14	24683003	25102520.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NYNRIN	Amplification		14	24683003	25102520.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	GMPR2	Amplification		14	24683003	25102520.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	KHNYN	Amplification		14	24683003	25102520.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CRISP3	Amplification		6	49579858	50808262.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	INSM2	Amplification		14	35872211	37736626.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RALGAPA1	Amplification		14	35872211	37736626.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LRRC7	Amplification		1	70502022	70573761.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MYH6	Amplification		14	23744534	24435091.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	IL25	Amplification		14	23744534	24435091.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	NGDN	Amplification		14	23744534	24435091.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PABPN1	Amplification		14	23744534	24435091.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PPP1R3E	Amplification		14	23744534	24435091.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SLC22A17	Amplification		14	23744534	24435091.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	THTPA	Amplification		14	23744534	24435091.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	C14orf164	Amplification		14	23744534	24435091.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CMTM5	Amplification		14	23744534	24435091.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CBLN3	Amplification		14	24683003	25102520.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CIDEB	Amplification		14	24683003	25102520.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	RP11-80A15.1	Amplification		14	24683003	25102520.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TINF2	Amplification		14	24683003	25102520.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	MDP1	Amplification		14	24683003	25102520.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	LTB4R2	Amplification		14	24683003	25102520.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DEFB133	Amplification		6	49579858	50808262.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DEFB114	Amplification		6	49579858	50808262.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DEFB113	Amplification		6	49579858	50808262.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DEFB112	Amplification		6	49579858	50808262.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	DEFB110	Amplification		6	49579858	50808262.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	TFAP2D	Amplification		6	49579858	50808262.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	PGK2	Amplification		6	49579858	50808262.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	CRISP2	Amplification		6	49579858	50808262.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	SFTA3	Amplification		14	35872211	37736626.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	BRMS1L	Amplification		14	35872211	37736626.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	APOBEC3A	Deletion		22	39358360	39388702.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	POTEA	Deletion		8	43172245	43174017.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR4S2	Deletion		11	55405582	55419567.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	1
+Cosmic				Copy Number	OR4P4	Deletion		11	55405582	55419567.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND6	Fusion	MT-ND6--MT-TE	chrM	14484							0.0	0.0		0	9.0	MT-ND6	chrM	14484.0	MT-TE	chrM	14696.0					Osteosarcoma-TCS795			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4	Fusion	MT-ND4--MT-ND4L	chrM	10839							0.0	0.0		0	29.0	MT-ND4	chrM	10839.0	MT-ND4L	chrM	10622.0					Osteosarcoma-TCS795			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-CO3	Fusion	MT-CO3--MT-ATP6	chrM	9359							0.0	0.0		0	17.0	MT-CO3	chrM	9359.0	MT-ATP6	chrM	9205.0					Osteosarcoma-TCS795			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-ATP6--MT-ATP8	chrM	8695							0.0	0.0		0	62.0	MT-ATP6	chrM	8695.0	MT-ATP8	chrM	8461.0					Osteosarcoma-TCS795			0	0	0	0	0	0	1
+Cosmic				Rearrangement	LEPROT	Fusion	LEPROT--LEPR	chr1	65891061							0.0	0.0		0	12.0	LEPROT	chr1	65891061.0	LEPR	chr1	66031229.0					Osteosarcoma-TCS795			0	0	0	0	0	0	1
+Cosmic				Rearrangement	CDKAL1	Fusion	CDKAL1--KCNT2	chr6	20548936							0.0	0.0		0	16.0	CDKAL1	chr6	20548936.0	KCNT2	chr1	196205200.0					Osteosarcoma-TCS795			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND4L	Fusion	MT-ND4--MT-ND4L	chrM	10839							0.0	0.0		0	29.0	MT-ND4	chrM	10839.0	MT-ND4L	chrM	10622.0					Osteosarcoma-TCS795			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-CO3--MT-ATP6	chrM	9359							0.0	0.0		0	17.0	MT-CO3	chrM	9359.0	MT-ATP6	chrM	9205.0					Osteosarcoma-TCS795			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP8	Fusion	MT-ATP6--MT-ATP8	chrM	8695							0.0	0.0		0	62.0	MT-ATP6	chrM	8695.0	MT-ATP8	chrM	8461.0					Osteosarcoma-TCS795			0	0	0	0	0	0	1
+Cosmic				Rearrangement	IGLL5	Fusion	IGLV1-44--IGLL5	chr22	22735712							0.0	0.0		0	17.0	IGLV1-44	chr22	22735712.0	IGLL5	chr22	23235960.0					Osteosarcoma-TCS795			0	0	0	0	0	0	1
+Cosmic				Rearrangement	RAB38	Fusion	CTSC--RAB38	chr11	88033698							0.0	0.0		0	13.0	CTSC	chr11	88033698.0	RAB38	chr11	87883123.0					Osteosarcoma-TCS795			0	0	0	0	0	0	1
+Cosmic				Rearrangement	KCNT2	Fusion	CDKAL1--KCNT2	chr6	20548936							0.0	0.0		0	16.0	CDKAL1	chr6	20548936.0	KCNT2	chr1	196205200.0					Osteosarcoma-TCS795			0	0	0	0	0	0	1
+VUS				Copy Number	NOP9	Amplification		14	24683003	25102520.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	TRAV40	Amplification		14	22749208	22783601.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	TRAV39	Amplification		14	22749208	22783601.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	TRAV38-2DV8	Amplification		14	22749208	22783601.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	DHRS4-AS1	Amplification		14	23744534	24435091.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00596	Amplification		14	23744534	24435091.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR208A	Amplification		14	23744534	24435091.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR208B	Amplification		14	23744534	24435091.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP205	Amplification		14	23744534	24435091.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-124D2.3	Amplification		14	23744534	24435091.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-124D2.7	Amplification		14	23744534	24435091.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-388E23.2	Amplification		14	23744534	24435091.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-66N24.3	Amplification		14	23744534	24435091.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-66N24.4	Amplification		14	23744534	24435091.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL049829.1	Amplification		14	23744534	24435091.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	CTD-2201G16.1	Amplification		14	23744534	24435091.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	BCL2L2-PABPN1	Amplification		14	23744534	24435091.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	NEDD8-MDP1	Amplification		14	24683003	25102520.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-802P	Amplification		14	24683003	25102520.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-104E19.1	Amplification		14	24683003	25102520.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-934B9.3	Amplification		14	24683003	25102520.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL136419.6	Amplification		14	24683003	25102520.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP1-28O17.1	Amplification		6	49579858	50808262.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP3-417L20.4	Amplification		6	49579858	50808262.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-397G17.1	Amplification		6	49579858	50808262.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-524K22.1	Amplification		6	49579858	50808262.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-719J20.1	Amplification		6	49579858	50808262.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	TRDJ3	Amplification		14	22788370	22965199.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	TRAJ52	Amplification		14	22788370	22965199.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	AE000661.37	Amplification		14	22788370	22965199.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	AE000661.50	Amplification		14	22788370	22965199.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	TRAJ61	Amplification		14	22788370	22965199.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	TRDJ2	Amplification		14	22788370	22965199.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	TRAJ59	Amplification		14	22788370	22965199.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	TRDV3	Amplification		14	22788370	22965199.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	TRAJ58	Amplification		14	22788370	22965199.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	TRAJ57	Amplification		14	22788370	22965199.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	TRAJ56	Amplification		14	22788370	22965199.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	TRDJ4	Amplification		14	22788370	22965199.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	TRAJ53	Amplification		14	22788370	22965199.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	TRAJ54	Amplification		14	22788370	22965199.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	TRAV41	Amplification		14	22788370	22965199.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	TRDD1	Amplification		14	22788370	22965199.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	TRAJ49	Amplification		14	22788370	22965199.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	TRAJ48	Amplification		14	22788370	22965199.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	TRAJ47	Amplification		14	22788370	22965199.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	TRAJ50	Amplification		14	22788370	22965199.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	TRDJ1	Amplification		14	22788370	22965199.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	TRDD2	Amplification		14	22788370	22965199.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	TRDV2	Amplification		14	22788370	22965199.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	TRAJ45	Amplification		14	22788370	22965199.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	TRDC	Amplification		14	22788370	22965199.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	TRAJ46	Amplification		14	22788370	22965199.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	SLC25A21-AS1	Amplification		14	35872211	37736626.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	DPPA3P2	Amplification		14	35872211	37736626.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-964E11.2	Amplification		14	35872211	37736626.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-896J10.3	Amplification		14	35872211	37736626.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-81F13.2	Amplification		14	35872211	37736626.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-81F13.1	Amplification		14	35872211	37736626.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL162311.1	Amplification		14	35872211	37736626.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP257	Amplification		14	35872211	37736626.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4503	Amplification		14	35872211	37736626.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00609	Amplification		14	35872211	37736626.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	NKX2-1-AS1	Amplification		14	35872211	37736626.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	PTCSC3	Amplification		14	35872211	37736626.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	AL162511.1	Amplification		14	35872211	37736626.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SKP21	Amplification		14	35872211	37736626.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-273P	Amplification		14	35872211	37736626.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-116N8.4	Amplification		14	35872211	37736626.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-561B11.6	Amplification		14	35872211	37736626.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-537P22.2	Amplification		14	35872211	37736626.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-317N8.5	Amplification		14	35872211	37736626.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-317N8.3	Amplification		14	35872211	37736626.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	RNU7-93P	Amplification		14	35872211	37736626.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-259K15.2	Amplification		14	35872211	37736626.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-116N8.2	Amplification		14	35872211	37736626.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-116N8.1	Amplification		14	35872211	37736626.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	APOBEC3B-AS1	Deletion		22	39358360	39388702.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	PRKG1-AS1	Deletion		10	53564093	54531647.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-346D6.6	Deletion		10	53564093	54531647.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-556E13.1	Deletion		10	53564093	54531647.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	AC016629.8	Deletion		19	59080392	59083008.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	HCCAT5	Deletion		16	73126611	73127236.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHV3-9	Deletion		14	106538827	106552979.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Copy Number	IGHV1-8	Deletion		14	106538827	106552979.0						0.0	0.0		0												Osteosarcoma-TCS795	TCS795_T		0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-680G10.1	Fusion	RP11-680G10.1--GSE1	chr16	85391249							0.0	0.0		0	10.0	RP11-680G10.1	chr16	85391249.0	GSE1	chr16	85682158.0					Osteosarcoma-TCS795			0	0	0	0	0	0	0
+VUS				Rearrangement	RP1-34H18.1	Fusion	RP1-34H18.1--RP11-781A6.1	chr12	77966046							0.0	0.0		0	9.0	RP1-34H18.1	chr12	77966046.0	RP11-781A6.1	chr12	78177043.0					Osteosarcoma-TCS795			0	0	0	0	0	0	0
+VUS				Rearrangement	RP1-34H18.1	Fusion	RP1-34H18.1--NAV3	chr12	77966046							0.0	0.0		0	11.0	RP1-34H18.1	chr12	77966046.0	NAV3	chr12	78334099.0					Osteosarcoma-TCS795			0	0	0	0	0	0	0
+VUS				Rearrangement	IGLV1-51	Fusion	IGLV1-51--IGLJ3	chr22	22677323							0.0	0.0		0	33.0	IGLV1-51	chr22	22677323.0	IGLJ3	chr22	23247169.0					Osteosarcoma-TCS795			0	0	0	0	0	0	0
+VUS				Rearrangement	IGLV1-47	Fusion	IGLV1-47--IGLC2	chr22	22712188							0.0	0.0		0	36.0	IGLV1-47	chr22	22712188.0	IGLC2	chr22	23243156.0					Osteosarcoma-TCS795			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKV3-20	Fusion	IGKV3-20--IGKJ2	chr2	89442058							0.0	0.0		0	6.0	IGKV3-20	chr2	89442058.0	IGKJ2	chr2	89161074.0					Osteosarcoma-TCS795			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKV3-20	Fusion	IGKV3-20--AC096579.13	chr2	89442058							0.0	0.0		0	7.0	IGKV3-20	chr2	89442058.0	AC096579.13	chr2	89161074.0					Osteosarcoma-TCS795			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKV2D-28	Fusion	IGKV2D-28--IGKJ3	chr2	89999557							0.0	0.0		0	57.0	IGKV2D-28	chr2	89999557.0	IGKJ3	chr2	89160770.0					Osteosarcoma-TCS795			0	0	0	0	0	0	0
+VUS				Rearrangement	GSE1	Fusion	RP11-680G10.1--GSE1	chr16	85391249							0.0	0.0		0	10.0	RP11-680G10.1	chr16	85391249.0	GSE1	chr16	85682158.0					Osteosarcoma-TCS795			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-781A6.1	Fusion	RP1-34H18.1--RP11-781A6.1	chr12	77966046							0.0	0.0		0	9.0	RP1-34H18.1	chr12	77966046.0	RP11-781A6.1	chr12	78177043.0					Osteosarcoma-TCS795			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TE	Fusion	MT-ND6--MT-TE	chrM	14484							0.0	0.0		0	9.0	MT-ND6	chrM	14484.0	MT-TE	chrM	14696.0					Osteosarcoma-TCS795			0	0	0	0	0	0	0
+VUS				Rearrangement	IGLJ2	Fusion	IGLV4-69--IGLJ2	chr22	22385867							0.0	0.0		0	9.0	IGLV4-69	chr22	22385867.0	IGLJ2	chr22	23241801.0					Osteosarcoma-TCS795			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKJ1	Fusion	IGKV4-1--IGKJ1	chr2	89185669							0.0	0.0		0	112.0	IGKV4-1	chr2	89185669.0	IGKJ1	chr2	89161434.0					Osteosarcoma-TCS795			0	0	0	0	0	0	0
+VUS				Rearrangement	AC096579.7	Fusion	IGKV4-1--AC096579.7	chr2	89185669							0.0	0.0		0	453.0	IGKV4-1	chr2	89185669.0	AC096579.7	chr2	89161434.0					Osteosarcoma-TCS795			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKJ2	Fusion	IGKV3-20--IGKJ2	chr2	89442058							0.0	0.0		0	6.0	IGKV3-20	chr2	89442058.0	IGKJ2	chr2	89161074.0					Osteosarcoma-TCS795			0	0	0	0	0	0	0
+VUS				Rearrangement	AC096579.13	Fusion	IGKV3-20--AC096579.13	chr2	89442058							0.0	0.0		0	7.0	IGKV3-20	chr2	89442058.0	AC096579.13	chr2	89161074.0					Osteosarcoma-TCS795			0	0	0	0	0	0	0
+VUS				Rearrangement	IGKJ3	Fusion	IGKV2D-28--IGKJ3	chr2	89999557							0.0	0.0		0	57.0	IGKV2D-28	chr2	89999557.0	IGKJ3	chr2	89160770.0					Osteosarcoma-TCS795			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-8L2.1	Fusion	G3BP2--RP11-8L2.1	chr4	76598392							0.0	0.0		0	78.0	G3BP2	chr4	76598392.0	RP11-8L2.1	chr4	84732798.0					Osteosarcoma-TCS795			0	0	0	0	0	0	0

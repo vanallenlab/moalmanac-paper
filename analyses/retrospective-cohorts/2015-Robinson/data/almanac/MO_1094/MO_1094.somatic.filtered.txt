@@ -1495,6 +1495,7 @@ Copy Number	VAMP2			17	7691564	8222923.0														MO_1094	MO_1094-Tumor		0
 Copy Number	VAMP1			12	6334702	6601635.0														MO_1094	MO_1094-Tumor		0
 Copy Number	VAC14-AS1			16	97559	90141882.0														MO_1094	MO_1094-Tumor		0
 Copy Number	VAC14			16	97559	90141882.0														MO_1094	MO_1094-Tumor		0
+Somatic Variant	Unknown	IGR		GL000220.1	131482	131483.0	-	-	TCTCTC	0.0207	145.0									MO_1094	MO_1094-Tumor	MO_1094-Normal	0
 Copy Number	UXT			X	15864136	49208354.0														MO_1094	MO_1094-Tumor		0
 Copy Number	UXS1			2	103379147	128754067.0														MO_1094	MO_1094-Tumor		0
 Rearrangement	UVSSA--MAEA	Fusion	UVSSA--MAEA	4	1349033							0.0	UVSSA	4	1349033.0	MAEA	4	1305767.0		MO_1094			0
@@ -2663,7 +2664,6 @@ Copy Number	TP53INP1			8	57878913	145268024.0														MO_1094	MO_1094-Tumor
 Copy Number	TP53I3			2	21256392	24888786.0														MO_1094	MO_1094-Tumor		0
 Copy Number	TP53I13			17	15640839	34496055.0														MO_1094	MO_1094-Tumor		0
 Copy Number	TP53I11			11	35463243	46388951.0														MO_1094	MO_1094-Tumor		0
-Somatic Variant	TP53BP2	Intron		1	223981001	223981001.0	A	A	G	0.3284	67.0									MO_1094	MO_1094-Tumor	MO_1094-Normal	0
 Copy Number	TP53BP2			1	207751548	235299087.0														MO_1094	MO_1094-Tumor		0
 Copy Number	TP53BP1			15	34677360	44097665.0														MO_1094	MO_1094-Tumor		0
 Copy Number	TP53AIP1			11	120690631	132016410.0														MO_1094	MO_1094-Tumor		0
@@ -3325,7 +3325,6 @@ Copy Number	TGM2			20	17943589	62738186.0														MO_1094	MO_1094-Tumor		0
 Copy Number	TGM1			14	24470144	31103245.0														MO_1094	MO_1094-Tumor		0
 Copy Number	TGIF2LY			Y	2655646	27770214.0														MO_1094	MO_1094-Tumor		0
 Copy Number	TGIF2LX			X	49351815	119761023.0														MO_1094	MO_1094-Tumor		0
-Somatic Variant	TGIF2-C20orf24	IGR		20	35242261	35242261.0	C	C	G	0.5025	199.0									MO_1094	MO_1094-Tumor	MO_1094-Normal	0
 Copy Number	TGIF2-C20orf24			20	17943589	62738186.0														MO_1094	MO_1094-Tumor		0
 Copy Number	TGIF2			20	17943589	62738186.0														MO_1094	MO_1094-Tumor		0
 Copy Number	TGIF1			18	163455	9513289.0														MO_1094	MO_1094-Tumor		0
@@ -5213,7 +5212,7 @@ Copy Number	SLC51A			3	193023459	197765540.0														MO_1094	MO_1094-Tumor	
 Copy Number	SLC50A1			1	145273446	173743579.0														MO_1094	MO_1094-Tumor		0
 Copy Number	SLC4A9			5	139682660	150838498.0														MO_1094	MO_1094-Tumor		0
 Copy Number	SLC4A8			12	48358208	52216197.0														MO_1094	MO_1094-Tumor		0
-Somatic Variant	SLC4A7	Intron		3	27427320	27427320.0	T	T	-	0.3258	89.0									MO_1094	MO_1094-Tumor	MO_1094-Normal	0
+Somatic Variant	SLC4A7	Intron		3	27427320	27427320.0	T	T	-	0.2685	108.0									MO_1094	MO_1094-Tumor	MO_1094-Normal	0
 Copy Number	SLC4A7			3	15457090	32571822.0														MO_1094	MO_1094-Tumor		0
 Copy Number	SLC4A5			2	69267249	89513203.0														MO_1094	MO_1094-Tumor		0
 Copy Number	SLC4A4			4	69696597	110902133.0														MO_1094	MO_1094-Tumor		0
@@ -20151,7 +20150,7 @@ Copy Number	PPP5D1			19	46857248	47597867.0														MO_1094	MO_1094-Tumor		
 Copy Number	PPP5C			19	46857248	47597867.0														MO_1094	MO_1094-Tumor		0
 Copy Number	PPP4R4			14	75179905	104193181.0														MO_1094	MO_1094-Tumor		0
 Copy Number	PPP4R2			3	52955849	89521771.0														MO_1094	MO_1094-Tumor		0
-Somatic Variant	PPP4R1L	Intron		20	56826201	56826202.0	-	-	AA	0.2973	74.0									MO_1094	MO_1094-Tumor	MO_1094-Normal	0
+Somatic Variant	PPP4R1L	Intron		20	56826201	56826202.0	-	-	AA	0.2683	82.0									MO_1094	MO_1094-Tumor	MO_1094-Normal	0
 Copy Number	PPP4R1L			20	17943589	62738186.0														MO_1094	MO_1094-Tumor		0
 Copy Number	PPP4R1			18	9517303	9570683.0														MO_1094	MO_1094-Tumor		0
 Copy Number	PPP4R1			18	9577191	10550217.0														MO_1094	MO_1094-Tumor		0
@@ -21151,6 +21150,7 @@ Copy Number	PCDHGA3			5	139682660	150838498.0														MO_1094	MO_1094-Tumor
 Copy Number	PCDHGA2			5	139682660	150838498.0														MO_1094	MO_1094-Tumor		0
 Copy Number	PCDHGA12			5	139682660	150838498.0														MO_1094	MO_1094-Tumor		0
 Copy Number	PCDHGA11			5	139682660	150838498.0														MO_1094	MO_1094-Tumor		0
+Somatic Variant	PCDHGA10	Silent	p.T665T	5	140794737	140794737.0	C	C	A	0.0146	274.0									MO_1094	MO_1094-Tumor	MO_1094-Normal	0
 Copy Number	PCDHGA10			5	139682660	150838498.0														MO_1094	MO_1094-Tumor		0
 Copy Number	PCDHGA1			5	139682660	150838498.0														MO_1094	MO_1094-Tumor		0
 Copy Number	PCDHB8			5	139682660	150838498.0														MO_1094	MO_1094-Tumor		0
@@ -22341,7 +22341,7 @@ Copy Number	NOX3			6	24134746	170892837.0														MO_1094	MO_1094-Tumor		0
 Copy Number	NOX1			X	49351815	119761023.0														MO_1094	MO_1094-Tumor		0
 Copy Number	NOVA2			19	46405033	46842881.0														MO_1094	MO_1094-Tumor		0
 Copy Number	NOVA1-AS1			14	24470144	31103245.0														MO_1094	MO_1094-Tumor		0
-Somatic Variant	NOVA1	Intron		14	26918177	26918178.0	-	-	A	0.4302	344.0									MO_1094	MO_1094-Tumor	MO_1094-Normal	0
+Somatic Variant	NOVA1	Intron		14	26918177	26918178.0	-	-	A	0.3532	419.0									MO_1094	MO_1094-Tumor	MO_1094-Normal	0
 Copy Number	NOVA1			14	24470144	31103245.0														MO_1094	MO_1094-Tumor		0
 Copy Number	NOV			8	57878913	145268024.0														MO_1094	MO_1094-Tumor		0
 Copy Number	NOTUM			17	78704508	80047262.0														MO_1094	MO_1094-Tumor		0
@@ -23433,7 +23433,6 @@ Copy Number	MMP7			11	73914866	105967636.0														MO_1094	MO_1094-Tumor		0
 Copy Number	MMP3			11	73914866	105967636.0														MO_1094	MO_1094-Tumor		0
 Copy Number	MMP28			17	15640839	34496055.0														MO_1094	MO_1094-Tumor		0
 Copy Number	MMP27			11	73914866	105967636.0														MO_1094	MO_1094-Tumor		0
-Somatic Variant	MMP26	Intron		11	4790319	4790319.0	C	C	G	0.4129	310.0									MO_1094	MO_1094-Tumor	MO_1094-Normal	0
 Copy Number	MMP26			11	1578806	9879945.0														MO_1094	MO_1094-Tumor		0
 Copy Number	MMP25			16	97559	90141882.0														MO_1094	MO_1094-Tumor		0
 Copy Number	MMP24-AS1			20	17943589	62738186.0														MO_1094	MO_1094-Tumor		0
@@ -23443,7 +23442,7 @@ Copy Number	MMP21			10	124377856	135491085.0														MO_1094	MO_1094-Tumor	
 Copy Number	MMP20			11	73914866	105967636.0														MO_1094	MO_1094-Tumor		0
 Copy Number	MMP2			16	97559	90141882.0														MO_1094	MO_1094-Tumor		0
 Copy Number	MMP19			12	52282117	56667582.0														MO_1094	MO_1094-Tumor		0
-Somatic Variant	MMP17	Silent	p.P510P	12	132335537	132335537.0	C	C	A	0.0107	374.0									MO_1094	MO_1094-Tumor	MO_1094-Normal	0
+Somatic Variant	MMP17	Silent	p.P510P	12	132335537	132335537.0	C	C	A	0.0106	376.0									MO_1094	MO_1094-Tumor	MO_1094-Normal	0
 Copy Number	MMP17			12	122281740	133779461.0														MO_1094	MO_1094-Tumor		0
 Copy Number	MMP16			8	57878913	145268024.0														MO_1094	MO_1094-Tumor		0
 Copy Number	MMP15			16	97559	90141882.0														MO_1094	MO_1094-Tumor		0
@@ -25683,7 +25682,7 @@ Copy Number	LRP5			11	65744239	68216540.0														MO_1094	MO_1094-Tumor		0
 Copy Number	LRP4-AS1			11	46389299	55111665.0														MO_1094	MO_1094-Tumor		0
 Copy Number	LRP4			11	46389299	55111665.0														MO_1094	MO_1094-Tumor		0
 Copy Number	LRP3			19	22941887	35173802.0														MO_1094	MO_1094-Tumor		0
-Somatic Variant	LRP2BP	Intron		4	186295634	186295635.0	-	-	A	0.27399999999999997	208.0									MO_1094	MO_1094-Tumor	MO_1094-Normal	0
+Somatic Variant	LRP2BP	Intron		4	186295634	186295635.0	-	-	A	0.2308	247.0									MO_1094	MO_1094-Tumor	MO_1094-Normal	0
 Copy Number	LRP2BP			4	184629729	187077346.0														MO_1094	MO_1094-Tumor		0
 Copy Number	LRP2			2	170150773	179650870.0														MO_1094	MO_1094-Tumor		0
 Copy Number	LRP2			2	166012415	170148881.0														MO_1094	MO_1094-Tumor		0
@@ -27428,7 +27427,6 @@ Copy Number	KAT2A			17	39767233	40970897.0														MO_1094	MO_1094-Tumor		0
 Copy Number	KARS			16	97559	90141882.0														MO_1094	MO_1094-Tumor		0
 Copy Number	KANSL3			2	89597316	102483041.0														MO_1094	MO_1094-Tumor		0
 Copy Number	KANSL2			12	48358208	52216197.0														MO_1094	MO_1094-Tumor		0
-Somatic Variant	KANSL1L	Intron		2	210993906	210993906.0	A	A	G	0.575	80.0									MO_1094	MO_1094-Tumor	MO_1094-Normal	0
 Copy Number	KANSL1L			2	207530753	215595234.0														MO_1094	MO_1094-Tumor		0
 Copy Number	KANSL1-AS1			17	42636756	44410024.0														MO_1094	MO_1094-Tumor		0
 Copy Number	KANSL1			17	42636756	44410024.0														MO_1094	MO_1094-Tumor		0
@@ -27592,7 +27590,7 @@ Copy Number	ISCA2			14	72939663	75151385.0														MO_1094	MO_1094-Tumor		0
 Copy Number	ISCA1			9	26884885	92020373.0														MO_1094	MO_1094-Tumor		0
 Copy Number	IRX6			16	97559	90141882.0														MO_1094	MO_1094-Tumor		0
 Copy Number	IRX5			16	97559	90141882.0														MO_1094	MO_1094-Tumor		0
-Somatic Variant	IRX4	Silent	p.A234A	5	1879652	1879652.0	C	C	T	0.0067	1199.0									MO_1094	MO_1094-Tumor	MO_1094-Normal	0
+Somatic Variant	IRX4	Silent	p.A234A	5	1879652	1879652.0	C	C	T	0.0067	1200.0									MO_1094	MO_1094-Tumor	MO_1094-Normal	0
 Copy Number	IRX4			5	413550	5186366.0														MO_1094	MO_1094-Tumor		0
 Copy Number	IRX3			16	97559	90141882.0														MO_1094	MO_1094-Tumor		0
 Copy Number	IRX2			5	413550	5186366.0														MO_1094	MO_1094-Tumor		0
@@ -27606,7 +27604,7 @@ Copy Number	IRGC			19	43763289	46394583.0														MO_1094	MO_1094-Tumor		0
 Copy Number	IRG1			13	76445062	79219134.0														MO_1094	MO_1094-Tumor		0
 Copy Number	IRF9			14	24470144	31103245.0														MO_1094	MO_1094-Tumor		0
 Copy Number	IRF8			16	97559	90141882.0														MO_1094	MO_1094-Tumor		0
-Somatic Variant	IRF7	Intron		11	614147	614148.0	-	-	C	0.3858	508.0									MO_1094	MO_1094-Tumor	MO_1094-Normal	0
+Somatic Variant	IRF7	Intron		11	614147	614148.0	-	-	C	0.3384	591.0									MO_1094	MO_1094-Tumor	MO_1094-Normal	0
 Copy Number	IRF7			11	244763	811814.0														MO_1094	MO_1094-Tumor		0
 Copy Number	IRF6			1	207751548	235299087.0														MO_1094	MO_1094-Tumor		0
 Copy Number	IRF5			7	127326818	129474903.0														MO_1094	MO_1094-Tumor		0
@@ -35831,7 +35829,6 @@ Copy Number	CACNA1C-AS1			12	521146	6232364.0														MO_1094	MO_1094-Tumor
 Copy Number	CACNA1C			12	521146	6232364.0														MO_1094	MO_1094-Tumor		0
 Copy Number	CACNA1B			9	140161800	140881306.0														MO_1094	MO_1094-Tumor		0
 Copy Number	CACNA1B			9	140904529	141016451.0														MO_1094	MO_1094-Tumor		0
-Somatic Variant	CACNA1A	Intron		19	13319561	13319561.0	C	C	T	0.44	25.0									MO_1094	MO_1094-Tumor	MO_1094-Normal	0
 Copy Number	CACNA1A			19	13255302	14694015.0														MO_1094	MO_1094-Tumor		0
 Copy Number	CACHD1			1	63920146	71331518.0														MO_1094	MO_1094-Tumor		0
 Copy Number	CACFD1			9	135946047	139287231.0														MO_1094	MO_1094-Tumor		0

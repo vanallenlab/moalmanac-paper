@@ -1,0 +1,96 @@
+score_bin	sensitive_score_bin	resistance_score_bin	prognostic_score_bin	feature_type	feature	alteration_type	alteration	chromosome	start_position	end_position	reference_allele	observed_allele1	observed_allele2	tumor_f	total_coverage	exac_af	exac_common	clinvar	number_germline_mutations_in_gene	spanningfrags	left_gene	left_chr	left_position	right_gene	right_chr	right_position	validation_total_coverage	validation_tumor_f	validation_detection_power	rationale	patient_id	tumor_sample_barcode	normal_sample_barcode	almanac_bin	cancerhotspots_bin	cancerhotspots3D_bin	cgc_bin	gsea_pathways_bin	gsea_modules_bin	cosmic_bin
+Cancer Hotspot				Copy Number	GSK3B	Amplification		3	115539516	119998352.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	1	0	0	1	0	1
+Cancer Hotspot 3D				Somatic Variant	CACNA1B	Splice Site	p.V1370L	9	140952502	140952502.0	G	G	C	0.3418	79.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A772	KIRP-A4-A772-TP	KIRP-A4-A772-NB	0	0	1	0	0	0	1
+Cancer Gene Census				Somatic Variant	CREB3L1	Missense	p.R309C	11	46334184	46334184.0	C	C	T	0.4265	68.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A772	KIRP-A4-A772-TP	KIRP-A4-A772-NB	0	0	0	1	1	1	1
+Cancer Module				Somatic Variant	RING1	Missense	p.R307Q	6	33179580	33179580.0	G	G	A	0.4318	44.0	1.6e-05	0.0		0								190.0	0.3474	1.0		KIRP-A4-A772	KIRP-A4-A772-TP	KIRP-A4-A772-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	AOC3	Missense	p.L438P	17	41004673	41004673.0	T	T	C	0.0348	115.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A772	KIRP-A4-A772-TP	KIRP-A4-A772-NB	0	0	0	0	0	1	2
+Cancer Module				Somatic Variant	NXF1	Missense	p.H411R	11	62563986	62563986.0	T	T	C	0.4247	73.0	0.0	0.0		0								170.0	0.3882	1.0		KIRP-A4-A772	KIRP-A4-A772-TP	KIRP-A4-A772-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	CEP250	Missense	p.L1182V	20	34085785	34085785.0	C	C	G	0.2	20.0	0.0	0.0		0								11.0	0.2727	0.2561		KIRP-A4-A772	KIRP-A4-A772-TP	KIRP-A4-A772-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	MSH4	Missense	p.A899T	1	76378456	76378456.0	G	G	A	0.2752	109.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A772	KIRP-A4-A772-TP	KIRP-A4-A772-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	ARHGEF11	Splice Site		1	156911226	156911226.0	C	C	T	0.3704	54.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A772	KIRP-A4-A772-TP	KIRP-A4-A772-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	ACOX2	Missense	p.F615V	3	58494718	58494718.0	A	A	C	0.2308	91.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A772	KIRP-A4-A772-TP	KIRP-A4-A772-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	EFNA5	Missense	p.H49Y	5	106763191	106763191.0	G	G	A	0.4133	75.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A772	KIRP-A4-A772-TP	KIRP-A4-A772-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	DKK4	Missense	p.P153H	8	42231835	42231835.0	G	G	T	0.0408	98.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A772	KIRP-A4-A772-TP	KIRP-A4-A772-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	DCT	Missense	p.N79K	13	95131273	95131273.0	G	G	T	0.0769	39.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A772	KIRP-A4-A772-TP	KIRP-A4-A772-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	BZRAP1	Missense	p.A1007V	17	56388456	56388456.0	G	G	A	0.0638	47.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A772	KIRP-A4-A772-TP	KIRP-A4-A772-NB	0	0	0	0	0	1	1
+Cancer Module				Somatic Variant	OSM	Missense	p.C131Y	22	30660176	30660176.0	C	C	T	0.0714	42.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A772	KIRP-A4-A772-TP	KIRP-A4-A772-NB	0	0	0	0	0	1	1
+Cancer Module				Copy Number	LRBA	Amplification		4	151680491	152071888.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	UPK1B	Amplification		3	115539516	119998352.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	B4GALT4	Amplification		3	115539516	119998352.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	1	1
+Cancer Module				Rearrangement	LRBA	Fusion	LRBA--SH3D19	chr4	151682935							0.0	0.0		0	5.0	LRBA	chr4	151682935.0	SH3D19	chr4	152070713.0					KIRP-A4-A772			0	0	0	0	0	1	1
+Cancer Module				Copy Number	RPS3A	Amplification		4	151680491	152071888.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	TIMMDC1	Amplification		3	115539516	119998352.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	ADPRH	Amplification		3	115539516	119998352.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	POPDC2	Amplification		3	115539516	119998352.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	CD80	Amplification		3	115539516	119998352.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	COX17	Amplification		3	115539516	119998352.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	1	1
+Cancer Module				Copy Number	LSAMP	Amplification		3	115539516	119998352.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	1	1
+Cosmic				Somatic Variant	IQCF3	Missense	p.R33G	3	51864449	51864449.0	A	A	G	0.0268	112.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A772	KIRP-A4-A772-TP	KIRP-A4-A772-NB	0	0	0	0	0	0	2
+Cosmic				Somatic Variant	NDUFB4	Missense	p.S128T	3	120321109	120321109.0	T	T	A	0.4405	84.0	0.0	0.0		0								587.0	0.5963	1.0		KIRP-A4-A772	KIRP-A4-A772-TP	KIRP-A4-A772-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	TRIOBP	Missense	p.A1918T	22	38153684	38153684.0	G	G	A	0.4615	26.0	0.0	0.0		0								525.0	0.5352	1.0		KIRP-A4-A772	KIRP-A4-A772-TP	KIRP-A4-A772-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	PYCR2	Missense	p.V65I	1	226110029	226110029.0	C	C	T	0.2667	75.0	0.000165	0.0		0								210.0	0.4238	1.0		KIRP-A4-A772	KIRP-A4-A772-TP	KIRP-A4-A772-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	STXBP3	Missense	p.G380R	1	109338883	109338883.0	G	G	A	0.316	212.0	0.0	0.0		0								89.0	0.5281	1.0		KIRP-A4-A772	KIRP-A4-A772-TP	KIRP-A4-A772-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	SLCO4A1	Missense	p.Q511K	20	61299155	61299155.0	C	C	A	0.3692	65.0	0.0	0.0		0								27.0	0.4074	0.9919		KIRP-A4-A772	KIRP-A4-A772-TP	KIRP-A4-A772-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	RAB3GAP1	Missense	p.K46R	2	135815643	135815643.0	A	A	G	0.3538	65.0	0.0	0.0		0								25.0	0.52	0.9816		KIRP-A4-A772	KIRP-A4-A772-TP	KIRP-A4-A772-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	ABCA13	Missense	p.I4943V	7	48654963	48654963.0	A	A	G	0.2993	137.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A772	KIRP-A4-A772-TP	KIRP-A4-A772-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	OXA1L	Missense	p.I344T	14	23240318	23240318.0	T	T	C	0.4054	74.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A772	KIRP-A4-A772-TP	KIRP-A4-A772-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	TBX21	Missense	p.E479D	17	45822561	45822561.0	G	G	C	0.4868	76.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A772	KIRP-A4-A772-TP	KIRP-A4-A772-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	NRD1	Missense	p.Y944C	1	52260504	52260504.0	T	T	C	0.3858	197.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A772	KIRP-A4-A772-TP	KIRP-A4-A772-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	ERC2	Missense	p.K882R	3	55768866	55768866.0	T	T	C	0.0492	61.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A772	KIRP-A4-A772-TP	KIRP-A4-A772-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	LRP12	Missense	p.V344L	8	105509750	105509750.0	C	C	G	0.4216	102.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A772	KIRP-A4-A772-TP	KIRP-A4-A772-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	TP53BP2	Frameshift	p.V373fs	1	223989924	223989924.0	C	C	-	0.3205	78.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A772	KIRP-A4-A772-TP	KIRP-A4-A772-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	SLC35F5	Missense	p.K42N	2	114513036	114513036.0	C	C	G	0.3917	120.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A772	KIRP-A4-A772-TP	KIRP-A4-A772-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	CADM2	Missense	p.D366N	3	86114787	86114787.0	G	G	A	0.5542	83.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A772	KIRP-A4-A772-TP	KIRP-A4-A772-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	FRMD3	Frameshift	p.TK52fs	9	86004612	86004615.0	TTTG	TTTG	-	0.3562	73.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A772	KIRP-A4-A772-TP	KIRP-A4-A772-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	OR10H2	Missense	p.L44R	19	15838984	15838984.0	T	T	G	0.4051	79.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A772	KIRP-A4-A772-TP	KIRP-A4-A772-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	HAMP	Nonsense	p.E36*	19	35775707	35775707.0	G	G	T	0.2121	66.0	0.0	0.0		0								0.0	0.0	0.0		KIRP-A4-A772	KIRP-A4-A772-TP	KIRP-A4-A772-NB	0	0	0	0	0	0	1
+Cosmic				Somatic Variant	KCNH7	Missense	p.G752S	2	163256852	163256852.0	C	C	T	0.3286	70.0	8e-06	0.0		0								0.0	0.0	0.0		KIRP-A4-A772	KIRP-A4-A772-TP	KIRP-A4-A772-NB	0	0	0	0	0	0	1
+Cosmic				Copy Number	C3orf30	Amplification		3	115539516	119998352.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	IGSF11	Amplification		3	115539516	119998352.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	ARHGAP31	Amplification		3	115539516	119998352.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	GPR156	Amplification		3	115539516	119998352.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	MAATS1	Amplification		3	115539516	119998352.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	SH3D19	Amplification		4	151680491	152071888.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	TMEM39A	Amplification		3	115539516	119998352.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	NR1I2	Amplification		3	115539516	119998352.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	PLA1A	Amplification		3	115539516	119998352.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	POGLUT1	Amplification		3	115539516	119998352.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	0	1
+Cosmic				Copy Number	OCRL	Deletion		X	128702767	128702922.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ND6	Fusion	MT-ND6--MT-TE	chrM	14615							0.0	0.0		0	32.0	MT-ND6	chrM	14615.0	MT-TE	chrM	14709.0					KIRP-A4-A772			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP6	Fusion	MT-ATP6--MT-ATP8	chrM	8650							0.0	0.0		0	35.0	MT-ATP6	chrM	8650.0	MT-ATP8	chrM	8513.0					KIRP-A4-A772			0	0	0	0	0	0	1
+Cosmic				Rearrangement	MT-ATP8	Fusion	MT-ATP6--MT-ATP8	chrM	8650							0.0	0.0		0	35.0	MT-ATP6	chrM	8650.0	MT-ATP8	chrM	8513.0					KIRP-A4-A772			0	0	0	0	0	0	1
+Cosmic				Rearrangement	SH3D19	Fusion	LRBA--SH3D19	chr4	151682935							0.0	0.0		0	5.0	LRBA	chr4	151682935.0	SH3D19	chr4	152070713.0					KIRP-A4-A772			0	0	0	0	0	0	1
+VUS				Copy Number	RNA5SP168	Amplification		4	151680491	152071888.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD73A	Amplification		4	151680491	152071888.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	0	0
+VUS				Copy Number	SNORD73	Amplification		4	151680491	152071888.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-372K14.2	Amplification		4	151680491	152071888.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL397P	Amplification		3	115539516	119998352.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-190C22.9	Amplification		3	115539516	119998352.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL815P	Amplification		3	115539516	119998352.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU5E-8P	Amplification		3	115539516	119998352.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1127P	Amplification		3	115539516	119998352.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	0	0
+VUS				Copy Number	RNU6-1200P	Amplification		3	115539516	119998352.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-169N13.4	Amplification		3	115539516	119998352.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-18H7.1	Amplification		3	115539516	119998352.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-190C22.8	Amplification		3	115539516	119998352.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-384F7.1	Amplification		3	115539516	119998352.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL582P	Amplification		3	115539516	119998352.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-384F7.2	Amplification		3	115539516	119998352.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-484M3.5	Amplification		3	115539516	119998352.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-768G7.2	Amplification		3	115539516	119998352.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	0	0
+VUS				Copy Number	RP11-768G7.3	Amplification		3	115539516	119998352.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	0	0
+VUS				Copy Number	TUSC7	Amplification		3	115539516	119998352.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	0	0
+VUS				Copy Number	RN7SL762P	Amplification		3	115539516	119998352.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	0	0
+VUS				Copy Number	ARHGAP31-AS1	Amplification		3	115539516	119998352.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	0	0
+VUS				Copy Number	B4GALT4-AS1	Amplification		3	115539516	119998352.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	0	0
+VUS				Copy Number	IGSF11-AS1	Amplification		3	115539516	119998352.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00901	Amplification		3	115539516	119998352.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	0	0
+VUS				Copy Number	LINC00903	Amplification		3	115539516	119998352.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	0	0
+VUS				Copy Number	LSAMP-AS1	Amplification		3	115539516	119998352.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	0	0
+VUS				Copy Number	MIR4447	Amplification		3	115539516	119998352.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	0	0
+VUS				Copy Number	AC084209.1	Deletion		4	109492432	109520265.0						0.0	0.0		0												KIRP-A4-A772	TCGA-A4-A772-01		0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-96H19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	29.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	47046173.0					KIRP-A4-A772			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TA	Fusion	MT-TA--MT-TN	chrM	5604							0.0	0.0		0	11.0	MT-TA	chrM	5604.0	MT-TN	chrM	5708.0					KIRP-A4-A772			0	0	0	0	0	0	0
+VUS				Rearrangement	RP11-446N19.1	Fusion	RP11-96H19.1--RP11-446N19.1	chr12	46781755							0.0	0.0		0	29.0	RP11-96H19.1	chr12	46781755.0	RP11-446N19.1	chr12	47046173.0					KIRP-A4-A772			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TN	Fusion	MT-TA--MT-TN	chrM	5604							0.0	0.0		0	11.0	MT-TA	chrM	5604.0	MT-TN	chrM	5708.0					KIRP-A4-A772			0	0	0	0	0	0	0
+VUS				Rearrangement	MT-TE	Fusion	MT-ND6--MT-TE	chrM	14615							0.0	0.0		0	32.0	MT-ND6	chrM	14615.0	MT-TE	chrM	14709.0					KIRP-A4-A772			0	0	0	0	0	0	0

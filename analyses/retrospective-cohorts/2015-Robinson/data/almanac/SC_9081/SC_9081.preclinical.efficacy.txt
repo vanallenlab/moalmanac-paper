@@ -1,1 +1,5 @@
 patient_id	feature_display	tested_subfeature	therapy_name	n_mut	n_wt	n_mut_tested	n_wt_tested	mut_ic50_median	mut_ic50_mean	mut_ic50_std	wt_ic50_median	wt_ic50_mean	wt_ic50_std	pvalue_mww	statistic
+SC_9081	RAD54L p.R320W (Missense)	RAD54L	Olaparib	68	1755	36	726	57.226	158.179	217.821	77.311	163.942	327.026	0.845	13320.5
+SC_9081	RAD54L p.R320W (Missense)	RAD54L Somatic Variant	Olaparib	40	1783	25	737	63.529	158.587	214.717	76.627	163.842	325.732	0.987	9230.0
+SC_9081	RAD54L p.R320W (Missense)	RAD54L Somatic Variant Missense	Olaparib	34	1789	21	741	55.981	150.978	226.48	77.143	164.029	325.012	0.536	8397.0
+SC_9081	RAD54L p.R320W (Missense)	RAD54L Somatic Variant Missense p.R320W	Olaparib	0	1823	0	762				75.933	163.67	322.6	nan	

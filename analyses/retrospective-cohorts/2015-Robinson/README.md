@@ -3,5 +3,5 @@ We evaluated 150 patients with metastatic castration resistant prostate cancers 
 
 
 ## References
-1. [Robinson, D. et al. Integrative Clinical Genomics of Advanced Prostate Cancer. Cell 162, 454 (2015).](https://www.sciencedirect.com/science/article/pii/S0092867415005486?via%3Dihub)
+1. [Robinson, D. et al. Integrative Clinical Genomics of Advanced Prostate Cancer. Cell 162, 454 (2015).](https://www.pnas.org/content/111/51/E5564)
 2. [Van Allen, E. M. et al. Whole-exome sequencing and clinical interpretation of formalin-fixed, paraffin-embedded tumor samples to guide precision cancer medicine. Nat. Med. 20, 682–688 (2014).](https://www.nature.com/articles/nm.3559)
