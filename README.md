@@ -20,7 +20,7 @@ Afterwards, you will have to edit your `matplotlibrc` file for your jupyter note
 
 ## Citation
 Please cite our paper if using any information or code from this repository  
-> [Reardon, B. *et al.* (2020). Clinical interpretation of integrative molecular profiles to guide precision cancer medicine. *bioRxiv* 2020.09.22.308833 doi:10.1101/2020.09.22.308833](https://www.biorxiv.org/content/10.1101/2020.09.22.308833v1)
+> [Reardon, B., Moore, N.D., Moore, N.S., *et al*. Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology. *Nat Cancer* (2021). https://doi.org/10.1038/s43018-021-00243-3](https://www.nature.com/articles/s43018-021-00243-3)
 
 You can also see prior iterations of this work from AACR abstracts over the years, 
 - AACR 2019, [Abstract 2470: A molecular oncology almanac for integrative clinical interpretation of molecular profiles to guide precision cancer medicine](https://cancerres.aacrjournals.org/content/79/13_Supplement/2470.short)
