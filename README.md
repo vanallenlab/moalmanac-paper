@@ -15,7 +15,7 @@ Several notebooks in this repository change the default font to Arial. The follo
 ```
 conda install -n moalmanac-paper -c conda-forge mscorefonts
 ```
-Afterwards, you will have to edit your `matplotlibrc` file for your jupyter notebook to uncomment line 207 and change Arial to the first item. For me on a macbook pro, this file was located here: `/Users/brendan/opt/miniconda3/envs/moalmanac-paper/lib/python3.7/site-packages/matplotlib/mpl-data/matplotlibrc`. [This guide from the fowler lab](http://fowlerlab.org/2019/01/03/changing-the-sans-serif-font-to-helvetica/) was used to change font preferences with matplotlib. 
+Afterwards, you will have to edit your `matplotlibrc` file for your jupyter notebook to uncomment line 207 and change Arial to the first item. For me on a macbook pro, this file was located here: `/Users/brendan/opt/miniconda3/envs/moalmanac-paper/lib/python3.7/site-packages/matplotlib/mpl-data/matplotlibrc`. [This guide from the Fowler lab](http://fowlerlab.org/2019/01/03/changing-the-sans-serif-font-to-helvetica/) was used to change font preferences with matplotlib. 
 
 
 ## Citation
